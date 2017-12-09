@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030610_095857.4.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030610_095857.4">
+  <entity ID="CNN_ENG_20030610_095857.4-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030610_095857.4-1-0">
+      <extent>
+        <charseq START="134" END="143">sam
+waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="143">sam
+waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030610_095857.4-1-1">
+      <extent>
+        <charseq START="146" END="152">the man</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="152">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030610_095857.4-1-2">
+      <extent>
+        <charseq START="199" END="200">he</charseq>
+      </extent>
+      <head>
+        <charseq START="199" END="200">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sam waksal">
+        <charseq START="134" END="143">sam
+waksal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030610_095857.4-2-0">
+      <extent>
+        <charseq START="175" END="188">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="188">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="martha stewart">
+        <charseq START="175" END="188">martha stewart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030610_095857.4-3-0">
+      <extent>
+        <charseq START="215" END="243">the highest ranking executive</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="243">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030610_095857.4-4-0">
+      <extent>
+        <charseq START="305" END="307">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="307">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="305" END="307">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030610_095857.4-5-0">
+      <extent>
+        <charseq START="305" END="336">cnn financial news correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="336">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030610_095857.4-6-0">
+      <extent>
+        <charseq START="338" END="353">chris
+huntington</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="353">chris
+huntington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030610_095857.4-6-1">
+      <extent>
+        <charseq START="419" END="423">chris</charseq>
+      </extent>
+      <head>
+        <charseq START="419" END="423">chris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chris huntington">
+        <charseq START="338" END="353">chris
+huntington</charseq>
+      </name>
+      <name NAME="chris">
+        <charseq START="419" END="423">chris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030610_095857.4-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030610_095857.4-7-0">
+      <extent>
+        <charseq START="366" END="387">the federal courthouse</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="387">courthouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030610_095857.4-T0" VAL="2003-06-10">
+    <timex2_mention ID="CNN_ENG_20030610_095857.4-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-10</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030610_095857.4-T1" VAL="2003-06-10">
+    <timex2_mention ID="CNN_ENG_20030610_095857.4-T1-1">
+      <extent>
+        <charseq START="90" END="94">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

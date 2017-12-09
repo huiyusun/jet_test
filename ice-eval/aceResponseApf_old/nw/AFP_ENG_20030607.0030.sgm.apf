@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030607.0030.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030607.0030">
+  <entity ID="AFP_ENG_20030607.0030-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="122" END="130">NEW DELHI</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="130">NEW DELHI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NEW DELHI">
+        <charseq START="122" END="130">NEW DELHI</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-2-0">
+      <extent>
+        <charseq START="141" END="143">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="143">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="141" END="143">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-3-0">
+      <extent>
+        <charseq START="147" END="164">A provincial chief</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="164">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="171" END="175">India</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="175">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="237" END="246">that India</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="246">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1122" END="1126">India</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1126">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="India">
+        <charseq START="171" END="175">India</charseq>
+      </name>
+      <name NAME="India">
+        <charseq START="242" END="246">India</charseq>
+      </name>
+      <name NAME="India">
+        <charseq START="1122" END="1126">India</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-5-0">
+      <extent>
+        <charseq START="176" END="208">&apos;s main opposition Congress party</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="208">Congress party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-5-1">
+      <extent>
+        <charseq START="184" END="193">opposition</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="193">opposition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Congress party">
+        <charseq START="195" END="208">Congress party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-6-0">
+      <extent>
+        <charseq START="291" END="303">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="303">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-6-1">
+      <extent>
+        <charseq START="650" END="669">a bachelor president</charseq>
+      </extent>
+      <head>
+        <charseq START="661" END="669">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-7-0">
+      <extent>
+        <charseq START="328" END="336">bachelors</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="336">bachelors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-7-1">
+      <extent>
+        <charseq START="597" END="615">remaining bachelors</charseq>
+      </extent>
+      <head>
+        <charseq START="607" END="615">bachelors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-8-0">
+      <extent>
+        <charseq START="364" END="391">The Times of India newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="391">Times of India newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Times of India newspaper">
+        <charseq START="368" END="391">Times of India newspaper</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-9-0">
+      <extent>
+        <charseq START="400" END="413">Digvijay Singh</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="413">Digvijay Singh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-9-1">
+      <extent>
+        <charseq START="416" END="429">chief minister</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="429">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-9-2">
+      <extent>
+        <charseq START="843" END="847">Singh</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="847">Singh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030607.0030-9-3">
+      <extent>
+        <charseq START="971" END="972">he</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="972">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-9-4">
+      <extent>
+        <charseq START="1079" END="1083">Singh</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1083">Singh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Digvijay Singh">
+        <charseq START="400" END="413">Digvijay Singh</charseq>
+      </name>
+      <name NAME="Singh">
+        <charseq START="843" END="847">Singh</charseq>
+      </name>
+      <name NAME="Singh">
+        <charseq START="1079" END="1083">Singh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="462" END="475">Madhya Pradesh</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="475">Madhya Pradesh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="434" END="457">the central Indian state</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="457">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Madhya Pradesh">
+        <charseq START="462" END="475">Madhya Pradesh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-11-0">
+      <extent>
+        <charseq START="493" END="527">Prime
+Minister Atal Behari Vajpayee</charseq>
+      </extent>
+      <head>
+        <charseq START="508" END="527">Atal Behari Vajpayee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-11-1">
+      <extent>
+        <charseq START="493" END="506">Prime
+Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="506">Prime
+Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-11-2">
+      <extent>
+        <charseq START="861" END="883">Prime Minister Vajpayee</charseq>
+      </extent>
+      <head>
+        <charseq START="876" END="883">Vajpayee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-11-3">
+      <extent>
+        <charseq START="861" END="874">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="874">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-11-4">
+      <extent>
+        <charseq START="1007" END="1014">Vajpayee</charseq>
+      </extent>
+      <head>
+        <charseq START="1007" END="1014">Vajpayee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Atal Behari Vajpayee">
+        <charseq START="508" END="527">Atal Behari Vajpayee</charseq>
+      </name>
+      <name NAME="Vajpayee">
+        <charseq START="876" END="883">Vajpayee</charseq>
+      </name>
+      <name NAME="Vajpayee">
+        <charseq START="1007" END="1014">Vajpayee</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-12-0">
+      <extent>
+        <charseq START="533" END="553">President Abdul Kalam</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="553">Abdul Kalam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-12-1">
+      <extent>
+        <charseq START="533" END="541">President</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="541">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-12-2">
+      <extent>
+        <charseq START="889" END="903">President Kalam</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="903">Kalam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-12-3">
+      <extent>
+        <charseq START="889" END="897">President</charseq>
+      </extent>
+      <head>
+        <charseq START="889" END="897">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abdul Kalam">
+        <charseq START="543" END="553">Abdul Kalam</charseq>
+      </name>
+      <name NAME="Kalam">
+        <charseq START="899" END="903">Kalam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="620" END="630">The country</charseq>
+      </extent>
+      <head>
+        <charseq START="624" END="630">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="937" END="943">country</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="943">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-13-2" ROLE="GPE">
+      <extent>
+        <charseq START="1209" END="1219">The country</charseq>
+      </extent>
+      <head>
+        <charseq START="1213" END="1219">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-14-0">
+      <extent>
+        <charseq START="652" END="659">bachelor</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="659">bachelor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-14-1">
+      <extent>
+        <charseq START="907" END="914">bachelor</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="914">bachelor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-15-0">
+      <extent>
+        <charseq START="675" END="701">an unmarried
+prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="694" END="701">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-16-0">
+      <extent>
+        <charseq START="982" END="1002">The general secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="994" END="1002">secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-17-0">
+      <extent>
+        <charseq START="1015" END="1046">&apos;s ruling Bharatiya Janata Party</charseq>
+      </extent>
+      <head>
+        <charseq START="1025" END="1046">Bharatiya Janata Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-17-1">
+      <extent>
+        <charseq START="1018" END="1023">ruling</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1023">ruling</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bharatiya Janata Party">
+        <charseq START="1025" END="1046">Bharatiya Janata Party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-18-0">
+      <extent>
+        <charseq START="1049" END="1062">Pramod Mahajan</charseq>
+      </extent>
+      <head>
+        <charseq START="1049" END="1062">Pramod Mahajan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pramod Mahajan">
+        <charseq START="1049" END="1062">Pramod Mahajan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-19-0">
+      <extent>
+        <charseq START="1195" END="1206">1,403 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1201" END="1206">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030607.0030-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1247" END="1255">Rajasthan</charseq>
+      </extent>
+      <head>
+        <charseq START="1247" END="1255">Rajasthan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1220" END="1242">&apos;s western desert state</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1242">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030607.0030-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="1277" END="1279">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1277" END="1279">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rajasthan">
+        <charseq START="1247" END="1255">Rajasthan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030607.0030-21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030607.0030-21-0">
+      <extent>
+        <charseq START="1231" END="1236">desert</charseq>
+      </extent>
+      <head>
+        <charseq START="1231" END="1236">desert</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20030607.0030-T0" VAL="2003-06-07">
+    <timex2_mention ID="AFP_ENG_20030607.0030-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030607</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030607.0030-T1" VAL="2003-06-07">
+    <timex2_mention ID="AFP_ENG_20030607.0030-T1-1">
+      <extent>
+        <charseq START="133" END="138">June 7</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030607.0030-T2" VAL="2003-06-07">
+    <timex2_mention ID="AFP_ENG_20030607.0030-T2-1">
+      <extent>
+        <charseq START="353" END="360">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030607.0030-T3" VAL="2003-05">
+    <timex2_mention ID="AFP_ENG_20030607.0030-T3-1">
+      <extent>
+        <charseq START="1174" END="1176">May</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030607.0030-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030607.0030-10" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030607.0030-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030607.0030-R1-2">
+      <extent>
+        <charseq START="434" END="475">the central Indian state of Madhya Pradesh</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="434" END="457">the central Indian state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="462" END="475">Madhya Pradesh</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030607.0030-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030607.0030-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030607.0030-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030607.0030-R2-1">
+      <extent>
+        <charseq START="1209" END="1242">The country&apos;s western desert state</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-13-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1209" END="1219">The country</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1220" END="1242">&apos;s western desert state</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030607.0030-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030607.0030-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030607.0030-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030607.0030-R3-2">
+      <extent>
+        <charseq START="1220" END="1255">&apos;s western desert state of Rajasthan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1220" END="1242">&apos;s western desert state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030607.0030-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1247" END="1255">Rajasthan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

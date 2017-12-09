@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030603_095830.17.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030603_095830.17">
+  <entity ID="CNN_ENG_20030603_095830.17-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-1-0">
+      <extent>
+        <charseq START="68" END="81">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="78" END="81">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-1-1">
+      <extent>
+        <charseq START="68" END="76">president</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="76">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-1-2">
+      <extent>
+        <charseq START="221" END="228">mr. bush</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="228">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-1-3">
+      <extent>
+        <charseq START="221" END="223">mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="223">mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-1-4">
+      <extent>
+        <charseq START="586" END="599">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="599">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-1-5">
+      <extent>
+        <charseq START="586" END="594">president</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="594">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="78" END="81">bush</charseq>
+      </name>
+      <name NAME="bush">
+        <charseq START="225" END="228">bush</charseq>
+      </name>
+      <name NAME="bush">
+        <charseq START="596" END="599">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-2-0">
+      <extent>
+        <charseq START="111" END="130">several arab leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="130">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="183" END="189">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="189">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="israeli">
+        <charseq START="183" END="189">israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="191" END="201">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="201">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="palestinian">
+        <charseq START="191" END="201">palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-5" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="294" END="304">middle east</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="304">middle east</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="middle east">
+        <charseq START="294" END="304">middle east</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-6-0">
+      <extent>
+        <charseq START="375" END="386">a few people</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="386">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-7-0">
+      <extent>
+        <charseq START="388" END="400">a few killers</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="400">killers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-7-1">
+      <extent>
+        <charseq START="403" END="418">a few
+terrorists</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="418">terrorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-8-0">
+      <extent>
+        <charseq START="456" END="465">rob sabati</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="465">rob sabati</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="rob sabati">
+        <charseq START="456" END="465">rob sabati</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-9-0">
+      <extent>
+        <charseq START="485" END="493">professor</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="493">professor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-9-1">
+      <extent>
+        <charseq START="551" END="559">professor</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="559">professor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030603_095830.17-10-0">
+      <extent>
+        <charseq START="498" END="518">georgetown university</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="518">georgetown university</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="georgetown university">
+        <charseq START="498" END="518">georgetown university</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030603_095830.17-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030603_095830.17-11-0">
+      <extent>
+        <charseq START="710" END="725">the arab leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="719" END="725">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030603_095830.17-T0" VAL="2003-06-03">
+    <timex2_mention ID="CNN_ENG_20030603_095830.17-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-03</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030603_095830.17-T1" VAL="2003-06-03">
+    <timex2_mention ID="CNN_ENG_20030603_095830.17-T1-1">
+      <extent>
+        <charseq START="322" END="326">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030603_095830.17-T2" VAL="2003-06-03">
+    <timex2_mention ID="CNN_ENG_20030603_095830.17-T2-1">
+      <extent>
+        <charseq START="433" END="435">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

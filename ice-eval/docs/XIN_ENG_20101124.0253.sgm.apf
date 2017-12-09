@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20101124.0253.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20101124.0253">
+  <entity ID="XIN_ENG_20101124.0253-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="87" END="91">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="91">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="967" END="971">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="971">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1036" END="1040">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="1036" END="1040">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1115" END="1118">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1118">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1125" END="1129">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="1125" END="1129">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cuban">
+        <charseq START="87" END="91">Cuban</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="967" END="971">Cuban</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="1036" END="1040">Cuban</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="1115" END="1118">Cuba</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="1125" END="1129">Cuban</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-2-0">
+      <extent>
+        <charseq START="87" END="103">Cuban authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="103">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="135" END="138">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="138">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="839" END="846">The U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="846">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1555" END="1571">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1571">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="135" END="138">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="843" END="846">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="1559" END="1571">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-4-0">
+      <extent>
+        <charseq START="135" END="160">U.S. contractor Alan Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="160">Alan Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-4-1">
+      <extent>
+        <charseq START="140" END="149">contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="140" END="149">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-4-2">
+      <extent>
+        <charseq START="660" END="664">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="664">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-4-3">
+      <extent>
+        <charseq START="863" END="865">his</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="865">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-4-4">
+      <extent>
+        <charseq START="912" END="916">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="912" END="916">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alan Gross">
+        <charseq START="151" END="160">Alan Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="660" END="664">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="912" END="916">Gross</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-5-0">
+      <extent>
+        <charseq START="205" END="234">Attorney General Dario Delgado</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="234">Dario Delgado</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-5-1">
+      <extent>
+        <charseq START="205" END="220">Attorney General</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="220">Attorney General</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-5-2">
+      <extent>
+        <charseq START="262" END="268">Delgado</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="268">Delgado</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-5-3">
+      <extent>
+        <charseq START="644" END="650">Delgado</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="650">Delgado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dario Delgado">
+        <charseq START="222" END="234">Dario Delgado</charseq>
+      </name>
+      <name NAME="Delgado">
+        <charseq START="262" END="268">Delgado</charseq>
+      </name>
+      <name NAME="Delgado">
+        <charseq START="644" END="650">Delgado</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-6-0">
+      <extent>
+        <charseq START="393" END="407">300 specialists</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="407">specialists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="419" END="428">20 nations</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="428">nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-8-0">
+      <extent>
+        <charseq START="435" END="447">Latin America</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="447">Latin America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Latin America">
+        <charseq START="435" END="447">Latin America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-9-0">
+      <extent>
+        <charseq START="450" END="455">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="455">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Europe">
+        <charseq START="450" END="455">Europe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-10" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="458" END="461">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="461">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="458" END="461">Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-11-0">
+      <extent>
+        <charseq START="467" END="472">Africa</charseq>
+      </extent>
+      <head>
+        <charseq START="467" END="472">Africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Africa">
+        <charseq START="467" END="472">Africa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-12" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-12-0">
+      <extent>
+        <charseq START="698" END="715">the Havana Airport</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="715">Havana Airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Havana Airport">
+        <charseq START="702" END="715">Havana Airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-13-0">
+      <extent>
+        <charseq START="793" END="814">the anti-Castro groups</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="814">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-14" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-14-0">
+      <extent>
+        <charseq START="825" END="834">the island</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="834">island</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="963" END="989">the Cuban Jewish population</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="989">population</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-16-0">
+      <extent>
+        <charseq START="994" END="1005">The detainee</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1005">detainee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-16-1">
+      <extent>
+        <charseq START="1177" END="1179">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1177" END="1179">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-16-2">
+      <extent>
+        <charseq START="1234" END="1235">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1235">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-16-3">
+      <extent>
+        <charseq START="1330" END="1332">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1332">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-17-0">
+      <extent>
+        <charseq START="1015" END="1024">Judy Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1024">Judy Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-17-1">
+      <extent>
+        <charseq START="1006" END="1012">&apos;s wife</charseq>
+      </extent>
+      <head>
+        <charseq START="1009" END="1012">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-17-2">
+      <extent>
+        <charseq START="1093" END="1095">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1093" END="1095">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-17-3">
+      <extent>
+        <charseq START="1156" END="1160">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1156" END="1160">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-17-4">
+      <extent>
+        <charseq START="1163" END="1166">wife</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1166">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-17-5">
+      <extent>
+        <charseq START="1253" END="1262">Mrs. Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1262">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-17-6">
+      <extent>
+        <charseq START="1253" END="1256">Mrs.</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1256">Mrs.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-17-7">
+      <extent>
+        <charseq START="1497" END="1501">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1497" END="1501">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Judy Gross">
+        <charseq START="1015" END="1024">Judy Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="1156" END="1160">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="1258" END="1262">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="1497" END="1501">Gross</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-18-0">
+      <extent>
+        <charseq START="1093" END="1103">her husband</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1103">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-19-0">
+      <extent>
+        <charseq START="1121" END="1141">The Cuban authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1141">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-20-0">
+      <extent>
+        <charseq START="1198" END="1216">a military hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1216">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1221" END="1226">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1226">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-21-1" ROLE="GPE">
+      <extent>
+        <charseq START="1674" END="1679">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="1674" END="1679">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Havana">
+        <charseq START="1221" END="1226">Havana</charseq>
+      </name>
+      <name NAME="Havana">
+        <charseq START="1674" END="1679">Havana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-22-0">
+      <extent>
+        <charseq START="1279" END="1293">the White House</charseq>
+      </extent>
+      <head>
+        <charseq START="1283" END="1293">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="1283" END="1293">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-23-0">
+      <extent>
+        <charseq START="1330" END="1340">her
+husband</charseq>
+      </extent>
+      <head>
+        <charseq START="1334" END="1340">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-24-0">
+      <extent>
+        <charseq START="1346" END="1353">a victim</charseq>
+      </extent>
+      <head>
+        <charseq START="1348" END="1353">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-25-0">
+      <extent>
+        <charseq START="1387" END="1398">the two foes</charseq>
+      </extent>
+      <head>
+        <charseq START="1395" END="1398">foes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-26-0">
+      <extent>
+        <charseq START="1424" END="1448">The U.S. State Department</charseq>
+      </extent>
+      <head>
+        <charseq START="1428" END="1448">U.S. State Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S. State Department">
+        <charseq START="1428" END="1448">U.S. State Department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-27-0">
+      <extent>
+        <charseq START="1507" END="1509">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1507" END="1509">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-28-0">
+      <extent>
+        <charseq START="1523" END="1528">Cubans</charseq>
+      </extent>
+      <head>
+        <charseq START="1523" END="1528">Cubans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cubans">
+        <charseq START="1523" END="1528">Cubans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-29-0">
+      <extent>
+        <charseq START="1629" END="1637">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1629" END="1637">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20101124.0253-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1642" END="1655">both countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1647" END="1655">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20101124.0253-30-1" ROLE="GPE">
+      <extent>
+        <charseq START="1662" END="1665">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1662" END="1665">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20101124.0253-31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20101124.0253-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1685" END="1694">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1685" END="1694">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="1685" END="1694">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20101124.0253-T0" VAL="2009-11-24">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T0-1">
+      <extent>
+        <charseq START="172" END="181">a year ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T1" VAL="2010-11-24">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T1-1">
+      <extent>
+        <charseq START="249" END="257">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T2" VAL="2010">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T2-1">
+      <extent>
+        <charseq START="327" END="330">2010</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T3" VAL="2010-11-18">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T3-1">
+      <extent>
+        <charseq START="371" END="378">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T4" VAL="2009">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T4-1">
+      <extent>
+        <charseq START="690" END="693">2009</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T5" VAL="2010-08">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T5-1">
+      <extent>
+        <charseq START="1064" END="1069">August</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20101124.0253-T6" VAL="1998">
+    <timex2_mention ID="XIN_ENG_20101124.0253-T6-1">
+      <extent>
+        <charseq START="1547" END="1550">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20101124.0253-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20101124.0253-29" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20101124.0253-30" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20101124.0253-R1-1">
+      <extent>
+        <charseq START="1629" END="1655">officials of both countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20101124.0253-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1629" END="1637">officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20101124.0253-30-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1642" END="1655">both countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,872 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030331_193655.14.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030331_193655.14">
+  <entity ID="CNN_ENG_20030331_193655.14-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-1-0">
+      <extent>
+        <charseq START="105" END="118">geraldo rivera</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="118">geraldo rivera</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-1-1">
+      <extent>
+        <charseq START="259" END="260">he</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="260">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-1-2">
+      <extent>
+        <charseq START="457" END="480">a live broadcast
+geraldo</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="480">geraldo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-1-3">
+      <extent>
+        <charseq START="464" END="472">broadcast</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="472">broadcast</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-1-4">
+      <extent>
+        <charseq START="970" END="975">rivera</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="975">rivera</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-1-5">
+      <extent>
+        <charseq START="1014" END="1015">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1015">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-1-6">
+      <extent>
+        <charseq START="1096" END="1102">geraldo</charseq>
+      </extent>
+      <head>
+        <charseq START="1096" END="1102">geraldo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-1-7">
+      <extent>
+        <charseq START="2258" END="2271">geraldo rivera</charseq>
+      </extent>
+      <head>
+        <charseq START="2258" END="2271">geraldo rivera</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="geraldo rivera">
+        <charseq START="105" END="118">geraldo rivera</charseq>
+      </name>
+      <name NAME="geraldo">
+        <charseq START="474" END="480">geraldo</charseq>
+      </name>
+      <name NAME="rivera">
+        <charseq START="970" END="975">rivera</charseq>
+      </name>
+      <name NAME="geraldo">
+        <charseq START="1096" END="1102">geraldo</charseq>
+      </name>
+      <name NAME="geraldo rivera">
+        <charseq START="2258" END="2271">geraldo rivera</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="148" END="151">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="151">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="1000" END="1003">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1000" END="1003">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1255" END="1258">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1255" END="1258">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1343" END="1347">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1343" END="1347">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1457" END="1461">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1457" END="1461">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1662" END="1666">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1662" END="1666">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="1867" END="1871">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1867" END="1871">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="148" END="151">iraq</charseq>
+      </name>
+      <name NAME="iraq">
+        <charseq START="1000" END="1003">iraq</charseq>
+      </name>
+      <name NAME="iraq">
+        <charseq START="1255" END="1258">iraq</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="1343" END="1347">iraqi</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="1457" END="1461">iraqi</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="1662" END="1666">iraqi</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="1867" END="1871">iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-3-0">
+      <extent>
+        <charseq START="212" END="214">fox</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="214">fox</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-4-0">
+      <extent>
+        <charseq START="274" END="285">the location</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="285">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-4-1">
+      <extent>
+        <charseq START="513" END="524">the location</charseq>
+      </extent>
+      <head>
+        <charseq START="517" END="524">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-5-0">
+      <extent>
+        <charseq START="290" END="297">the unit</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="297">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-5-1">
+      <extent>
+        <charseq START="299" END="300">he</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="300">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-5-2">
+      <extent>
+        <charseq START="529" END="536">the
+unit</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="536">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-5-3">
+      <extent>
+        <charseq START="567" END="568">he</charseq>
+      </extent>
+      <head>
+        <charseq START="567" END="568">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-5-4">
+      <extent>
+        <charseq START="582" END="583">he</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="583">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-5-5">
+      <extent>
+        <charseq START="665" END="667">his</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="667">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-5-6">
+      <extent>
+        <charseq START="698" END="700">him</charseq>
+      </extent>
+      <head>
+        <charseq START="698" END="700">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-6-0">
+      <extent>
+        <charseq START="328" END="338">a spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="338">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="553" END="559">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="559">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="2203" END="2209">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="2203" END="2209">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="553" END="559">baghdad</charseq>
+      </name>
+      <name NAME="baghdad">
+        <charseq START="2203" END="2209">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-8-0">
+      <extent>
+        <charseq START="632" END="660">some bitter former
+colleagues</charseq>
+      </extent>
+      <head>
+        <charseq START="651" END="660">colleagues</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-9-0">
+      <extent>
+        <charseq START="672" END="676">msnbc</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="676">msnbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-9-1">
+      <extent>
+        <charseq START="2089" END="2093">msnbc</charseq>
+      </extent>
+      <head>
+        <charseq START="2089" END="2093">msnbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="msnbc">
+        <charseq START="672" END="676">msnbc</charseq>
+      </name>
+      <name NAME="msnbc">
+        <charseq START="2089" END="2093">msnbc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-10-0">
+      <extent>
+        <charseq START="726" END="734">some rats</charseq>
+      </extent>
+      <head>
+        <charseq START="731" END="734">rats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-10-1">
+      <extent>
+        <charseq START="807" END="810">they</charseq>
+      </extent>
+      <head>
+        <charseq START="807" END="810">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-10-2">
+      <extent>
+        <charseq START="864" END="867">they</charseq>
+      </extent>
+      <head>
+        <charseq START="864" END="867">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-11-0">
+      <extent>
+        <charseq START="739" END="755">my former network</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="755">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-11-1">
+      <extent>
+        <charseq START="758" END="760">nbc</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="760">nbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-11-2">
+      <extent>
+        <charseq START="1261" END="1263">nbc</charseq>
+      </extent>
+      <head>
+        <charseq START="1261" END="1263">nbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-11-3">
+      <extent>
+        <charseq START="1291" END="1311">reporter peter arnett</charseq>
+      </extent>
+      <head>
+        <charseq START="1300" END="1311">peter arnett</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-11-4">
+      <extent>
+        <charseq START="1291" END="1298">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="1291" END="1298">reporter</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-11-5">
+      <extent>
+        <charseq START="1499" END="1501">nbc</charseq>
+      </extent>
+      <head>
+        <charseq START="1499" END="1501">nbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-11-6">
+      <extent>
+        <charseq START="2081" END="2083">nbc</charseq>
+      </extent>
+      <head>
+        <charseq START="2081" END="2083">nbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="nbc">
+        <charseq START="758" END="760">nbc</charseq>
+      </name>
+      <name NAME="nbc">
+        <charseq START="1261" END="1263">nbc</charseq>
+      </name>
+      <name NAME="peter arnett">
+        <charseq START="1300" END="1311">peter arnett</charseq>
+      </name>
+      <name NAME="nbc">
+        <charseq START="1499" END="1501">nbc</charseq>
+      </name>
+      <name NAME="nbc">
+        <charseq START="2081" END="2083">nbc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-12-0">
+      <extent>
+        <charseq START="1159" END="1167">the store</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1167">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-13-0">
+      <extent>
+        <charseq START="1173" END="1205">another veteran war correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="1193" END="1205">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-13-1">
+      <extent>
+        <charseq START="1226" END="1228">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1226" END="1228">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-13-2">
+      <extent>
+        <charseq START="1328" END="1329">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1328" END="1329">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-13-3">
+      <extent>
+        <charseq START="1396" END="1397">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1396" END="1397">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-13-4">
+      <extent>
+        <charseq START="1481" END="1482">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1481" END="1482">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-13-5">
+      <extent>
+        <charseq START="1527" END="1528">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1527" END="1528">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-14-0">
+      <extent>
+        <charseq START="1339" END="1353">the iraqi media</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1353">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1404" END="1416">the coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="1408" END="1416">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-16-0">
+      <extent>
+        <charseq START="1566" END="1584">the american people</charseq>
+      </extent>
+      <head>
+        <charseq START="1579" END="1584">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1570" END="1577">american</charseq>
+      </extent>
+      <head>
+        <charseq START="1570" END="1577">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="1910" END="1926">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="1914" END="1926">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="american">
+        <charseq START="1570" END="1577">american</charseq>
+      </name>
+      <name NAME="united states">
+        <charseq START="1914" END="1926">united states</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-18-0">
+      <extent>
+        <charseq START="1962" END="1967">arnett</charseq>
+      </extent>
+      <head>
+        <charseq START="1962" END="1967">arnett</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-18-1">
+      <extent>
+        <charseq START="2037" END="2039">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2039">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-18-2">
+      <extent>
+        <charseq START="2163" END="2174">peter arnett</charseq>
+      </extent>
+      <head>
+        <charseq START="2163" END="2174">peter arnett</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-18-3">
+      <extent>
+        <charseq START="2241" END="2252">peter arnett</charseq>
+      </extent>
+      <head>
+        <charseq START="2241" END="2252">peter arnett</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="arnett">
+        <charseq START="1962" END="1967">arnett</charseq>
+      </name>
+      <name NAME="peter arnett">
+        <charseq START="2163" END="2174">peter arnett</charseq>
+      </name>
+      <name NAME="peter arnett">
+        <charseq START="2241" END="2252">peter arnett</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="2111" END="2116">london</charseq>
+      </extent>
+      <head>
+        <charseq START="2111" END="2116">london</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-19-1" ROLE="GPE">
+      <extent>
+        <charseq START="2297" END="2300">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2297" END="2300">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-19-2" ROLE="GPE">
+      <extent>
+        <charseq START="2309" END="2313">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2309" END="2313">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="london">
+        <charseq START="2111" END="2116">london</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-20-0">
+      <extent>
+        <charseq START="2123" END="2133">the tabloid</charseq>
+      </extent>
+      <head>
+        <charseq START="2127" END="2133">tabloid</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-20-1">
+      <extent>
+        <charseq START="2145" END="2150">mirror</charseq>
+      </extent>
+      <head>
+        <charseq START="2145" END="2150">mirror</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-21-0">
+      <extent>
+        <charseq START="2135" END="2143">the daily</charseq>
+      </extent>
+      <head>
+        <charseq START="2139" END="2143">daily</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-21-1">
+      <extent>
+        <charseq START="2182" END="2184">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2182" END="2184">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-22-0">
+      <extent>
+        <charseq START="2182" END="2198">its
+correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="2186" END="2198">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-23-0">
+      <extent>
+        <charseq START="2325" END="2333">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="2325" END="2333">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-24-0">
+      <extent>
+        <charseq START="2362" END="2373">michael wolf</charseq>
+      </extent>
+      <head>
+        <charseq START="2362" END="2373">michael wolf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-24-1">
+      <extent>
+        <charseq START="2376" END="2396">a contributing editor</charseq>
+      </extent>
+      <head>
+        <charseq START="2391" END="2396">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030331_193655.14-24-2">
+      <extent>
+        <charseq START="2495" END="2496">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2495" END="2496">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-24-3">
+      <extent>
+        <charseq START="2565" END="2571">michael</charseq>
+      </extent>
+      <head>
+        <charseq START="2565" END="2571">michael</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="michael wolf">
+        <charseq START="2362" END="2373">michael wolf</charseq>
+      </name>
+      <name NAME="michael">
+        <charseq START="2565" END="2571">michael</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="2402" END="2411">&quot;new
+york&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="2403" END="2410">new
+york</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="2483" END="2491">&quot;new york</charseq>
+      </extent>
+      <head>
+        <charseq START="2484" END="2491">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="2403" END="2410">new
+york</charseq>
+      </name>
+      <name NAME="new york">
+        <charseq START="2484" END="2491">new york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-26" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030331_193655.14-26-0">
+      <extent>
+        <charseq START="2425" END="2429">media</charseq>
+      </extent>
+      <head>
+        <charseq START="2425" END="2429">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030331_193655.14-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030331_193655.14-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="2525" END="2529">qatar</charseq>
+      </extent>
+      <head>
+        <charseq START="2525" END="2529">qatar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="qatar">
+        <charseq START="2525" END="2529">qatar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T0" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-03-31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T1" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T1-1">
+      <extent>
+        <charseq START="92" END="98">tonight</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T2" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T2-1">
+      <extent>
+        <charseq START="324" END="326">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T3" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T3-1">
+      <extent>
+        <charseq START="1063" END="1065">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T4" VAL="2003-03-30">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T4-1">
+      <extent>
+        <charseq START="1385" END="1393">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T5" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T5-1">
+      <extent>
+        <charseq START="1475" END="1479">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T6" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T6-1">
+      <extent>
+        <charseq START="1506" END="1510">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T7" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T7-1">
+      <extent>
+        <charseq START="1680" END="1682">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030331_193655.14-T8" VAL="2003-03-31">
+    <timex2_mention ID="CNN_ENG_20030331_193655.14-T8-1">
+      <extent>
+        <charseq START="2511" END="2513">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

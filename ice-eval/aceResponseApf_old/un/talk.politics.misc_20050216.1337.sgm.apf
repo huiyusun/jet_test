@@ -1,0 +1,784 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="talk.politics.misc_20050216.1337.sgm" SOURCE="usenet" TYPE="text" AUTHOR="NYU">
+<document DOCID="talk.politics.misc_20050216.1337">
+  <entity ID="talk.politics.misc_20050216.1337-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-1-0">
+      <extent>
+        <charseq START="130" END="145">Michael Ejercito</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="145">Michael Ejercito</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-1-1">
+      <extent>
+        <charseq START="319" END="325">Michael</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="325">Michael</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-1-2">
+      <extent>
+        <charseq START="469" END="485">Michael Ejercito&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="469" END="484">Michael Ejercito</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Michael Ejercito">
+        <charseq START="130" END="145">Michael Ejercito</charseq>
+      </name>
+      <name NAME="Michael">
+        <charseq START="319" END="325">Michael</charseq>
+      </name>
+      <name NAME="Michael Ejercito">
+        <charseq START="469" END="484">Michael Ejercito</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="182" END="185">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="185">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="380" END="383">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="383">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="717" END="723">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="723">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="907" END="913">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="913">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1008" END="1011">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1011">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1455" END="1458">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1458">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="1857" END="1860">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1857" END="1860">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="2152" END="2155">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="2152" END="2155">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="2336" END="2339">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="2336" END="2339">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="2548" END="2551">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="2548" END="2551">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iran">
+        <charseq START="182" END="185">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="380" END="383">Iran</charseq>
+      </name>
+      <name NAME="Iranian">
+        <charseq START="717" END="723">Iranian</charseq>
+      </name>
+      <name NAME="Iranian">
+        <charseq START="907" END="913">Iranian</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="1008" END="1011">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="1455" END="1458">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="1857" END="1860">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="2152" END="2155">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="2336" END="2339">Iran</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="2548" END="2551">Iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="223" END="224">US</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="224">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="421" END="422">US</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="422">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1049" END="1050">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1049" END="1050">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1496" END="1497">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1496" END="1497">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1898" END="1899">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1898" END="1899">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="2193" END="2194">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2193" END="2194">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-6" ROLE="GPE">
+      <extent>
+        <charseq START="2377" END="2378">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2377" END="2378">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-3-7" ROLE="GPE">
+      <extent>
+        <charseq START="2589" END="2590">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2589" END="2590">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="223" END="224">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="421" END="422">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1049" END="1050">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1496" END="1497">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1898" END="1899">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2193" END="2194">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2377" END="2378">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2589" END="2590">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-4-0">
+      <extent>
+        <charseq START="259" END="266">the Army</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="266">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Army">
+        <charseq START="263" END="266">Army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-5" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-5-0">
+      <extent>
+        <charseq START="294" END="315">infantry combat
+drones</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="315">drones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-6-0">
+      <extent>
+        <charseq START="331" END="340">BlackWater</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="340">BlackWater</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-6-1">
+      <extent>
+        <charseq START="1406" END="1415">BlackWater</charseq>
+      </extent>
+      <head>
+        <charseq START="1406" END="1415">BlackWater</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-6-2">
+      <extent>
+        <charseq START="2287" END="2296">BlackWater</charseq>
+      </extent>
+      <head>
+        <charseq START="2287" END="2296">BlackWater</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-6-3">
+      <extent>
+        <charseq START="2499" END="2508">BlackWater</charseq>
+      </extent>
+      <head>
+        <charseq START="2499" END="2508">BlackWater</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BlackWater">
+        <charseq START="331" END="340">BlackWater</charseq>
+      </name>
+      <name NAME="BlackWater">
+        <charseq START="1406" END="1415">BlackWater</charseq>
+      </name>
+      <name NAME="BlackWater">
+        <charseq START="2287" END="2296">BlackWater</charseq>
+      </name>
+      <name NAME="BlackWater">
+        <charseq START="2499" END="2508">BlackWater</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-7-0">
+      <extent>
+        <charseq START="524" END="543">any nuclear facility</charseq>
+      </extent>
+      <head>
+        <charseq START="536" END="543">facility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-8" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-8-0">
+      <extent>
+        <charseq START="590" END="607">the drone aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="607">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-9-0">
+      <extent>
+        <charseq START="620" END="634">a drone
+soldier</charseq>
+      </extent>
+      <head>
+        <charseq START="628" END="634">soldier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-10" TYPE="WEA" SUBTYPE="Nuclear" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-10-0">
+      <extent>
+        <charseq START="711" END="729">about Iranian nukes</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="729">nukes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-11-0">
+      <extent>
+        <charseq START="746" END="751">others</charseq>
+      </extent>
+      <head>
+        <charseq START="746" END="751">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="talk.politics.misc_20050216.1337-11-1">
+      <extent>
+        <charseq START="762" END="765">they</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="765">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="talk.politics.misc_20050216.1337-11-2">
+      <extent>
+        <charseq START="787" END="791">their</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="791">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-12-0">
+      <extent>
+        <charseq START="787" END="802">their facilities</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="802">facilities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-13-0">
+      <extent>
+        <charseq START="822" END="838">dense urban areas</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="838">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-14" TYPE="WEA" SUBTYPE="Nuclear" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-14-0">
+      <extent>
+        <charseq START="935" END="950">a terrorist nuke</charseq>
+      </extent>
+      <head>
+        <charseq START="947" END="950">nuke</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-15-0">
+      <extent>
+        <charseq START="937" END="945">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="945">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-16-0">
+      <extent>
+        <charseq START="957" END="966">Defendario</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="966">Defendario</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-16-1">
+      <extent>
+        <charseq START="2101" END="2110">Defendario</charseq>
+      </extent>
+      <head>
+        <charseq START="2101" END="2110">Defendario</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-16-2">
+      <extent>
+        <charseq START="2429" END="2438">Defendario</charseq>
+      </extent>
+      <head>
+        <charseq START="2429" END="2438">Defendario</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Defendario">
+        <charseq START="957" END="966">Defendario</charseq>
+      </name>
+      <name NAME="Defendario">
+        <charseq START="2101" END="2110">Defendario</charseq>
+      </name>
+      <name NAME="Defendario">
+        <charseq START="2429" END="2438">Defendario</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1131" END="1142">The Persians</charseq>
+      </extent>
+      <head>
+        <charseq START="1135" END="1142">Persians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="talk.politics.misc_20050216.1337-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="1164" END="1167">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1167">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Persians">
+        <charseq START="1135" END="1142">Persians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-18-0">
+      <extent>
+        <charseq START="1316" END="1325">this world</charseq>
+      </extent>
+      <head>
+        <charseq START="1321" END="1325">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-19-0">
+      <extent>
+        <charseq START="1367" END="1383">a
+better neighbor</charseq>
+      </extent>
+      <head>
+        <charseq START="1376" END="1383">neighbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-20" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-20-0">
+      <extent>
+        <charseq START="1633" END="1637">bombs</charseq>
+      </extent>
+      <head>
+        <charseq START="1633" END="1637">bombs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-21-0">
+      <extent>
+        <charseq START="1809" END="1815">Gogarty</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1815">Gogarty</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-21-1">
+      <extent>
+        <charseq START="2641" END="2647">Gogarty</charseq>
+      </extent>
+      <head>
+        <charseq START="2641" END="2647">Gogarty</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gogarty">
+        <charseq START="1809" END="1815">Gogarty</charseq>
+      </name>
+      <name NAME="Gogarty">
+        <charseq START="2641" END="2647">Gogarty</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-22-0">
+      <extent>
+        <charseq START="1966" END="1979">b...@barrk.net</charseq>
+      </extent>
+      <head>
+        <charseq START="1966" END="1979">b...@barrk.net</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="b...@barrk.net">
+        <charseq START="1966" END="1979">b...@barrk.net</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-23" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-23-0">
+      <extent>
+        <charseq START="2238" END="2245">the bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="2242" END="2245">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-23-1">
+      <extent>
+        <charseq START="2472" END="2479">the bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="2476" END="2479">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="talk.politics.misc_20050216.1337-24-0">
+      <extent>
+        <charseq START="2276" END="2278">us.</charseq>
+      </extent>
+      <head>
+        <charseq START="2276" END="2278">us.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="talk.politics.misc_20050216.1337-25-0">
+      <extent>
+        <charseq START="2733" END="2736">IAEC</charseq>
+      </extent>
+      <head>
+        <charseq START="2733" END="2736">IAEC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="IAEC">
+        <charseq START="2733" END="2736">IAEC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-26-0">
+      <extent>
+        <charseq START="2733" END="2747">IAEC inspectors</charseq>
+      </extent>
+      <head>
+        <charseq START="2738" END="2747">inspectors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-27" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-27-0">
+      <extent>
+        <charseq START="2802" END="2822">our low-flying drones</charseq>
+      </extent>
+      <head>
+        <charseq START="2817" END="2822">drones</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="talk.politics.misc_20050216.1337-27-1">
+      <extent>
+        <charseq START="2854" END="2858">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2854" END="2858">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="talk.politics.misc_20050216.1337-28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="talk.politics.misc_20050216.1337-28-0">
+      <extent>
+        <charseq START="2854" END="2869">their facilities</charseq>
+      </extent>
+      <head>
+        <charseq START="2860" END="2869">facilities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="talk.politics.misc_20050216.1337-V1" TYPE="Contact-Info" SUBTYPE="E-Mail">
+    <value_mention ID="talk.politics.misc_20050216.1337-V1-1">
+      <extent>
+        <charseq START="1966" END="1979">b...@barrk.net</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="talk.politics.misc_20050216.1337-V2" TYPE="Contact-Info" SUBTYPE="E-Mail">
+    <value_mention ID="talk.politics.misc_20050216.1337-V2-1">
+      <extent>
+        <charseq START="2650" END="2670">Goga...@Clongowes.edu</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="talk.politics.misc_20050216.1337-T0" VAL="2005-02-16T13:37:00">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T0-1">
+      <extent>
+        <charseq START="48" END="66">2005-02-16T13:37:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T1" VAL="2005-02">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T1-1">
+      <extent>
+        <charseq START="152" END="159">Feb 2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T2" VAL="2005-02-17T19:03:11Z">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T2-1">
+      <extent>
+        <charseq START="344" END="372">Thu, 17 Feb 2005 19:03:11 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T3" VAL="2005-02">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T3-1">
+      <extent>
+        <charseq START="443" END="450">Feb 2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T4" VAL="2005-02-16">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T4-1">
+      <extent>
+        <charseq START="583" END="585">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T5" VAL="2005-02-17T22:56:59-0500">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T5-1">
+      <extent>
+        <charseq START="970" END="1000">Thu, 17 Feb 2005 22:56:59 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T6" VAL="2005-02-19T06:34:31Z">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T6-1">
+      <extent>
+        <charseq START="1419" END="1447">Sat, 19 Feb 2005 06:34:31 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T7" VAL="2005-02-19T07:49:05-0500">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T7-1">
+      <extent>
+        <charseq START="1819" END="1849">Sat, 19 Feb 2005 07:49:05 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T8" VAL="2005-02-19T16:38:22-0500">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T8-1">
+      <extent>
+        <charseq START="2114" END="2144">Sat, 19 Feb 2005 16:38:22 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T9" VAL="2005-02-21T12:08:18Z">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T9-1">
+      <extent>
+        <charseq START="2300" END="2328">Mon, 21 Feb 2005 12:08:18 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T10" VAL="2005-02-19T16:38:22-0500">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T10-1">
+      <extent>
+        <charseq START="2396" END="2426">Sat, 19 Feb 2005 16:38:22 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T11" VAL="2005-02-21T12:07:39Z">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T11-1">
+      <extent>
+        <charseq START="2512" END="2540">Mon, 21 Feb 2005 12:07:39 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="talk.politics.misc_20050216.1337-T12" VAL="2005-02-19T07:49:05-0500">
+    <timex2_mention ID="talk.politics.misc_20050216.1337-T12-1">
+      <extent>
+        <charseq START="2608" END="2638">Sat, 19 Feb 2005 07:49:05 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

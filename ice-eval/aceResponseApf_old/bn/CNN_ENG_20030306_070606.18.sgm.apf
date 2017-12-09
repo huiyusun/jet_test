@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030306_070606.18.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030306_070606.18">
+  <entity ID="CNN_ENG_20030306_070606.18-1" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-1-0">
+      <extent>
+        <charseq START="153" END="165">a crazy world</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="165">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-2-0">
+      <extent>
+        <charseq START="179" END="195">the supreme court</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="195">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-2-1">
+      <extent>
+        <charseq START="728" END="744">the supreme court</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="744">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-2-2">
+      <extent>
+        <charseq START="1075" END="1091">the supreme court</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1091">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-2-3">
+      <extent>
+        <charseq START="1342" END="1346">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1346">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="200" END="216">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="216">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united states">
+        <charseq START="204" END="216">united states</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="259" END="269">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="269">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="289" END="298">california</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="298">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="303" END="306">they</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="306">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="790" END="799">california</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="799">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="890" END="893">them</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="893">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-5-4" ROLE="GPE">
+      <extent>
+        <charseq START="915" END="918">them</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="918">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="california">
+        <charseq START="289" END="298">california</charseq>
+      </name>
+      <name NAME="california">
+        <charseq START="790" END="799">california</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-6-0">
+      <extent>
+        <charseq START="391" END="395">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="395">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-6-1">
+      <extent>
+        <charseq START="452" END="456">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="456">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-7-0">
+      <extent>
+        <charseq START="419" END="433">some
+golf clubs</charseq>
+      </extent>
+      <head>
+        <charseq START="429" END="433">clubs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-8-0">
+      <extent>
+        <charseq START="555" END="564">the voters</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="564">voters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-8-1">
+      <extent>
+        <charseq START="711" END="714">they</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="714">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-9-0">
+      <extent>
+        <charseq START="614" END="643">the liberal and lenient
+judges</charseq>
+      </extent>
+      <head>
+        <charseq START="638" END="643">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-10-0">
+      <extent>
+        <charseq START="652" END="661">bad people</charseq>
+      </extent>
+      <head>
+        <charseq START="656" END="661">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-11-0">
+      <extent>
+        <charseq START="759" END="774">these two people</charseq>
+      </extent>
+      <head>
+        <charseq START="769" END="774">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-12-0">
+      <extent>
+        <charseq START="802" END="812">7000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="807" END="812">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="962" END="976">25 other states</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="976">states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-14-0">
+      <extent>
+        <charseq START="1148" END="1157">am@cnn.com</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1157">am@cnn.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="am@cnn.com">
+        <charseq START="1148" END="1157">am@cnn.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-15-0">
+      <extent>
+        <charseq START="1219" END="1240">the new york newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="1232" END="1240">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="1223" END="1230">new york</charseq>
+      </extent>
+      <head>
+        <charseq START="1223" END="1230">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="1223" END="1230">new york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-17-0">
+      <extent>
+        <charseq START="1261" END="1276">a
+brooklyn woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1272" END="1276">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-17-1">
+      <extent>
+        <charseq START="1290" END="1292">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1290" END="1292">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_070606.18-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1263" END="1270">brooklyn</charseq>
+      </extent>
+      <head>
+        <charseq START="1263" END="1270">brooklyn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="brooklyn">
+        <charseq START="1263" END="1270">brooklyn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-19-0">
+      <extent>
+        <charseq START="1348" END="1359">a free woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1359">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-20-0">
+      <extent>
+        <charseq START="1414" END="1422">the child</charseq>
+      </extent>
+      <head>
+        <charseq START="1418" END="1422">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-20-1">
+      <extent>
+        <charseq START="1577" END="1579">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1577" END="1579">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-21-0">
+      <extent>
+        <charseq START="1462" END="1469">hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1469">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-21-1">
+      <extent>
+        <charseq START="1489" END="1490">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1489" END="1490">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-21-2">
+      <extent>
+        <charseq START="1517" END="1519">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1517" END="1519">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_070606.18-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_070606.18-22-0">
+      <extent>
+        <charseq START="1517" END="1526">its mother</charseq>
+      </extent>
+      <head>
+        <charseq START="1521" END="1526">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_070606.18-22-1">
+      <extent>
+        <charseq START="1532" END="1534">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1532" END="1534">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030306_070606.18-V12" TYPE="Contact-Info" SUBTYPE="E-Mail">
+    <value_mention ID="CNN_ENG_20030306_070606.18-V12-1">
+      <extent>
+        <charseq START="1148" END="1157">am@cnn.com</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T0" VAL="2003-03-06">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-03-06</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T1" VAL="PT25M">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T1-1">
+      <extent>
+        <charseq START="82" END="91">25 minutes</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T2" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T2-1">
+      <extent>
+        <charseq START="271" END="279">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T3" VAL="P25Y">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T3-1">
+      <extent>
+        <charseq START="355" END="362">25 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T4" VAL="P50Y">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T4-1">
+      <extent>
+        <charseq START="439" END="446">50 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T5" VAL="1994">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T5-1">
+      <extent>
+        <charseq START="599" END="602">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T6" VAL="7000">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T6-1">
+      <extent>
+        <charseq START="802" END="805">7000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T7" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T7-1">
+      <extent>
+        <charseq START="1361" END="1369">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T8" VAL="P5Y">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T8-1">
+      <extent>
+        <charseq START="1384" END="1393">five years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_070606.18-T9" VAL="P5Y">
+    <timex2_mention ID="CNN_ENG_20030306_070606.18-T9-1">
+      <extent>
+        <charseq START="1544" END="1553">five
+years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

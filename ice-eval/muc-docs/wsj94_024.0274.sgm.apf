@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_024.0274.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_024.0274">
+  <entity ID="wsj94_024.0274-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-1-0">
+      <extent>
+        <charseq START="330" END="363">American Telephone &amp; Telegraph Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="363">American Telephone &amp; Telegraph Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-1-1">
+      <extent>
+        <charseq START="404" END="414">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="414">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-1-2">
+      <extent>
+        <charseq START="493" END="494">It</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="494">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-1-3">
+      <extent>
+        <charseq START="698" END="708">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="708">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-1-4">
+      <extent>
+        <charseq START="1119" END="1152">American Telephone &amp; Telegraph Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1152">American Telephone &amp; Telegraph Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-1-5">
+      <extent>
+        <charseq START="1176" END="1179">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1176" END="1179">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-1-6">
+      <extent>
+        <charseq START="1191" END="1192">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1191" END="1192">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American Telephone &amp; Telegraph Co.">
+        <charseq START="330" END="363">American Telephone &amp; Telegraph Co.</charseq>
+      </name>
+      <name NAME="American Telephone &amp; Telegraph Co.">
+        <charseq START="1119" END="1152">American Telephone &amp; Telegraph Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-2-0">
+      <extent>
+        <charseq START="382" END="396">plain AT&amp;T Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="396">AT&amp;T Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-2-1">
+      <extent>
+        <charseq START="746" END="749">AT&amp;T</charseq>
+      </extent>
+      <head>
+        <charseq START="746" END="749">AT&amp;T</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-2-2">
+      <extent>
+        <charseq START="796" END="799">AT&amp;T</charseq>
+      </extent>
+      <head>
+        <charseq START="796" END="799">AT&amp;T</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-2-3">
+      <extent>
+        <charseq START="912" END="915">they</charseq>
+      </extent>
+      <head>
+        <charseq START="912" END="915">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-2-4">
+      <extent>
+        <charseq START="1217" END="1220">AT&amp;T</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1220">AT&amp;T</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-2-5">
+      <extent>
+        <charseq START="1235" END="1252">&apos;s largest
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="1246" END="1252">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AT&amp;T Corp">
+        <charseq START="388" END="396">AT&amp;T Corp</charseq>
+      </name>
+      <name NAME="AT&amp;T">
+        <charseq START="746" END="749">AT&amp;T</charseq>
+      </name>
+      <name NAME="AT&amp;T">
+        <charseq START="796" END="799">AT&amp;T</charseq>
+      </name>
+      <name NAME="AT&amp;T">
+        <charseq START="1217" END="1220">AT&amp;T</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-3-0">
+      <extent>
+        <charseq START="518" END="528">most people</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="528">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-3-1">
+      <extent>
+        <charseq START="833" END="838">people</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="838">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-4-0">
+      <extent>
+        <charseq START="535" END="562">the telecommunications giant</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="562">giant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-4-1">
+      <extent>
+        <charseq START="567" END="569">its</charseq>
+      </extent>
+      <head>
+        <charseq START="567" END="569">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-4-2">
+      <extent>
+        <charseq START="587" END="588">It</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="588">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-4-3">
+      <extent>
+        <charseq START="592" END="607">the perfect time</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="607">time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_024.0274-4-4">
+      <extent>
+        <charseq START="621" END="622">it</charseq>
+      </extent>
+      <head>
+        <charseq START="621" END="622">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-4-5">
+      <extent>
+        <charseq START="626" END="633">10 years</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="633">years</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-5-0">
+      <extent>
+        <charseq START="730" END="743">Marilyn Laurie</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="743">Marilyn Laurie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-5-1">
+      <extent>
+        <charseq START="750" END="773">&apos;s senior vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="765" END="773">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marilyn Laurie">
+        <charseq START="730" END="743">Marilyn Laurie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-6-0">
+      <extent>
+        <charseq START="826" END="828">58%</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="828">%</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="971" END="978">American</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="978">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="971" END="978">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-8-0">
+      <extent>
+        <charseq START="990" END="1009">unpretentious people</charseq>
+      </extent>
+      <head>
+        <charseq START="1004" END="1009">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_024.0274-9-0">
+      <extent>
+        <charseq START="1027" END="1030">Bell</charseq>
+      </extent>
+      <head>
+        <charseq START="1027" END="1030">Bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bell">
+        <charseq START="1027" END="1030">Bell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-10-0">
+      <extent>
+        <charseq START="1075" END="1089">the foundations</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1089">foundations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-11" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-11-0">
+      <extent>
+        <charseq START="1226" END="1234">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1230" END="1234">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-11-1">
+      <extent>
+        <charseq START="1361" END="1369">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1365" END="1369">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_024.0274-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_024.0274-12-0">
+      <extent>
+        <charseq START="1370" END="1418">&apos;s
+premiere research and development organization</charseq>
+      </extent>
+      <head>
+        <charseq START="1407" END="1418">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_024.0274-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_024.0274-V4-1">
+      <extent>
+        <charseq START="826" END="828">58%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_024.0274-T0" VAL="P10Y">
+    <timex2_mention ID="wsj94_024.0274-T0-1">
+      <extent>
+        <charseq START="626" END="633">10 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_024.0274-T1" VAL="2016-03-28">
+    <timex2_mention ID="wsj94_024.0274-T1-1">
+      <extent>
+        <charseq START="717" END="721">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_024.0274-T2" VAL="P18Y">
+    <timex2_mention ID="wsj94_024.0274-T2-1">
+      <extent>
+        <charseq START="845" END="852">18 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_024.0274-T3" VAL="1984">
+    <timex2_mention ID="wsj94_024.0274-T3-1">
+      <extent>
+        <charseq START="1211" END="1214">1984</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,919 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="fsh_29138.sgm" SOURCE="telephone" TYPE="text" AUTHOR="NYU">
+<document DOCID="fsh_29138">
+  <entity ID="fsh_29138-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-1-0">
+      <extent>
+        <charseq START="52" END="57">prompt</charseq>
+      </extent>
+      <head>
+        <charseq START="52" END="57">prompt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="prompt">
+        <charseq START="52" END="57">prompt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-2-0">
+      <extent>
+        <charseq START="160" END="170">many people</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="170">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-3-0">
+      <extent>
+        <charseq START="196" END="208">the hierarchy</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="208">hierarchy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="fsh_29138-4-0">
+      <extent>
+        <charseq START="272" END="275">some</charseq>
+      </extent>
+      <head>
+        <charseq START="272" END="275">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-5-0">
+      <extent>
+        <charseq START="280" END="289">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="289">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-6-0">
+      <extent>
+        <charseq START="345" END="356">your company</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="356">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-7-0">
+      <extent>
+        <charseq START="410" END="416">Suzanne</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="416">Suzanne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Suzanne">
+        <charseq START="410" END="416">Suzanne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="439" END="444">Dallas</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="444">Dallas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dallas">
+        <charseq START="439" END="444">Dallas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-9-0">
+      <extent>
+        <charseq START="450" END="454">Karim</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="454">Karim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Karim">
+        <charseq START="450" END="454">Karim</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="599" END="601">New</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="601">New</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New">
+        <charseq START="599" END="601">New</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-11-0">
+      <extent>
+        <charseq START="726" END="743">a
+software company</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="743">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="780" END="786">Addison</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="786">Addison</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Addison">
+        <charseq START="780" END="786">Addison</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="789" END="793">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="793">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="789" END="793">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-14-0">
+      <extent>
+        <charseq START="977" END="980">ones</charseq>
+      </extent>
+      <head>
+        <charseq START="977" END="980">ones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-15-0">
+      <extent>
+        <charseq START="1043" END="1067">the
+Accounting Department</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1067">Accounting Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29138-15-1">
+      <extent>
+        <charseq START="1155" END="1164">Accounting</charseq>
+      </extent>
+      <head>
+        <charseq START="1155" END="1164">Accounting</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Accounting Department">
+        <charseq START="1047" END="1067">Accounting Department</charseq>
+      </name>
+      <name NAME="Accounting">
+        <charseq START="1155" END="1164">Accounting</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-16-0">
+      <extent>
+        <charseq START="1127" END="1136">department</charseq>
+      </extent>
+      <head>
+        <charseq START="1127" END="1136">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-17-0">
+      <extent>
+        <charseq START="1396" END="1422">only
+twenty-three employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1414" END="1422">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-18-0">
+      <extent>
+        <charseq START="1698" END="1718">our strategic partner</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1718">partner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-19-0">
+      <extent>
+        <charseq START="1782" END="1802">our strategic partner</charseq>
+      </extent>
+      <head>
+        <charseq START="1796" END="1802">partner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1821" END="1822">Y&apos;</charseq>
+      </extent>
+      <head>
+        <charseq START="1821" END="1822">Y&apos;</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Y&apos;">
+        <charseq START="1821" END="1822">Y&apos;</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-21-0">
+      <extent>
+        <charseq START="1889" END="1891">man</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1891">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-22-0">
+      <extent>
+        <charseq START="1934" END="1946">a
+corporation</charseq>
+      </extent>
+      <head>
+        <charseq START="1936" END="1946">corporation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="2488" END="2495">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2488" END="2495">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29138-23-1" ROLE="GPE">
+      <extent>
+        <charseq START="2580" END="2587">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2580" END="2587">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29138-23-2" ROLE="GPE">
+      <extent>
+        <charseq START="2754" END="2761">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2754" END="2761">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="2488" END="2495">New York</charseq>
+      </name>
+      <name NAME="New York">
+        <charseq START="2580" END="2587">New York</charseq>
+      </name>
+      <name NAME="New York">
+        <charseq START="2754" END="2761">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-24-0">
+      <extent>
+        <charseq START="2562" END="2575">so many people</charseq>
+      </extent>
+      <head>
+        <charseq START="2570" END="2575">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-25-0">
+      <extent>
+        <charseq START="2597" END="2602">family</charseq>
+      </extent>
+      <head>
+        <charseq START="2597" END="2602">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-26" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-0">
+      <extent>
+        <charseq START="2771" END="2775">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="2773" END="2775">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-1">
+      <extent>
+        <charseq START="3938" END="3942">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="3940" END="3942">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-2">
+      <extent>
+        <charseq START="4498" END="4502">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="4500" END="4502">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-3">
+      <extent>
+        <charseq START="4663" END="4667">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="4665" END="4667">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-4">
+      <extent>
+        <charseq START="4783" END="4787">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="4785" END="4787">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-5">
+      <extent>
+        <charseq START="4799" END="4801">lot</charseq>
+      </extent>
+      <head>
+        <charseq START="4799" END="4801">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-26-6">
+      <extent>
+        <charseq START="4840" END="4844">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="4842" END="4844">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-27-0">
+      <extent>
+        <charseq START="2780" END="2788">community</charseq>
+      </extent>
+      <head>
+        <charseq START="2780" END="2788">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-27-1">
+      <extent>
+        <charseq START="3255" END="3263">community</charseq>
+      </extent>
+      <head>
+        <charseq START="3255" END="3263">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-27-2">
+      <extent>
+        <charseq START="5508" END="5516">community</charseq>
+      </extent>
+      <head>
+        <charseq START="5508" END="5516">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-28-0">
+      <extent>
+        <charseq START="2780" END="2796">community centers</charseq>
+      </extent>
+      <head>
+        <charseq START="2790" END="2796">centers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-0">
+      <extent>
+        <charseq START="2832" END="2839">the kids</charseq>
+      </extent>
+      <head>
+        <charseq START="2836" END="2839">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-1">
+      <extent>
+        <charseq START="2846" END="2864">the inner city kids</charseq>
+      </extent>
+      <head>
+        <charseq START="2861" END="2864">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-2">
+      <extent>
+        <charseq START="3411" END="3414">kids</charseq>
+      </extent>
+      <head>
+        <charseq START="3411" END="3414">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-3">
+      <extent>
+        <charseq START="3545" END="3552">the kids</charseq>
+      </extent>
+      <head>
+        <charseq START="3549" END="3552">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-4">
+      <extent>
+        <charseq START="4080" END="4087">the kids</charseq>
+      </extent>
+      <head>
+        <charseq START="4084" END="4087">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-5">
+      <extent>
+        <charseq START="4346" END="4349">kids</charseq>
+      </extent>
+      <head>
+        <charseq START="4346" END="4349">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-6">
+      <extent>
+        <charseq START="4352" END="4356">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4352" END="4356">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-7">
+      <extent>
+        <charseq START="4424" END="4428">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4424" END="4428">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-8">
+      <extent>
+        <charseq START="4442" END="4446">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4442" END="4446">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-9">
+      <extent>
+        <charseq START="4448" END="4452">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4448" END="4452">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-10">
+      <extent>
+        <charseq START="4462" END="4466">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4462" END="4466">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-11">
+      <extent>
+        <charseq START="4507" END="4510">kids</charseq>
+      </extent>
+      <head>
+        <charseq START="4507" END="4510">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-12">
+      <extent>
+        <charseq START="4548" END="4551">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4548" END="4551">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-13">
+      <extent>
+        <charseq START="4598" END="4601">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4598" END="4601">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29138-29-14">
+      <extent>
+        <charseq START="4717" END="4724">the kids</charseq>
+      </extent>
+      <head>
+        <charseq START="4721" END="4724">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-29-15">
+      <extent>
+        <charseq START="4771" END="4774">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4771" END="4774">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="2856" END="2859">city</charseq>
+      </extent>
+      <head>
+        <charseq START="2856" END="2859">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="2939" END="2946">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="2943" END="2946">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-32-0">
+      <extent>
+        <charseq START="3208" END="3218">thirty kids</charseq>
+      </extent>
+      <head>
+        <charseq START="3215" END="3218">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-33-0">
+      <extent>
+        <charseq START="3248" END="3270">the uh community center</charseq>
+      </extent>
+      <head>
+        <charseq START="3265" END="3270">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-34-0">
+      <extent>
+        <charseq START="3644" END="3647">girl</charseq>
+      </extent>
+      <head>
+        <charseq START="3644" END="3647">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-35-0">
+      <extent>
+        <charseq START="3678" END="3692">four counselors</charseq>
+      </extent>
+      <head>
+        <charseq START="3683" END="3692">counselors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-36-0">
+      <extent>
+        <charseq START="3906" END="3913">children</charseq>
+      </extent>
+      <head>
+        <charseq START="3906" END="3913">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29138-36-1">
+      <extent>
+        <charseq START="3947" END="3950">them</charseq>
+      </extent>
+      <head>
+        <charseq START="3947" END="3950">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-37-0">
+      <extent>
+        <charseq START="4352" END="4364">their parents</charseq>
+      </extent>
+      <head>
+        <charseq START="4358" END="4364">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-38-0">
+      <extent>
+        <charseq START="4448" END="4457">their aunt</charseq>
+      </extent>
+      <head>
+        <charseq START="4454" END="4457">aunt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-39-0">
+      <extent>
+        <charseq START="4462" END="4478">their grandmother</charseq>
+      </extent>
+      <head>
+        <charseq START="4468" END="4478">grandmother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29138-40-0">
+      <extent>
+        <charseq START="4915" END="4936">the uh River Bank Park</charseq>
+      </extent>
+      <head>
+        <charseq START="4922" END="4936">River Bank Park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="River Bank Park">
+        <charseq START="4922" END="4936">River Bank Park</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-41" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-41-0">
+      <extent>
+        <charseq START="5443" END="5453">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="5447" END="5453">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-42" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-42-0">
+      <extent>
+        <charseq START="5504" END="5523">the community center</charseq>
+      </extent>
+      <head>
+        <charseq START="5518" END="5523">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-43" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-43-0">
+      <extent>
+        <charseq START="5583" END="5585">car</charseq>
+      </extent>
+      <head>
+        <charseq START="5583" END="5585">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-44-0">
+      <extent>
+        <charseq START="5669" END="5674">people</charseq>
+      </extent>
+      <head>
+        <charseq START="5669" END="5674">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29138-45" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29138-45-0">
+      <extent>
+        <charseq START="5669" END="5679">people cars</charseq>
+      </extent>
+      <head>
+        <charseq START="5676" END="5679">cars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="fsh_29138-V9" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="fsh_29138-V9-1">
+      <extent>
+        <charseq START="5685" END="5692">a
+dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="fsh_29138-T0" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T0-1">
+      <extent>
+        <charseq START="29" END="36">20041130</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T1" VAL="2000">
+    <timex2_mention ID="fsh_29138-T1-1">
+      <extent>
+        <charseq START="1362" END="1373">two thousand</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T2" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T2-1">
+      <extent>
+        <charseq START="1920" END="1922">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T3" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T3-1">
+      <extent>
+        <charseq START="2264" END="2270">tonight</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T4" VAL="2002">
+    <timex2_mention ID="fsh_29138-T4-1">
+      <extent>
+        <charseq START="3068" END="3083">two thousand two</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T5" VAL="2002">
+    <timex2_mention ID="fsh_29138-T5-1">
+      <extent>
+        <charseq START="3097" END="3112">two thousand two</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T6" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T6-1">
+      <extent>
+        <charseq START="3278" END="3280">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T7" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T7-1">
+      <extent>
+        <charseq START="3486" END="3488">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T8" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T8-1">
+      <extent>
+        <charseq START="3554" END="3556">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T9" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T9-1">
+      <extent>
+        <charseq START="3695" END="3697">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T10" VAL="2004-11-30">
+    <timex2_mention ID="fsh_29138-T10-1">
+      <extent>
+        <charseq START="4313" END="4315">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29138-T11" VAL="2004-11-24">
+    <timex2_mention ID="fsh_29138-T11-1">
+      <extent>
+        <charseq START="4890" END="4898">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="fsh_29138-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="fsh_29138-12" ROLE="Arg-1" />
+    <relation_argument REFID="fsh_29138-13" ROLE="Arg-2" />
+      <relation_mention ID="fsh_29138-R1-1">
+      <extent>
+        <charseq START="780" END="793">Addison, Texas</charseq>
+      </extent>
+        <relation_mention_argument REFID="fsh_29138-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="780" END="786">Addison</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="fsh_29138-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="789" END="793">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

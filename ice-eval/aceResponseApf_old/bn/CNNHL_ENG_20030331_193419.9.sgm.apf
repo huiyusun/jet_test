@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030331_193419.9.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030331_193419.9">
+  <entity ID="CNNHL_ENG_20030331_193419.9-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030331_193419.9-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="87" END="90">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="90">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="87" END="90">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-2" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-2-0">
+      <extent>
+        <charseq START="126" END="130">ridge</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="130">ridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030331_193419.9-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="140" END="144">mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="140" END="144">mosul</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mosul">
+        <charseq START="140" END="144">mosul</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030331_193419.9-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="153" END="157">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="157">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030331_193419.9-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="308" END="312">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="312">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraqi">
+        <charseq START="153" END="157">iraqi</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="308" END="312">iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-5-0">
+      <extent>
+        <charseq START="153" END="164">iraqi troops</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="164">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-6-0">
+      <extent>
+        <charseq START="225" END="237">the same area</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="237">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-6-1">
+      <extent>
+        <charseq START="243" END="248">a site</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="248">site</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-7-0">
+      <extent>
+        <charseq START="305" END="321">13 iraqi soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="321">soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030331_193419.9-7-1">
+      <extent>
+        <charseq START="333" END="337">their</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="337">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030331_193419.9-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030331_193419.9-8-0">
+      <extent>
+        <charseq START="372" END="379">fighters</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="379">fighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030331_193419.9-T0" VAL="2003-03-31">
+    <timex2_mention ID="CNNHL_ENG_20030331_193419.9-T0-1">
+      <extent>
+        <charseq START="45" END="54">2003-03-31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030331_193419.9-T1" VAL="2003-03-30">
+    <timex2_mention ID="CNNHL_ENG_20030331_193419.9-T1-1">
+      <extent>
+        <charseq START="267" END="275">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030331_193419.9-T2" VAL="2003-03-31">
+    <timex2_mention ID="CNNHL_ENG_20030331_193419.9-T2-1">
+      <extent>
+        <charseq START="284" END="288">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

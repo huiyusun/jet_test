@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_035.0215.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_035.0215">
+  <entity ID="wsj94_035.0215-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-1-0">
+      <extent>
+        <charseq START="245" END="266">A+ Communications Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="266">+ Communications Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_035.0215-1-1">
+      <extent>
+        <charseq START="273" END="274">it</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="274">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_035.0215-1-2">
+      <extent>
+        <charseq START="292" END="294">its</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="294">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-1-3">
+      <extent>
+        <charseq START="483" END="500">the paging company</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="500">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="+ Communications Inc.">
+        <charseq START="246" END="266">+ Communications Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="323" END="336">North Carolina</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="336">North Carolina</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="806" END="809">N.C.</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="809">N.C.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Carolina">
+        <charseq START="323" END="336">North Carolina</charseq>
+      </name>
+      <name NAME="N.C.">
+        <charseq START="806" END="809">N.C.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="342" END="355">South Carolina</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="355">South Carolina</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="843" END="846">S.C.</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="846">S.C.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="South Carolina">
+        <charseq START="342" END="355">South Carolina</charseq>
+      </name>
+      <name NAME="S.C.">
+        <charseq START="843" END="846">S.C.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-4-0">
+      <extent>
+        <charseq START="392" END="408">Elliott H. Singer</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="408">Elliott H. Singer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-4-1">
+      <extent>
+        <charseq START="411" END="418">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="418">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-4-2">
+      <extent>
+        <charseq START="424" END="446">chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="440" END="446">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-4-3">
+      <extent>
+        <charseq START="733" END="742">Mr. Singer</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="742">Singer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-4-4">
+      <extent>
+        <charseq START="733" END="735">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="735">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Elliott H. Singer">
+        <charseq START="392" END="408">Elliott H. Singer</charseq>
+      </name>
+      <name NAME="Singer">
+        <charseq START="737" END="742">Singer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="559" END="574">those two states</charseq>
+      </extent>
+      <head>
+        <charseq START="569" END="574">states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_035.0215-6-0">
+      <extent>
+        <charseq START="699" END="705">the sea</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="705">sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="780" END="788">Lumberton</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="788">Lumberton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lumberton">
+        <charseq START="780" END="788">Lumberton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="794" END="803">Wilmington</charseq>
+      </extent>
+      <head>
+        <charseq START="794" END="803">Wilmington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wilmington">
+        <charseq START="794" END="803">Wilmington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="815" END="824">Charleston</charseq>
+      </extent>
+      <head>
+        <charseq START="815" END="824">Charleston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Charleston">
+        <charseq START="815" END="824">Charleston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-10-0">
+      <extent>
+        <charseq START="830" END="840">Hilton Head</charseq>
+      </extent>
+      <head>
+        <charseq START="830" END="840">Hilton Head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hilton Head">
+        <charseq START="830" END="840">Hilton Head</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="877" END="889">the Nashville</charseq>
+      </extent>
+      <head>
+        <charseq START="881" END="889">Nashville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nashville">
+        <charseq START="881" END="889">Nashville</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_035.0215-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_035.0215-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="892" END="896">Tenn.</charseq>
+      </extent>
+      <head>
+        <charseq START="892" END="896">Tenn.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tenn.">
+        <charseq START="892" END="896">Tenn.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_035.0215-V4" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_035.0215-V4-1">
+      <extent>
+        <charseq START="1016" END="1023">23 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_035.0215-T0" VAL="P3M">
+    <timex2_mention ID="wsj94_035.0215-T0-1">
+      <extent>
+        <charseq START="373" END="384">three
+months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_035.0215-T1" VAL="2016-03-28">
+    <timex2_mention ID="wsj94_035.0215-T1-1">
+      <extent>
+        <charseq START="584" END="586">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_035.0215-T2" VAL="P90D">
+    <timex2_mention ID="wsj94_035.0215-T2-1">
+      <extent>
+        <charseq START="723" END="729">90 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_035.0215-T3" VAL="2015-03-28">
+    <timex2_mention ID="wsj94_035.0215-T3-1">
+      <extent>
+        <charseq START="1034" END="1047">a year earlier</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_035.0215-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_035.0215-8" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_035.0215-2" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_035.0215-R1-1">
+      <extent>
+        <charseq START="794" END="809">Wilmington, N.C.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_035.0215-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="794" END="803">Wilmington</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_035.0215-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="806" END="809">N.C.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_035.0215-R2" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_035.0215-11" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_035.0215-12" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_035.0215-R2-1">
+      <extent>
+        <charseq START="877" END="896">the Nashville, Tenn.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_035.0215-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="877" END="889">the Nashville</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_035.0215-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="892" END="896">Tenn.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,1488 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_008.0170.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_008.0170">
+  <entity ID="wsj94_008.0170-1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-1-0">
+      <extent>
+        <charseq START="247" END="256">Newspapers</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="256">Newspapers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-2-0">
+      <extent>
+        <charseq START="393" END="422">The International Events Group</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="422">International Events Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-2-1">
+      <extent>
+        <charseq START="611" END="613">IEG</charseq>
+      </extent>
+      <head>
+        <charseq START="611" END="613">IEG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-2-2">
+      <extent>
+        <charseq START="1186" END="1188">IEG</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1188">IEG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-2-3">
+      <extent>
+        <charseq START="1658" END="1660">IEG</charseq>
+      </extent>
+      <head>
+        <charseq START="1658" END="1660">IEG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-2-4">
+      <extent>
+        <charseq START="1806" END="1816">the
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="1810" END="1816">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-2-5">
+      <extent>
+        <charseq START="1826" END="1828">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1826" END="1828">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-2-6">
+      <extent>
+        <charseq START="2018" END="2028">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="2022" END="2028">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-2-7">
+      <extent>
+        <charseq START="2044" END="2045">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2044" END="2045">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="International Events Group">
+        <charseq START="397" END="422">International Events Group</charseq>
+      </name>
+      <name NAME="IEG">
+        <charseq START="611" END="613">IEG</charseq>
+      </name>
+      <name NAME="IEG">
+        <charseq START="1186" END="1188">IEG</charseq>
+      </name>
+      <name NAME="IEG">
+        <charseq START="1658" END="1660">IEG</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-3-0">
+      <extent>
+        <charseq START="492" END="508">newspaper editors</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="508">editors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="516" END="525">major
+U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="522" END="525">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="522" END="525">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="531" END="538">Canadian</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="538">Canadian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canadian">
+        <charseq START="531" END="538">Canadian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="531" END="545">Canadian cities</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="545">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="555">their</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="555">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="574" END="591">corporate
+sponsors</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="591">sponsors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="775" END="787">name sponsors</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="787">sponsors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-9-0">
+      <extent>
+        <charseq START="819" END="829">The editors</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="829">editors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-10-0">
+      <extent>
+        <charseq START="935" END="941">readers</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="941">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-11-0">
+      <extent>
+        <charseq START="993" END="1003">the sponsor</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1003">sponsor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-12-0">
+      <extent>
+        <charseq START="1114" END="1129">a TV commentator</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1129">commentator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-13-0">
+      <extent>
+        <charseq START="1170" END="1183">Rebecca Rolfes</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1183">Rebecca Rolfes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-13-1">
+      <extent>
+        <charseq START="1189" END="1205">&apos;s vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="1197" END="1205">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rebecca Rolfes">
+        <charseq START="1170" END="1183">Rebecca Rolfes</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="1506" END="1513">sponsors</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1513">sponsors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-15-0">
+      <extent>
+        <charseq START="1516" END="1525">newspapers</charseq>
+      </extent>
+      <head>
+        <charseq START="1516" END="1525">newspapers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-16-0">
+      <extent>
+        <charseq START="1646" END="1655">Lesa Ukman</charseq>
+      </extent>
+      <head>
+        <charseq START="1646" END="1655">Lesa Ukman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-16-1">
+      <extent>
+        <charseq START="1661" END="1672">&apos;s president</charseq>
+      </extent>
+      <head>
+        <charseq START="1664" END="1672">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lesa Ukman">
+        <charseq START="1646" END="1655">Lesa Ukman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-17-0">
+      <extent>
+        <charseq START="1680" END="1691">John Hancock</charseq>
+      </extent>
+      <head>
+        <charseq START="1680" END="1691">John Hancock</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-17-1">
+      <extent>
+        <charseq START="1955" END="1966">John Hancock</charseq>
+      </extent>
+      <head>
+        <charseq START="1955" END="1966">John Hancock</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Hancock">
+        <charseq START="1680" END="1691">John Hancock</charseq>
+      </name>
+      <name NAME="John Hancock">
+        <charseq START="1955" END="1966">John Hancock</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1787" END="1793">El Paso</charseq>
+      </extent>
+      <head>
+        <charseq START="1787" END="1793">El Paso</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="El Paso">
+        <charseq START="1787" END="1793">El Paso</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1796" END="1800">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="1796" END="1800">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="1796" END="1800">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-20-0">
+      <extent>
+        <charseq START="1915" END="1925">journalists</charseq>
+      </extent>
+      <head>
+        <charseq START="1915" END="1925">journalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-21-0">
+      <extent>
+        <charseq START="2403" END="2414">Cathy Martin</charseq>
+      </extent>
+      <head>
+        <charseq START="2403" END="2414">Cathy Martin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-21-1">
+      <extent>
+        <charseq START="2417" END="2423">manager</charseq>
+      </extent>
+      <head>
+        <charseq START="2417" END="2423">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cathy Martin">
+        <charseq START="2403" END="2414">Cathy Martin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-22-0">
+      <extent>
+        <charseq START="2450" END="2461">IntelliQuest</charseq>
+      </extent>
+      <head>
+        <charseq START="2450" END="2461">IntelliQuest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-22-1">
+      <extent>
+        <charseq START="2464" END="2495">a marketing information provider</charseq>
+      </extent>
+      <head>
+        <charseq START="2488" END="2495">provider</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="IntelliQuest">
+        <charseq START="2450" END="2461">IntelliQuest</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="2546" END="2551">Dallas</charseq>
+      </extent>
+      <head>
+        <charseq START="2546" END="2551">Dallas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dallas">
+        <charseq START="2546" END="2551">Dallas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-24-0">
+      <extent>
+        <charseq START="2554" END="2563">250 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2558" END="2563">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="2691" END="2698">San Jose</charseq>
+      </extent>
+      <head>
+        <charseq START="2691" END="2698">San Jose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Jose">
+        <charseq START="2691" END="2698">San Jose</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="2701" END="2706">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="2701" END="2706">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="2701" END="2706">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-27-0">
+      <extent>
+        <charseq START="2722" END="2723">co</charseq>
+      </extent>
+      <head>
+        <charseq START="2722" END="2723">co</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-28-0">
+      <extent>
+        <charseq START="2741" END="2749">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="2741" END="2749">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-29-0">
+      <extent>
+        <charseq START="2756" END="2761">forces</charseq>
+      </extent>
+      <head>
+        <charseq START="2756" END="2761">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-30-0">
+      <extent>
+        <charseq START="2818" END="2847">Many large high-tech companies</charseq>
+      </extent>
+      <head>
+        <charseq START="2839" END="2847">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-31-0">
+      <extent>
+        <charseq START="2855" END="2859">Intel</charseq>
+      </extent>
+      <head>
+        <charseq START="2855" END="2859">Intel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Intel">
+        <charseq START="2855" END="2859">Intel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-32-0">
+      <extent>
+        <charseq START="2862" END="2870">Microsoft</charseq>
+      </extent>
+      <head>
+        <charseq START="2862" END="2870">Microsoft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Microsoft">
+        <charseq START="2862" END="2870">Microsoft</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-33-0">
+      <extent>
+        <charseq START="2876" END="2889">Apple
+Computer</charseq>
+      </extent>
+      <head>
+        <charseq START="2876" END="2889">Apple
+Computer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Apple Computer">
+        <charseq START="2876" END="2889">Apple
+Computer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-34-0">
+      <extent>
+        <charseq START="2921" END="2937">smaller companies</charseq>
+      </extent>
+      <head>
+        <charseq START="2929" END="2937">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-34-1">
+      <extent>
+        <charseq START="2988" END="2992">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2988" END="2992">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-35-0">
+      <extent>
+        <charseq START="3030" END="3049">Applied Microsystems</charseq>
+      </extent>
+      <head>
+        <charseq START="3030" END="3049">Applied Microsystems</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-35-1">
+      <extent>
+        <charseq START="3072" END="3083">manufacturer</charseq>
+      </extent>
+      <head>
+        <charseq START="3072" END="3083">manufacturer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-35-2">
+      <extent>
+        <charseq START="3171" END="3172">It</charseq>
+      </extent>
+      <head>
+        <charseq START="3171" END="3172">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-35-3">
+      <extent>
+        <charseq START="3245" END="3247">its</charseq>
+      </extent>
+      <head>
+        <charseq START="3245" END="3247">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-35-4">
+      <extent>
+        <charseq START="3585" END="3595">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="3589" END="3595">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Applied Microsystems">
+        <charseq START="3030" END="3049">Applied Microsystems</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-36-0">
+      <extent>
+        <charseq START="3054" END="3062">a Redmond</charseq>
+      </extent>
+      <head>
+        <charseq START="3056" END="3062">Redmond</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Redmond">
+        <charseq START="3056" END="3062">Redmond</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-37-0" ROLE="GPE">
+      <extent>
+        <charseq START="3065" END="3069">Wash.</charseq>
+      </extent>
+      <head>
+        <charseq START="3065" END="3069">Wash.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wash.">
+        <charseq START="3065" END="3069">Wash.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-38-0">
+      <extent>
+        <charseq START="3103" END="3116">help engineers</charseq>
+      </extent>
+      <head>
+        <charseq START="3108" END="3116">engineers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-39" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-39-0">
+      <extent>
+        <charseq START="3245" END="3257">its ad agency</charseq>
+      </extent>
+      <head>
+        <charseq START="3252" END="3257">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-40-0">
+      <extent>
+        <charseq START="3604" END="3617">Bill McAlister</charseq>
+      </extent>
+      <head>
+        <charseq START="3604" END="3617">Bill McAlister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-40-1">
+      <extent>
+        <charseq START="3639" END="3649">&apos;s director</charseq>
+      </extent>
+      <head>
+        <charseq START="3642" END="3649">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bill McAlister">
+        <charseq START="3604" END="3617">Bill McAlister</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-41-0">
+      <extent>
+        <charseq START="3620" END="3638">Applied
+Microsystem</charseq>
+      </extent>
+      <head>
+        <charseq START="3620" END="3638">Applied
+Microsystem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Applied Microsystem">
+        <charseq START="3620" END="3638">Applied
+Microsystem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-42-0">
+      <extent>
+        <charseq START="3697" END="3702">people</charseq>
+      </extent>
+      <head>
+        <charseq START="3697" END="3702">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-42-1">
+      <extent>
+        <charseq START="3878" END="3883">People</charseq>
+      </extent>
+      <head>
+        <charseq START="3878" END="3883">People</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-43-0">
+      <extent>
+        <charseq START="3917" END="3926">Mr.
+Pettis</charseq>
+      </extent>
+      <head>
+        <charseq START="3921" END="3926">Pettis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-43-1">
+      <extent>
+        <charseq START="3917" END="3919">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="3917" END="3919">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-43-2">
+      <extent>
+        <charseq START="3929" END="3937">principal</charseq>
+      </extent>
+      <head>
+        <charseq START="3929" END="3937">principal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pettis">
+        <charseq START="3921" END="3926">Pettis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-44-0">
+      <extent>
+        <charseq START="3942" END="3956">Floathe Johnson</charseq>
+      </extent>
+      <head>
+        <charseq START="3942" END="3956">Floathe Johnson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-44-1">
+      <extent>
+        <charseq START="3959" END="3982">the Washington ad agency</charseq>
+      </extent>
+      <head>
+        <charseq START="3977" END="3982">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-44-2">
+      <extent>
+        <charseq START="5510" END="5535">the Cerine Coyne
+ad agency</charseq>
+      </extent>
+      <head>
+        <charseq START="5530" END="5535">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Floathe Johnson">
+        <charseq START="3942" END="3956">Floathe Johnson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="3963" END="3972">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="3963" END="3972">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="3963" END="3972">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-46" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-46-0">
+      <extent>
+        <charseq START="4251" END="4276">an old promotional vehicle</charseq>
+      </extent>
+      <head>
+        <charseq START="4270" END="4276">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-47" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-47-0" ROLE="GPE">
+      <extent>
+        <charseq START="4310" END="4318">11 cities</charseq>
+      </extent>
+      <head>
+        <charseq START="4313" END="4318">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-48" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-48-0">
+      <extent>
+        <charseq START="4401" END="4407">the bus</charseq>
+      </extent>
+      <head>
+        <charseq START="4405" END="4407">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-48-1">
+      <extent>
+        <charseq START="4523" END="4527">a bus</charseq>
+      </extent>
+      <head>
+        <charseq START="4525" END="4527">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-48-2">
+      <extent>
+        <charseq START="5383" END="5385">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="5383" END="5385">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-49" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-49-0">
+      <extent>
+        <charseq START="4415" END="4426">The vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="4419" END="4426">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-50-0">
+      <extent>
+        <charseq START="4543" END="4565">Transportation Displays</charseq>
+      </extent>
+      <head>
+        <charseq START="4543" END="4565">Transportation Displays</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-50-1">
+      <extent>
+        <charseq START="4568" END="4592">the New York City company</charseq>
+      </extent>
+      <head>
+        <charseq START="4586" END="4592">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Transportation Displays">
+        <charseq START="4543" END="4565">Transportation Displays</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-51-0" ROLE="GPE">
+      <extent>
+        <charseq START="4572" END="4584">New York City</charseq>
+      </extent>
+      <head>
+        <charseq START="4572" END="4584">New York City</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-51-1" ROLE="GPE">
+      <extent>
+        <charseq START="5540" END="5552">New York City</charseq>
+      </extent>
+      <head>
+        <charseq START="5540" END="5552">New York City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York City">
+        <charseq START="4572" END="4584">New York City</charseq>
+      </name>
+      <name NAME="New York City">
+        <charseq START="5540" END="5552">New York City</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-52-0">
+      <extent>
+        <charseq START="4726" END="4735">Passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="4726" END="4735">Passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-52-1">
+      <extent>
+        <charseq START="4799" END="4802">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4799" END="4802">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-53-0">
+      <extent>
+        <charseq START="4754" END="4764">pedestrians</charseq>
+      </extent>
+      <head>
+        <charseq START="4754" END="4764">pedestrians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-54-0">
+      <extent>
+        <charseq START="4770" END="4778">motorists</charseq>
+      </extent>
+      <head>
+        <charseq START="4770" END="4778">motorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-55-0">
+      <extent>
+        <charseq START="4836" END="4851">The Phoenix Suns</charseq>
+      </extent>
+      <head>
+        <charseq START="4840" END="4851">Phoenix Suns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-55-1">
+      <extent>
+        <charseq START="5231" END="5237">Phoenix</charseq>
+      </extent>
+      <head>
+        <charseq START="5231" END="5237">Phoenix</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Phoenix Suns">
+        <charseq START="4840" END="4851">Phoenix Suns</charseq>
+      </name>
+      <name NAME="Phoenix">
+        <charseq START="5231" END="5237">Phoenix</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-56" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-56-0" ROLE="GPE">
+      <extent>
+        <charseq START="4878" END="4886">five city</charseq>
+      </extent>
+      <head>
+        <charseq START="4883" END="4886">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-57" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-57-0">
+      <extent>
+        <charseq START="4907" END="4925">the basketball team</charseq>
+      </extent>
+      <head>
+        <charseq START="4922" END="4925">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-58-0">
+      <extent>
+        <charseq START="5018" END="5044">star player
+Charles Barkley</charseq>
+      </extent>
+      <head>
+        <charseq START="5030" END="5044">Charles Barkley</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-58-1">
+      <extent>
+        <charseq START="5023" END="5028">player</charseq>
+      </extent>
+      <head>
+        <charseq START="5023" END="5028">player</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-58-2">
+      <extent>
+        <charseq START="5366" END="5380">Charles Barkley</charseq>
+      </extent>
+      <head>
+        <charseq START="5366" END="5380">Charles Barkley</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Charles Barkley">
+        <charseq START="5030" END="5044">Charles Barkley</charseq>
+      </name>
+      <name NAME="Charles Barkley">
+        <charseq START="5366" END="5380">Charles Barkley</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-59-0">
+      <extent>
+        <charseq START="5075" END="5081">parents</charseq>
+      </extent>
+      <head>
+        <charseq START="5075" END="5081">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-59-1">
+      <extent>
+        <charseq START="5157" END="5160">they</charseq>
+      </extent>
+      <head>
+        <charseq START="5157" END="5160">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-59-2">
+      <extent>
+        <charseq START="5185" END="5188">them</charseq>
+      </extent>
+      <head>
+        <charseq START="5185" END="5188">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-60-0">
+      <extent>
+        <charseq START="5087" END="5098">other
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="5093" END="5098">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-60-1">
+      <extent>
+        <charseq START="5303" END="5308">people</charseq>
+      </extent>
+      <head>
+        <charseq START="5303" END="5308">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-61-0">
+      <extent>
+        <charseq START="5197" END="5206">Andrea Han</charseq>
+      </extent>
+      <head>
+        <charseq START="5197" END="5206">Andrea Han</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-61-1">
+      <extent>
+        <charseq START="5209" END="5221">a spokeswoman</charseq>
+      </extent>
+      <head>
+        <charseq START="5211" END="5221">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Andrea Han">
+        <charseq START="5197" END="5206">Andrea Han</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-62-0">
+      <extent>
+        <charseq START="5465" END="5475">Jim Edwards</charseq>
+      </extent>
+      <head>
+        <charseq START="5465" END="5475">Jim Edwards</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-62-1">
+      <extent>
+        <charseq START="5478" END="5503">a senior account executive</charseq>
+      </extent>
+      <head>
+        <charseq START="5495" END="5503">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jim Edwards">
+        <charseq START="5465" END="5475">Jim Edwards</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-63-0">
+      <extent>
+        <charseq START="5514" END="5525">Cerine Coyne</charseq>
+      </extent>
+      <head>
+        <charseq START="5514" END="5525">Cerine Coyne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cerine Coyne">
+        <charseq START="5514" END="5525">Cerine Coyne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-64-0">
+      <extent>
+        <charseq START="5659" END="5669">our clients</charseq>
+      </extent>
+      <head>
+        <charseq START="5663" END="5669">clients</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_008.0170-64-1">
+      <extent>
+        <charseq START="5748" END="5751">they</charseq>
+      </extent>
+      <head>
+        <charseq START="5748" END="5751">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-65-0">
+      <extent>
+        <charseq START="5685" END="5713">Mr.
+Edwards says.
+@
+
+
+   Odds</charseq>
+      </extent>
+      <head>
+        <charseq START="5689" END="5713">Edwards says.
+@
+
+
+   Odds</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-65-1">
+      <extent>
+        <charseq START="5685" END="5687">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="5685" END="5687">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Edwards says. @      Odds">
+        <charseq START="5689" END="5713">Edwards says.
+@
+
+
+   Odds</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-66-0">
+      <extent>
+        <charseq START="5765" END="5780">Dallas Mavericks</charseq>
+      </extent>
+      <head>
+        <charseq START="5765" END="5780">Dallas Mavericks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dallas Mavericks">
+        <charseq START="5765" END="5780">Dallas Mavericks</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-67-0">
+      <extent>
+        <charseq START="5765" END="5799">Dallas Mavericks basketball
+players</charseq>
+      </extent>
+      <head>
+        <charseq START="5793" END="5799">players</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-68-0">
+      <extent>
+        <charseq START="5801" END="5812">Popeye Jones</charseq>
+      </extent>
+      <head>
+        <charseq START="5801" END="5812">Popeye Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Popeye Jones">
+        <charseq START="5801" END="5812">Popeye Jones</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-69-0">
+      <extent>
+        <charseq START="5818" END="5827">Tim Legler</charseq>
+      </extent>
+      <head>
+        <charseq START="5818" END="5827">Tim Legler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tim Legler">
+        <charseq START="5818" END="5827">Tim Legler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-70" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-70-0">
+      <extent>
+        <charseq START="5849" END="5861">movie
+critics</charseq>
+      </extent>
+      <head>
+        <charseq START="5855" END="5861">critics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-71" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-71-0">
+      <extent>
+        <charseq START="5894" END="5930">the 75 local Blockbuster
+Video stores</charseq>
+      </extent>
+      <head>
+        <charseq START="5925" END="5930">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_008.0170-71-1">
+      <extent>
+        <charseq START="6050" END="6059">the
+stores</charseq>
+      </extent>
+      <head>
+        <charseq START="6054" END="6059">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_008.0170-72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_008.0170-72-0">
+      <extent>
+        <charseq START="5907" END="5923">Blockbuster
+Video</charseq>
+      </extent>
+      <head>
+        <charseq START="5907" END="5923">Blockbuster
+Video</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Blockbuster Video">
+        <charseq START="5907" END="5923">Blockbuster
+Video</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_008.0170-T0" VAL="2016-03-27">
+    <timex2_mention ID="wsj94_008.0170-T0-1">
+      <extent>
+        <charseq START="1775" END="1777">Sun</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_008.0170-T1" VAL="2016-03-27">
+    <timex2_mention ID="wsj94_008.0170-T1-1">
+      <extent>
+        <charseq START="1868" END="1870">Sun</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_008.0170-T2" VAL="2016-09">
+    <timex2_mention ID="wsj94_008.0170-T2-1">
+      <extent>
+        <charseq START="2678" END="2686">September</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_008.0170-T3" VAL="2015">
+    <timex2_mention ID="wsj94_008.0170-T3-1">
+      <extent>
+        <charseq START="3259" END="3267">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_008.0170-T4" VAL="2016-03-28">
+    <timex2_mention ID="wsj94_008.0170-T4-1">
+      <extent>
+        <charseq START="3719" END="3721">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_008.0170-R1" TYPE="RESIDE">
+    <relation_argument REFID="wsj94_008.0170-3" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_008.0170-4" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_008.0170-R1-1">
+      <extent>
+        <charseq START="492" END="525">newspaper editors in 23 major
+U.S.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_008.0170-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="492" END="508">newspaper editors</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_008.0170-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="516" END="525">major
+U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_008.0170-R2" TYPE="RESIDE">
+    <relation_argument REFID="wsj94_008.0170-3" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_008.0170-6" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_008.0170-R2-1">
+      <extent>
+        <charseq START="492" END="545">newspaper editors in 23 major
+U.S. and Canadian cities</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_008.0170-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="492" END="508">newspaper editors</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_008.0170-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="531" END="545">Canadian cities</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_008.0170-R3" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_008.0170-18" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_008.0170-19" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_008.0170-R3-1">
+      <extent>
+        <charseq START="1787" END="1800">El Paso, Texas</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_008.0170-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1787" END="1793">El Paso</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_008.0170-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1796" END="1800">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_008.0170-R4" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_008.0170-25" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_008.0170-26" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_008.0170-R4-1">
+      <extent>
+        <charseq START="2691" END="2706">San Jose,
+Calif.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_008.0170-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2691" END="2698">San Jose</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_008.0170-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2701" END="2706">Calif.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_008.0170-R5" TYPE="RESIDE">
+    <relation_argument REFID="wsj94_008.0170-44" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_008.0170-51" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_008.0170-R5-1">
+      <extent>
+        <charseq START="5510" END="5552">the Cerine Coyne
+ad agency in New York City</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_008.0170-44-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="5510" END="5535">the Cerine Coyne
+ad agency</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_008.0170-51-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5540" END="5552">New York City</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

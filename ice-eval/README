@@ -1,0 +1,19 @@
+June 6, 2016
+
+Evaluating LDP files
+
+There are two widely used evaluation corpora for relation extraction:  ACE and KBP.  Both have substantial annotated corpora.  ACE corpora are annotated with all instances of relations mentioned in the corpus.  KBP corpora are annotated only for selected entities, which makes detection of spurious relations more difficult.  On the other hand, there is greater interest in KBP relations because of the annual TAC conference.
+
+Code for the evaluations is on the CIMS servers at
+/misc/proteus107/grishman/ice-eval
+
+To evaluate a pattern set (set of LDPs) with respect to part of the ACE 2005
+corpus, put this set in file ‘patterns’ and run ‘aceScript’.  This script
+
+— extracts relations using ‘patterns’, writing APF-format files in ‘aceResponseApf’
+
+— converts the relations involving named individuals to triples in file ‘aceResponseTriples’
+
+— scores these triples against ‘aceKeyTriples’
+
+Evaluation against the KBP relations is more complicated for several reasons.  The corpora are much larger, and some of the relations appear very rarely, so we create separate small test corpora for individual relations (this is done by AnalyzeAssessments).  Second, only relations involving selected entities are annotated.  This makes it more difficult to compute precision.  Third, some limited inferences are allowed.  All this processing is included in kbpScript, although test sets have so far been extracted for only 3 KBP relations (born, died, resided).

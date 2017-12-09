@@ -1,0 +1,1070 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20100209.1333.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20100209.1333">
+  <entity ID="APW_ENG_20100209.1333-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-1-0">
+      <extent>
+        <charseq START="103" END="109">Parents</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="109">Parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-2-0">
+      <extent>
+        <charseq START="114" END="117">some</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="117">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-3-0">
+      <extent>
+        <charseq START="122" END="133">the children</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="133">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-3-1">
+      <extent>
+        <charseq START="1303" END="1314">the children</charseq>
+      </extent>
+      <head>
+        <charseq START="1307" END="1314">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-3-2">
+      <extent>
+        <charseq START="1403" END="1414">the children</charseq>
+      </extent>
+      <head>
+        <charseq START="1407" END="1414">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="142" END="145">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="145">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="142" END="145">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="181" END="185">Haiti</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="185">Haiti</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-5-1" ROLE="LOC">
+      <extent>
+        <charseq START="193" END="195">its</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="195">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-5-2" ROLE="LOC">
+      <extent>
+        <charseq START="247" END="250">they</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="250">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-5-3" ROLE="LOC">
+      <extent>
+        <charseq START="271" END="275">their</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="275">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-5-4" ROLE="GPE">
+      <extent>
+        <charseq START="1139" END="1143">Haiti</charseq>
+      </extent>
+      <head>
+        <charseq START="1139" END="1143">Haiti</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-5-5" ROLE="GPE">
+      <extent>
+        <charseq START="1887" END="1893">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="1887" END="1893">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-5-6" ROLE="GPE">
+      <extent>
+        <charseq START="2065" END="2071">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="2065" END="2071">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Haiti">
+        <charseq START="181" END="185">Haiti</charseq>
+      </name>
+      <name NAME="Haiti">
+        <charseq START="1139" END="1143">Haiti</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="1887" END="1893">Haitian</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="2065" END="2071">Haitian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-6-0">
+      <extent>
+        <charseq START="226" END="232">a judge</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="232">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-6-1">
+      <extent>
+        <charseq START="466" END="467">He</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="467">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-6-2">
+      <extent>
+        <charseq START="474" END="475">he</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="475">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-6-3">
+      <extent>
+        <charseq START="491" END="499">the judge</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="499">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-6-4">
+      <extent>
+        <charseq START="611" END="619">the judge</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="619">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-6-5">
+      <extent>
+        <charseq START="670" END="678">The judge</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="678">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-7-0">
+      <extent>
+        <charseq START="271" END="280">their kids</charseq>
+      </extent>
+      <head>
+        <charseq START="277" END="280">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-8-0">
+      <extent>
+        <charseq START="283" END="295">the Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="295">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-8-1">
+      <extent>
+        <charseq START="534" END="546">the Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="538" END="546">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-8-2">
+      <extent>
+        <charseq START="647" END="650">they</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="650">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-8-3">
+      <extent>
+        <charseq START="726" END="738">the Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="738">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-8-4">
+      <extent>
+        <charseq START="781" END="784">them</charseq>
+      </extent>
+      <head>
+        <charseq START="781" END="784">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-8-5">
+      <extent>
+        <charseq START="865" END="877">The Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="869" END="877">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-8-6">
+      <extent>
+        <charseq START="1863" END="1875">The Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="1867" END="1875">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Americans">
+        <charseq START="287" END="295">Americans</charseq>
+      </name>
+      <name NAME="Americans">
+        <charseq START="538" END="546">Americans</charseq>
+      </name>
+      <name NAME="Americans">
+        <charseq START="730" END="738">Americans</charseq>
+      </name>
+      <name NAME="Americans">
+        <charseq START="869" END="877">Americans</charseq>
+      </name>
+      <name NAME="Americans">
+        <charseq START="1867" END="1875">Americans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-9-0">
+      <extent>
+        <charseq START="298" END="303">lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="303">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-10-0">
+      <extent>
+        <charseq START="313" END="323">The parents</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="323">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-11-0">
+      <extent>
+        <charseq START="409" END="420">human beings</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="420">beings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-12-0">
+      <extent>
+        <charseq START="422" END="446">&quot; attorney Aviol Fleurant</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="446">Aviol Fleurant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-12-1">
+      <extent>
+        <charseq START="424" END="431">attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="431">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aviol Fleurant">
+        <charseq START="433" END="446">Aviol Fleurant</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-13-0">
+      <extent>
+        <charseq START="453" END="461">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="461">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-13-1">
+      <extent>
+        <charseq START="699" END="707">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="699" END="707">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-14-0">
+      <extent>
+        <charseq START="526" END="529">Nine</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="529">Nine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-15-0">
+      <extent>
+        <charseq START="559" END="579">an Idaho church group</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="579">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="562" END="566">Idaho</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="566">Idaho</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-16-1" ROLE="GPE">
+      <extent>
+        <charseq START="1238" END="1242">Idaho</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1242">Idaho</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Idaho">
+        <charseq START="562" END="566">Idaho</charseq>
+      </name>
+      <name NAME="Idaho">
+        <charseq START="1238" END="1242">Idaho</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-17-0">
+      <extent>
+        <charseq START="712" END="719">Flaurent</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="719">Flaurent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Flaurent">
+        <charseq START="712" END="719">Flaurent</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-18-0">
+      <extent>
+        <charseq START="757" END="761">court</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="761">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-18-1">
+      <extent>
+        <charseq START="1664" END="1668">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1664" END="1668">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-19-0">
+      <extent>
+        <charseq START="787" END="795">Jim Allen</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="795">Jim Allen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-19-1">
+      <extent>
+        <charseq START="774" END="776">One</charseq>
+      </extent>
+      <head>
+        <charseq START="774" END="776">One</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jim Allen">
+        <charseq START="787" END="795">Jim Allen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="800" END="807">Amarillo</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="807">Amarillo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Amarillo">
+        <charseq START="800" END="807">Amarillo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="810" END="814">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="814">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="810" END="814">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-22-0">
+      <extent>
+        <charseq START="836" END="852">a separate lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="847" END="852">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-23-0">
+      <extent>
+        <charseq START="962" END="972">33 children</charseq>
+      </extent>
+      <head>
+        <charseq START="965" END="972">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="995" END="1012">Dominican Republic</charseq>
+      </extent>
+      <head>
+        <charseq START="995" END="1012">Dominican Republic</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-24-1" ROLE="GPE">
+      <extent>
+        <charseq START="1929" END="1937">Dominican</charseq>
+      </extent>
+      <head>
+        <charseq START="1929" END="1937">Dominican</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dominican Republic">
+        <charseq START="995" END="1012">Dominican Republic</charseq>
+      </name>
+      <name NAME="Dominican">
+        <charseq START="1929" END="1937">Dominican</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-25-0">
+      <extent>
+        <charseq START="1057" END="1080">The Baptist missionaries</charseq>
+      </extent>
+      <head>
+        <charseq START="1069" END="1080">missionaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-25-1">
+      <extent>
+        <charseq START="1086" END="1089">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1086" END="1089">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-25-2">
+      <extent>
+        <charseq START="1198" END="1202">Their</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1202">Their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-25-3">
+      <extent>
+        <charseq START="1531" END="1546">the missionaries</charseq>
+      </extent>
+      <head>
+        <charseq START="1535" END="1546">missionaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-25-4">
+      <extent>
+        <charseq START="1708" END="1723">the missionaries</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1723">missionaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-26-0">
+      <extent>
+        <charseq START="1107" END="1117">a Dominican</charseq>
+      </extent>
+      <head>
+        <charseq START="1109" END="1117">Dominican</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dominican">
+        <charseq START="1109" END="1117">Dominican</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-27-0">
+      <extent>
+        <charseq START="1212" END="1223">Laura Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="1212" END="1223">Laura Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-27-1">
+      <extent>
+        <charseq START="1198" END="1209">Their leader</charseq>
+      </extent>
+      <head>
+        <charseq START="1204" END="1209">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-27-2">
+      <extent>
+        <charseq START="1618" END="1623">Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1623">Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-27-3">
+      <extent>
+        <charseq START="1629" END="1645">the only American</charseq>
+      </extent>
+      <head>
+        <charseq START="1638" END="1645">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-27-4">
+      <extent>
+        <charseq START="1751" END="1756">Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="1751" END="1756">Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-27-5">
+      <extent>
+        <charseq START="1841" END="1843">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1841" END="1843">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Laura Silsby">
+        <charseq START="1212" END="1223">Laura Silsby</charseq>
+      </name>
+      <name NAME="Silsby">
+        <charseq START="1618" END="1623">Silsby</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="1638" END="1645">American</charseq>
+      </name>
+      <name NAME="Silsby">
+        <charseq START="1751" END="1756">Silsby</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-28-0">
+      <extent>
+        <charseq START="1228" END="1235">Meridian</charseq>
+      </extent>
+      <head>
+        <charseq START="1228" END="1235">Meridian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Meridian">
+        <charseq START="1228" END="1235">Meridian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-29-0">
+      <extent>
+        <charseq START="1250" END="1269">The Associated Press</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1269">The Associated Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-29-1">
+      <extent>
+        <charseq START="1285" END="1289">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1285" END="1289">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-29-2">
+      <extent>
+        <charseq START="1421" END="1426">the AP</charseq>
+      </extent>
+      <head>
+        <charseq START="1425" END="1426">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-29-3">
+      <extent>
+        <charseq START="1443" END="1446">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1446">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-29-4">
+      <extent>
+        <charseq START="1455" END="1459">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1459">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="The Associated Press">
+        <charseq START="1250" END="1269">The Associated Press</charseq>
+      </name>
+      <name NAME="AP">
+        <charseq START="1425" END="1426">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-30-0">
+      <extent>
+        <charseq START="1350" END="1366">distant relatives</charseq>
+      </extent>
+      <head>
+        <charseq START="1358" END="1366">relatives</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-30-1">
+      <extent>
+        <charseq START="1588" END="1596">relatives</charseq>
+      </extent>
+      <head>
+        <charseq START="1588" END="1596">relatives</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-30-2">
+      <extent>
+        <charseq START="1610" END="1613">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1610" END="1613">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-31-0">
+      <extent>
+        <charseq START="1380" END="1390">the parents</charseq>
+      </extent>
+      <head>
+        <charseq START="1384" END="1390">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-31-1">
+      <extent>
+        <charseq START="1491" END="1501">The parents</charseq>
+      </extent>
+      <head>
+        <charseq START="1495" END="1501">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-32-0">
+      <extent>
+        <charseq START="1395" END="1398">some</charseq>
+      </extent>
+      <head>
+        <charseq START="1395" END="1398">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-33-0">
+      <extent>
+        <charseq START="1455" END="1470">their youngsters</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1470">youngsters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-34" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-34-0">
+      <extent>
+        <charseq START="1480" END="1488">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1484" END="1488">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-34-1">
+      <extent>
+        <charseq START="1779" END="1787">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1783" END="1787">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-35-0">
+      <extent>
+        <charseq START="1557" END="1564">the kids</charseq>
+      </extent>
+      <head>
+        <charseq START="1561" END="1564">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-36-0">
+      <extent>
+        <charseq START="1681" END="1690">The lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="1685" END="1690">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-36-1">
+      <extent>
+        <charseq START="1878" END="1900">original Haitian lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="1895" END="1900">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-36-2">
+      <extent>
+        <charseq START="2061" END="2078">The Haitian lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2078">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-37" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-37-0">
+      <extent>
+        <charseq START="1767" END="1774">the rest</charseq>
+      </extent>
+      <head>
+        <charseq START="1771" END="1774">rest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-38-0">
+      <extent>
+        <charseq START="1925" END="1946">The Dominican attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="1939" END="1946">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-38-1">
+      <extent>
+        <charseq START="1962" END="1964">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1962" END="1964">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100209.1333-39-0">
+      <extent>
+        <charseq START="1974" END="1984">the Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="1978" END="1984">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Haitian">
+        <charseq START="1978" END="1984">Haitian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-40-0">
+      <extent>
+        <charseq START="2005" END="2017">the detainees</charseq>
+      </extent>
+      <head>
+        <charseq START="2009" END="2017">detainees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20100209.1333-40-1">
+      <extent>
+        <charseq START="2044" END="2048">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2044" END="2048">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100209.1333-41" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100209.1333-41-0">
+      <extent>
+        <charseq START="2031" END="2034">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="2031" END="2034">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20100209.1333-T0" VAL="2010-02-09">
+    <timex2_mention ID="APW_ENG_20100209.1333-T0-1">
+      <extent>
+        <charseq START="234" END="240">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T1" VAL="2010-02-09">
+    <timex2_mention ID="APW_ENG_20100209.1333-T1-1">
+      <extent>
+        <charseq START="587" END="589">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T2" VAL="2010-02-03">
+    <timex2_mention ID="APW_ENG_20100209.1333-T2-1">
+      <extent>
+        <charseq START="763" END="771">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T3" VAL="2010-02-09">
+    <timex2_mention ID="APW_ENG_20100209.1333-T3-1">
+      <extent>
+        <charseq START="854" END="860">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T4" VAL="2010-W05">
+    <timex2_mention ID="APW_ENG_20100209.1333-T4-1">
+      <extent>
+        <charseq START="933" END="941">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T5" VAL="2010-W05">
+    <timex2_mention ID="APW_ENG_20100209.1333-T5-1">
+      <extent>
+        <charseq START="1428" END="1436">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T6" VAL="2010-02-09">
+    <timex2_mention ID="APW_ENG_20100209.1333-T6-1">
+      <extent>
+        <charseq START="1670" END="1676">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T7" VAL="2010-W05">
+    <timex2_mention ID="APW_ENG_20100209.1333-T7-1">
+      <extent>
+        <charseq START="1731" END="1739">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20100209.1333-T8" VAL="2010-02-05">
+    <timex2_mention ID="APW_ENG_20100209.1333-T8-1">
+      <extent>
+        <charseq START="1917" END="1922">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20100209.1333-R1" TYPE="RESIDE">
+    <relation_argument REFID="APW_ENG_20100209.1333-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20100209.1333-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20100209.1333-R1-1">
+      <extent>
+        <charseq START="103" END="145">Parents of some of the children who 10 U.S.</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="103" END="109">Parents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="142" END="145">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20100209.1333-R2" TYPE="RESIDE">
+    <relation_argument REFID="APW_ENG_20100209.1333-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20100209.1333-20" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20100209.1333-R2-1">
+      <extent>
+        <charseq START="787" END="807">Jim Allen of Amarillo</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="787" END="795">Jim Allen</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="800" END="807">Amarillo</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20100209.1333-R3" TYPE="REGIONOF">
+    <relation_argument REFID="APW_ENG_20100209.1333-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20100209.1333-21" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20100209.1333-R3-1">
+      <extent>
+        <charseq START="800" END="814">Amarillo, Texas</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="800" END="807">Amarillo</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20100209.1333-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="810" END="814">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

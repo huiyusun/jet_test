@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_128.0122.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_128.0122">
+  <entity ID="wsj93_128.0122-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-1-0">
+      <extent>
+        <charseq START="188" END="211">PLAZA HOME MORTGAGE Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="211">PLAZA HOME MORTGAGE Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-1-1">
+      <extent>
+        <charseq START="319" END="346">the mortgage banking company</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="346">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-1-2">
+      <extent>
+        <charseq START="402" END="406">Plaza</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="406">Plaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-1-3">
+      <extent>
+        <charseq START="568" END="578">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="578">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="PLAZA HOME MORTGAGE Corp">
+        <charseq START="188" END="211">PLAZA HOME MORTGAGE Corp</charseq>
+      </name>
+      <name NAME="Plaza">
+        <charseq START="402" END="406">Plaza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="215" END="223">Santa Ana</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="223">Santa Ana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Santa Ana">
+        <charseq START="215" END="223">Santa Ana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="226" END="231">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="231">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="226" END="231">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-4-0">
+      <extent>
+        <charseq START="237" END="249">James M. Weld</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="249">James M. Weld</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-4-1">
+      <extent>
+        <charseq START="456" END="463">Mr. Weld</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="463">Weld</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-4-2">
+      <extent>
+        <charseq START="456" END="458">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="458">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="James M. Weld">
+        <charseq START="237" END="249">James M. Weld</charseq>
+      </name>
+      <name NAME="Weld">
+        <charseq START="460" END="463">Weld</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-5-0">
+      <extent>
+        <charseq START="278" END="286">president</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="286">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-5-1">
+      <extent>
+        <charseq START="445" END="453">president</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="453">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-6-0">
+      <extent>
+        <charseq START="292" END="314">chief operating officer</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="314">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0122-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0122-7-0">
+      <extent>
+        <charseq START="349" END="359">Jack French</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="359">Jack French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-7-1">
+      <extent>
+        <charseq START="362" END="369">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="369">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0122-7-2">
+      <extent>
+        <charseq START="375" END="397">chief
+executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="397">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0122-7-3">
+      <extent>
+        <charseq START="490" END="492">his</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="492">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0122-7-4">
+      <extent>
+        <charseq START="524" END="525">he</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="525">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0122-7-5">
+      <extent>
+        <charseq START="555" END="557">his</charseq>
+      </extent>
+      <head>
+        <charseq START="555" END="557">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jack French">
+        <charseq START="349" END="359">Jack French</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_128.0122-T0" VAL="P40Y">
+    <timex2_mention ID="wsj93_128.0122-T0-1">
+      <extent>
+        <charseq START="252" END="259">40 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_128.0122-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj93_128.0122-2" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_128.0122-3" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_128.0122-R1-1">
+      <extent>
+        <charseq START="215" END="231">Santa Ana, Calif.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_128.0122-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="215" END="223">Santa Ana</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_128.0122-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="226" END="231">Calif.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

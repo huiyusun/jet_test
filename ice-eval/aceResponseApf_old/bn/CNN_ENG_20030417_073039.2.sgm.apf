@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030417_073039.2.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030417_073039.2">
+  <entity ID="CNN_ENG_20030417_073039.2-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030417_073039.2-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="124">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="124">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="118" END="124">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="133" END="140">the
+city</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="140">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-3-0">
+      <extent>
+        <charseq START="174" END="179">people</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="179">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-4-0">
+      <extent>
+        <charseq START="252" END="260">engineers</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="260">engineers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-5-0">
+      <extent>
+        <charseq START="286" END="300">two substations</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="300">substations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-6" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-6-0">
+      <extent>
+        <charseq START="306" END="322">six diesel plants</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="322">plants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030417_073039.2-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030417_073039.2-7-0">
+      <extent>
+        <charseq START="351" END="363">the hospitals</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="363">hospitals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030417_073039.2-T0" VAL="2003-04-17">
+    <timex2_mention ID="CNN_ENG_20030417_073039.2-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-17</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030417_073039.2-T1" VAL="2003-04-17">
+    <timex2_mention ID="CNN_ENG_20030417_073039.2-T1-1">
+      <extent>
+        <charseq START="126" END="130">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030417_073039.2-T2" VAL="2003-04-03">
+    <timex2_mention ID="CNN_ENG_20030417_073039.2-T2-1">
+      <extent>
+        <charseq START="152" END="164">two weeks ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

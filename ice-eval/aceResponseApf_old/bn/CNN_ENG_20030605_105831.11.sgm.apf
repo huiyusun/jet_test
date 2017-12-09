@@ -1,0 +1,574 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030605_105831.11.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030605_105831.11">
+  <entity ID="CNN_ENG_20030605_105831.11-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-1-0">
+      <extent>
+        <charseq START="116" END="133">baseball
+officials</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="133">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-2-0">
+      <extent>
+        <charseq START="143" END="154">sam why sosa</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="154">sam why sosa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-2-1">
+      <extent>
+        <charseq START="258" END="260">his</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="260">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-2-2">
+      <extent>
+        <charseq START="290" END="292">him</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="292">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-2-3">
+      <extent>
+        <charseq START="373" END="374">he</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="374">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-2-4">
+      <extent>
+        <charseq START="490" END="493">sosa</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="493">sosa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sam why sosa">
+        <charseq START="143" END="154">sam why sosa</charseq>
+      </name>
+      <name NAME="sosa">
+        <charseq START="490" END="493">sosa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-3-0">
+      <extent>
+        <charseq START="430" END="441">gary tuchman</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="441">gary tuchman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="gary tuchman">
+        <charseq START="430" END="441">gary tuchman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="458" END="464">chicago</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="464">chicago</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chicago">
+        <charseq START="458" END="464">chicago</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-5-0">
+      <extent>
+        <charseq START="511" END="523">wrigley field</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="523">wrigley field</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-5-1">
+      <extent>
+        <charseq START="601" END="609">the field</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="609">field</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-5-2">
+      <extent>
+        <charseq START="652" END="664">wrigley field</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="664">wrigley field</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="wrigley field">
+        <charseq START="511" END="523">wrigley field</charseq>
+      </name>
+      <name NAME="wrigley field">
+        <charseq START="652" END="664">wrigley field</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-6" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-6-0">
+      <extent>
+        <charseq START="579" END="594">the
+chicago cubs</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="594">chicago cubs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chicago cubs">
+        <charseq START="583" END="594">chicago cubs</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-7-0">
+      <extent>
+        <charseq START="619" END="642">the tampa bay devil
+rays</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="642">tampa bay devil
+rays</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-7-1">
+      <extent>
+        <charseq START="704" END="707">them</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="707">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tampa bay devil rays">
+        <charseq START="623" END="642">tampa bay devil
+rays</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-8-0">
+      <extent>
+        <charseq START="670" END="679">sammy sosa</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="679">sammy sosa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-1">
+      <extent>
+        <charseq START="727" END="728">he</charseq>
+      </extent>
+      <head>
+        <charseq START="727" END="728">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-2">
+      <extent>
+        <charseq START="756" END="758">his</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="758">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-3">
+      <extent>
+        <charseq START="911" END="912">he</charseq>
+      </extent>
+      <head>
+        <charseq START="911" END="912">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-8-4">
+      <extent>
+        <charseq START="1651" END="1660">sammy sosa</charseq>
+      </extent>
+      <head>
+        <charseq START="1651" END="1660">sammy sosa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-8-5">
+      <extent>
+        <charseq START="2332" END="2341">sammy sosa</charseq>
+      </extent>
+      <head>
+        <charseq START="2332" END="2341">sammy sosa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-6">
+      <extent>
+        <charseq START="2371" END="2372">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2371" END="2372">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-7">
+      <extent>
+        <charseq START="2379" END="2380">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2379" END="2380">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-8">
+      <extent>
+        <charseq START="2397" END="2398">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2397" END="2398">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-9">
+      <extent>
+        <charseq START="2471" END="2473">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2471" END="2473">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-10">
+      <extent>
+        <charseq START="2490" END="2491">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2490" END="2491">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-8-11">
+      <extent>
+        <charseq START="2531" END="2532">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2531" END="2532">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sammy sosa">
+        <charseq START="670" END="679">sammy sosa</charseq>
+      </name>
+      <name NAME="sammy sosa">
+        <charseq START="1651" END="1660">sammy sosa</charseq>
+      </name>
+      <name NAME="sammy sosa">
+        <charseq START="2332" END="2341">sammy sosa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-9-0">
+      <extent>
+        <charseq START="868" END="878">33,000 fans</charseq>
+      </extent>
+      <head>
+        <charseq START="875" END="878">fans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-10-0">
+      <extent>
+        <charseq START="1039" END="1046">this man</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1046">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-10-1">
+      <extent>
+        <charseq START="1087" END="1088">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1088">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-10-2">
+      <extent>
+        <charseq START="1092" END="1097">a hero</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1097">hero</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-10-3">
+      <extent>
+        <charseq START="2079" END="2081">man</charseq>
+      </extent>
+      <head>
+        <charseq START="2079" END="2081">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-10-4">
+      <extent>
+        <charseq START="2161" END="2165">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="2163" END="2165">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-10-5">
+      <extent>
+        <charseq START="2300" END="2304">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="2302" END="2304">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-11-0">
+      <extent>
+        <charseq START="1105" END="1116">these people</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1116">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-11-1">
+      <extent>
+        <charseq START="1134" END="1136">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1136">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-11-2">
+      <extent>
+        <charseq START="1192" END="1193">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1192" END="1193">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-11-3">
+      <extent>
+        <charseq START="1233" END="1234">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1234">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-11-4">
+      <extent>
+        <charseq START="1528" END="1530">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1530">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-12-0">
+      <extent>
+        <charseq START="1265" END="1275">the
+umpires</charseq>
+      </extent>
+      <head>
+        <charseq START="1269" END="1275">umpires</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-12-1">
+      <extent>
+        <charseq START="1375" END="1378">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1375" END="1378">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-12-2">
+      <extent>
+        <charseq START="1512" END="1515">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1512" END="1515">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-12-3">
+      <extent>
+        <charseq START="1551" END="1554">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1551" END="1554">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-13" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_105831.11-13-0">
+      <extent>
+        <charseq START="1617" END="1637">major league baseball</charseq>
+      </extent>
+      <head>
+        <charseq START="1617" END="1637">major league baseball</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="major league baseball">
+        <charseq START="1617" END="1637">major league baseball</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-14-0">
+      <extent>
+        <charseq START="1748" END="1761">the club house</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1761">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-14-1">
+      <extent>
+        <charseq START="1991" END="2004">the club house</charseq>
+      </extent>
+      <head>
+        <charseq START="2000" END="2004">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-15" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-15-0">
+      <extent>
+        <charseq START="1752" END="1755">club</charseq>
+      </extent>
+      <head>
+        <charseq START="1752" END="1755">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-15-1">
+      <extent>
+        <charseq START="1995" END="1998">club</charseq>
+      </extent>
+      <head>
+        <charseq START="1995" END="1998">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-16-0">
+      <extent>
+        <charseq START="2191" END="2199">the
+media</charseq>
+      </extent>
+      <head>
+        <charseq START="2195" END="2199">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-16-1">
+      <extent>
+        <charseq START="2208" END="2211">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2208" END="2211">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_105831.11-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_105831.11-17-0">
+      <extent>
+        <charseq START="2450" END="2457">the fans</charseq>
+      </extent>
+      <head>
+        <charseq START="2454" END="2457">fans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_105831.11-17-1">
+      <extent>
+        <charseq START="2460" END="2463">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2460" END="2463">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T0" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T1" VAL="PT3H">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T1-1">
+      <extent>
+        <charseq START="558" END="568">three hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T2" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T2-1">
+      <extent>
+        <charseq START="575" END="577">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T3" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T3-1">
+      <extent>
+        <charseq START="749" END="753">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T4" VAL="2003-06-04">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T4-1">
+      <extent>
+        <charseq START="2146" END="2154">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T5" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T5-1">
+      <extent>
+        <charseq START="2201" END="2205">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_105831.11-T6" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_105831.11-T6-1">
+      <extent>
+        <charseq START="2319" END="2321">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

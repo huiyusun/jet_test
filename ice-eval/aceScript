@@ -1,0 +1,6 @@
+#  produce aceResponseApf
+ace props ~/jetx/data/ACE/2005/allSgmList.txt ~/jetx/data/ACE/2005/training/ aceResponseApf/
+#  combine all aceTriples in aceResponseApf folder
+java combineTriples
+#  score aceResponseTripes against aceKeyTriples
+java ScoreAceTriples

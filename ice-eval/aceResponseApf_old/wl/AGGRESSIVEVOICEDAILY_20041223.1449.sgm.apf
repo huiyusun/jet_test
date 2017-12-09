@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AGGRESSIVEVOICEDAILY_20041223.1449.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="AGGRESSIVEVOICEDAILY_20041223.1449">
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-1-0">
+      <extent>
+        <charseq START="125" END="129">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="129">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott">
+        <charseq START="125" END="129">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="196" END="208">the Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="208">Democrats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="433" END="445">the
+Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="445">Democrats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1462" END="1470">Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1470">Democrats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1500" END="1503">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1500" END="1503">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Democrats">
+        <charseq START="200" END="208">Democrats</charseq>
+      </name>
+      <name NAME="Democrats">
+        <charseq START="437" END="445">Democrats</charseq>
+      </name>
+      <name NAME="Democrats">
+        <charseq START="1462" END="1470">Democrats</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-3-0">
+      <extent>
+        <charseq START="237" END="255">the American people</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="255">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-3-1">
+      <extent>
+        <charseq START="1171" END="1173">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1171" END="1173">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-3-2">
+      <extent>
+        <charseq START="1251" END="1252">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1251" END="1252">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-3-3">
+      <extent>
+        <charseq START="1290" END="1292">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1290" END="1292">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-3-4">
+      <extent>
+        <charseq START="1345" END="1347">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1345" END="1347">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="241" END="248">American</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="248">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="241" END="248">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-5-0">
+      <extent>
+        <charseq START="279" END="293">unborn children</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="293">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-5-1">
+      <extent>
+        <charseq START="315" END="319">their</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="319">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="389" END="400">this country</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="400">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-7-0">
+      <extent>
+        <charseq START="502" END="522">the Los
+Angeles Times</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="522">Los
+Angeles Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041223.1449-7-1">
+      <extent>
+        <charseq START="546" END="551">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="546" END="551">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Los Angeles Times">
+        <charseq START="506" END="522">Los
+Angeles Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-8-0">
+      <extent>
+        <charseq START="599" END="618">the Democratic Party</charseq>
+      </extent>
+      <head>
+        <charseq START="603" END="618">Democratic Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-8-1">
+      <extent>
+        <charseq START="995" END="1003">the party</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1003">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Democratic Party">
+        <charseq START="603" END="618">Democratic Party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-9-0">
+      <extent>
+        <charseq START="733" END="738">voters</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="738">voters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-10-0">
+      <extent>
+        <charseq START="794" END="816">the Democratic
+National</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="816">Democratic
+National</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-10-1">
+      <extent>
+        <charseq START="1524" END="1533">Democratic</charseq>
+      </extent>
+      <head>
+        <charseq START="1524" END="1533">Democratic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Democratic National">
+        <charseq START="798" END="816">Democratic
+National</charseq>
+      </name>
+      <name NAME="Democratic">
+        <charseq START="1524" END="1533">Democratic</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-11-0">
+      <extent>
+        <charseq START="840" END="861">two leading candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="861">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-12-0">
+      <extent>
+        <charseq START="864" END="894">former Vermont
+Gov. Howard Dean</charseq>
+      </extent>
+      <head>
+        <charseq START="884" END="894">Howard Dean</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-12-1">
+      <extent>
+        <charseq START="879" END="882">Gov.</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="882">Gov.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-12-2">
+      <extent>
+        <charseq START="1211" END="1221">Howard Dean</charseq>
+      </extent>
+      <head>
+        <charseq START="1211" END="1221">Howard Dean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Howard Dean">
+        <charseq START="884" END="894">Howard Dean</charseq>
+      </name>
+      <name NAME="Howard Dean">
+        <charseq START="1211" END="1221">Howard Dean</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="871" END="877">Vermont</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="877">Vermont</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vermont">
+        <charseq START="871" END="877">Vermont</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-14-0">
+      <extent>
+        <charseq START="931" END="960">former Indiana Rep.
+Tim Roemer</charseq>
+      </extent>
+      <head>
+        <charseq START="951" END="960">Tim Roemer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-14-1">
+      <extent>
+        <charseq START="946" END="949">Rep.</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="949">Rep.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tim Roemer">
+        <charseq START="951" END="960">Tim Roemer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="938" END="944">Indiana</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="944">Indiana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Indiana">
+        <charseq START="938" END="944">Indiana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-16-0">
+      <extent>
+        <charseq START="1171" END="1190">his unraveling party</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1190">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1316" END="1326">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1320" END="1326">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-18-0">
+      <extent>
+        <charseq START="1373" END="1402">course outspoken organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1402">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-19-0">
+      <extent>
+        <charseq START="1412" END="1429">Planned Parenthood</charseq>
+      </extent>
+      <head>
+        <charseq START="1412" END="1429">Planned Parenthood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Planned Parenthood">
+        <charseq START="1412" END="1429">Planned Parenthood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041223.1449-20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041223.1449-20-0">
+      <extent>
+        <charseq START="1687" END="1694">Congress</charseq>
+      </extent>
+      <head>
+        <charseq START="1687" END="1694">Congress</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Congress">
+        <charseq START="1687" END="1694">Congress</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041223.1449-T0" VAL="2004-12-23T14:49:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-T0-1">
+      <extent>
+        <charseq START="50" END="68">2004-12-23T14:49:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041223.1449-T1" VAL="2004-12-23T14:49:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-T1-1">
+      <extent>
+        <charseq START="133" END="151">2004-12-23T14:49:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041223.1449-T2" VAL="2004-11">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-T2-1">
+      <extent>
+        <charseq START="1043" END="1050">November</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

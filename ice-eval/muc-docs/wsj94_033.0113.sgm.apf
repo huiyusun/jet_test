@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_033.0113.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_033.0113">
+  <entity ID="wsj94_033.0113-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-1-0">
+      <extent>
+        <charseq START="421" END="427">Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="427">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Clinton">
+        <charseq START="421" END="427">Clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="520" END="530">Yellowstone</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="530">Yellowstone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yellowstone">
+        <charseq START="520" END="530">Yellowstone</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-3-0">
+      <extent>
+        <charseq START="617" END="628">only smokers</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="628">smokers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-4-0">
+      <extent>
+        <charseq START="703" END="720">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="720">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-5-0">
+      <extent>
+        <charseq START="1232" END="1248">Stanley Collender</charseq>
+      </extent>
+      <head>
+        <charseq START="1232" END="1248">Stanley Collender</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stanley Collender">
+        <charseq START="1232" END="1248">Stanley Collender</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-6-0">
+      <extent>
+        <charseq START="1316" END="1327">Leon Panetta</charseq>
+      </extent>
+      <head>
+        <charseq START="1316" END="1327">Leon Panetta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-6-1">
+      <extent>
+        <charseq START="1330" END="1333">head</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1333">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Leon Panetta">
+        <charseq START="1316" END="1327">Leon Panetta</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-7-0">
+      <extent>
+        <charseq START="1338" END="1372">the Office of Management and Budget</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1372">Office of Management and Budget</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Office of Management and Budget">
+        <charseq START="1342" END="1372">Office of Management and Budget</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="1496" END="1520">congressional
+Republicans</charseq>
+      </extent>
+      <head>
+        <charseq START="1510" END="1520">Republicans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Republicans">
+        <charseq START="1510" END="1520">Republicans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-9-0">
+      <extent>
+        <charseq START="1528" END="1567">Wall Street and pharmaceutical companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1567">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-10-0">
+      <extent>
+        <charseq START="1626" END="1657">the Food and Drug Administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1630" END="1657">Food and Drug Administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-10-1">
+      <extent>
+        <charseq START="1776" END="1778">FDA</charseq>
+      </extent>
+      <head>
+        <charseq START="1776" END="1778">FDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-10-2">
+      <extent>
+        <charseq START="1828" END="1830">FDA</charseq>
+      </extent>
+      <head>
+        <charseq START="1828" END="1830">FDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-10-3">
+      <extent>
+        <charseq START="1966" END="1972">the FDA</charseq>
+      </extent>
+      <head>
+        <charseq START="1970" END="1972">FDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-10-4">
+      <extent>
+        <charseq START="2052" END="2058">The FDA</charseq>
+      </extent>
+      <head>
+        <charseq START="2056" END="2058">FDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_033.0113-10-5">
+      <extent>
+        <charseq START="2075" END="2077">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2075" END="2077">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Food and Drug Administration">
+        <charseq START="1630" END="1657">Food and Drug Administration</charseq>
+      </name>
+      <name NAME="FDA">
+        <charseq START="1776" END="1778">FDA</charseq>
+      </name>
+      <name NAME="FDA">
+        <charseq START="1828" END="1830">FDA</charseq>
+      </name>
+      <name NAME="FDA">
+        <charseq START="1970" END="1972">FDA</charseq>
+      </name>
+      <name NAME="FDA">
+        <charseq START="2056" END="2058">FDA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-11-0">
+      <extent>
+        <charseq START="1700" END="1722">charging drug companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1714" END="1722">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-12-0">
+      <extent>
+        <charseq START="2300" END="2325">all those
+corporate titans</charseq>
+      </extent>
+      <head>
+        <charseq START="2320" END="2325">titans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-13-0">
+      <extent>
+        <charseq START="2343" END="2371">Paramount Communications Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="2343" END="2371">Paramount Communications Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paramount Communications Inc.">
+        <charseq START="2343" END="2371">Paramount Communications Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-14-0">
+      <extent>
+        <charseq START="2568" END="2605">the Securities and Exchange Commission</charseq>
+      </extent>
+      <head>
+        <charseq START="2572" END="2605">Securities and Exchange Commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Securities and Exchange Commission">
+        <charseq START="2572" END="2605">Securities and Exchange Commission</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-15-0">
+      <extent>
+        <charseq START="2693" END="2706">national parks</charseq>
+      </extent>
+      <head>
+        <charseq START="2702" END="2706">parks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-16-0">
+      <extent>
+        <charseq START="2745" END="2755">Gun dealers</charseq>
+      </extent>
+      <head>
+        <charseq START="2749" END="2755">dealers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-17-0">
+      <extent>
+        <charseq START="2849" END="2872">Internal Revenue Service</charseq>
+      </extent>
+      <head>
+        <charseq START="2849" END="2872">Internal Revenue Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Internal Revenue Service">
+        <charseq START="2849" END="2872">Internal Revenue Service</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_033.0113-18-0">
+      <extent>
+        <charseq START="2981" END="3006">the Agriculture Department</charseq>
+      </extent>
+      <head>
+        <charseq START="2985" END="3006">Agriculture Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Agriculture Department">
+        <charseq START="2985" END="3006">Agriculture Department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_033.0113-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_033.0113-19-0">
+      <extent>
+        <charseq START="3059" END="3076">poultry inspectors</charseq>
+      </extent>
+      <head>
+        <charseq START="3067" END="3076">inspectors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_033.0113-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_033.0113-V1-1">
+      <extent>
+        <charseq START="654" END="661">75 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_033.0113-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_033.0113-V2-1">
+      <extent>
+        <charseq START="673" END="680">99 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_033.0113-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_033.0113-V5-1">
+      <extent>
+        <charseq START="2255" END="2256">1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_033.0113-V6" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_033.0113-V6-1">
+      <extent>
+        <charseq START="2292" END="2293">1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_033.0113-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_033.0113-V7-1">
+      <extent>
+        <charseq START="2444" END="2445">1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_033.0113-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_033.0113-V8-1">
+      <extent>
+        <charseq START="2485" END="2486">1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_033.0113-T0" VAL="1995">
+    <timex2_mention ID="wsj94_033.0113-T0-1">
+      <extent>
+        <charseq START="825" END="828">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T1" VAL="1999">
+    <timex2_mention ID="wsj94_033.0113-T1-1">
+      <extent>
+        <charseq START="867" END="870">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T2" VAL="2016-03-27">
+    <timex2_mention ID="wsj94_033.0113-T2-1">
+      <extent>
+        <charseq START="1419" END="1427">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T3" VAL="1995">
+    <timex2_mention ID="wsj94_033.0113-T3-1">
+      <extent>
+        <charseq START="1692" END="1695">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T4" VAL="1995">
+    <timex2_mention ID="wsj94_033.0113-T4-1">
+      <extent>
+        <charseq START="2046" END="2049">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T5" VAL="1995">
+    <timex2_mention ID="wsj94_033.0113-T5-1">
+      <extent>
+        <charseq START="2177" END="2180">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_033.0113-T6" VAL="1995">
+    <timex2_mention ID="wsj94_033.0113-T6-1">
+      <extent>
+        <charseq START="3110" END="3113">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

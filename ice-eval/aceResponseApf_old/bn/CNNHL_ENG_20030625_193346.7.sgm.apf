@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030625_193346.7.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030625_193346.7">
+  <entity ID="CNNHL_ENG_20030625_193346.7-1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-1-0">
+      <extent>
+        <charseq START="69" END="71">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="71">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="69" END="71">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-2-0">
+      <extent>
+        <charseq START="126" END="138">his followers</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="138">followers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030625_193346.7-2-1">
+      <extent>
+        <charseq START="162" END="165">them</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="165">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="177" END="184">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="184">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030625_193346.7-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="190" END="192">its</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="192">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="217" END="220">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="220">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="181" END="184">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="217" END="220">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="190" END="199">its allies</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="199">allies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-5-0">
+      <extent>
+        <charseq START="217" END="241">u.s. and pakistani troops</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="241">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="226" END="234">pakistani</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="234">pakistani</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="380" END="391">the pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="391">pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="pakistani">
+        <charseq START="226" END="234">pakistani</charseq>
+      </name>
+      <name NAME="pakistan">
+        <charseq START="384" END="391">pakistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-7-0">
+      <extent>
+        <charseq START="265" END="275">&apos;s location</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="275">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-8-0">
+      <extent>
+        <charseq START="294" END="313">intelligence sources</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="313">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-9" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="318" END="321">asia</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="321">asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="529" END="532">asia</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="532">asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="asia">
+        <charseq START="318" END="321">asia</charseq>
+      </name>
+      <name NAME="asia">
+        <charseq START="529" END="532">asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-10-0">
+      <extent>
+        <charseq START="352" END="359">couriers</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="359">couriers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-11-0">
+      <extent>
+        <charseq START="366" END="372">an area</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="372">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="393" END="403">afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="403">afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="afghanistan">
+        <charseq START="393" END="403">afghanistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-13" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-13-0">
+      <extent>
+        <charseq START="393" END="410">afghanistan border</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="410">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-14-0">
+      <extent>
+        <charseq START="481" END="488">al qaeda</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="488">al qaeda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="al qaeda">
+        <charseq START="481" END="488">al qaeda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030625_193346.7-15-0">
+      <extent>
+        <charseq START="481" END="496">al qaeda
+members</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="496">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-16" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="501" END="506">africa</charseq>
+      </extent>
+      <head>
+        <charseq START="501" END="506">africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="africa">
+        <charseq START="501" END="506">africa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030625_193346.7-17" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030625_193346.7-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="509" END="523">the middle east</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="523">middle east</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="middle east">
+        <charseq START="513" END="523">middle east</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030625_193346.7-T0" VAL="2003-06-25">
+    <timex2_mention ID="CNNHL_ENG_20030625_193346.7-T0-1">
+      <extent>
+        <charseq START="45" END="54">2003-06-25</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030625_193346.7-T1" VAL="2003-07">
+    <timex2_mention ID="CNNHL_ENG_20030625_193346.7-T1-1">
+      <extent>
+        <charseq START="202" END="214">a month
+later</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNNHL_ENG_20030625_193346.7-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNNHL_ENG_20030625_193346.7-3" ROLE="Arg-1" />
+    <relation_argument REFID="CNNHL_ENG_20030625_193346.7-4" ROLE="Arg-2" />
+      <relation_mention ID="CNNHL_ENG_20030625_193346.7-R1-1">
+      <extent>
+        <charseq START="190" END="199">its allies</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNNHL_ENG_20030625_193346.7-3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="190" END="192">its</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNNHL_ENG_20030625_193346.7-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="190" END="199">its allies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

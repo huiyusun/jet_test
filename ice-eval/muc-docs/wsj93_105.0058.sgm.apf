@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_105.0058.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_105.0058">
+  <entity ID="wsj93_105.0058-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-1-0">
+      <extent>
+        <charseq START="311" END="340">Eastco Industrial Safety Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="340">Eastco Industrial Safety Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-1-1">
+      <extent>
+        <charseq START="646" END="656">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="656">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-1-2">
+      <extent>
+        <charseq START="874" END="879">Eastco</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="879">Eastco</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-1-3">
+      <extent>
+        <charseq START="886" END="887">it</charseq>
+      </extent>
+      <head>
+        <charseq START="886" END="887">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-1-4">
+      <extent>
+        <charseq START="898" END="908">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="902" END="908">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-1-5">
+      <extent>
+        <charseq START="966" END="967">It</charseq>
+      </extent>
+      <head>
+        <charseq START="966" END="967">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-1-6">
+      <extent>
+        <charseq START="1112" END="1117">Eastco</charseq>
+      </extent>
+      <head>
+        <charseq START="1112" END="1117">Eastco</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-1-7">
+      <extent>
+        <charseq START="1128" END="1130">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1128" END="1130">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-1-8">
+      <extent>
+        <charseq START="1157" END="1159">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1159">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-1-9">
+      <extent>
+        <charseq START="1253" END="1263">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1257" END="1263">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-1-10">
+      <extent>
+        <charseq START="1307" END="1317">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="1311" END="1317">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-1-11">
+      <extent>
+        <charseq START="1357" END="1358">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1357" END="1358">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eastco Industrial Safety Corp.">
+        <charseq START="311" END="340">Eastco Industrial Safety Corp.</charseq>
+      </name>
+      <name NAME="Eastco">
+        <charseq START="874" END="879">Eastco</charseq>
+      </name>
+      <name NAME="Eastco">
+        <charseq START="1112" END="1117">Eastco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-2-0">
+      <extent>
+        <charseq START="343" END="360">Huntington Station</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="360">Huntington Station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Huntington Station">
+        <charseq START="343" END="360">Huntington Station</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="363" END="366">N.Y.</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="366">N.Y.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="374" END="375">it</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="375">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="N.Y.">
+        <charseq START="363" END="366">N.Y.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-4-0">
+      <extent>
+        <charseq START="483" END="491">The maker</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="491">maker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_105.0058-4-1">
+      <extent>
+        <charseq START="544" END="546">its</charseq>
+      </extent>
+      <head>
+        <charseq START="544" END="546">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-5-0">
+      <extent>
+        <charseq START="497" END="507">distributor</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="507">distributor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-6-0">
+      <extent>
+        <charseq START="544" END="556">its
+president</charseq>
+      </extent>
+      <head>
+        <charseq START="548" END="556">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-6-1">
+      <extent>
+        <charseq START="669" END="682">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="682">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-6-2">
+      <extent>
+        <charseq START="712" END="720">president</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="720">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-6-3">
+      <extent>
+        <charseq START="793" END="813">senior
+vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="813">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-7-0">
+      <extent>
+        <charseq START="562" END="584">chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="578" END="584">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-8-0">
+      <extent>
+        <charseq START="605" END="618">Joel Poznansky</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="618">Joel Poznansky</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Joel Poznansky">
+        <charseq START="605" END="618">Joel Poznansky</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-9-0">
+      <extent>
+        <charseq START="726" END="748">chief
+executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="748">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-10-0">
+      <extent>
+        <charseq START="762" END="775">Alan E. Densen</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="775">Alan E. Densen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_105.0058-10-1">
+      <extent>
+        <charseq START="816" END="825">Mr. Densen</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="825">Densen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-10-2">
+      <extent>
+        <charseq START="816" END="818">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="816" END="818">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alan E. Densen">
+        <charseq START="762" END="775">Alan E. Densen</charseq>
+      </name>
+      <name NAME="Densen">
+        <charseq START="820" END="825">Densen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-11-0">
+      <extent>
+        <charseq START="844" END="853">a director</charseq>
+      </extent>
+      <head>
+        <charseq START="846" END="853">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-12-0">
+      <extent>
+        <charseq START="859" END="866">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="866">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="1048" END="1062">working capital</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1062">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="1091" END="1109">its working capital</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1109">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-15-0">
+      <extent>
+        <charseq START="1157" END="1176">its principal lender</charseq>
+      </extent>
+      <head>
+        <charseq START="1171" END="1176">lender</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-16-0">
+      <extent>
+        <charseq START="1297" END="1304">the bank</charseq>
+      </extent>
+      <head>
+        <charseq START="1301" END="1304">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_105.0058-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_105.0058-17-0">
+      <extent>
+        <charseq START="1334" END="1349">about 200 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1349">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_105.0058-T0" VAL="1993">
+    <timex2_mention ID="wsj93_105.0058-T0-1">
+      <extent>
+        <charseq START="411" END="414">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_105.0058-T1" VAL="1994">
+    <timex2_mention ID="wsj93_105.0058-T1-1">
+      <extent>
+        <charseq START="472" END="475">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_105.0058-T2" VAL="P35Y">
+    <timex2_mention ID="wsj93_105.0058-T2-1">
+      <extent>
+        <charseq START="621" END="628">35 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_105.0058-T3" VAL="2016-07">
+    <timex2_mention ID="wsj93_105.0058-T3-1">
+      <extent>
+        <charseq START="661" END="664">July</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_105.0058-T4" VAL="1994">
+    <timex2_mention ID="wsj93_105.0058-T4-1">
+      <extent>
+        <charseq START="940" END="943">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_105.0058-T5" VAL="2016-06">
+    <timex2_mention ID="wsj93_105.0058-T5-1">
+      <extent>
+        <charseq START="960" END="963">June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

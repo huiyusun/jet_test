@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_044.0048.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_044.0048">
+  <entity ID="wsj94_044.0048-1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_044.0048-1-0">
+      <extent>
+        <charseq START="253" END="267">McCormick &amp; Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="267">McCormick &amp; Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_044.0048-1-1">
+      <extent>
+        <charseq START="780" END="796">the spice company</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="796">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_044.0048-1-2">
+      <extent>
+        <charseq START="843" END="853">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="847" END="853">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="McCormick &amp; Co.">
+        <charseq START="253" END="267">McCormick &amp; Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_044.0048-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_044.0048-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="278" END="280">Md.</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="280">Md.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Md.">
+        <charseq START="278" END="280">Md.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_044.0048-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_044.0048-3-0">
+      <extent>
+        <charseq START="765" END="777">Bailey Thomas</charseq>
+      </extent>
+      <head>
+        <charseq START="765" END="777">Bailey Thomas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_044.0048-3-1">
+      <extent>
+        <charseq START="797" END="807">&apos;s chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="807">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_044.0048-3-2">
+      <extent>
+        <charseq START="813" END="835">chief executive
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="835">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bailey Thomas">
+        <charseq START="765" END="777">Bailey Thomas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_044.0048-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_044.0048-V1-1">
+      <extent>
+        <charseq START="319" END="321">16%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_044.0048-V2-1">
+      <extent>
+        <charseq START="464" END="471">50
+cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V8" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_044.0048-V8-1">
+      <extent>
+        <charseq START="520" END="527">43 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V11" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_044.0048-V11-1">
+      <extent>
+        <charseq START="549" END="552">1.9%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V13" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_044.0048-V13-1">
+      <extent>
+        <charseq START="641" END="649">two cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V17" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_044.0048-V17-1">
+      <extent>
+        <charseq START="1071" END="1073">23%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V18" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_044.0048-V18-1">
+      <extent>
+        <charseq START="1093" END="1100">89 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_044.0048-V19" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_044.0048-V19-1">
+      <extent>
+        <charseq START="1292" END="1295">5.7%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_044.0048-T0" VAL="1994">
+    <timex2_mention ID="wsj94_044.0048-T0-1">
+      <extent>
+        <charseq START="991" END="994">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

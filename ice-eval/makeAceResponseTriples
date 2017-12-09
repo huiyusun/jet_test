@@ -1,0 +1,2 @@
+\rm aceResponseTriples
+java -cp .:$JET_HOME/jet-all.jar edu.nyu.jet.aceJet.ApfToTriples ~/jetx/data/ACE/2005/training/ aceResponseApf/ ~/jetx/data/ACE/2005/allDocList.txt sgm sgm.apf x > aceResponseTriples

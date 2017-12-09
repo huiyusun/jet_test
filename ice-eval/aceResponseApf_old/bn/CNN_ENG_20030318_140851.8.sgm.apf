@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030318_140851.8.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030318_140851.8">
+  <entity ID="CNN_ENG_20030318_140851.8-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-1-0" ROLE="GPE">
+      <extent>
+        <charseq START="159" END="168">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="168">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-2-0">
+      <extent>
+        <charseq START="245" END="253">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="253">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030318_140851.8-3-0">
+      <extent>
+        <charseq START="322" END="324">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="324">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="322" END="324">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030318_140851.8-4-0">
+      <extent>
+        <charseq START="325" END="338">&apos;s patty davis</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="338">patty davis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="patty davis">
+        <charseq START="328" END="338">patty davis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-5" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030318_140851.8-5-0">
+      <extent>
+        <charseq START="343" END="365">reagan national airport</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="365">reagan national airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-5-1">
+      <extent>
+        <charseq START="1249" END="1259">the airport</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1259">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-5-2">
+      <extent>
+        <charseq START="1308" END="1318">the airport</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1318">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="reagan national airport">
+        <charseq START="343" END="365">reagan national airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-6-0">
+      <extent>
+        <charseq START="377" END="385">travelers</charseq>
+      </extent>
+      <head>
+        <charseq START="377" END="385">travelers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-7" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-7-0">
+      <extent>
+        <charseq START="484" END="491">airports</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="491">airports</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-7-1">
+      <extent>
+        <charseq START="1333" END="1340">airports</charseq>
+      </extent>
+      <head>
+        <charseq START="1333" END="1340">airports</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-7-2">
+      <extent>
+        <charseq START="1323" END="1330">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="1323" END="1330">reporter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="500" END="510">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="510">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-9-0">
+      <extent>
+        <charseq START="640" END="647">homeland</charseq>
+      </extent>
+      <head>
+        <charseq START="640" END="647">homeland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030318_140851.8-10-0">
+      <extent>
+        <charseq START="640" END="672">homeland security chief tom ridge</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="672">tom ridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-10-1">
+      <extent>
+        <charseq START="658" END="662">chief</charseq>
+      </extent>
+      <head>
+        <charseq START="658" END="662">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tom ridge">
+        <charseq START="664" END="672">tom ridge</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-11-0">
+      <extent>
+        <charseq START="730" END="737">the ones</charseq>
+      </extent>
+      <head>
+        <charseq START="734" END="737">ones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-12-0">
+      <extent>
+        <charseq START="791" END="800">the pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="800">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-13" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-13-0">
+      <extent>
+        <charseq START="805" END="816">the cockpits</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="816">cockpits</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-14" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-14-0">
+      <extent>
+        <charseq START="823" END="830">firearms</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="830">firearms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-15" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-15-0">
+      <extent>
+        <charseq START="862" END="868">cockpit</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="868">cockpit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-16-0">
+      <extent>
+        <charseq START="899" END="919">the
+flight attendants</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="919">attendants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-17-0">
+      <extent>
+        <charseq START="931" END="955">more federal air marshals</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="955">marshals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-18-0">
+      <extent>
+        <charseq START="975" END="985">the airline</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="985">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-19" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-19-0">
+      <extent>
+        <charseq START="990" END="1001">the airplane</charseq>
+      </extent>
+      <head>
+        <charseq START="994" END="1001">airplane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030318_140851.8-19-1">
+      <extent>
+        <charseq START="1003" END="1008">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1008">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-20-0">
+      <extent>
+        <charseq START="1072" END="1093">new trained inspectors</charseq>
+      </extent>
+      <head>
+        <charseq START="1084" END="1093">inspectors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-21-0">
+      <extent>
+        <charseq START="1099" END="1108">passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="1099" END="1108">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-22" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-22-0">
+      <extent>
+        <charseq START="1123" END="1129">airport</charseq>
+      </extent>
+      <head>
+        <charseq START="1123" END="1129">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-23-0">
+      <extent>
+        <charseq START="1148" END="1160">the perimeter</charseq>
+      </extent>
+      <head>
+        <charseq START="1152" END="1160">perimeter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030318_140851.8-24" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030318_140851.8-24-0">
+      <extent>
+        <charseq START="1210" END="1217">vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="1210" END="1217">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030318_140851.8-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030318_140851.8-V3-1">
+      <extent>
+        <charseq START="1038" END="1038">%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030318_140851.8-T0" VAL="2003-03-18">
+    <timex2_mention ID="CNN_ENG_20030318_140851.8-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-03-18</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030318_140851.8-T1" VAL="2003-03-18">
+    <timex2_mention ID="CNN_ENG_20030318_140851.8-T1-1">
+      <extent>
+        <charseq START="635" END="637">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,807 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030624_082841.12.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030624_082841.12">
+  <entity ID="CNN_ENG_20030624_082841.12-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-1-0">
+      <extent>
+        <charseq START="102" END="105">jack</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="105">jack</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jack">
+        <charseq START="102" END="105">jack</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-2-0">
+      <extent>
+        <charseq START="136" END="139">bill</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="139">bill</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-2-1">
+      <extent>
+        <charseq START="1579" END="1582">bill</charseq>
+      </extent>
+      <head>
+        <charseq START="1579" END="1582">bill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bill">
+        <charseq START="136" END="139">bill</charseq>
+      </name>
+      <name NAME="bill">
+        <charseq START="1579" END="1582">bill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-3-0">
+      <extent>
+        <charseq START="179" END="197">abc news
+washington</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="197">abc news
+washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="abc news washington">
+        <charseq START="179" END="197">abc news
+washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-4-0">
+      <extent>
+        <charseq START="223" END="241">that most americans</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="241">americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="257" END="260">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="260">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="768" END="775">american</charseq>
+      </extent>
+      <head>
+        <charseq START="768" END="775">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="1213" END="1219">america</charseq>
+      </extent>
+      <head>
+        <charseq START="1213" END="1219">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="257" END="260">u.s.</charseq>
+      </name>
+      <name NAME="american">
+        <charseq START="768" END="775">american</charseq>
+      </name>
+      <name NAME="america">
+        <charseq START="1213" END="1219">america</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="286" END="289">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="289">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="386" END="389">they</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="389">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="402" END="426">military force block iran</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="426">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="417" END="421">block</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="421">block</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="577" END="580">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="580">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="1088" END="1091">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1091">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-6-6" ROLE="GPE">
+      <extent>
+        <charseq START="1097" END="1101">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1101">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-7" ROLE="GPE">
+      <extent>
+        <charseq START="1196" END="1199">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1196" END="1199">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-8" ROLE="GPE">
+      <extent>
+        <charseq START="1376" END="1379">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1376" END="1379">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-9" ROLE="GPE">
+      <extent>
+        <charseq START="1506" END="1509">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1509">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-10" ROLE="GPE">
+      <extent>
+        <charseq START="1615" END="1618">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1615" END="1618">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-6-11" ROLE="GPE">
+      <extent>
+        <charseq START="1802" END="1805">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1802" END="1805">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-6-12" ROLE="GPE">
+      <extent>
+        <charseq START="1810" END="1811">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1810" END="1811">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iran">
+        <charseq START="286" END="289">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="423" END="426">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="577" END="580">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1088" END="1091">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1196" END="1199">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1376" END="1379">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1506" END="1509">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1615" END="1618">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="1802" END="1805">iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="308" END="318">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="318">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-8" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-8-0">
+      <extent>
+        <charseq START="335" END="349">nuclear weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="349">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-9" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-9-0">
+      <extent>
+        <charseq START="444" END="458">nuclear weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="458">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-9-1">
+      <extent>
+        <charseq START="470" END="473">they</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="473">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-10" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-10-0">
+      <extent>
+        <charseq START="598" END="612">nuclear weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="606" END="612">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="685" END="692">oklahoma</charseq>
+      </extent>
+      <head>
+        <charseq START="685" END="692">oklahoma</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="oklahoma">
+        <charseq START="685" END="692">oklahoma</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-12-0">
+      <extent>
+        <charseq START="757" END="759">all</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="759">all</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-12-1">
+      <extent>
+        <charseq START="764" END="782">the american forces</charseq>
+      </extent>
+      <head>
+        <charseq START="777" END="782">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="792" END="795">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="792" END="795">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="1500" END="1503">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1500" END="1503">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-13-2" ROLE="GPE">
+      <extent>
+        <charseq START="1512" END="1513">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1512" END="1513">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-13-3" ROLE="GPE">
+      <extent>
+        <charseq START="1517" END="1531">only one letter</charseq>
+      </extent>
+      <head>
+        <charseq START="1526" END="1531">letter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="792" END="795">iraq</charseq>
+      </name>
+      <name NAME="iraq">
+        <charseq START="1500" END="1503">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="798" END="808">afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="808">afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="afghanistan">
+        <charseq START="798" END="808">afghanistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="811" END="815">korea</charseq>
+      </extent>
+      <head>
+        <charseq START="811" END="815">korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="851" END="855">korea</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="855">korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="korea">
+        <charseq START="811" END="815">korea</charseq>
+      </name>
+      <name NAME="korea">
+        <charseq START="851" END="855">korea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-16" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="818" END="828">the balkans</charseq>
+      </extent>
+      <head>
+        <charseq START="822" END="828">balkans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="889" END="894">russia</charseq>
+      </extent>
+      <head>
+        <charseq START="889" END="894">russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="russia">
+        <charseq START="889" END="894">russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-18-0">
+      <extent>
+        <charseq START="924" END="928">sally</charseq>
+      </extent>
+      <head>
+        <charseq START="924" END="928">sally</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sally">
+        <charseq START="924" END="928">sally</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="933" END="945">daytona beach</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="945">daytona beach</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="daytona beach">
+        <charseq START="933" END="945">daytona beach</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1031" END="1043">the countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1043">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_082841.12-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1056" END="1059">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1059">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-21-0">
+      <extent>
+        <charseq START="1050" END="1054">house</charseq>
+      </extent>
+      <head>
+        <charseq START="1050" END="1054">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-22" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-22-0">
+      <extent>
+        <charseq START="1112" END="1126">nuclear weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1120" END="1126">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-23-0">
+      <extent>
+        <charseq START="1165" END="1177">karen brights</charseq>
+      </extent>
+      <head>
+        <charseq START="1165" END="1177">karen brights</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="karen brights">
+        <charseq START="1165" END="1177">karen brights</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-24-0">
+      <extent>
+        <charseq START="1300" END="1317">the
+united nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1304" END="1317">united nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united nations">
+        <charseq START="1304" END="1317">united nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-25-0">
+      <extent>
+        <charseq START="1320" END="1328">kay jones</charseq>
+      </extent>
+      <head>
+        <charseq START="1320" END="1328">kay jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kay jones">
+        <charseq START="1320" END="1328">kay jones</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1333" END="1341">waterford</charseq>
+      </extent>
+      <head>
+        <charseq START="1333" END="1341">waterford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="waterford">
+        <charseq START="1333" END="1341">waterford</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-27" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1344" END="1354">connecticut</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1354">connecticut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="connecticut">
+        <charseq START="1344" END="1354">connecticut</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-28-0">
+      <extent>
+        <charseq START="1479" END="1488">our troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1483" END="1488">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_082841.12-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1587" END="1593">montana</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1593">montana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="montana">
+        <charseq START="1587" END="1593">montana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-30" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-30-0">
+      <extent>
+        <charseq START="1596" END="1610">nuclear weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1604" END="1610">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-31" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-31-0">
+      <extent>
+        <charseq START="1832" END="1840">that area</charseq>
+      </extent>
+      <head>
+        <charseq START="1837" END="1840">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_082841.12-32" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_082841.12-32-0">
+      <extent>
+        <charseq START="1845" END="1853">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1849" END="1853">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030624_082841.12-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030624_082841.12-V2-1">
+      <extent>
+        <charseq START="377" END="379">56%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030624_082841.12-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030624_082841.12-V3-1">
+      <extent>
+        <charseq START="461" END="463">38%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030624_082841.12-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030624_082841.12-V4-1">
+      <extent>
+        <charseq START="731" END="734">100%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030624_082841.12-T0" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_082841.12-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030624_082841.12-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-6" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-6" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R1-1">
+      <extent>
+        <charseq START="402" END="426">military force block iran</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-6-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="417" END="421">block</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="402" END="426">military force block iran</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030624_082841.12-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-13" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-14" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R2-1">
+      <extent>
+        <charseq START="792" END="808">iraq,
+afghanistan</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="792" END="795">iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="798" END="808">afghanistan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030624_082841.12-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-14" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-15" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R3-1">
+      <extent>
+        <charseq START="798" END="815">afghanistan, korea</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="798" END="808">afghanistan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="811" END="815">korea</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030624_082841.12-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-26" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-27" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R4-1">
+      <extent>
+        <charseq START="1333" END="1354">waterford, connecticut</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1333" END="1341">waterford</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1344" END="1354">connecticut</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030624_082841.12-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-13" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-6" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R5-1">
+      <extent>
+        <charseq START="1500" END="1509">iraq,
+iran</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1500" END="1503">iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-6-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="1506" END="1509">iran</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030624_082841.12-R6" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-13" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030624_082841.12-13" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030624_082841.12-R6-2">
+      <extent>
+        <charseq START="1512" END="1531">it&apos;s only one letter</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-13-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1512" END="1513">it</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030624_082841.12-13-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1517" END="1531">only one letter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="OIADVANTAGE_20050203.1000.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="OIADVANTAGE_20050203.1000">
+  <entity ID="OIADVANTAGE_20050203.1000-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20050203.1000-1-0">
+      <extent>
+        <charseq START="98" END="103">John A</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="103">John A</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John A">
+        <charseq START="98" END="103">John A</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.1000-2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.1000-2-0">
+      <extent>
+        <charseq START="229" END="245">interesting sites</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="245">sites</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.1000-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.1000-3-0">
+      <extent>
+        <charseq START="455" END="471">such good company</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="471">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="OIADVANTAGE_20050203.1000-T0" VAL="2005-02-03T10:00:00">
+    <timex2_mention ID="OIADVANTAGE_20050203.1000-T0-1">
+      <extent>
+        <charseq START="41" END="59">2005-02-03T10:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20050203.1000-T1" VAL="2005-02-03T10:00:00">
+    <timex2_mention ID="OIADVANTAGE_20050203.1000-T1-1">
+      <extent>
+        <charseq START="107" END="125">2005-02-03T10:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20050203.1000-T2" VAL="2005">
+    <timex2_mention ID="OIADVANTAGE_20050203.1000-T2-1">
+      <extent>
+        <charseq START="132" END="135">2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20050203.1000-T3" VAL="2005-02-03">
+    <timex2_mention ID="OIADVANTAGE_20050203.1000-T3-1">
+      <extent>
+        <charseq START="166" END="168">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

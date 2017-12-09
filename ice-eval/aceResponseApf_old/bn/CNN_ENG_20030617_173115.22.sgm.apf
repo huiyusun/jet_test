@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030617_173115.22.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030617_173115.22">
+  <entity ID="CNN_ENG_20030617_173115.22-1" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-1-0">
+      <extent>
+        <charseq START="72" END="80">the coast</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="80">coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-2" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-2-0">
+      <extent>
+        <charseq START="113" END="130">a cruise ship
+ship</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="130">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-2-1">
+      <extent>
+        <charseq START="122" END="125">ship</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="125">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-2-2">
+      <extent>
+        <charseq START="570" END="577">the ship</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="577">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-2-3">
+      <extent>
+        <charseq START="861" END="893">the royal caribbean cruise ship
+&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="891">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.22-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="133" END="138">canada</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="138">canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="canada">
+        <charseq START="133" END="138">canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-4" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-4-0">
+      <extent>
+        <charseq START="282" END="307">their sinking niching
+boat</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="307">boat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-5-0">
+      <extent>
+        <charseq START="310" END="317">the crew</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="317">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-6" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-6-0">
+      <extent>
+        <charseq START="417" END="431">the engine room</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="431">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030617_173115.22-6-1">
+      <extent>
+        <charseq START="437" END="438">it</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="438">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.22-7-0">
+      <extent>
+        <charseq START="865" END="879">royal caribbean</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="879">royal caribbean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="royal caribbean">
+        <charseq START="865" END="879">royal caribbean</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-8" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-8-0">
+      <extent>
+        <charseq START="894" END="902">raidience</charseq>
+      </extent>
+      <head>
+        <charseq START="894" END="902">raidience</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-9" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-9-0">
+      <extent>
+        <charseq START="963" END="977">the rough ocean</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="977">ocean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-10-0">
+      <extent>
+        <charseq START="984" END="990">captain</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="990">captain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-10-1">
+      <extent>
+        <charseq START="1248" END="1254">captain</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1254">captain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-10-2">
+      <extent>
+        <charseq START="1265" END="1271">captain</charseq>
+      </extent>
+      <head>
+        <charseq START="1265" END="1271">captain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-11" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-11-0">
+      <extent>
+        <charseq START="1009" END="1014">a
+boat</charseq>
+      </extent>
+      <head>
+        <charseq START="1011" END="1014">boat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-11-1">
+      <extent>
+        <charseq START="1166" END="1173">the boat</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1173">boat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-12" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-12-0">
+      <extent>
+        <charseq START="1088" END="1094">the sea</charseq>
+      </extent>
+      <head>
+        <charseq START="1092" END="1094">sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-13-0">
+      <extent>
+        <charseq START="1110" END="1121">the rescuers</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1121">rescuers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.22-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.22-14-0">
+      <extent>
+        <charseq START="1191" END="1206">the youngest guy</charseq>
+      </extent>
+      <head>
+        <charseq START="1204" END="1206">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030617_173115.22-T0" VAL="2003-06-17">
+    <timex2_mention ID="CNN_ENG_20030617_173115.22-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-17</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

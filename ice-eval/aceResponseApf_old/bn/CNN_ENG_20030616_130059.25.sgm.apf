@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030616_130059.25.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030616_130059.25">
+  <entity ID="CNN_ENG_20030616_130059.25-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030616_130059.25-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="97" END="104">new york</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="104">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="97" END="104">new york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030616_130059.25-2-0">
+      <extent>
+        <charseq START="105" END="127">&apos;s manufacturing
+sector</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="127">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030616_130059.25-3-0">
+      <extent>
+        <charseq START="284" END="296">manufacturers</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="296">manufacturers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030616_130059.25-4-0">
+      <extent>
+        <charseq START="305" END="315">caterpillar</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="315">caterpillar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030616_130059.25-5-0">
+      <extent>
+        <charseq START="329" END="333">merck</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="333">merck</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="merck">
+        <charseq START="329" END="333">merck</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030616_130059.25-6-0">
+      <extent>
+        <charseq START="339" END="355">johnson &amp; johnson</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="355">johnson &amp; johnson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="johnson &amp; johnson">
+        <charseq START="339" END="355">johnson &amp; johnson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030616_130059.25-7-0">
+      <extent>
+        <charseq START="429" END="433">kmart</charseq>
+      </extent>
+      <head>
+        <charseq START="429" END="433">kmart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030616_130059.25-7-1">
+      <extent>
+        <charseq START="458" END="459">it</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="459">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kmart">
+        <charseq START="429" END="433">kmart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030616_130059.25-8-0">
+      <extent>
+        <charseq START="529" END="540">the retailer</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="540">retailer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030616_130059.25-9" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030616_130059.25-9-0">
+      <extent>
+        <charseq START="626" END="636">wall
+street</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="636">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030616_130059.25-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030616_130059.25-V1-1">
+      <extent>
+        <charseq START="393" END="406">more than 1.5%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030616_130059.25-T0" VAL="2003-06-16">
+    <timex2_mention ID="CNN_ENG_20030616_130059.25-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030616_130059.25-T1" VAL="2003-06-16">
+    <timex2_mention ID="CNN_ENG_20030616_130059.25-T1-1">
+      <extent>
+        <charseq START="162" END="166">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030616_130059.25-T2" VAL="2003-06-16">
+    <timex2_mention ID="CNN_ENG_20030616_130059.25-T2-1">
+      <extent>
+        <charseq START="175" END="177">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030616_130059.25-T3" VAL="2002-06-16">
+    <timex2_mention ID="CNN_ENG_20030616_130059.25-T3-1">
+      <extent>
+        <charseq START="546" END="555">a year ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

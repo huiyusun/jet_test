@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_CF_20030305.1900.00-2.sgm" SOURCE="broadcast conversation" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_CF_20030305.1900.00-2">
+  <entity ID="CNN_CF_20030305.1900.00-2-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-1-0">
+      <extent>
+        <charseq START="196" END="201">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="201">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-1-1">
+      <extent>
+        <charseq START="716" END="717">he</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="717">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-1-2">
+      <extent>
+        <charseq START="1487" END="1492">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1492">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-1-3">
+      <extent>
+        <charseq START="1675" END="1676">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1675" END="1676">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-1-4">
+      <extent>
+        <charseq START="1758" END="1763">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="1758" END="1763">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-1-5">
+      <extent>
+        <charseq START="1913" END="1918">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="1913" END="1918">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BEGALA">
+        <charseq START="196" END="201">BEGALA</charseq>
+      </name>
+      <name NAME="BEGALA">
+        <charseq START="1487" END="1492">BEGALA</charseq>
+      </name>
+      <name NAME="BEGALA">
+        <charseq START="1758" END="1763">BEGALA</charseq>
+      </name>
+      <name NAME="BEGALA">
+        <charseq START="1913" END="1918">BEGALA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-2-0">
+      <extent>
+        <charseq START="253" END="269">the liberal media</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="269">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-3-0">
+      <extent>
+        <charseq START="293" END="297">MSNBC</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="297">MSNBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-3-1">
+      <extent>
+        <charseq START="300" END="323">an obscure cable channel</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="323">channel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-3-2">
+      <extent>
+        <charseq START="362" END="364">its</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="364">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-3-3">
+      <extent>
+        <charseq START="1903" END="1907">MSNBC</charseq>
+      </extent>
+      <head>
+        <charseq START="1903" END="1907">MSNBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-3-4">
+      <extent>
+        <charseq START="1928" END="1931">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1928" END="1931">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MSNBC">
+        <charseq START="293" END="297">MSNBC</charseq>
+      </name>
+      <name NAME="MSNBC">
+        <charseq START="1903" END="1907">MSNBC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-4-0">
+      <extent>
+        <charseq START="336" END="347">Phil Donahue</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="347">Phil Donahue</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-4-1">
+      <extent>
+        <charseq START="350" END="357">the host</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="357">host</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-4-2">
+      <extent>
+        <charseq START="517" END="539">the liberal Mr. Donahue</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="539">Donahue</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-4-3">
+      <extent>
+        <charseq START="529" END="531">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="531">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-4-4">
+      <extent>
+        <charseq START="867" END="878">Phil Donahue</charseq>
+      </extent>
+      <head>
+        <charseq START="867" END="878">Phil Donahue</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-4-5">
+      <extent>
+        <charseq START="898" END="899">he</charseq>
+      </extent>
+      <head>
+        <charseq START="898" END="899">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-4-6">
+      <extent>
+        <charseq START="903" END="911">a liberal</charseq>
+      </extent>
+      <head>
+        <charseq START="905" END="911">liberal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-4-7">
+      <extent>
+        <charseq START="923" END="938">the only liberal</charseq>
+      </extent>
+      <head>
+        <charseq START="932" END="938">liberal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-4-8">
+      <extent>
+        <charseq START="1113" END="1124">Phil Donahue</charseq>
+      </extent>
+      <head>
+        <charseq START="1113" END="1124">Phil Donahue</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-4-9">
+      <extent>
+        <charseq START="1144" END="1146">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1144" END="1146">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-4-10">
+      <extent>
+        <charseq START="1167" END="1169">His</charseq>
+      </extent>
+      <head>
+        <charseq START="1167" END="1169">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-4-11">
+      <extent>
+        <charseq START="1233" END="1244">Phil
+Donahue</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1244">Phil
+Donahue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Phil Donahue">
+        <charseq START="336" END="347">Phil Donahue</charseq>
+      </name>
+      <name NAME="Donahue">
+        <charseq START="533" END="539">Donahue</charseq>
+      </name>
+      <name NAME="Phil Donahue">
+        <charseq START="867" END="878">Phil Donahue</charseq>
+      </name>
+      <name NAME="Phil Donahue">
+        <charseq START="1113" END="1124">Phil Donahue</charseq>
+      </name>
+      <name NAME="Phil Donahue">
+        <charseq START="1233" END="1244">Phil
+Donahue</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-0">
+      <extent>
+        <charseq START="405" END="407">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="407">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-1">
+      <extent>
+        <charseq START="492" END="494">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="494">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-2">
+      <extent>
+        <charseq START="573" END="575">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="573" END="575">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-3">
+      <extent>
+        <charseq START="623" END="625">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="625">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-4">
+      <extent>
+        <charseq START="862" END="864">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="864">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-5">
+      <extent>
+        <charseq START="971" END="973">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="973">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-5-6">
+      <extent>
+        <charseq START="990" END="999">a
+division</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="999">division</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-5-7">
+      <extent>
+        <charseq START="1031" END="1034">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1034">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-5-8">
+      <extent>
+        <charseq START="1615" END="1617">NBC</charseq>
+      </extent>
+      <head>
+        <charseq START="1615" END="1617">NBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NBC">
+        <charseq START="405" END="407">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="492" END="494">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="573" END="575">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="623" END="625">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="862" END="864">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="971" END="973">NBC</charseq>
+      </name>
+      <name NAME="NBC">
+        <charseq START="1615" END="1617">NBC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-6-0">
+      <extent>
+        <charseq START="464" END="482">The Washington Post</charseq>
+      </extent>
+      <head>
+        <charseq START="468" END="482">Washington Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington Post">
+        <charseq START="468" END="482">Washington Post</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-7-0">
+      <extent>
+        <charseq START="492" END="503">NBC
+big wigs</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="503">wigs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-8-0">
+      <extent>
+        <charseq START="651" END="665">our competitors</charseq>
+      </extent>
+      <head>
+        <charseq START="655" END="665">competitors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-9-0">
+      <extent>
+        <charseq START="750" END="755">guests</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="755">guests</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-10-0">
+      <extent>
+        <charseq START="802" END="819">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="819">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-11-0">
+      <extent>
+        <charseq START="1004" END="1022">the conglomerate GE</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1022">GE</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-11-1">
+      <extent>
+        <charseq START="1008" END="1019">conglomerate</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1019">conglomerate</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-11-2">
+      <extent>
+        <charseq START="1645" END="1660">General Electric</charseq>
+      </extent>
+      <head>
+        <charseq START="1645" END="1660">General Electric</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="GE">
+        <charseq START="1021" END="1022">GE</charseq>
+      </name>
+      <name NAME="General Electric">
+        <charseq START="1645" END="1660">General Electric</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-12-0">
+      <extent>
+        <charseq START="1088" END="1094">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1094">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-12-1">
+      <extent>
+        <charseq START="1724" END="1730">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1724" END="1730">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-12-2">
+      <extent>
+        <charseq START="1867" END="1873">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1867" END="1873">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CARLSON">
+        <charseq START="1088" END="1094">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1724" END="1730">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1867" END="1873">CARLSON</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-13-0">
+      <extent>
+        <charseq START="1247" END="1260">Delightful guy</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1260">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-13-1">
+      <extent>
+        <charseq START="1267" END="1269">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1269">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-14-0">
+      <extent>
+        <charseq START="1344" END="1366">liberal talk show hosts</charseq>
+      </extent>
+      <head>
+        <charseq START="1362" END="1366">hosts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.00-2-15-0">
+      <extent>
+        <charseq START="1400" END="1404">James</charseq>
+      </extent>
+      <head>
+        <charseq START="1400" END="1404">James</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="James">
+        <charseq START="1400" END="1404">James</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-16-0">
+      <extent>
+        <charseq START="1641" END="1672">the General Electric corporation</charseq>
+      </extent>
+      <head>
+        <charseq START="1662" END="1672">corporation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-17-0">
+      <extent>
+        <charseq START="1645" END="1651">General</charseq>
+      </extent>
+      <head>
+        <charseq START="1645" END="1651">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-18-0">
+      <extent>
+        <charseq START="1708" END="1718">the
+network</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1718">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-19-0">
+      <extent>
+        <charseq START="1858" END="1861">me..</charseq>
+      </extent>
+      <head>
+        <charseq START="1858" END="1861">me..</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.00-2-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.00-2-20-0">
+      <extent>
+        <charseq START="1948" END="1952">a guy</charseq>
+      </extent>
+      <head>
+        <charseq START="1950" END="1952">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.00-2-20-1">
+      <extent>
+        <charseq START="1958" END="1960">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1958" END="1960">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_CF_20030305.1900.00-2-T0" VAL="2003-03-05T19:00:00">
+    <timex2_mention ID="CNN_CF_20030305.1900.00-2-T0-1">
+      <extent>
+        <charseq START="38" END="56">2003-03-05T19:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_CF_20030305.1900.00-2-T1" VAL="2003-03-05">
+    <timex2_mention ID="CNN_CF_20030305.1900.00-2-T1-1">
+      <extent>
+        <charseq START="454" END="458">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

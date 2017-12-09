@@ -1,0 +1,11 @@
+Entropy (100):
+Itr	Recall	Precision
+0	0.1250	0.0809
+1	0.2116	0.09
+2	0.2316	0.0921
+5	0.25	0.0915
+
+Gen-Aff recall grows faster than the others because it has a lot of shared arg1-arg2 pairs with Org-Aff and Part-Whole, therefore it is easier to get more recall.
+On the other hand, precision is much lower compared to the other two for the same reason.	
+
+low precision because once Per-gpe is introduced, it mis tags a lot of Org-aff and phys as gen-aff, causing the big drop in precision.

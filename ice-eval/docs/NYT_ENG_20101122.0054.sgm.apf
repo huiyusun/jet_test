@@ -1,0 +1,1754 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20101122.0054.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20101122.0054">
+  <entity ID="NYT_ENG_20101122.0054-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-1-0">
+      <extent>
+        <charseq START="142" END="158">A Christian woman</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="158">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="144" END="152">Christian</charseq>
+      </extent>
+      <head>
+        <charseq START="144" END="152">Christian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="2069" END="2079">a Christian</charseq>
+      </extent>
+      <head>
+        <charseq START="2071" END="2079">Christian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="2209" END="2219">a Christian</charseq>
+      </extent>
+      <head>
+        <charseq START="2211" END="2219">Christian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Christian">
+        <charseq START="144" END="152">Christian</charseq>
+      </name>
+      <name NAME="Christian">
+        <charseq START="2071" END="2079">Christian</charseq>
+      </name>
+      <name NAME="Christian">
+        <charseq START="2211" END="2219">Christian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-3-0">
+      <extent>
+        <charseq START="190" END="206">a municipal court</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="206">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-4-0">
+      <extent>
+        <charseq START="278" END="290">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="290">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-5-0">
+      <extent>
+        <charseq START="293" END="320">a senior government
+official</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="320">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-0">
+      <extent>
+        <charseq START="337" END="345">Asia Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="345">Asia Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-6-1">
+      <extent>
+        <charseq START="352" END="373">an agricultural worker</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="373">worker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-6-2">
+      <extent>
+        <charseq START="379" END="384">mother</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="384">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-6-3">
+      <extent>
+        <charseq START="398" END="412">the
+first woman</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="412">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-4">
+      <extent>
+        <charseq START="547" END="550">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="550">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-5">
+      <extent>
+        <charseq START="766" END="769">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="769">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-6">
+      <extent>
+        <charseq START="803" END="805">she</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="805">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-7">
+      <extent>
+        <charseq START="865" END="868">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="868">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-8">
+      <extent>
+        <charseq START="920" END="923">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="920" END="923">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-9">
+      <extent>
+        <charseq START="1208" END="1211">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="1208" END="1211">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-10">
+      <extent>
+        <charseq START="1214" END="1224">a Christian</charseq>
+      </extent>
+      <head>
+        <charseq START="1216" END="1224">Christian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-11">
+      <extent>
+        <charseq START="1267" END="1269">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1269">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-12">
+      <extent>
+        <charseq START="1325" END="1327">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1325" END="1327">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-13">
+      <extent>
+        <charseq START="1363" END="1365">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1365">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-14">
+      <extent>
+        <charseq START="1462" END="1464">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1464">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-15">
+      <extent>
+        <charseq START="1484" END="1486">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1484" END="1486">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-16">
+      <extent>
+        <charseq START="2405" END="2408">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="2405" END="2408">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-17">
+      <extent>
+        <charseq START="3359" END="3362">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="3359" END="3362">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-6-18">
+      <extent>
+        <charseq START="3455" END="3457">her</charseq>
+      </extent>
+      <head>
+        <charseq START="3455" END="3457">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-6-19">
+      <extent>
+        <charseq START="4996" END="4999">Bibi</charseq>
+      </extent>
+      <head>
+        <charseq START="4996" END="4999">Bibi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia Bibi">
+        <charseq START="337" END="345">Asia Bibi</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="547" END="550">Bibi</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="766" END="769">Bibi</charseq>
+      </name>
+      <name NAME="Asia">
+        <charseq START="865" END="868">Asia</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="920" END="923">Bibi</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="1208" END="1211">Bibi</charseq>
+      </name>
+      <name NAME="Christian">
+        <charseq START="1216" END="1224">Christian</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="2405" END="2408">Bibi</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="3359" END="3362">Bibi</charseq>
+      </name>
+      <name NAME="Bibi">
+        <charseq START="4996" END="4999">Bibi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-7-0">
+      <extent>
+        <charseq START="467" END="485">human rights groups</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="485">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-0">
+      <extent>
+        <charseq START="490" END="503">Salmaan Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="503">Salmaan Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-8-1">
+      <extent>
+        <charseq START="506" END="517">the governor</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="517">governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-8-2">
+      <extent>
+        <charseq START="603" END="604">he</charseq>
+      </extent>
+      <head>
+        <charseq START="603" END="604">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-3">
+      <extent>
+        <charseq START="707" END="712">Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="712">Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-8-4">
+      <extent>
+        <charseq START="715" END="730">a political ally</charseq>
+      </extent>
+      <head>
+        <charseq START="727" END="730">ally</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-5">
+      <extent>
+        <charseq START="888" END="893">Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="893">Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-6">
+      <extent>
+        <charseq START="2555" END="2560">Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="2555" END="2560">Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-7">
+      <extent>
+        <charseq START="4715" END="4720">Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="4715" END="4720">Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-8-8">
+      <extent>
+        <charseq START="4891" END="4896">Taseer</charseq>
+      </extent>
+      <head>
+        <charseq START="4891" END="4896">Taseer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-8-9">
+      <extent>
+        <charseq START="5058" END="5059">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5058" END="5059">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Salmaan Taseer">
+        <charseq START="490" END="503">Salmaan Taseer</charseq>
+      </name>
+      <name NAME="Taseer">
+        <charseq START="707" END="712">Taseer</charseq>
+      </name>
+      <name NAME="Taseer">
+        <charseq START="888" END="893">Taseer</charseq>
+      </name>
+      <name NAME="Taseer">
+        <charseq START="2555" END="2560">Taseer</charseq>
+      </name>
+      <name NAME="Taseer">
+        <charseq START="4715" END="4720">Taseer</charseq>
+      </name>
+      <name NAME="Taseer">
+        <charseq START="4891" END="4896">Taseer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="522" END="536">Punjab province</charseq>
+      </extent>
+      <head>
+        <charseq START="522" END="536">Punjab province</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Punjab province">
+        <charseq START="522" END="536">Punjab province</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-10-0">
+      <extent>
+        <charseq START="569" END="572">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="569" END="572">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-10-1">
+      <extent>
+        <charseq START="3724" END="3727">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="3724" END="3727">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-11-0">
+      <extent>
+        <charseq START="667" END="692">President Asif Ali
+Zardari</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="692">Asif Ali
+Zardari</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-1">
+      <extent>
+        <charseq START="667" END="675">President</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="675">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-11-2">
+      <extent>
+        <charseq START="735" END="741">Zardari</charseq>
+      </extent>
+      <head>
+        <charseq START="735" END="741">Zardari</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-11-3">
+      <extent>
+        <charseq START="749" END="750">he</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="750">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-4">
+      <extent>
+        <charseq START="839" END="851">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="851">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-11-5">
+      <extent>
+        <charseq START="2509" END="2525">President Zardari</charseq>
+      </extent>
+      <head>
+        <charseq START="2519" END="2525">Zardari</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-6">
+      <extent>
+        <charseq START="2509" END="2517">President</charseq>
+      </extent>
+      <head>
+        <charseq START="2509" END="2517">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-7">
+      <extent>
+        <charseq START="2578" END="2590">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="2582" END="2590">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-8">
+      <extent>
+        <charseq START="2649" END="2661">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="2653" END="2661">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-11-9">
+      <extent>
+        <charseq START="2678" END="2690">The president</charseq>
+      </extent>
+      <head>
+        <charseq START="2682" END="2690">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asif Ali Zardari">
+        <charseq START="677" END="692">Asif Ali
+Zardari</charseq>
+      </name>
+      <name NAME="Zardari">
+        <charseq START="735" END="741">Zardari</charseq>
+      </name>
+      <name NAME="Zardari">
+        <charseq START="2519" END="2525">Zardari</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-12-0">
+      <extent>
+        <charseq START="934" END="943">the fields</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="943">fields</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-13-0">
+      <extent>
+        <charseq START="948" END="957">Ittan Wali</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="957">Ittan Wali</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-13-1">
+      <extent>
+        <charseq START="960" END="968">a
+village</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="968">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-13-2">
+      <extent>
+        <charseq START="1054" END="1056">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1054" END="1056">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-13-3">
+      <extent>
+        <charseq START="1073" END="1075">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1075">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ittan Wali">
+        <charseq START="948" END="957">Ittan Wali</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="999" END="1004">Lahore</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1004">Lahore</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-14-1" ROLE="GPE">
+      <extent>
+        <charseq START="987" END="994">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="991" END="994">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lahore">
+        <charseq START="999" END="1004">Lahore</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-15-0">
+      <extent>
+        <charseq START="1012" END="1031">agricultural
+workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1025" END="1031">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-16-0">
+      <extent>
+        <charseq START="1095" END="1104">a landlord</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1104">landlord</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-17-0">
+      <extent>
+        <charseq START="1125" END="1135">the workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1129" END="1135">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-17-1">
+      <extent>
+        <charseq START="1149" END="1165">The other workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1159" END="1165">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-18-0">
+      <extent>
+        <charseq START="1280" END="1290">Ashiq Masih</charseq>
+      </extent>
+      <head>
+        <charseq START="1280" END="1290">Ashiq Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-18-1">
+      <extent>
+        <charseq START="1267" END="1277">her husband</charseq>
+      </extent>
+      <head>
+        <charseq START="1271" END="1277">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-18-2">
+      <extent>
+        <charseq START="1389" END="1393">Masih</charseq>
+      </extent>
+      <head>
+        <charseq START="1389" END="1393">Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-18-3">
+      <extent>
+        <charseq START="1396" END="1404">a laborer</charseq>
+      </extent>
+      <head>
+        <charseq START="1398" END="1404">laborer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ashiq Masih">
+        <charseq START="1280" END="1290">Ashiq Masih</charseq>
+      </name>
+      <name NAME="Masih">
+        <charseq START="1389" END="1393">Masih</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-19-0">
+      <extent>
+        <charseq START="1333" END="1335">men</charseq>
+      </extent>
+      <head>
+        <charseq START="1333" END="1335">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-19-1">
+      <extent>
+        <charseq START="1441" END="1444">They</charseq>
+      </extent>
+      <head>
+        <charseq START="1441" END="1444">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-19-2">
+      <extent>
+        <charseq START="2036" END="2038">men</charseq>
+      </extent>
+      <head>
+        <charseq START="2036" END="2038">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-20-0">
+      <extent>
+        <charseq START="1341" END="1345">women</charseq>
+      </extent>
+      <head>
+        <charseq START="1341" END="1345">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-21-0">
+      <extent>
+        <charseq START="1524" END="1543">the Prophet Muhammad</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1543">Prophet Muhammad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-21-1">
+      <extent>
+        <charseq START="1547" END="1548">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1547" END="1548">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Prophet Muhammad">
+        <charseq START="1528" END="1543">Prophet Muhammad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-22-0">
+      <extent>
+        <charseq START="1558" END="1562">A mob</charseq>
+      </extent>
+      <head>
+        <charseq START="1560" END="1562">mob</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-22-1">
+      <extent>
+        <charseq START="1572" END="1574">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1572" END="1574">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-22-2">
+      <extent>
+        <charseq START="1618" END="1620">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1620">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-22-3">
+      <extent>
+        <charseq START="1664" END="1665">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1664" END="1665">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-22-4">
+      <extent>
+        <charseq START="1708" END="1709">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1708" END="1709">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-23-0">
+      <extent>
+        <charseq START="1572" END="1579">his wife</charseq>
+      </extent>
+      <head>
+        <charseq START="1576" END="1579">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-24-0">
+      <extent>
+        <charseq START="1584" END="1605">a local police station</charseq>
+      </extent>
+      <head>
+        <charseq START="1599" END="1605">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-25-0">
+      <extent>
+        <charseq START="1676" END="1682">My wife</charseq>
+      </extent>
+      <head>
+        <charseq START="1679" END="1682">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-26-0">
+      <extent>
+        <charseq START="1761" END="1778">Judge Naveed Iqbal</charseq>
+      </extent>
+      <head>
+        <charseq START="1767" END="1778">Naveed Iqbal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-26-1">
+      <extent>
+        <charseq START="1761" END="1765">Judge</charseq>
+      </extent>
+      <head>
+        <charseq START="1761" END="1765">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-26-2">
+      <extent>
+        <charseq START="1819" END="1827">the woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1823" END="1827">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Naveed Iqbal">
+        <charseq START="1767" END="1778">Naveed Iqbal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-27-0">
+      <extent>
+        <charseq START="1789" END="1812">a Punjab municipal court</charseq>
+      </extent>
+      <head>
+        <charseq START="1808" END="1812">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="1791" END="1796">Punjab</charseq>
+      </extent>
+      <head>
+        <charseq START="1791" END="1796">Punjab</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Punjab">
+        <charseq START="1791" END="1796">Punjab</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-29-0">
+      <extent>
+        <charseq START="1918" END="1928">the accused</charseq>
+      </extent>
+      <head>
+        <charseq START="1922" END="1928">accused</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-30-0">
+      <extent>
+        <charseq START="1956" END="1994">The Human Rights Commission of Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1960" END="1994">Human Rights Commission of Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-30-1">
+      <extent>
+        <charseq START="2310" END="2323">the commission</charseq>
+      </extent>
+      <head>
+        <charseq START="2314" END="2323">commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-30-2">
+      <extent>
+        <charseq START="3320" END="3346">the
+Human Rights Commission</charseq>
+      </extent>
+      <head>
+        <charseq START="3324" END="3346">Human Rights Commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-30-3">
+      <extent>
+        <charseq START="3588" END="3601">the commission</charseq>
+      </extent>
+      <head>
+        <charseq START="3592" END="3601">commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Human Rights Commission of Pakistan">
+        <charseq START="1960" END="1994">Human Rights Commission of Pakistan</charseq>
+      </name>
+      <name NAME="Human Rights Commission">
+        <charseq START="3324" END="3346">Human Rights Commission</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-31" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-31-0">
+      <extent>
+        <charseq START="2124" END="2139">a minority group</charseq>
+      </extent>
+      <head>
+        <charseq START="2135" END="2139">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-31-1">
+      <extent>
+        <charseq START="2095" END="2102">a member</charseq>
+      </extent>
+      <head>
+        <charseq START="2097" END="2102">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-32-0">
+      <extent>
+        <charseq START="2107" END="2121">the Ahmedi sect</charseq>
+      </extent>
+      <head>
+        <charseq START="2118" END="2121">sect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-33-0">
+      <extent>
+        <charseq START="2111" END="2116">Ahmedi</charseq>
+      </extent>
+      <head>
+        <charseq START="2111" END="2116">Ahmedi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-33-1">
+      <extent>
+        <charseq START="2227" END="2232">Ahmedi</charseq>
+      </extent>
+      <head>
+        <charseq START="2227" END="2232">Ahmedi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ahmedi">
+        <charseq START="2111" END="2116">Ahmedi</charseq>
+      </name>
+      <name NAME="Ahmedi">
+        <charseq START="2227" END="2232">Ahmedi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2237" END="2244">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="2237" END="2244">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-1" ROLE="GPE">
+      <extent>
+        <charseq START="2356" END="2363">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="2356" END="2363">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-2" ROLE="GPE">
+      <extent>
+        <charseq START="3818" END="3825">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="3818" END="3825">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-3" ROLE="GPE">
+      <extent>
+        <charseq START="4390" END="4397">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="4390" END="4397">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-34-4" ROLE="GPE">
+      <extent>
+        <charseq START="4791" END="4800">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="4795" END="4800">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-5" ROLE="GPE">
+      <extent>
+        <charseq START="4850" END="4860">&apos;s Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="4853" END="4860">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-6" ROLE="GPE">
+      <extent>
+        <charseq START="4878" END="4885">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="4878" END="4885">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-34-7" ROLE="GPE">
+      <extent>
+        <charseq START="4903" END="4916">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="4907" END="4916">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-34-8" ROLE="GPE">
+      <extent>
+        <charseq START="5040" END="5047">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="5040" END="5047">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pakistan">
+        <charseq START="2237" END="2244">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="2356" END="2363">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="3818" END="3825">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="4390" END="4397">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="4853" END="4860">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="4878" END="4885">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="5040" END="5047">Pakistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-35-0">
+      <extent>
+        <charseq START="2252" END="2264">an individual</charseq>
+      </extent>
+      <head>
+        <charseq START="2255" END="2264">individual</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-36-0">
+      <extent>
+        <charseq START="2352" END="2375">the Pakistan authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="2365" END="2375">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-37-0">
+      <extent>
+        <charseq START="2411" END="2427">Pope Benedict XVI</charseq>
+      </extent>
+      <head>
+        <charseq START="2416" END="2427">Benedict XVI</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-37-1">
+      <extent>
+        <charseq START="2452" END="2460">the
+woman</charseq>
+      </extent>
+      <head>
+        <charseq START="2456" END="2460">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Benedict XVI">
+        <charseq START="2416" END="2427">Benedict XVI</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-38-0">
+      <extent>
+        <charseq START="2493" END="2503">A spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="2495" END="2503">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-39-0">
+      <extent>
+        <charseq START="2630" END="2646">Farhatullah Babar</charseq>
+      </extent>
+      <head>
+        <charseq START="2630" END="2646">Farhatullah Babar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-39-1">
+      <extent>
+        <charseq START="2662" END="2668">&apos;s aide</charseq>
+      </extent>
+      <head>
+        <charseq START="2665" END="2668">aide</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Farhatullah Babar">
+        <charseq START="2630" END="2646">Farhatullah Babar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-40" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-40-0">
+      <extent>
+        <charseq START="2792" END="2812">the Lahore High Court</charseq>
+      </extent>
+      <head>
+        <charseq START="2796" END="2812">Lahore High Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-40-1">
+      <extent>
+        <charseq START="3383" END="3403">the Lahore High Court</charseq>
+      </extent>
+      <head>
+        <charseq START="3387" END="3403">Lahore High Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lahore High Court">
+        <charseq START="2796" END="2812">Lahore High Court</charseq>
+      </name>
+      <name NAME="Lahore High Court">
+        <charseq START="3387" END="3403">Lahore High Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-41-0">
+      <extent>
+        <charseq START="2843" END="2849">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="2843" END="2849">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-41-1">
+      <extent>
+        <charseq START="3142" END="3148">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="3142" END="3148">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-42" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-42-0">
+      <extent>
+        <charseq START="2889" END="2907">Human rights groups</charseq>
+      </extent>
+      <head>
+        <charseq START="2902" END="2907">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-43-0">
+      <extent>
+        <charseq START="2913" END="2928">more than 20 men</charseq>
+      </extent>
+      <head>
+        <charseq START="2926" END="2928">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-43-1">
+      <extent>
+        <charseq START="2992" END="2995">them</charseq>
+      </extent>
+      <head>
+        <charseq START="2992" END="2995">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20101122.0054-44-0">
+      <extent>
+        <charseq START="3011" END="3014">None</charseq>
+      </extent>
+      <head>
+        <charseq START="3011" END="3014">None</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-45-0">
+      <extent>
+        <charseq START="3019" END="3030">these people</charseq>
+      </extent>
+      <head>
+        <charseq START="3025" END="3030">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-46" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-46-0">
+      <extent>
+        <charseq START="3077" END="3088">a high court</charseq>
+      </extent>
+      <head>
+        <charseq START="3084" END="3088">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-46-1">
+      <extent>
+        <charseq START="3218" END="3231">the high court</charseq>
+      </extent>
+      <head>
+        <charseq START="3227" END="3231">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-47-0">
+      <extent>
+        <charseq START="3127" END="3139">a lower
+court</charseq>
+      </extent>
+      <head>
+        <charseq START="3135" END="3139">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-48-0">
+      <extent>
+        <charseq START="3467" END="3477">Many people</charseq>
+      </extent>
+      <head>
+        <charseq START="3472" END="3477">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-49-0">
+      <extent>
+        <charseq START="3611" END="3627">A 22-year-old man</charseq>
+      </extent>
+      <head>
+        <charseq START="3625" END="3627">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-50-0">
+      <extent>
+        <charseq START="3739" END="3749">Imran Latif</charseq>
+      </extent>
+      <head>
+        <charseq START="3739" END="3749">Imran Latif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-50-1">
+      <extent>
+        <charseq START="3730" END="3736">The man</charseq>
+      </extent>
+      <head>
+        <charseq START="3734" END="3736">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-50-2">
+      <extent>
+        <charseq START="3949" END="3953">Latif</charseq>
+      </extent>
+      <head>
+        <charseq START="3949" END="3953">Latif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-50-3">
+      <extent>
+        <charseq START="4038" END="4042">Latif</charseq>
+      </extent>
+      <head>
+        <charseq START="4038" END="4042">Latif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-50-4">
+      <extent>
+        <charseq START="4113" END="4117">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="4115" END="4117">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Imran Latif">
+        <charseq START="3739" END="3749">Imran Latif</charseq>
+      </name>
+      <name NAME="Latif">
+        <charseq START="3949" END="3953">Latif</charseq>
+      </name>
+      <name NAME="Latif">
+        <charseq START="4038" END="4042">Latif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-51-0">
+      <extent>
+        <charseq START="3826" END="3833">&apos;s Salem</charseq>
+      </extent>
+      <head>
+        <charseq START="3829" END="3833">Salem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Salem">
+        <charseq START="3829" END="3833">Salem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-52" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-52-0">
+      <extent>
+        <charseq START="3880" END="3921">the English-language Daily Times
+newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="3913" END="3921">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-53" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-53-0" ROLE="GPE">
+      <extent>
+        <charseq START="3884" END="3890">English</charseq>
+      </extent>
+      <head>
+        <charseq START="3884" END="3890">English</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="English">
+        <charseq START="3884" END="3890">English</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-54" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-54-0">
+      <extent>
+        <charseq START="3901" END="3911">Daily Times</charseq>
+      </extent>
+      <head>
+        <charseq START="3901" END="3911">Daily Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Daily Times">
+        <charseq START="3901" END="3911">Daily Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-55-0">
+      <extent>
+        <charseq START="3988" END="3996">murderers</charseq>
+      </extent>
+      <head>
+        <charseq START="3988" END="3996">murderers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-56-0">
+      <extent>
+        <charseq START="4045" END="4069">the investigating
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="4063" END="4069">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-57-0">
+      <extent>
+        <charseq START="4276" END="4301">President Pervez
+Musharraf</charseq>
+      </extent>
+      <head>
+        <charseq START="4286" END="4301">Pervez
+Musharraf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-57-1">
+      <extent>
+        <charseq START="4276" END="4284">President</charseq>
+      </extent>
+      <head>
+        <charseq START="4276" END="4284">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pervez Musharraf">
+        <charseq START="4286" END="4301">Pervez
+Musharraf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-58-0">
+      <extent>
+        <charseq START="4308" END="4316">lawmakers</charseq>
+      </extent>
+      <head>
+        <charseq START="4308" END="4316">lawmakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-59" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-59-0" ROLE="GPE">
+      <extent>
+        <charseq START="4422" END="4436">a Muslim nation</charseq>
+      </extent>
+      <head>
+        <charseq START="4431" END="4436">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-60-0">
+      <extent>
+        <charseq START="4465" END="4483">Mohammad Ali Jinnah</charseq>
+      </extent>
+      <head>
+        <charseq START="4465" END="4483">Mohammad Ali Jinnah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-60-1">
+      <extent>
+        <charseq START="4452" END="4462">its founder</charseq>
+      </extent>
+      <head>
+        <charseq START="4456" END="4462">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-60-2">
+      <extent>
+        <charseq START="4700" END="4705">Jinnah</charseq>
+      </extent>
+      <head>
+        <charseq START="4700" END="4705">Jinnah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-60-3">
+      <extent>
+        <charseq START="4801" END="4810">&apos;s founder</charseq>
+      </extent>
+      <head>
+        <charseq START="4804" END="4810">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-60-4">
+      <extent>
+        <charseq START="4844" END="4849">Jinnah</charseq>
+      </extent>
+      <head>
+        <charseq START="4844" END="4849">Jinnah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammad Ali Jinnah">
+        <charseq START="4465" END="4483">Mohammad Ali Jinnah</charseq>
+      </name>
+      <name NAME="Jinnah">
+        <charseq START="4700" END="4705">Jinnah</charseq>
+      </name>
+      <name NAME="Jinnah">
+        <charseq START="4844" END="4849">Jinnah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-61-0">
+      <extent>
+        <charseq START="4491" END="4502">its citizens</charseq>
+      </extent>
+      <head>
+        <charseq START="4495" END="4502">citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-62-0">
+      <extent>
+        <charseq START="4591" END="4602">Mohammad Zia</charseq>
+      </extent>
+      <head>
+        <charseq START="4591" END="4602">Mohammad Zia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammad Zia">
+        <charseq START="4591" END="4602">Mohammad Zia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-63-0">
+      <extent>
+        <charseq START="4867" END="4875">a mullahs</charseq>
+      </extent>
+      <head>
+        <charseq START="4869" END="4875">mullahs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-64" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20101122.0054-64-0" ROLE="GPE">
+      <extent>
+        <charseq START="4946" END="4952">Islamic</charseq>
+      </extent>
+      <head>
+        <charseq START="4946" END="4952">Islamic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Islamic">
+        <charseq START="4946" END="4952">Islamic</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-65-0">
+      <extent>
+        <charseq START="4946" END="4970">Islamic
+religious leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="4964" END="4970">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20101122.0054-66" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20101122.0054-66-0">
+      <extent>
+        <charseq START="4976" END="4991">extremist groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4986" END="4991">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="NYT_ENG_20101122.0054-T0" VAL="PXD">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T0-1">
+      <extent>
+        <charseq START="261" END="273">next few days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T1" VAL="2010-11-22">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T1-1">
+      <extent>
+        <charseq START="327" END="332">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T2" VAL="2010-11-22">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T2-1">
+      <extent>
+        <charseq START="697" END="702">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T3" VAL="2009">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T3-1">
+      <extent>
+        <charseq START="823" END="826">2009</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T4" VAL="2010-11">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T4-1">
+      <extent>
+        <charseq START="1749" END="1758">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T5" VAL="2010-W46">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T5-1">
+      <extent>
+        <charseq START="2438" END="2446">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T6" VAL="2010-W46">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T6-1">
+      <extent>
+        <charseq START="3678" END="3686">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T7" VAL="P2D">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T7-1">
+      <extent>
+        <charseq START="3689" END="3696">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T8" VAL="1947">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T8-1">
+      <extent>
+        <charseq START="4414" END="4417">1947</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20101122.0054-T9" VAL="2010-11-22">
+    <timex2_mention ID="NYT_ENG_20101122.0054-T9-1">
+      <extent>
+        <charseq START="4727" END="4732">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="NYT_ENG_20101122.0054-R1" TYPE="RESIDE">
+    <relation_argument REFID="NYT_ENG_20101122.0054-8" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20101122.0054-9" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20101122.0054-R1-1">
+      <extent>
+        <charseq START="506" END="536">the governor of Punjab province</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20101122.0054-8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="506" END="517">the governor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20101122.0054-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="522" END="536">Punjab province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

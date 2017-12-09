@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_019.0025.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_019.0025">
+  <entity ID="wsj93_019.0025-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-1-0">
+      <extent>
+        <charseq START="151" END="157">Members</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="157">Members</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-1-1">
+      <extent>
+        <charseq START="572" END="578">Members</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="578">Members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-2-0">
+      <extent>
+        <charseq START="162" END="187">the Midwest Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="187">Midwest Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-2-1">
+      <extent>
+        <charseq START="200" END="229">&apos;s
+second biggest stock market</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="229">market</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-2-2">
+      <extent>
+        <charseq START="349" END="360">The exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="353" END="360">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_019.0025-2-3">
+      <extent>
+        <charseq START="432" END="434">Its</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="434">Its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-2-4">
+      <extent>
+        <charseq START="456" END="481">the Midwest Stock
+Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="481">Midwest Stock
+Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-2-5">
+      <extent>
+        <charseq START="583" END="594">the exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="594">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-2-6">
+      <extent>
+        <charseq START="791" END="802">the exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="802">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Midwest Stock Exchange">
+        <charseq START="166" END="187">Midwest Stock Exchange</charseq>
+      </name>
+      <name NAME="Midwest Stock Exchange">
+        <charseq START="460" END="481">Midwest Stock
+Exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="190" END="199">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="199">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-4-0">
+      <extent>
+        <charseq START="295" END="311">their institution</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="311">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-5-0">
+      <extent>
+        <charseq START="316" END="341">the Chicago Stock
+Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="341">Chicago Stock
+Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-5-1">
+      <extent>
+        <charseq START="404" END="429">the
+Chicago Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="429">Chicago Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chicago Stock Exchange">
+        <charseq START="320" END="341">Chicago Stock
+Exchange</charseq>
+      </name>
+      <name NAME="Chicago Stock Exchange">
+        <charseq START="408" END="429">Chicago Stock Exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="529" END="537">Cleveland</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="537">Cleveland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cleveland">
+        <charseq START="529" END="537">Cleveland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="540" END="542">St.</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="542">St.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="540" END="548">St. Louis</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="548">St. Louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="St. Louis">
+        <charseq START="540" END="548">St. Louis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="554" END="564">Minneapolis</charseq>
+      </extent>
+      <head>
+        <charseq START="554" END="564">Minneapolis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Minneapolis">
+        <charseq START="554" END="564">Minneapolis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-10-0">
+      <extent>
+        <charseq START="640" END="654">our institution</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="654">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="701" END="707">Chicago</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="707">Chicago</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chicago">
+        <charseq START="701" END="707">Chicago</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_019.0025-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_019.0025-12-0">
+      <extent>
+        <charseq START="725" END="747">Homer J. Livingston Jr.</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="747">Homer J. Livingston Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-12-1">
+      <extent>
+        <charseq START="750" END="758">president</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="758">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_019.0025-12-2">
+      <extent>
+        <charseq START="764" END="786">chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="786">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_019.0025-12-3">
+      <extent>
+        <charseq START="940" END="941">he</charseq>
+      </extent>
+      <head>
+        <charseq START="940" END="941">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Homer J. Livingston Jr.">
+        <charseq START="725" END="747">Homer J. Livingston Jr.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_019.0025-T0" VAL="1949">
+    <timex2_mention ID="wsj93_019.0025-T0-1">
+      <extent>
+        <charseq START="486" END="489">1949</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_019.0025-T1" VAL="2016-07">
+    <timex2_mention ID="wsj93_019.0025-T1-1">
+      <extent>
+        <charseq START="991" END="994">July</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

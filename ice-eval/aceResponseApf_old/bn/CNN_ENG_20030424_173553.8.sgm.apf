@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030424_173553.8.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030424_173553.8">
+  <entity ID="CNN_ENG_20030424_173553.8-1" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-1-0">
+      <extent>
+        <charseq START="86" END="96">wall street</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="96">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-2-0">
+      <extent>
+        <charseq START="302" END="319">the
+11th executive</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="319">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-3-0">
+      <extent>
+        <charseq START="364" END="367">bank</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="367">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-4-0">
+      <extent>
+        <charseq START="376" END="409">the former chief financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="409">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030424_173553.8-4-1">
+      <extent>
+        <charseq START="435" END="441">anybody</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="441">anybody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-5-0">
+      <extent>
+        <charseq START="481" END="485">enron</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="485">enron</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-5-1">
+      <extent>
+        <charseq START="505" END="509">enron</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="509">enron</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-5-2">
+      <extent>
+        <charseq START="561" END="565">enron</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="565">enron</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="enron">
+        <charseq START="481" END="485">enron</charseq>
+      </name>
+      <name NAME="enron">
+        <charseq START="505" END="509">enron</charseq>
+      </name>
+      <name NAME="enron">
+        <charseq START="561" END="565">enron</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-6-0">
+      <extent>
+        <charseq START="499" END="520">seven enron executives</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="520">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-7-0">
+      <extent>
+        <charseq START="690" END="696">sources</charseq>
+      </extent>
+      <head>
+        <charseq START="690" END="696">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="747" END="756">washington</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="756">washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="washington">
+        <charseq START="747" END="756">washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-9-0">
+      <extent>
+        <charseq START="759" END="768">regulators</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="768">regulators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-10-0">
+      <extent>
+        <charseq START="774" END="787">research firms</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="787">firms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-11" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-11-0">
+      <extent>
+        <charseq START="886" END="897">dixie chicks</charseq>
+      </extent>
+      <head>
+        <charseq START="886" END="897">dixie chicks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="dixie chicks">
+        <charseq START="886" END="897">dixie chicks</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-12-0">
+      <extent>
+        <charseq START="908" END="918">the singers</charseq>
+      </extent>
+      <head>
+        <charseq START="912" END="918">singers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030424_173553.8-12-1">
+      <extent>
+        <charseq START="961" END="965">their</charseq>
+      </extent>
+      <head>
+        <charseq START="961" END="965">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-13-0">
+      <extent>
+        <charseq START="983" END="996">president
+bush</charseq>
+      </extent>
+      <head>
+        <charseq START="993" END="996">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-13-1">
+      <extent>
+        <charseq START="983" END="991">president</charseq>
+      </extent>
+      <head>
+        <charseq START="983" END="991">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="993" END="996">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030424_173553.8-14-0">
+      <extent>
+        <charseq START="1003" END="1019">the material girl</charseq>
+      </extent>
+      <head>
+        <charseq START="1016" END="1019">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030424_173553.8-14-1">
+      <extent>
+        <charseq START="1022" END="1024">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1022" END="1024">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030424_173553.8-14-2">
+      <extent>
+        <charseq START="1037" END="1039">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1037" END="1039">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030424_173553.8-14-3">
+      <extent>
+        <charseq START="1084" END="1086">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1084" END="1086">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030424_173553.8-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030424_173553.8-15-0">
+      <extent>
+        <charseq START="1103" END="1113">bill
+tucker</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1113">bill
+tucker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bill tucker">
+        <charseq START="1103" END="1113">bill
+tucker</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030424_173553.8-T0" VAL="2003-04-24">
+    <timex2_mention ID="CNN_ENG_20030424_173553.8-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030424_173553.8-T1" VAL="2003-04-24">
+    <timex2_mention ID="CNN_ENG_20030424_173553.8-T1-1">
+      <extent>
+        <charseq START="98" END="102">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030424_173553.8-T2" VAL="P507D">
+    <timex2_mention ID="CNN_ENG_20030424_173553.8-T2-1">
+      <extent>
+        <charseq START="546" END="553">507 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030424_173553.8-T3" VAL="2003-02">
+    <timex2_mention ID="CNN_ENG_20030424_173553.8-T3-1">
+      <extent>
+        <charseq START="849" END="862">two months ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030424_173553.8-T4" VAL="2003-04-24">
+    <timex2_mention ID="CNN_ENG_20030424_173553.8-T4-1">
+      <extent>
+        <charseq START="934" END="936">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

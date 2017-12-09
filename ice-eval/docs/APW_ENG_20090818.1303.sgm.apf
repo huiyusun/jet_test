@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20090818.1303.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20090818.1303">
+  <entity ID="APW_ENG_20090818.1303-1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-1-0">
+      <extent>
+        <charseq START="94" END="121">The University of Pittsburgh</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="121">University of Pittsburgh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20090818.1303-1-1">
+      <extent>
+        <charseq START="128" END="129">it</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="129">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-1-2">
+      <extent>
+        <charseq START="417" END="426">University</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="426">University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="University of Pittsburgh">
+        <charseq START="98" END="121">University of Pittsburgh</charseq>
+      </name>
+      <name NAME="University">
+        <charseq START="417" END="426">University</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-2-0">
+      <extent>
+        <charseq START="179" END="188">the gunman</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="188">gunman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-3-0">
+      <extent>
+        <charseq START="226" END="236">three women</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="236">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-4-0">
+      <extent>
+        <charseq START="251" END="261">nine others</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="261">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-5-0">
+      <extent>
+        <charseq START="266" END="294">a Pittsburgh-area health club</charseq>
+      </extent>
+      <head>
+        <charseq START="291" END="294">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="268" END="277">Pittsburgh</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="277">Pittsburgh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="804" END="813">Pittsburgh</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="813">Pittsburgh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pittsburgh">
+        <charseq START="268" END="277">Pittsburgh</charseq>
+      </name>
+      <name NAME="Pittsburgh">
+        <charseq START="804" END="813">Pittsburgh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-7-0">
+      <extent>
+        <charseq START="361" END="371">the brother</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="371">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-8-0">
+      <extent>
+        <charseq START="390" END="414">48-year-old George Sodini</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="414">George Sodini</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-8-1">
+      <extent>
+        <charseq START="559" END="564">Sodini</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="564">Sodini</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-8-2">
+      <extent>
+        <charseq START="782" END="787">Sodini</charseq>
+      </extent>
+      <head>
+        <charseq START="782" END="787">Sodini</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George Sodini">
+        <charseq START="402" END="414">George Sodini</charseq>
+      </name>
+      <name NAME="Sodini">
+        <charseq START="559" END="564">Sodini</charseq>
+      </name>
+      <name NAME="Sodini">
+        <charseq START="782" END="787">Sodini</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-9-0">
+      <extent>
+        <charseq START="417" END="448">University spokesman Robert Hill</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="448">Robert Hill</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-9-1">
+      <extent>
+        <charseq START="428" END="436">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="436">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert Hill">
+        <charseq START="438" END="448">Robert Hill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-10-0">
+      <extent>
+        <charseq START="483" END="491">Two women</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="491">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-11-0">
+      <extent>
+        <charseq START="524" END="543">an L.A. Fitness club</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="543">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-12-0">
+      <extent>
+        <charseq START="527" END="538">L.A. Fitness</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="538">L.A. Fitness</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="L.A. Fitness">
+        <charseq START="527" END="538">L.A. Fitness</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-13-0">
+      <extent>
+        <charseq START="576" END="593">Lisa Marie Fleeher</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="593">Lisa Marie Fleeher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lisa Marie Fleeher">
+        <charseq START="576" END="593">Lisa Marie Fleeher</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-14-0">
+      <extent>
+        <charseq START="599" END="615">Ashley Ferragonio</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="615">Ashley Ferragonio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ashley Ferragonio">
+        <charseq START="599" END="615">Ashley Ferragonio</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-15" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="642" END="657">Allegheny County</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="657">Allegheny County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Allegheny County">
+        <charseq START="642" END="657">Allegheny County</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-16-0">
+      <extent>
+        <charseq START="642" END="663">Allegheny County court</charseq>
+      </extent>
+      <head>
+        <charseq START="659" END="663">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20090818.1303-17-0">
+      <extent>
+        <charseq START="668" END="688">Attorney Henry Sneath</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="688">Henry Sneath</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-17-1">
+      <extent>
+        <charseq START="668" END="675">Attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="675">Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Henry Sneath">
+        <charseq START="677" END="688">Henry Sneath</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-18-0">
+      <extent>
+        <charseq START="695" END="704">both women</charseq>
+      </extent>
+      <head>
+        <charseq START="700" END="704">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-19" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-19-0">
+      <extent>
+        <charseq START="833" END="842">the school</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="842">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20090818.1303-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20090818.1303-20-0">
+      <extent>
+        <charseq START="862" END="872">a 2007 will</charseq>
+      </extent>
+      <head>
+        <charseq START="869" END="872">will</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20090818.1303-T0" VAL="2009-08-14">
+    <timex2_mention ID="APW_ENG_20090818.1303-T0-1">
+      <extent>
+        <charseq START="351" END="356">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20090818.1303-T1" VAL="2009-08-18">
+    <timex2_mention ID="APW_ENG_20090818.1303-T1-1">
+      <extent>
+        <charseq START="472" END="478">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20090818.1303-T2" VAL="2009-08-18">
+    <timex2_mention ID="APW_ENG_20090818.1303-T2-1">
+      <extent>
+        <charseq START="631" END="637">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20090818.1303-T3" VAL="1992">
+    <timex2_mention ID="APW_ENG_20090818.1303-T3-1">
+      <extent>
+        <charseq START="818" END="821">1992</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20090818.1303-T4" VAL="2007">
+    <timex2_mention ID="APW_ENG_20090818.1303-T4-1">
+      <extent>
+        <charseq START="864" END="867">2007</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

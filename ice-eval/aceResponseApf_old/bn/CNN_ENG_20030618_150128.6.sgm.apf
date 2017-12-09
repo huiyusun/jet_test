@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030618_150128.6.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030618_150128.6">
+  <entity ID="CNN_ENG_20030618_150128.6-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-1-0">
+      <extent>
+        <charseq START="86" END="92">priests</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="92">priests</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-2" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-2-0">
+      <extent>
+        <charseq START="114" END="132">the catholic
+church</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="132">catholic
+church</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-2-1">
+      <extent>
+        <charseq START="688" END="697">the
+church</charseq>
+      </extent>
+      <head>
+        <charseq START="692" END="697">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="catholic church">
+        <charseq START="118" END="132">catholic
+church</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="137" END="153">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="153">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="159" END="160">it</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="160">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united states">
+        <charseq START="141" END="153">united states</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-4-0">
+      <extent>
+        <charseq START="191" END="197">bishops</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="197">bishops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="218" END="220">st.</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="220">st.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="758" END="760">st.</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="760">st.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="218" END="226">st. louis</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="226">st. louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-6-1" ROLE="LOC">
+      <extent>
+        <charseq START="232" END="236">their</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="236">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="758" END="766">st. louis</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="766">st. louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="st. louis">
+        <charseq START="218" END="226">st. louis</charseq>
+      </name>
+      <name NAME="st. louis">
+        <charseq START="758" END="766">st. louis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-7" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-7-0">
+      <extent>
+        <charseq START="323" END="338">catholic bishops</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="338">catholic bishops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="catholic bishops">
+        <charseq START="323" END="338">catholic bishops</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-8" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-8-0">
+      <extent>
+        <charseq START="341" END="347">diocese</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="347">diocese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-9-0">
+      <extent>
+        <charseq START="341" END="357">diocese
+officials</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="357">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-10-0">
+      <extent>
+        <charseq START="402" END="408">a
+minor</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="408">minor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-10-1">
+      <extent>
+        <charseq START="473" END="479">a minor</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="479">minor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-10-2">
+      <extent>
+        <charseq START="561" END="567">a minor</charseq>
+      </extent>
+      <head>
+        <charseq START="563" END="567">minor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-11-0">
+      <extent>
+        <charseq START="413" END="430">public authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="430">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-12-0">
+      <extent>
+        <charseq START="507" END="518">the ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="518">ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-13" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-13-0">
+      <extent>
+        <charseq START="521" END="529">no
+priest</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="529">priest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-13-1">
+      <extent>
+        <charseq START="829" END="834">priest</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="834">priest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-14-0">
+      <extent>
+        <charseq START="534" END="540">deacons</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="540">deacons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-15" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-15-0">
+      <extent>
+        <charseq START="591" END="604">another desies</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="604">desies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-16-0">
+      <extent>
+        <charseq START="638" END="642">the o</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="642">o</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-17-0">
+      <extent>
+        <charseq START="659" END="671">the divisions</charseq>
+      </extent>
+      <head>
+        <charseq START="663" END="671">divisions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-17-1">
+      <extent>
+        <charseq START="703" END="715">barbara blain</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="715">barbara blain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-17-2">
+      <extent>
+        <charseq START="851" END="857">barbara</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="857">barbara</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="barbara blain">
+        <charseq START="703" END="715">barbara blain</charseq>
+      </name>
+      <name NAME="barbara">
+        <charseq START="851" END="857">barbara</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-18-0">
+      <extent>
+        <charseq START="718" END="728">the founder</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="728">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-19" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-19-0">
+      <extent>
+        <charseq START="733" END="753">the survivors
+network</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="753">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-20-0">
+      <extent>
+        <charseq START="737" END="745">survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="745">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030618_150128.6-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="793" END="799">detroit</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="799">detroit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="detroit">
+        <charseq START="793" END="799">detroit</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-22-0">
+      <extent>
+        <charseq START="805" END="809">mayor</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="809">mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-22-1">
+      <extent>
+        <charseq START="812" END="822">the founder</charseq>
+      </extent>
+      <head>
+        <charseq START="816" END="822">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-23" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-23-0">
+      <extent>
+        <charseq START="827" END="848">a priest support group</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="848">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030618_150128.6-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030618_150128.6-24-0">
+      <extent>
+        <charseq START="877" END="887">the bishops</charseq>
+      </extent>
+      <head>
+        <charseq START="881" END="887">bishops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030618_150128.6-24-1">
+      <extent>
+        <charseq START="959" END="962">they</charseq>
+      </extent>
+      <head>
+        <charseq START="959" END="962">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030618_150128.6-T0" VAL="2003-06-18">
+    <timex2_mention ID="CNN_ENG_20030618_150128.6-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-18</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030618_150128.6-T1" VAL="2003-06-19">
+    <timex2_mention ID="CNN_ENG_20030618_150128.6-T1-1">
+      <extent>
+        <charseq START="206" END="213">tomorrow</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030618_150128.6-T2" VAL="2002">
+    <timex2_mention ID="CNN_ENG_20030618_150128.6-T2-1">
+      <extent>
+        <charseq START="283" END="291">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030618_150128.6-T3" VAL="2003-06-18">
+    <timex2_mention ID="CNN_ENG_20030618_150128.6-T3-1">
+      <extent>
+        <charseq START="615" END="617">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030618_150128.6-T4" VAL="2003-06-19">
+    <timex2_mention ID="CNN_ENG_20030618_150128.6-T4-1">
+      <extent>
+        <charseq START="926" END="933">tomorrow</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030624_153103.16.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030624_153103.16">
+  <entity ID="CNN_ENG_20030624_153103.16-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-1-0">
+      <extent>
+        <charseq START="79" END="114">the russian president vladimir putin</charseq>
+      </extent>
+      <head>
+        <charseq START="101" END="114">vladimir putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-1-1">
+      <extent>
+        <charseq START="91" END="99">president</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="99">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-1-2">
+      <extent>
+        <charseq START="318" END="322">putin</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="322">putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-1-3">
+      <extent>
+        <charseq START="328" END="330">his</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="330">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-1-4">
+      <extent>
+        <charseq START="652" END="660">president</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="660">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="vladimir putin">
+        <charseq START="101" END="114">vladimir putin</charseq>
+      </name>
+      <name NAME="putin">
+        <charseq START="318" END="322">putin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="83" END="89">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="89">russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="865" END="871">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="871">russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="russian">
+        <charseq START="83" END="89">russian</charseq>
+      </name>
+      <name NAME="russian">
+        <charseq START="865" END="871">russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-3-0">
+      <extent>
+        <charseq START="131" END="144">prince
+charles</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="144">charles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-3-1">
+      <extent>
+        <charseq START="131" END="136">prince</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="136">prince</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-3-2">
+      <extent>
+        <charseq START="681" END="694">prince
+charles</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="694">charles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-3-3">
+      <extent>
+        <charseq START="681" END="686">prince</charseq>
+      </extent>
+      <head>
+        <charseq START="681" END="686">prince</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="charles">
+        <charseq START="138" END="144">charles</charseq>
+      </name>
+      <name NAME="charles">
+        <charseq START="688" END="694">charles</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="163" END="168">london</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="168">london</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="200" END="203">they</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="203">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="london">
+        <charseq START="163" END="168">london</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-5-0">
+      <extent>
+        <charseq START="271" END="287">his
+private plane</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="287">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-6" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-6-0">
+      <extent>
+        <charseq START="300" END="315">heathrow airport</charseq>
+      </extent>
+      <head>
+        <charseq START="300" END="315">heathrow airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="heathrow airport">
+        <charseq START="300" END="315">heathrow airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-7-0">
+      <extent>
+        <charseq START="328" END="335">his wife</charseq>
+      </extent>
+      <head>
+        <charseq START="332" END="335">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-8-0">
+      <extent>
+        <charseq START="400" END="406">central</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="406">central</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-9-0">
+      <extent>
+        <charseq START="428" END="441">walter rodgers</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="441">walter rodgers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-9-1">
+      <extent>
+        <charseq START="770" END="783">walter rodgers</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="783">walter rodgers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-9-2">
+      <extent>
+        <charseq START="1021" END="1034">walter rodgers</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1034">walter rodgers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="walter rodgers">
+        <charseq START="428" END="441">walter rodgers</charseq>
+      </name>
+      <name NAME="walter rodgers">
+        <charseq START="770" END="783">walter rodgers</charseq>
+      </name>
+      <name NAME="walter rodgers">
+        <charseq START="1021" END="1034">walter rodgers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-10-0">
+      <extent>
+        <charseq START="470" END="486">buckingham
+palace</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="486">buckingham
+palace</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-10-1">
+      <extent>
+        <charseq START="796" END="812">buckingham palace</charseq>
+      </extent>
+      <head>
+        <charseq START="796" END="812">buckingham palace</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="buckingham palace">
+        <charseq START="470" END="486">buckingham
+palace</charseq>
+      </name>
+      <name NAME="buckingham palace">
+        <charseq START="796" END="812">buckingham palace</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-11-0">
+      <extent>
+        <charseq START="524" END="528">roger</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="528">roger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="roger">
+        <charseq START="524" END="528">roger</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-12-0">
+      <extent>
+        <charseq START="605" END="607">god</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="607">god</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-12-1">
+      <extent>
+        <charseq START="627" END="629">her</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="629">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="god">
+        <charseq START="605" END="607">god</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-13-0">
+      <extent>
+        <charseq START="619" END="623">queen</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="623">queen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-13-1">
+      <extent>
+        <charseq START="1234" END="1238">queen</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1238">queen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-14-0">
+      <extent>
+        <charseq START="644" END="650">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="650">russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-14-1">
+      <extent>
+        <charseq START="663" END="665">his</charseq>
+      </extent>
+      <head>
+        <charseq START="663" END="665">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-14-2">
+      <extent>
+        <charseq START="714" END="718">their</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="718">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.16-14-3">
+      <extent>
+        <charseq START="738" END="741">them</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="741">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="russian">
+        <charseq START="644" END="650">russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-15-0">
+      <extent>
+        <charseq START="663" END="670">his wife</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="670">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-16-0">
+      <extent>
+        <charseq START="714" END="725">their guests</charseq>
+      </extent>
+      <head>
+        <charseq START="720" END="725">guests</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-17-0">
+      <extent>
+        <charseq START="758" END="767">tony blair</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="767">tony blair</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tony blair">
+        <charseq START="758" END="767">tony blair</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.16-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="896" END="902">britain</charseq>
+      </extent>
+      <head>
+        <charseq START="896" END="902">britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="britain">
+        <charseq START="896" END="902">britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-19-0">
+      <extent>
+        <charseq START="988" END="990">fan</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="990">fan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-20-0">
+      <extent>
+        <charseq START="1071" END="1075">guest</charseq>
+      </extent>
+      <head>
+        <charseq START="1071" END="1075">guest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-20-1">
+      <extent>
+        <charseq START="1251" END="1255">guest</charseq>
+      </extent>
+      <head>
+        <charseq START="1251" END="1255">guest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-21-0">
+      <extent>
+        <charseq START="1099" END="1108">this
+group</charseq>
+      </extent>
+      <head>
+        <charseq START="1104" END="1108">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.16-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.16-22-0">
+      <extent>
+        <charseq START="1157" END="1170">some gentleman</charseq>
+      </extent>
+      <head>
+        <charseq START="1162" END="1170">gentleman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030624_153103.16-T0" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.16-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.16-T1" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.16-T1-1">
+      <extent>
+        <charseq START="170" END="174">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.16-T2" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.16-T2-1">
+      <extent>
+        <charseq START="388" END="390">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.16-T3" VAL="P130Y">
+    <timex2_mention ID="CNN_ENG_20030624_153103.16-T3-1">
+      <extent>
+        <charseq START="915" END="923">130 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

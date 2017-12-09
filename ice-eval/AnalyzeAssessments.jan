@@ -1,0 +1,215 @@
+// Analyze Assessments for KBP Slot Filling
+// author:  Ralph Grishman
+// August 2015
+
+package KBPJet;
+
+import java.util.*;
+import java.io.*;
+import Jet.Tipster.*;
+import Jet.Time.TimeMain;
+import Jet.Zoner.*;
+import Jet.Scorer.SGMLProcessor;
+import KBPJet.SFQuery;
+import KBPJet.SFQueryList;
+
+public class AnalyzeAssessments {
+
+	static int assessmentCount = 0;
+	static int trialCount = 0;
+	static int successCount = 0;
+
+	// file containing list of full paths of every document in corpus
+	public static String fileListPath = 
+		"/misc/proteus108/xiangli/Data/InitialData/FileLists/ColdStart/cs2013-2014FileList";
+
+	// map from document id to file path
+	static Map<String, String> id2DocPath = new HashMap<String, String>();
+
+	static StringBuilder docText = new StringBuilder();
+
+	// set of fills alrady reported
+	static Set<String> fillsReported = new HashSet<String>();
+
+	// switches
+	// collect negative (as well as positive) examples
+	static boolean collectNegatives = false;
+	// collect only one example of each fill
+	static boolean uniqueFills = true;
+	// collect full sentences
+	static boolean collectSentences = true;
+	// maximum number of assessments to process
+	static int max = 4000;
+
+	/**
+ 	 *  read in a series of KBP slot-filling assessments and convert training data
+ 	 */
+
+	public static void main (String[] args) 
+			throws IOException, InterruptedException, NumberFormatException {
+
+		if (args.length != 2) {
+			System.err.println ("Review requires 2 arguments:");
+			System.err.println ("     queries assessments");
+			System.exit(0);
+		}
+
+		String queriesFile = args[0];
+		String assessmentFile = args[1];
+		
+		loadIdFileListMap();
+		List<SFQuery> queries = new SFQueryList(queriesFile).queries;
+
+		BufferedReader reader = new BufferedReader(new InputStreamReader(
+			new FileInputStream(assessmentFile), "UTF-8"));
+		PrintWriter docListWriter = new PrintWriter (new FileWriter ("docList"));
+		PrintWriter fileListWriter = new PrintWriter (new FileWriter ("fileList"));
+		String assessment;
+		Set<String> tripleSet = new TreeSet<String>();
+		while ((assessment = reader.readLine()) != null) {
+			assessment = assessment.trim();
+			String[] field = assessment.split("\t");
+			String queryAndSlot = field[1];
+			String docAndOffsetList = field[2];
+			String fill = field[3];
+			String fillOffset = field[4];
+ 			boolean positive = field[5].equals("C") && field[6].equals("C");
+			if (!positive && !collectNegatives) continue;
+			if (uniqueFills) 
+				if(fillsReported.contains(fillOffset))
+					continue;
+				else
+					fillsReported.add(fillOffset);
+			String just = retrieveList(docAndOffsetList);
+			just = just.replace('\n', ' ');
+
+			field = queryAndSlot.split(":", 2);
+			String queryId = field[0];
+			String slot = field[1];
+if(!slot.contains("residence")) continue;
+String relation = "RESIDE";
+			int queryNo = Integer.parseInt(queryId.substring(9, 12));
+			SFQuery query = queries.get(queryNo - 1);
+			assessmentCount++;
+			String docName = "D" + assessmentCount;
+			String fileName = docName + ".txt";
+			docListWriter.println(docName);
+			fileListWriter.println(fileName);
+			PrintWriter fileWriter = new PrintWriter ( new FileWriter ("docs/" + fileName));
+			fileWriter.println ("<DOC>\n<TEXT>\n" + just + "</TEXT>\n</DOC>");
+			fileWriter.close();
+			String triple = query.name + ":" + relation + ":" + fill;
+			tripleSet.add(triple);
+			if (assessmentCount >= max) break;
+		}
+		docListWriter.close();
+		fileListWriter.close();
+		PrintWriter triplesWriter = new PrintWriter ( new FileWriter ("keyTriples"));
+		for (String trip : tripleSet)
+			triplesWriter.println(trip);
+		triplesWriter.close();
+	}
+
+	static void loadIdFileListMap() throws IOException {
+		System.out.print("\n\n Loading paths for corpus ... ");
+		BufferedReader reader = new BufferedReader(new FileReader(fileListPath));
+		
+		String path = "", id = "";
+		while ((path = reader.readLine()) != null) {
+			path = path.trim();
+			if (path.isEmpty()) continue;
+			if (path.lastIndexOf("/") >= 0) {
+				id = path.substring(path.lastIndexOf("/")+1);
+				if (true) { //!CS2.format2013) {
+					if (id.lastIndexOf(".") < 0) {
+						System.out.println("***Error in CS1.loadIdFileListMap, invalid document id");
+						System.exit(1);
+					}
+					id = id.substring(0, id.lastIndexOf("."));
+				}
+			}
+			else
+				id = path;
+			
+			if (id == null || id2DocPath.containsKey(id)) {
+				System.out.println("***Error in CS1.loadIdFileListMap, duplicate or null document id: " + id);
+				System.exit(1);
+			}
+			
+			id2DocPath.put(id, path);
+		}
+		reader.close();
+		System.out.println("Done!");
+	}
+
+	/**
+ 	 *  Given a comma-separated list of document ids and offsets, returns the
+ 	 *  concatenated text.
+ 	 */
+
+	static String retrieveList (String docAndOffsetList) throws IOException, NumberFormatException {
+		String[] field = docAndOffsetList.split(",");
+		String justs = "";
+		for (String docAndOffset : field) {
+			if (justs != "")
+				justs += "...";
+			justs += retrieve(docAndOffset);
+		}
+		return justs;
+	}
+
+	/**
+ 	 *  Given a document id and offsets, in the KBP format id : start - end,
+ 	 *  returns the specified text (or enclosing sentences, if collectSentences is set)
+ 	 */
+
+	static String retrieve (String docAndOffset) throws IOException, NumberFormatException {
+		String[] field = docAndOffset.split(":", 2);
+		String doc = field[0];
+		String path = id2DocPath.get(doc);
+		path = "/misc/proteus108/xiangli/Data/InitialData/KBPCorpus/2013/" + path;
+		String offsets = field[1];
+		BufferedReader reader = new BufferedReader(new FileReader(path));
+		String line;
+		docText.setLength(0);
+		while ((line = reader.readLine()) != null) {
+			docText.append(line + "\n");
+		}
+		reader.close();
+		String[] offsetField = offsets.split("-", 2);
+		int start = Integer.parseInt(offsetField[0]);
+		int end = Integer.parseInt(offsetField[1]);
+		if (!collectSentences) {
+			String just = docText.substring(start, end + 1);
+			return just;
+		} else {
+			Span justSpan = new Span(start, end + 1);
+			String sent = enclosingSentence(docText.toString(), justSpan);
+			return sent;
+		}
+	}
+		
+	/**
+ 	 *  Given the text of a document and a span within the document,
+ 	 *  returns the sentence enclosing that span.
+ 	 */
+
+	static String enclosingSentence (String text, Span justSpan) {
+		Document doc = new Document(text);
+		SentenceSplitter.split (doc, doc.fullSpan());
+		Vector<Annotation> sentences = doc.annotationsOfType("sentence");
+		if (sentences == null)
+			return "";
+		String prevSentenceText = "";
+		for (Annotation sentence : sentences) {
+			Span sentSpan = sentence.span();
+			String sentenceText = doc.text(sentSpan);
+			if (justSpan.within(sentSpan)) {
+				return prevSentenceText + sentenceText;
+			}
+			prevSentenceText = sentenceText;
+		}
+		return "";
+	}
+
+}

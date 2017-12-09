@@ -1,0 +1,923 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_018.0072.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_018.0072">
+  <entity ID="wsj93_018.0072-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-1-0">
+      <extent>
+        <charseq START="226" END="243">the chief engineer</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="243">engineer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-1-1">
+      <extent>
+        <charseq START="454" END="465">the engineer</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="465">engineer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-2-0">
+      <extent>
+        <charseq START="248" END="270">the British Post Office</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="270">British Post Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Post Office">
+        <charseq START="252" END="270">British Post Office</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-3-0">
+      <extent>
+        <charseq START="302" END="327">a parliamentary commission</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="327">commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="343" END="350">American</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="350">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="1865" END="1868">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1865" END="1868">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="343" END="350">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="1865" END="1868">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-5-0">
+      <extent>
+        <charseq START="415" END="423">scientist</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="423">scientist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-5-1">
+      <extent>
+        <charseq START="551" END="552">He</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="552">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-6-0">
+      <extent>
+        <charseq START="429" END="451">author Arthur C. Clarke</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="451">Arthur C. Clarke</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-6-1">
+      <extent>
+        <charseq START="429" END="434">author</charseq>
+      </extent>
+      <head>
+        <charseq START="429" END="434">author</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-6-2">
+      <extent>
+        <charseq START="3240" END="3255">Arthur C. Clarke</charseq>
+      </extent>
+      <head>
+        <charseq START="3240" END="3255">Arthur C. Clarke</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arthur C. Clarke">
+        <charseq START="436" END="451">Arthur C. Clarke</charseq>
+      </name>
+      <name NAME="Arthur C. Clarke">
+        <charseq START="3240" END="3255">Arthur C. Clarke</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-7-0">
+      <extent>
+        <charseq START="485" END="498">Alexander Bell</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="498">Alexander Bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alexander Bell">
+        <charseq START="485" END="498">Alexander Bell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="535" END="547">Great Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="535" END="547">Great Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="886" END="892">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="886" END="892">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="907" END="909">its</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="909">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1159" END="1165">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1159" END="1165">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-4" ROLE="GPE">
+      <extent>
+        <charseq START="1708" END="1714">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1708" END="1714">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-5" ROLE="GPE">
+      <extent>
+        <charseq START="1757" END="1763">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1763">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-8-6" ROLE="GPE">
+      <extent>
+        <charseq START="2244" END="2250">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="2244" END="2250">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-8-7" ROLE="GPE">
+      <extent>
+        <charseq START="2255" END="2273">the only EC country</charseq>
+      </extent>
+      <head>
+        <charseq START="2267" END="2273">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Great Britain">
+        <charseq START="535" END="547">Great Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="886" END="892">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="1159" END="1165">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="1708" END="1714">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="1757" END="1763">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="2244" END="2250">Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-9-0">
+      <extent>
+        <charseq START="568" END="570">sir</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="570">sir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-10-0">
+      <extent>
+        <charseq START="573" END="585">The Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="585">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Americans">
+        <charseq START="577" END="585">Americans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-11-0">
+      <extent>
+        <charseq START="648" END="661">messenger boys</charseq>
+      </extent>
+      <head>
+        <charseq START="658" END="661">boys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="670" END="680">Governments</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="680">Governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="736" END="739">They</charseq>
+      </extent>
+      <head>
+        <charseq START="736" END="739">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-0">
+      <extent>
+        <charseq START="1010" END="1015">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="1010" END="1015">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-1">
+      <extent>
+        <charseq START="1373" END="1378">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="1373" END="1378">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-2">
+      <extent>
+        <charseq START="1841" END="1846">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="1841" END="1846">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-3">
+      <extent>
+        <charseq START="2179" END="2184">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="2179" END="2184">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-4">
+      <extent>
+        <charseq START="2575" END="2582">European</charseq>
+      </extent>
+      <head>
+        <charseq START="2575" END="2582">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-5">
+      <extent>
+        <charseq START="2704" END="2711">European</charseq>
+      </extent>
+      <head>
+        <charseq START="2704" END="2711">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-6">
+      <extent>
+        <charseq START="2918" END="2923">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="2918" END="2923">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-13-7">
+      <extent>
+        <charseq START="3087" END="3088">it</charseq>
+      </extent>
+      <head>
+        <charseq START="3087" END="3088">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-13-8">
+      <extent>
+        <charseq START="3119" END="3124">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="3119" END="3124">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Europe">
+        <charseq START="1010" END="1015">Europe</charseq>
+      </name>
+      <name NAME="Europe">
+        <charseq START="1373" END="1378">Europe</charseq>
+      </name>
+      <name NAME="Europe">
+        <charseq START="1841" END="1846">Europe</charseq>
+      </name>
+      <name NAME="Europe">
+        <charseq START="2179" END="2184">Europe</charseq>
+      </name>
+      <name NAME="European">
+        <charseq START="2575" END="2582">European</charseq>
+      </name>
+      <name NAME="European">
+        <charseq START="2704" END="2711">European</charseq>
+      </name>
+      <name NAME="Europe">
+        <charseq START="2918" END="2923">Europe</charseq>
+      </name>
+      <name NAME="Europe">
+        <charseq START="3119" END="3124">Europe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-14" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-14-0">
+      <extent>
+        <charseq START="1064" END="1072">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1072">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-14-1">
+      <extent>
+        <charseq START="1127" END="1129">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1127" END="1129">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-15-0">
+      <extent>
+        <charseq START="1166" END="1185">&apos;s fellow EC members</charseq>
+      </extent>
+      <head>
+        <charseq START="1179" END="1185">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-16-0">
+      <extent>
+        <charseq START="1176" END="1177">EC</charseq>
+      </extent>
+      <head>
+        <charseq START="1176" END="1177">EC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-16-1">
+      <extent>
+        <charseq START="1226" END="1227">EC</charseq>
+      </extent>
+      <head>
+        <charseq START="1226" END="1227">EC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-16-2">
+      <extent>
+        <charseq START="2033" END="2055">the European Commission</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2055">European Commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-16-3">
+      <extent>
+        <charseq START="2264" END="2265">EC</charseq>
+      </extent>
+      <head>
+        <charseq START="2264" END="2265">EC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="EC">
+        <charseq START="1176" END="1177">EC</charseq>
+      </name>
+      <name NAME="EC">
+        <charseq START="1226" END="1227">EC</charseq>
+      </name>
+      <name NAME="European Commission">
+        <charseq START="2037" END="2055">European Commission</charseq>
+      </name>
+      <name NAME="EC">
+        <charseq START="2264" END="2265">EC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-17-0">
+      <extent>
+        <charseq START="1226" END="1256">EC telecommunications ministers</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1256">ministers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-17-1">
+      <extent>
+        <charseq START="1271" END="1275">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1271" END="1275">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1288" END="1295">Brussels</charseq>
+      </extent>
+      <head>
+        <charseq START="1288" END="1295">Brussels</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="1317" END="1321">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1317" END="1321">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Brussels">
+        <charseq START="1288" END="1295">Brussels</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-19-0">
+      <extent>
+        <charseq START="1344" END="1359">state
+monopolies</charseq>
+      </extent>
+      <head>
+        <charseq START="1350" END="1359">monopolies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-19-1">
+      <extent>
+        <charseq START="1651" END="1660">monopolies</charseq>
+      </extent>
+      <head>
+        <charseq START="1651" END="1660">monopolies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-20-0">
+      <extent>
+        <charseq START="1379" END="1430">&apos;s $134 billion telecommunications
+services industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1423" END="1430">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-20-1">
+      <extent>
+        <charseq START="1623" END="1634">The industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1627" END="1634">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-20-2">
+      <extent>
+        <charseq START="1912" END="1923">The industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1916" END="1923">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1453" END="1458">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1453" END="1458">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="1453" END="1458">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1461" END="1467">Belgium</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1467">Belgium</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Belgium">
+        <charseq START="1461" END="1467">Belgium</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1473" END="1477">Spain</charseq>
+      </extent>
+      <head>
+        <charseq START="1473" END="1477">Spain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Spain">
+        <charseq START="1473" END="1477">Spain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1697" END="1703">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1697" END="1703">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-24-1" ROLE="GPE">
+      <extent>
+        <charseq START="1768" END="1774">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1768" END="1774">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-24-2" ROLE="GPE">
+      <extent>
+        <charseq START="2427" END="2433">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="2427" END="2433">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-24-3" ROLE="GPE">
+      <extent>
+        <charseq START="2453" END="2455">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2453" END="2455">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="1697" END="1703">Germany</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="1768" END="1774">Germany</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="2427" END="2433">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1809" END="1815">country</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1815">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="1820" END="1826">country</charseq>
+      </extent>
+      <head>
+        <charseq START="1820" END="1826">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-26-0">
+      <extent>
+        <charseq START="1980" END="1997">the private sector</charseq>
+      </extent>
+      <head>
+        <charseq START="1992" END="1997">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-26-1">
+      <extent>
+        <charseq START="2009" END="2010">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2009" END="2010">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-27-0">
+      <extent>
+        <charseq START="2089" END="2111">cross-border
+monopolies</charseq>
+      </extent>
+      <head>
+        <charseq START="2102" END="2111">monopolies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-28-0">
+      <extent>
+        <charseq START="2300" END="2315">telecom industry</charseq>
+      </extent>
+      <head>
+        <charseq START="2308" END="2315">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-28-1">
+      <extent>
+        <charseq START="2754" END="2771">nurturing industry</charseq>
+      </extent>
+      <head>
+        <charseq START="2764" END="2771">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="2318" END="2324">Denmark</charseq>
+      </extent>
+      <head>
+        <charseq START="2318" END="2324">Denmark</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="2337" END="2339">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2337" END="2339">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Denmark">
+        <charseq START="2318" END="2324">Denmark</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="2362" END="2366">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="2362" END="2366">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-30-1" ROLE="GPE">
+      <extent>
+        <charseq START="2394" END="2396">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2394" END="2396">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italy">
+        <charseq START="2362" END="2366">Italy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-31-0">
+      <extent>
+        <charseq START="2511" END="2537">Deutsche Bundespost Telekom</charseq>
+      </extent>
+      <head>
+        <charseq START="2511" END="2537">Deutsche Bundespost Telekom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-31-1">
+      <extent>
+        <charseq START="2485" END="2508">the state phone monopoly</charseq>
+      </extent>
+      <head>
+        <charseq START="2501" END="2508">monopoly</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-31-2">
+      <extent>
+        <charseq START="2540" END="2541">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2540" END="2541">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Deutsche Bundespost Telekom">
+        <charseq START="2511" END="2537">Deutsche Bundespost Telekom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="2569" END="2594">other European governments</charseq>
+      </extent>
+      <head>
+        <charseq START="2584" END="2594">governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-33" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-33-0">
+      <extent>
+        <charseq START="2693" END="2696">base</charseq>
+      </extent>
+      <head>
+        <charseq START="2693" END="2696">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0072-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2699" END="2723">most European governments</charseq>
+      </extent>
+      <head>
+        <charseq START="2713" END="2723">governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0072-34-1" ROLE="GPE">
+      <extent>
+        <charseq START="2858" END="2861">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2858" END="2861">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-35-0">
+      <extent>
+        <charseq START="2809" END="2816">American</charseq>
+      </extent>
+      <head>
+        <charseq START="2809" END="2816">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="2809" END="2816">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0072-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0072-36-0">
+      <extent>
+        <charseq START="2822" END="2829">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="2822" END="2829">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japanese">
+        <charseq START="2822" END="2829">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_018.0072-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_018.0072-V3-1">
+      <extent>
+        <charseq START="1731" END="1733">30%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_018.0072-T0" VAL="2016-W12">
+    <timex2_mention ID="wsj93_018.0072-T0-1">
+      <extent>
+        <charseq START="1297" END="1305">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0072-T1" VAL="2015">
+    <timex2_mention ID="wsj93_018.0072-T1-1">
+      <extent>
+        <charseq START="2057" END="2065">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0072-T2" VAL="2017">
+    <timex2_mention ID="wsj93_018.0072-T2-1">
+      <extent>
+        <charseq START="2348" END="2356">next
+year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0072-T3" VAL="1998">
+    <timex2_mention ID="wsj93_018.0072-T3-1">
+      <extent>
+        <charseq START="2637" END="2640">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0072-T4" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0072-T4-1">
+      <extent>
+        <charseq START="3448" END="3450">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

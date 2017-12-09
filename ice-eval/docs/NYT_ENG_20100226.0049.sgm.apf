@@ -1,0 +1,1863 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20100226.0049.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20100226.0049">
+  <entity ID="NYT_ENG_20100226.0049-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="171" END="177">America</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="177">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="1140" END="1147">American</charseq>
+      </extent>
+      <head>
+        <charseq START="1140" END="1147">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="2056" END="2072">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="2060" END="2072">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="3661" END="3668">American</charseq>
+      </extent>
+      <head>
+        <charseq START="3661" END="3668">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="America">
+        <charseq START="171" END="177">America</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="1140" END="1147">American</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="2060" END="2072">United States</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="3661" END="3668">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-2-0">
+      <extent>
+        <charseq START="276" END="278">7 o</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="278">o</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-0">
+      <extent>
+        <charseq START="316" END="331">Lt. Kermit Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="331">Kermit Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-3-1">
+      <extent>
+        <charseq START="316" END="318">Lt.</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="318">Lt.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-3-2">
+      <extent>
+        <charseq START="334" END="354">an Army fighter pilot</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="354">pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-3">
+      <extent>
+        <charseq START="469" END="470">he</charseq>
+      </extent>
+      <head>
+        <charseq START="469" END="470">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-4">
+      <extent>
+        <charseq START="632" END="636">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="632" END="636">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-5">
+      <extent>
+        <charseq START="675" END="676">he</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="676">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-6">
+      <extent>
+        <charseq START="751" END="752">he</charseq>
+      </extent>
+      <head>
+        <charseq START="751" END="752">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-7">
+      <extent>
+        <charseq START="992" END="996">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="996">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-8">
+      <extent>
+        <charseq START="1231" END="1232">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1231" END="1232">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-9">
+      <extent>
+        <charseq START="1253" END="1255">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1255">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-10">
+      <extent>
+        <charseq START="1272" END="1273">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1272" END="1273">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-11">
+      <extent>
+        <charseq START="1284" END="1286">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1284" END="1286">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-12">
+      <extent>
+        <charseq START="1312" END="1314">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1314">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-13">
+      <extent>
+        <charseq START="1355" END="1356">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1356">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-14">
+      <extent>
+        <charseq START="1476" END="1482">&quot; Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1482">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-15">
+      <extent>
+        <charseq START="2095" END="2099">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="2095" END="2099">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-16">
+      <extent>
+        <charseq START="2514" END="2518">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="2514" END="2518">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-17">
+      <extent>
+        <charseq START="2579" END="2580">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2579" END="2580">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-18">
+      <extent>
+        <charseq START="2618" END="2636">Kermit Arthur Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="2618" END="2636">Kermit Arthur Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-19">
+      <extent>
+        <charseq START="2684" END="2685">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2684" END="2685">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-20">
+      <extent>
+        <charseq START="2791" END="2792">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2791" END="2792">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-21">
+      <extent>
+        <charseq START="2857" END="2858">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2857" END="2858">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-22">
+      <extent>
+        <charseq START="2875" END="2877">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2875" END="2877">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-23">
+      <extent>
+        <charseq START="3047" END="3049">His</charseq>
+      </extent>
+      <head>
+        <charseq START="3047" END="3049">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-24">
+      <extent>
+        <charseq START="3237" END="3241">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="3237" END="3241">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-25">
+      <extent>
+        <charseq START="3380" END="3384">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="3380" END="3384">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-26">
+      <extent>
+        <charseq START="3733" END="3737">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="3733" END="3737">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-3-27">
+      <extent>
+        <charseq START="4295" END="4299">Tyler</charseq>
+      </extent>
+      <head>
+        <charseq START="4295" END="4299">Tyler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-3-28">
+      <extent>
+        <charseq START="4398" END="4400">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4398" END="4400">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kermit Tyler">
+        <charseq START="320" END="331">Kermit Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="632" END="636">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="992" END="996">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="1478" END="1482">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="2095" END="2099">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="2514" END="2518">Tyler</charseq>
+      </name>
+      <name NAME="Kermit Arthur Tyler">
+        <charseq START="2618" END="2636">Kermit Arthur Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="3237" END="3241">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="3380" END="3384">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="3733" END="3737">Tyler</charseq>
+      </name>
+      <name NAME="Tyler">
+        <charseq START="4295" END="4299">Tyler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-0">
+      <extent>
+        <charseq START="337" END="340">Army</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="340">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-1">
+      <extent>
+        <charseq START="527" END="530">Army</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="530">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-2">
+      <extent>
+        <charseq START="803" END="806">Army</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="806">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-3">
+      <extent>
+        <charseq START="2729" END="2735">an Army</charseq>
+      </extent>
+      <head>
+        <charseq START="2732" END="2735">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-4">
+      <extent>
+        <charseq START="3193" END="3196">Army</charseq>
+      </extent>
+      <head>
+        <charseq START="3193" END="3196">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-4-5">
+      <extent>
+        <charseq START="3982" END="3989">the Army</charseq>
+      </extent>
+      <head>
+        <charseq START="3986" END="3989">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Army">
+        <charseq START="337" END="340">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="527" END="530">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="803" END="806">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="2732" END="2735">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="3193" END="3196">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="3986" END="3989">Army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-5-0">
+      <extent>
+        <charseq START="369" END="380">the
+aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="380">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-6-0">
+      <extent>
+        <charseq START="391" END="396">center</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="396">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-7-0">
+      <extent>
+        <charseq START="401" END="412">Fort Shafter</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="412">Fort Shafter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fort Shafter">
+        <charseq START="401" END="412">Fort Shafter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="417" END="422">Hawaii</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="422">Hawaii</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hawaii">
+        <charseq START="417" END="422">Hawaii</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-9" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-9-0">
+      <extent>
+        <charseq START="430" END="461">the vast
+Pearl Harbor naval base</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="461">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-0">
+      <extent>
+        <charseq START="439" END="450">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="450">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-1">
+      <extent>
+        <charseq START="1990" END="2001">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="1990" END="2001">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-2">
+      <extent>
+        <charseq START="2554" END="2565">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="2554" END="2565">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-3">
+      <extent>
+        <charseq START="3157" END="3168">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="3157" END="3168">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-4">
+      <extent>
+        <charseq START="3510" END="3522">Pearl Harbor&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="3510" END="3521">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-5">
+      <extent>
+        <charseq START="4262" END="4273">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="4262" END="4273">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-10-6">
+      <extent>
+        <charseq START="4649" END="4660">Pearl Harbor</charseq>
+      </extent>
+      <head>
+        <charseq START="4649" END="4660">Pearl Harbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pearl Harbor">
+        <charseq START="439" END="450">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="1990" END="2001">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="2554" END="2565">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="3157" END="3168">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="3510" END="3521">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="4262" END="4273">Pearl Harbor</charseq>
+      </name>
+      <name NAME="Pearl Harbor">
+        <charseq START="4649" END="4660">Pearl Harbor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-11-0">
+      <extent>
+        <charseq START="499" END="520">a
+nearby radar station</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="520">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-12-0">
+      <extent>
+        <charseq START="581" END="593">a large group</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="593">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-12-1">
+      <extent>
+        <charseq START="849" END="855">A group</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="855">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-13" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-13-0">
+      <extent>
+        <charseq START="610" END="615">planes</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="615">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-14-0">
+      <extent>
+        <charseq START="654" END="672">the tracking center</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="672">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-15-0">
+      <extent>
+        <charseq START="827" END="846">a telephone operator</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="846">operator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-16-0">
+      <extent>
+        <charseq START="888" END="900">the locations</charseq>
+      </extent>
+      <head>
+        <charseq START="892" END="900">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-17" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-17-0">
+      <extent>
+        <charseq START="905" END="923">unidentified planes</charseq>
+      </extent>
+      <head>
+        <charseq START="918" END="923">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-17-1">
+      <extent>
+        <charseq START="938" END="942">their</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="942">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-17-2">
+      <extent>
+        <charseq START="974" END="978">their</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="978">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-18-0">
+      <extent>
+        <charseq START="974" END="987">their barracks</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="987">barracks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-19-0">
+      <extent>
+        <charseq START="1015" END="1022">a friend</charseq>
+      </extent>
+      <head>
+        <charseq START="1017" END="1022">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-19-1">
+      <extent>
+        <charseq START="1034" END="1036">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1034" END="1036">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-20-0">
+      <extent>
+        <charseq START="1043" END="1066">a Honolulu
+radio station</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1066">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1045" END="1052">Honolulu</charseq>
+      </extent>
+      <head>
+        <charseq START="1045" END="1052">Honolulu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Honolulu">
+        <charseq START="1045" END="1052">Honolulu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-22-0">
+      <extent>
+        <charseq START="1107" END="1118">broadcasting</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1118">broadcasting</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-23-0">
+      <extent>
+        <charseq START="1140" END="1155">American bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1155">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-23-1">
+      <extent>
+        <charseq START="1200" END="1203">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1200" END="1203">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-24-0">
+      <extent>
+        <charseq START="1177" END="1188">the
+mainland</charseq>
+      </extent>
+      <head>
+        <charseq START="1181" END="1188">mainland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-25-0">
+      <extent>
+        <charseq START="1312" END="1326">his beach house</charseq>
+      </extent>
+      <head>
+        <charseq START="1322" END="1326">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1331" END="1334">Oahu</charseq>
+      </extent>
+      <head>
+        <charseq START="1331" END="1334">Oahu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Oahu">
+        <charseq START="1331" END="1334">Oahu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-27" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-27-0">
+      <extent>
+        <charseq START="1335" END="1348">&apos;s north shore</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1348">shore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-28-0">
+      <extent>
+        <charseq START="1373" END="1400">B-17
+Flying Fortress bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="1394" END="1400">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1533" END="1547">San Diego Union</charseq>
+      </extent>
+      <head>
+        <charseq START="1533" END="1547">San Diego Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Diego Union">
+        <charseq START="1533" END="1547">San Diego Union</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-30-0">
+      <extent>
+        <charseq START="1583" END="1589">the guy</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1589">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-30-1">
+      <extent>
+        <charseq START="1666" END="1667">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1666" END="1667">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-31" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-31-0">
+      <extent>
+        <charseq START="1632" END="1641">the planes</charseq>
+      </extent>
+      <head>
+        <charseq START="1636" END="1641">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-31-1">
+      <extent>
+        <charseq START="1707" END="1710">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1707" END="1710">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-31-2">
+      <extent>
+        <charseq START="1855" END="1858">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1855" END="1858">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-31-3">
+      <extent>
+        <charseq START="4064" END="4085">the approaching planes</charseq>
+      </extent>
+      <head>
+        <charseq START="4080" END="4085">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-32-0">
+      <extent>
+        <charseq START="1931" END="1950">the Japanese bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="1944" END="1950">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-33-0" ROLE="GPE">
+      <extent>
+        <charseq START="1935" END="1942">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="1935" END="1942">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-33-1" ROLE="GPE">
+      <extent>
+        <charseq START="3891" END="3898">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="3891" END="3898">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-33-2" ROLE="GPE">
+      <extent>
+        <charseq START="4123" END="4130">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="4123" END="4130">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japanese">
+        <charseq START="1935" END="1942">Japanese</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="3891" END="3898">Japanese</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="4123" END="4130">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-34-0">
+      <extent>
+        <charseq START="1956" END="1963">fighters</charseq>
+      </extent>
+      <head>
+        <charseq START="1956" END="1963">fighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-35-0">
+      <extent>
+        <charseq START="2183" END="2195">fighter units</charseq>
+      </extent>
+      <head>
+        <charseq START="2191" END="2195">units</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-36" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-36-0">
+      <extent>
+        <charseq START="2200" END="2210">the Pacific</charseq>
+      </extent>
+      <head>
+        <charseq START="2204" END="2210">Pacific</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pacific">
+        <charseq START="2204" END="2210">Pacific</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-37-0">
+      <extent>
+        <charseq START="2259" END="2284">A career Air Force officer</charseq>
+      </extent>
+      <head>
+        <charseq START="2278" END="2284">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-1">
+      <extent>
+        <charseq START="2287" END="2288">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2287" END="2288">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-2">
+      <extent>
+        <charseq START="2368" END="2369">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2368" END="2369">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-3">
+      <extent>
+        <charseq START="2445" END="2447">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2445" END="2447">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-4">
+      <extent>
+        <charseq START="2467" END="2468">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2467" END="2468">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-5">
+      <extent>
+        <charseq START="2478" END="2480">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2478" END="2480">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-6">
+      <extent>
+        <charseq START="2501" END="2502">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2501" END="2502">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-37-7">
+      <extent>
+        <charseq START="2508" END="2509">96</charseq>
+      </extent>
+      <head>
+        <charseq START="2508" END="2509">96</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-38" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-38-0">
+      <extent>
+        <charseq START="2268" END="2276">Air Force</charseq>
+      </extent>
+      <head>
+        <charseq START="2268" END="2276">Air Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Air Force">
+        <charseq START="2268" END="2276">Air Force</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-39-0">
+      <extent>
+        <charseq START="2323" END="2345">the Air Defense Command</charseq>
+      </extent>
+      <head>
+        <charseq START="2327" END="2345">Air Defense Command</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Air Defense Command">
+        <charseq START="2327" END="2345">Air Defense Command</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-40" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-40-0" ROLE="GPE">
+      <extent>
+        <charseq START="2350" END="2365">Colorado
+Springs</charseq>
+      </extent>
+      <head>
+        <charseq START="2350" END="2365">Colorado
+Springs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colorado Springs">
+        <charseq START="2350" END="2365">Colorado
+Springs</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-41-0">
+      <extent>
+        <charseq START="2387" END="2404">lieutenant colonel</charseq>
+      </extent>
+      <head>
+        <charseq START="2398" END="2404">colonel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-41-1">
+      <extent>
+        <charseq START="2411" END="2412">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2411" END="2412">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-42-0">
+      <extent>
+        <charseq START="2445" END="2454">his family</charseq>
+      </extent>
+      <head>
+        <charseq START="2449" END="2454">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-43" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-43-0">
+      <extent>
+        <charseq START="2478" END="2485">his home</charseq>
+      </extent>
+      <head>
+        <charseq START="2482" END="2485">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-44-0" ROLE="GPE">
+      <extent>
+        <charseq START="2490" END="2498">San
+Diego</charseq>
+      </extent>
+      <head>
+        <charseq START="2490" END="2498">San
+Diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Diego">
+        <charseq START="2490" END="2498">San
+Diego</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="2669" END="2675">Oelwein</charseq>
+      </extent>
+      <head>
+        <charseq START="2669" END="2675">Oelwein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Oelwein">
+        <charseq START="2669" END="2675">Oelwein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-46" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="2678" END="2681">Iowa</charseq>
+      </extent>
+      <head>
+        <charseq START="2678" END="2681">Iowa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iowa">
+        <charseq START="2678" END="2681">Iowa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-47" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-47-0">
+      <extent>
+        <charseq START="2698" END="2716">Southern California</charseq>
+      </extent>
+      <head>
+        <charseq START="2698" END="2716">Southern California</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Southern California">
+        <charseq START="2698" END="2716">Southern California</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-48-0">
+      <extent>
+        <charseq START="2835" END="2852">real estate broker</charseq>
+      </extent>
+      <head>
+        <charseq START="2847" END="2852">broker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-49-0">
+      <extent>
+        <charseq START="2884" END="2888">Terry</charseq>
+      </extent>
+      <head>
+        <charseq START="2884" END="2888">Terry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-49-1">
+      <extent>
+        <charseq START="2875" END="2881">his son</charseq>
+      </extent>
+      <head>
+        <charseq START="2879" END="2881">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-49-2">
+      <extent>
+        <charseq START="2912" END="2914">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2912" END="2914">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Terry">
+        <charseq START="2884" END="2888">Terry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-50-0" ROLE="GPE">
+      <extent>
+        <charseq START="2894" END="2901">Temecula</charseq>
+      </extent>
+      <head>
+        <charseq START="2894" END="2901">Temecula</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Temecula">
+        <charseq START="2894" END="2901">Temecula</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-51-0" ROLE="GPE">
+      <extent>
+        <charseq START="2904" END="2909">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="2904" END="2909">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-51-1" ROLE="GPE">
+      <extent>
+        <charseq START="2955" END="2960">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="2955" END="2960">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-51-2" ROLE="GPE">
+      <extent>
+        <charseq START="2991" END="2996">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="2991" END="2996">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="2904" END="2909">Calif.</charseq>
+      </name>
+      <name NAME="Calif.">
+        <charseq START="2955" END="2960">Calif.</charseq>
+      </name>
+      <name NAME="Calif.">
+        <charseq START="2991" END="2996">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-52-0">
+      <extent>
+        <charseq START="2927" END="2939">Carol Daniels</charseq>
+      </extent>
+      <head>
+        <charseq START="2927" END="2939">Carol Daniels</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-52-1">
+      <extent>
+        <charseq START="2912" END="2924">his
+daughters</charseq>
+      </extent>
+      <head>
+        <charseq START="2916" END="2924">daughters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Carol Daniels">
+        <charseq START="2927" END="2939">Carol Daniels</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-53" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-53-0">
+      <extent>
+        <charseq START="2944" END="2952">Morro Bay</charseq>
+      </extent>
+      <head>
+        <charseq START="2944" END="2952">Morro Bay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Morro Bay">
+        <charseq START="2944" END="2952">Morro Bay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-54-0">
+      <extent>
+        <charseq START="2967" END="2977">Julie Jones</charseq>
+      </extent>
+      <head>
+        <charseq START="2967" END="2977">Julie Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Julie Jones">
+        <charseq START="2967" END="2977">Julie Jones</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-55-0">
+      <extent>
+        <charseq START="2982" END="2988">La Mesa</charseq>
+      </extent>
+      <head>
+        <charseq START="2982" END="2988">La Mesa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="La Mesa">
+        <charseq START="2982" END="2988">La Mesa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-56-0">
+      <extent>
+        <charseq START="2999" END="3017">three grandchildren</charseq>
+      </extent>
+      <head>
+        <charseq START="3005" END="3017">grandchildren</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-57-0">
+      <extent>
+        <charseq START="3024" END="3044">a great-granddaughter</charseq>
+      </extent>
+      <head>
+        <charseq START="3032" END="3044">granddaughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-58-0">
+      <extent>
+        <charseq START="3057" END="3062">Marian</charseq>
+      </extent>
+      <head>
+        <charseq START="3057" END="3062">Marian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-58-1">
+      <extent>
+        <charseq START="3047" END="3054">His wife</charseq>
+      </extent>
+      <head>
+        <charseq START="3051" END="3054">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marian">
+        <charseq START="3057" END="3062">Marian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-59-0">
+      <extent>
+        <charseq START="3081" END="3096">Gordon W. Prange</charseq>
+      </extent>
+      <head>
+        <charseq START="3081" END="3096">Gordon W. Prange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-59-1">
+      <extent>
+        <charseq START="3099" END="3109">a historian</charseq>
+      </extent>
+      <head>
+        <charseq START="3101" END="3109">historian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-59-2">
+      <extent>
+        <charseq START="3347" END="3348">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3347" END="3348">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-59-3">
+      <extent>
+        <charseq START="3442" END="3447">Prange</charseq>
+      </extent>
+      <head>
+        <charseq START="3442" END="3447">Prange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-59-4">
+      <extent>
+        <charseq START="3462" END="3464">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3462" END="3464">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-59-5">
+      <extent>
+        <charseq START="3707" END="3712">Prange</charseq>
+      </extent>
+      <head>
+        <charseq START="3707" END="3712">Prange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-59-6">
+      <extent>
+        <charseq START="3925" END="3930">Prange</charseq>
+      </extent>
+      <head>
+        <charseq START="3925" END="3930">Prange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-59-7">
+      <extent>
+        <charseq START="4190" END="4191">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4190" END="4191">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gordon W. Prange">
+        <charseq START="3081" END="3096">Gordon W. Prange</charseq>
+      </name>
+      <name NAME="Prange">
+        <charseq START="3442" END="3447">Prange</charseq>
+      </name>
+      <name NAME="Prange">
+        <charseq START="3707" END="3712">Prange</charseq>
+      </name>
+      <name NAME="Prange">
+        <charseq START="3925" END="3930">Prange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-60-0">
+      <extent>
+        <charseq START="3189" END="3204">the Army private</charseq>
+      </extent>
+      <head>
+        <charseq START="3198" END="3204">private</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-61" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-61-0">
+      <extent>
+        <charseq START="3308" END="3338">more than 50 approaching
+planes</charseq>
+      </extent>
+      <head>
+        <charseq START="3333" END="3338">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-61-1">
+      <extent>
+        <charseq START="3831" END="3847">dispersing planes</charseq>
+      </extent>
+      <head>
+        <charseq START="3842" END="3847">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-62" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-62-0">
+      <extent>
+        <charseq START="3525" END="3535">McGraw-Hill</charseq>
+      </extent>
+      <head>
+        <charseq START="3525" END="3535">McGraw-Hill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="McGraw-Hill">
+        <charseq START="3525" END="3535">McGraw-Hill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-63-0">
+      <extent>
+        <charseq START="3558" END="3576">Donald M. Goldstein</charseq>
+      </extent>
+      <head>
+        <charseq START="3558" END="3576">Donald M. Goldstein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Donald M. Goldstein">
+        <charseq START="3558" END="3576">Donald M. Goldstein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-64-0">
+      <extent>
+        <charseq START="3582" END="3600">Katherine
+V. Dillon</charseq>
+      </extent>
+      <head>
+        <charseq START="3582" END="3600">Katherine
+V. Dillon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Katherine V. Dillon">
+        <charseq START="3582" END="3600">Katherine
+V. Dillon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-65-0">
+      <extent>
+        <charseq START="3634" END="3645">a good slice</charseq>
+      </extent>
+      <head>
+        <charseq START="3641" END="3645">slice</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-66-0">
+      <extent>
+        <charseq START="3696" END="3701">bomber</charseq>
+      </extent>
+      <head>
+        <charseq START="3696" END="3701">bomber</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-67-0">
+      <extent>
+        <charseq START="3891" END="3906">Japanese bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="3900" END="3906">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-68" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-68-0">
+      <extent>
+        <charseq START="3999" END="4006">the Navy</charseq>
+      </extent>
+      <head>
+        <charseq START="4003" END="4006">Navy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-68-1">
+      <extent>
+        <charseq START="4105" END="4112">the Navy</charseq>
+      </extent>
+      <head>
+        <charseq START="4109" END="4112">Navy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Navy">
+        <charseq START="4003" END="4006">Navy</charseq>
+      </name>
+      <name NAME="Navy">
+        <charseq START="4109" END="4112">Navy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-69" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-69-0">
+      <extent>
+        <charseq START="4119" END="4139">the Japanese carriers</charseq>
+      </extent>
+      <head>
+        <charseq START="4132" END="4139">carriers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-69-1">
+      <extent>
+        <charseq START="4159" END="4162">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4159" END="4162">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-70-0">
+      <extent>
+        <charseq START="4202" END="4216">Daniel Martinez</charseq>
+      </extent>
+      <head>
+        <charseq START="4202" END="4216">Daniel Martinez</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-70-1">
+      <extent>
+        <charseq START="4219" END="4253">the National Park Service historian</charseq>
+      </extent>
+      <head>
+        <charseq START="4245" END="4253">historian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-70-2">
+      <extent>
+        <charseq START="4510" END="4517">Martinez</charseq>
+      </extent>
+      <head>
+        <charseq START="4510" END="4517">Martinez</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-70-3">
+      <extent>
+        <charseq START="4581" END="4582">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4581" END="4582">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100226.0049-70-4">
+      <extent>
+        <charseq START="4663" END="4664">He</charseq>
+      </extent>
+      <head>
+        <charseq START="4663" END="4664">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Daniel Martinez">
+        <charseq START="4202" END="4216">Daniel Martinez</charseq>
+      </name>
+      <name NAME="Martinez">
+        <charseq START="4510" END="4517">Martinez</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-71" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-71-0">
+      <extent>
+        <charseq START="4223" END="4243">National Park Service</charseq>
+      </extent>
+      <head>
+        <charseq START="4223" END="4243">National Park Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="National Park Service">
+        <charseq START="4223" END="4243">National Park Service</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-72" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100226.0049-72-0">
+      <extent>
+        <charseq START="4258" END="4282">the
+Pearl Harbor memorial</charseq>
+      </extent>
+      <head>
+        <charseq START="4275" END="4282">memorial</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100226.0049-73" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100226.0049-73-0">
+      <extent>
+        <charseq START="4528" END="4546">Honolulu Advertiser</charseq>
+      </extent>
+      <head>
+        <charseq START="4528" END="4546">Honolulu Advertiser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Honolulu Advertiser">
+        <charseq START="4528" END="4546">Honolulu Advertiser</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="NYT_ENG_20100226.0049-T0" VAL="1941">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T0-1">
+      <extent>
+        <charseq START="310" END="313">1941</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T1" VAL="1961">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T1-1">
+      <extent>
+        <charseq START="2425" END="2428">1961</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T2" VAL="2010-02-21">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T2-1">
+      <extent>
+        <charseq START="2567" END="2572">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T3" VAL="1913-04-21">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T3-1">
+      <extent>
+        <charseq START="2650" END="2663">April 21, 1913</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T4" VAL="1936">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T4-1">
+      <extent>
+        <charseq START="2753" END="2756">1936</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T5" VAL="2005">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T5-1">
+      <extent>
+        <charseq START="3073" END="3076">2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T6" VAL="1981">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T6-1">
+      <extent>
+        <charseq START="3538" END="3541">1981</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100226.0049-T7" VAL="1999">
+    <timex2_mention ID="NYT_ENG_20100226.0049-T7-1">
+      <extent>
+        <charseq START="4551" END="4554">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="NYT_ENG_20100226.0049-R1" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20100226.0049-45" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20100226.0049-46" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20100226.0049-R1-1">
+      <extent>
+        <charseq START="2669" END="2681">Oelwein,
+Iowa</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2669" END="2675">Oelwein</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-46-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2678" END="2681">Iowa</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20100226.0049-R2" TYPE="RESIDE">
+    <relation_argument REFID="NYT_ENG_20100226.0049-49" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20100226.0049-50" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20100226.0049-R2-1">
+      <extent>
+        <charseq START="2884" END="2901">Terry, of Temecula</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2884" END="2888">Terry</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-50-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2894" END="2901">Temecula</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20100226.0049-R3" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20100226.0049-50" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20100226.0049-51" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20100226.0049-R3-1">
+      <extent>
+        <charseq START="2894" END="2909">Temecula, Calif.</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-50-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2894" END="2901">Temecula</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20100226.0049-51-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2904" END="2909">Calif.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

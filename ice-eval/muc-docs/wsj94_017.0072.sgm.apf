@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_017.0072.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_017.0072">
+  <entity ID="wsj94_017.0072-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-1-0">
+      <extent>
+        <charseq START="221" END="224">Most</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="224">Most</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-1-1">
+      <extent>
+        <charseq START="803" END="805">his</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="805">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-1-2">
+      <extent>
+        <charseq START="860" END="862">his</charseq>
+      </extent>
+      <head>
+        <charseq START="860" END="862">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-2-0">
+      <extent>
+        <charseq START="229" END="246">the top executives</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="246">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-0">
+      <extent>
+        <charseq START="251" END="272">the New York Times Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="272">New York Times Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-3-1">
+      <extent>
+        <charseq START="278" END="282">their</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="282">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-2">
+      <extent>
+        <charseq START="311" END="321">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="321">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-3">
+      <extent>
+        <charseq START="397" END="413">&apos;s parent
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="407" END="413">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-4">
+      <extent>
+        <charseq START="477" END="493">the media company</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="493">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-5">
+      <extent>
+        <charseq START="636" END="646">The
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="640" END="646">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-6">
+      <extent>
+        <charseq START="938" END="955">New York Times Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="955">New York Times Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-7">
+      <extent>
+        <charseq START="1236" END="1246">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1240" END="1246">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-8">
+      <extent>
+        <charseq START="1250" END="1263">New York Times</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1263">New York Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-9">
+      <extent>
+        <charseq START="1430" END="1440">the
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="1434" END="1440">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-10">
+      <extent>
+        <charseq START="1647" END="1664">New York Times Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="1647" END="1664">New York Times Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-11">
+      <extent>
+        <charseq START="1904" END="1921">New York Times Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="1904" END="1921">New York Times Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-3-12">
+      <extent>
+        <charseq START="2019" END="2036">the New York Times</charseq>
+      </extent>
+      <head>
+        <charseq START="2023" END="2036">New York Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-3-13">
+      <extent>
+        <charseq START="2043" END="2053">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="2047" END="2053">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Times Co.">
+        <charseq START="255" END="272">New York Times Co.</charseq>
+      </name>
+      <name NAME="New York Times Co.">
+        <charseq START="938" END="955">New York Times Co.</charseq>
+      </name>
+      <name NAME="New York Times">
+        <charseq START="1250" END="1263">New York Times</charseq>
+      </name>
+      <name NAME="New York Times Co.">
+        <charseq START="1647" END="1664">New York Times Co.</charseq>
+      </name>
+      <name NAME="New York Times Co.">
+        <charseq START="1904" END="1921">New York Times Co.</charseq>
+      </name>
+      <name NAME="New York Times">
+        <charseq START="2023" END="2036">New York Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-4-0">
+      <extent>
+        <charseq START="365" END="376">the chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="376">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-5-0">
+      <extent>
+        <charseq START="381" END="396">the Boston Globe</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="396">Boston Globe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-5-1">
+      <extent>
+        <charseq START="846" END="854">the Globe</charseq>
+      </extent>
+      <head>
+        <charseq START="850" END="854">Globe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-5-2">
+      <extent>
+        <charseq START="910" END="920">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="914" END="920">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-5-3">
+      <extent>
+        <charseq START="1534" END="1538">Globe</charseq>
+      </extent>
+      <head>
+        <charseq START="1534" END="1538">Globe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-5-4">
+      <extent>
+        <charseq START="1622" END="1630">the Globe</charseq>
+      </extent>
+      <head>
+        <charseq START="1626" END="1630">Globe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boston Globe">
+        <charseq START="385" END="396">Boston Globe</charseq>
+      </name>
+      <name NAME="Globe">
+        <charseq START="850" END="854">Globe</charseq>
+      </name>
+      <name NAME="Globe">
+        <charseq START="1534" END="1538">Globe</charseq>
+      </name>
+      <name NAME="Globe">
+        <charseq START="1626" END="1630">Globe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-6-0">
+      <extent>
+        <charseq START="538" END="559">Arthur Ochs Sulzberger</charseq>
+      </extent>
+      <head>
+        <charseq START="538" END="559">Arthur Ochs Sulzberger</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-6-1">
+      <extent>
+        <charseq START="562" END="569">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="569">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-6-2">
+      <extent>
+        <charseq START="575" END="597">chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="597">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-6-3">
+      <extent>
+        <charseq START="724" END="737">Mr. Sulzberger</charseq>
+      </extent>
+      <head>
+        <charseq START="728" END="737">Sulzberger</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-6-4">
+      <extent>
+        <charseq START="724" END="726">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="724" END="726">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-6-5">
+      <extent>
+        <charseq START="1195" END="1220">Arthur Ochs Sulzberger Jr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1195" END="1220">Arthur Ochs Sulzberger Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-6-6">
+      <extent>
+        <charseq START="1223" END="1231">publisher</charseq>
+      </extent>
+      <head>
+        <charseq START="1223" END="1231">publisher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arthur Ochs Sulzberger">
+        <charseq START="538" END="559">Arthur Ochs Sulzberger</charseq>
+      </name>
+      <name NAME="Sulzberger">
+        <charseq START="728" END="737">Sulzberger</charseq>
+      </name>
+      <name NAME="Arthur Ochs Sulzberger Jr.">
+        <charseq START="1195" END="1220">Arthur Ochs Sulzberger Jr.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-7-0">
+      <extent>
+        <charseq START="860" END="873">his leadership</charseq>
+      </extent>
+      <head>
+        <charseq START="864" END="873">leadership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-0">
+      <extent>
+        <charseq START="1082" END="1085">most</charseq>
+      </extent>
+      <head>
+        <charseq START="1082" END="1085">most</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-1">
+      <extent>
+        <charseq START="1404" END="1406">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1404" END="1406">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-2">
+      <extent>
+        <charseq START="1467" END="1469">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1467" END="1469">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-3">
+      <extent>
+        <charseq START="1817" END="1819">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1817" END="1819">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-4">
+      <extent>
+        <charseq START="1891" END="1892">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1891" END="1892">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-8-5">
+      <extent>
+        <charseq START="1949" END="1951">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1949" END="1951">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-9-0">
+      <extent>
+        <charseq START="1090" END="1111">the other top
+officers</charseq>
+      </extent>
+      <head>
+        <charseq START="1104" END="1111">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-10-0">
+      <extent>
+        <charseq START="1124" END="1148">President Lance R. Primis</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1148">Lance R. Primis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-10-1">
+      <extent>
+        <charseq START="1124" END="1132">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1124" END="1132">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lance R. Primis">
+        <charseq START="1134" END="1148">Lance R. Primis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-11-0">
+      <extent>
+        <charseq START="1582" END="1609">Affiliated Publications Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1609">Affiliated Publications Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-11-1">
+      <extent>
+        <charseq START="1612" END="1617">parent</charseq>
+      </extent>
+      <head>
+        <charseq START="1612" END="1617">parent</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-11-2">
+      <extent>
+        <charseq START="1702" END="1711">Affiliated</charseq>
+      </extent>
+      <head>
+        <charseq START="1702" END="1711">Affiliated</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Affiliated Publications Inc.">
+        <charseq START="1582" END="1609">Affiliated Publications Inc.</charseq>
+      </name>
+      <name NAME="Affiliated">
+        <charseq START="1702" END="1711">Affiliated</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-12-0">
+      <extent>
+        <charseq START="1683" END="1699">William O. Taylor</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1699">William O. Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-12-1">
+      <extent>
+        <charseq START="1712" END="1722">&apos;s chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1715" END="1722">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-12-2">
+      <extent>
+        <charseq START="1728" END="1750">chief executive
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="1744" END="1750">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-12-3">
+      <extent>
+        <charseq START="1792" END="1801">Mr. Taylor</charseq>
+      </extent>
+      <head>
+        <charseq START="1796" END="1801">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-12-4">
+      <extent>
+        <charseq START="1792" END="1794">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1792" END="1794">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_017.0072-12-5">
+      <extent>
+        <charseq START="2082" END="2091">Mr. Taylor</charseq>
+      </extent>
+      <head>
+        <charseq START="2086" END="2091">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-12-6">
+      <extent>
+        <charseq START="2082" END="2084">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2082" END="2084">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William O. Taylor">
+        <charseq START="1683" END="1699">William O. Taylor</charseq>
+      </name>
+      <name NAME="Taylor">
+        <charseq START="1796" END="1801">Taylor</charseq>
+      </name>
+      <name NAME="Taylor">
+        <charseq START="2086" END="2091">Taylor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_017.0072-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_017.0072-13-0">
+      <extent>
+        <charseq START="2003" END="2013">A spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="2005" END="2013">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_017.0072-13-1">
+      <extent>
+        <charseq START="2111" END="2112">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2111" END="2112">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_017.0072-V6" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V6-1">
+      <extent>
+        <charseq START="610" END="612">35%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V7-1">
+      <extent>
+        <charseq START="764" END="767">3.5%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V9" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V9-1">
+      <extent>
+        <charseq START="985" END="987">43%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V10" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V10-1">
+      <extent>
+        <charseq START="1021" END="1029">about 14%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V13" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V13-1">
+      <extent>
+        <charseq START="1168" END="1176">about 13%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V14" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V14-1">
+      <extent>
+        <charseq START="1298" END="1300">46%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V15" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V15-1">
+      <extent>
+        <charseq START="1393" END="1396">4.4%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_017.0072-V16" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_017.0072-V16-1">
+      <extent>
+        <charseq START="1424" END="1427">6.4%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_017.0072-T0" VAL="1993">
+    <timex2_mention ID="wsj94_017.0072-T0-1">
+      <extent>
+        <charseq START="299" END="302">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T1" VAL="2015">
+    <timex2_mention ID="wsj94_017.0072-T1-1">
+      <extent>
+        <charseq START="424" END="432">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T2" VAL="1994">
+    <timex2_mention ID="wsj94_017.0072-T2-1">
+      <extent>
+        <charseq START="497" END="500">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T3" VAL="1993">
+    <timex2_mention ID="wsj94_017.0072-T3-1">
+      <extent>
+        <charseq START="617" END="620">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T4" VAL="2015">
+    <timex2_mention ID="wsj94_017.0072-T4-1">
+      <extent>
+        <charseq START="781" END="789">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T5" VAL="1993">
+    <timex2_mention ID="wsj94_017.0072-T5-1">
+      <extent>
+        <charseq START="932" END="935">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T6" VAL="1992">
+    <timex2_mention ID="wsj94_017.0072-T6-1">
+      <extent>
+        <charseq START="1036" END="1039">1992</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T7" VAL="2015-10">
+    <timex2_mention ID="wsj94_017.0072-T7-1">
+      <extent>
+        <charseq START="1633" END="1644">last October</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_017.0072-T8" VAL="1998">
+    <timex2_mention ID="wsj94_017.0072-T8-1">
+      <extent>
+        <charseq START="1768" END="1771">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

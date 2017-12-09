@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030617_173115.14.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030617_173115.14">
+  <entity ID="CNN_ENG_20030617_173115.14-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="68" END="73">canada</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="73">canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="canada">
+        <charseq START="68" END="73">canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="102" END="118">the third country</charseq>
+      </extent>
+      <head>
+        <charseq START="112" END="118">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="143" END="164">the federal government</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="164">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="288">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="288">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-4-0">
+      <extent>
+        <charseq START="186" END="190">court</charseq>
+      </extent>
+      <head>
+        <charseq START="186" END="190">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-5-0">
+      <extent>
+        <charseq START="224" END="238">same-sex unions</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="238">unions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-6-0">
+      <extent>
+        <charseq START="241" END="268">prime minister jean chretien</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="268">jean chretien</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-6-1">
+      <extent>
+        <charseq START="241" END="254">prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="254">prime minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jean chretien">
+        <charseq START="256" END="268">jean chretien</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="347" END="365">the u.s.
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="365">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="351" END="354">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="354">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="351" END="354">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-9-0">
+      <extent>
+        <charseq START="405" END="410">people</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="410">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-10-0">
+      <extent>
+        <charseq START="481" END="503">a federal appeals court</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="503">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-10-1">
+      <extent>
+        <charseq START="523" END="527">court</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="527">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-11-0">
+      <extent>
+        <charseq START="537" END="558">the justice department</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="558">justice department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="justice department">
+        <charseq START="541" END="558">justice department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-12-0">
+      <extent>
+        <charseq START="723" END="729">central</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="729">central</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-13-0">
+      <extent>
+        <charseq START="752" END="764">the west bank</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="764">west bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="west bank">
+        <charseq START="756" END="764">west bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-14-0">
+      <extent>
+        <charseq START="767" END="791">a 7-year-old israeli girl</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="791">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030617_173115.14-14-1">
+      <extent>
+        <charseq START="815" END="817">her</charseq>
+      </extent>
+      <head>
+        <charseq START="815" END="817">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030617_173115.14-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="780" END="786">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="786">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="israeli">
+        <charseq START="780" END="786">israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-16-0">
+      <extent>
+        <charseq START="803" END="812">two
+others</charseq>
+      </extent>
+      <head>
+        <charseq START="807" END="812">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-16-1">
+      <extent>
+        <charseq START="815" END="824">her father</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="824">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030617_173115.14-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030617_173115.14-17-0">
+      <extent>
+        <charseq START="841" END="854">another sister</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="854">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030617_173115.14-T0" VAL="2003-06-17">
+    <timex2_mention ID="CNN_ENG_20030617_173115.14-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-17</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030617_173115.14-T1" VAL="2003-06-17">
+    <timex2_mention ID="CNN_ENG_20030617_173115.14-T1-1">
+      <extent>
+        <charseq START="295" END="297">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030617_173115.14-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030617_173115.14-8" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030617_173115.14-7" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030617_173115.14-R1-1">
+      <extent>
+        <charseq START="347" END="365">the u.s.
+government</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030617_173115.14-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="351" END="354">u.s.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030617_173115.14-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="347" END="365">the u.s.
+government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

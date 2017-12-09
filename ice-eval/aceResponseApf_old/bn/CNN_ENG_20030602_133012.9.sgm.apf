@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030602_133012.9.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030602_133012.9">
+  <entity ID="CNN_ENG_20030602_133012.9-1" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-1-0">
+      <extent>
+        <charseq START="102" END="109">a rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="109">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-2" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-2-0">
+      <extent>
+        <charseq START="120" END="146">a
+european mars observetory</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="146">observetory</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-3" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="122" END="134">european mars</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="134">european mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="635" END="638">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="635" END="638">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1272" END="1275">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1272" END="1275">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1412" END="1415">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1412" END="1415">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1420" END="1432">a tough place</charseq>
+      </extent>
+      <head>
+        <charseq START="1428" END="1432">place</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="1624" END="1627">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1624" END="1627">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="european mars">
+        <charseq START="122" END="134">european mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="635" END="638">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="1272" END="1275">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="1412" END="1415">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="1624" END="1627">mars</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-4" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-4-0">
+      <extent>
+        <charseq START="318" END="331">the red planet</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="331">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-4-1">
+      <extent>
+        <charseq START="425" END="438">the red planet</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="438">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-4-2">
+      <extent>
+        <charseq START="1091" END="1104">the red
+planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1099" END="1104">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-4-3">
+      <extent>
+        <charseq START="1579" END="1592">the red planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1592">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-5-0">
+      <extent>
+        <charseq START="343" END="363">really two
+spacecraft</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="363">spacecraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-6-0">
+      <extent>
+        <charseq START="475" END="482">a lander</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="482">lander</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-6-1">
+      <extent>
+        <charseq START="901" END="923">this tiny little lander</charseq>
+      </extent>
+      <head>
+        <charseq START="918" END="923">lander</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-7-0">
+      <extent>
+        <charseq START="493" END="498">beagle</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="498">beagle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-8-0">
+      <extent>
+        <charseq START="517" END="531">charles
+car win</charseq>
+      </extent>
+      <head>
+        <charseq START="517" END="531">charles
+car win</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_133012.9-8-1">
+      <extent>
+        <charseq START="539" END="540">he</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="540">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="charles car win">
+        <charseq START="517" END="531">charles
+car win</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-9" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-9-0">
+      <extent>
+        <charseq START="552" END="561">the island</charseq>
+      </extent>
+      <head>
+        <charseq START="556" END="561">island</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_133012.9-9-1">
+      <extent>
+        <charseq START="577" END="579">its</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="579">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="840" END="848">my nation</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="848">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_133012.9-11-0">
+      <extent>
+        <charseq START="1196" END="1220">the european
+space agency</charseq>
+      </extent>
+      <head>
+        <charseq START="1215" END="1220">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="1200" END="1207">european</charseq>
+      </extent>
+      <head>
+        <charseq START="1200" END="1207">european</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="1252" END="1259">european</charseq>
+      </extent>
+      <head>
+        <charseq START="1252" END="1259">european</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="european">
+        <charseq START="1200" END="1207">european</charseq>
+      </name>
+      <name NAME="european">
+        <charseq START="1252" END="1259">european</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="1225" END="1231">germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1225" END="1231">germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="germany">
+        <charseq START="1225" END="1231">germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="1314" END="1321">american</charseq>
+      </extent>
+      <head>
+        <charseq START="1314" END="1321">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="american">
+        <charseq START="1314" END="1321">american</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_133012.9-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_133012.9-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1357" END="1373">the zef yot union</charseq>
+      </extent>
+      <head>
+        <charseq START="1361" END="1373">zef yot union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="zef yot union">
+        <charseq START="1361" END="1373">zef yot union</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T0" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-02</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T1" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T1-1">
+      <extent>
+        <charseq START="81" END="83">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T2" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T2-1">
+      <extent>
+        <charseq START="242" END="244">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T3" VAL="P6M">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T3-1">
+      <extent>
+        <charseq START="650" END="659">six months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T4" VAL="P7M">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T4-1">
+      <extent>
+        <charseq START="876" END="887">seven months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T5" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T5-1">
+      <extent>
+        <charseq START="894" END="896">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T6" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T6-1">
+      <extent>
+        <charseq START="1049" END="1051">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T7" VAL="1988">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T7-1">
+      <extent>
+        <charseq START="1472" END="1475">1988</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T8" VAL="1988">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T8-1">
+      <extent>
+        <charseq START="1477" END="1480">1988</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_133012.9-T9" VAL="1998">
+    <timex2_mention ID="CNN_ENG_20030602_133012.9-T9-1">
+      <extent>
+        <charseq START="1485" END="1488">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030602_133012.9-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030602_133012.9-3" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030602_133012.9-3" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030602_133012.9-R1-2">
+      <extent>
+        <charseq START="1412" END="1432">mars is a tough place</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030602_133012.9-3-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1412" END="1415">mars</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030602_133012.9-3-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1420" END="1432">a tough place</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

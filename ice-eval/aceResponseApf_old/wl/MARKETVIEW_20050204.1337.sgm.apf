@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKETVIEW_20050204.1337.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKETVIEW_20050204.1337">
+  <entity ID="MARKETVIEW_20050204.1337-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-1-0">
+      <extent>
+        <charseq START="92" END="96">Byrne</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="96">Byrne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrne">
+        <charseq START="92" END="96">Byrne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-2-0">
+      <extent>
+        <charseq START="146" END="157">reliable CNN</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="157">CNN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1337-2-1">
+      <extent>
+        <charseq START="247" END="250">they</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="250">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CNN">
+        <charseq START="155" END="157">CNN</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="298" END="304">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="304">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="973" END="979">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="979">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-4-0">
+      <extent>
+        <charseq START="437" END="468">the net amount foreign
+investors</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="468">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="482" END="487">the US</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="487">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="556" END="557">US</charseq>
+      </extent>
+      <head>
+        <charseq START="556" END="557">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="666" END="667">US</charseq>
+      </extent>
+      <head>
+        <charseq START="666" END="667">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="1494" END="1495">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1494" END="1495">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-5-4" ROLE="GPE">
+      <extent>
+        <charseq START="1537" END="1543">America</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1543">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="486" END="487">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="556" END="557">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="666" END="667">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1494" END="1495">US</charseq>
+      </name>
+      <name NAME="America">
+        <charseq START="1537" END="1543">America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-6-0">
+      <extent>
+        <charseq START="556" END="567">US consumers</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="567">consumers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="984" END="1003">developing
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="995" END="1003">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-8-0">
+      <extent>
+        <charseq START="1238" END="1252">the major banks</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1252">banks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1337-8-1">
+      <extent>
+        <charseq START="1309" END="1312">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1309" END="1312">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-9" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="1257" END="1260">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="1257" END="1260">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1337-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="1643" END="1647">Asian</charseq>
+      </extent>
+      <head>
+        <charseq START="1643" END="1647">Asian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="1257" END="1260">Asia</charseq>
+      </name>
+      <name NAME="Asian">
+        <charseq START="1643" END="1647">Asian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-10-0">
+      <extent>
+        <charseq START="1490" END="1505">non-US investors</charseq>
+      </extent>
+      <head>
+        <charseq START="1497" END="1505">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1337-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1337-11-0">
+      <extent>
+        <charseq START="1643" END="1661">Asian central banks</charseq>
+      </extent>
+      <head>
+        <charseq START="1657" END="1661">banks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1337-11-1">
+      <extent>
+        <charseq START="1720" END="1723">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1720" END="1723">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1337-11-2">
+      <extent>
+        <charseq START="1753" END="1755">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1753" END="1755">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="MARKETVIEW_20050204.1337-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050204.1337-V1-1">
+      <extent>
+        <charseq START="582" END="590">about 20%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="MARKETVIEW_20050204.1337-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050204.1337-V2-1">
+      <extent>
+        <charseq START="695" END="704">around 75%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="MARKETVIEW_20050204.1337-T0" VAL="2005-02-04T13:37:00">
+    <timex2_mention ID="MARKETVIEW_20050204.1337-T0-1">
+      <extent>
+        <charseq START="40" END="58">2005-02-04T13:37:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20050204.1337-T1" VAL="2005-02-04T13:37:00">
+    <timex2_mention ID="MARKETVIEW_20050204.1337-T1-1">
+      <extent>
+        <charseq START="100" END="118">2005-02-04T13:37:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

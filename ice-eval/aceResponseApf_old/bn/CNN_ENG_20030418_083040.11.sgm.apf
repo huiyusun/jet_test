@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030418_083040.11.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030418_083040.11">
+  <entity ID="CNN_ENG_20030418_083040.11-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030418_083040.11-1-0">
+      <extent>
+        <charseq START="90" END="101">the pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="94" END="101">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030418_083040.11-1-1">
+      <extent>
+        <charseq START="274" END="285">the pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="285">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030418_083040.11-2-0">
+      <extent>
+        <charseq START="125" END="143">the iraqi
+prisoners</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="143">prisoners</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030418_083040.11-2-1">
+      <extent>
+        <charseq START="327" END="330">they</charseq>
+      </extent>
+      <head>
+        <charseq START="327" END="330">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030418_083040.11-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="129" END="133">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="133">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraqi">
+        <charseq START="129" END="133">iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030418_083040.11-4-0">
+      <extent>
+        <charseq START="164" END="183">one detention center</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="183">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030418_083040.11-5-0">
+      <extent>
+        <charseq START="196" END="207">7,000
+iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="207">iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030418_083040.11-6-0">
+      <extent>
+        <charseq START="233" END="240">thousand</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="240">thousand</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030418_083040.11-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030418_083040.11-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="350" END="359">washington</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="359">washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="washington">
+        <charseq START="350" END="359">washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030418_083040.11-T0" VAL="2003-04-18">
+    <timex2_mention ID="CNN_ENG_20030418_083040.11-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-04-18</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030418_083040.11-T1" VAL="7000">
+    <timex2_mention ID="CNN_ENG_20030418_083040.11-T1-1">
+      <extent>
+        <charseq START="196" END="200">7,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030415_193729.5.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030415_193729.5">
+  <entity ID="CNNHL_ENG_20030415_193729.5-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-1-0">
+      <extent>
+        <charseq START="69" END="98">a palestinian terrorist leader</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="98">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="71" END="81">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="71" END="81">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="263" END="273">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="273">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="palestinian">
+        <charseq START="71" END="81">palestinian</charseq>
+      </name>
+      <name NAME="palestinian">
+        <charseq START="263" END="273">palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-3-0">
+      <extent>
+        <charseq START="83" END="91">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="91">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-4" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-4-0">
+      <extent>
+        <charseq START="111" END="135">a deadly 1985 cruise ship</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="135">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-4-1">
+      <extent>
+        <charseq START="437" END="440">ship</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="440">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="153" END="156">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="156">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="175" END="178">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="178">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="489" END="496">american</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="496">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="153" END="156">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="175" END="178">u.s.</charseq>
+      </name>
+      <name NAME="american">
+        <charseq START="489" END="496">american</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="169" END="172">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="172">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="169" END="172">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-7-0">
+      <extent>
+        <charseq START="175" END="186">u.s. sources</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="186">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-8-0">
+      <extent>
+        <charseq START="210" END="216">&quot; abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="216">abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030415_193729.5-8-1">
+      <extent>
+        <charseq START="287" END="288">he</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="288">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030415_193729.5-8-2">
+      <extent>
+        <charseq START="396" END="398">his</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="398">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-8-3">
+      <extent>
+        <charseq START="524" END="528">abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="528">abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="abbas">
+        <charseq START="212" END="216">abbas</charseq>
+      </name>
+      <name NAME="abbas">
+        <charseq START="524" END="528">abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="254" END="260">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="260">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="254" END="260">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-10-0">
+      <extent>
+        <charseq START="263" END="281">palestinian
+sources</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="281">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="313" END="317">syria</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="317">syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="syria">
+        <charseq START="313" END="317">syria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-12" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-12-0">
+      <extent>
+        <charseq START="343" END="352">the border</charseq>
+      </extent>
+      <head>
+        <charseq START="347" END="352">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-13-0">
+      <extent>
+        <charseq START="375" END="388">four hijackers</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="388">hijackers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-14" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-14-0">
+      <extent>
+        <charseq START="469" END="480">a wheelchair</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="480">wheelchair</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-14-1">
+      <extent>
+        <charseq START="489" END="504">american tourist</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="504">tourist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030415_193729.5-14-2">
+      <extent>
+        <charseq START="507" END="521">leo klinghoffer</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="521">leo klinghoffer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="leo klinghoffer">
+        <charseq START="507" END="521">leo klinghoffer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030415_193729.5-15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030415_193729.5-15-0">
+      <extent>
+        <charseq START="559" END="574">an italian court</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="574">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030415_193729.5-T0" VAL="2003-04-15">
+    <timex2_mention ID="CNNHL_ENG_20030415_193729.5-T0-1">
+      <extent>
+        <charseq START="45" END="54">2003-04-15</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030415_193729.5-T1" VAL="1985">
+    <timex2_mention ID="CNNHL_ENG_20030415_193729.5-T1-1">
+      <extent>
+        <charseq START="120" END="123">1985</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030415_193729.5-T2" VAL="1985">
+    <timex2_mention ID="CNNHL_ENG_20030415_193729.5-T2-1">
+      <extent>
+        <charseq START="369" END="372">1985</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

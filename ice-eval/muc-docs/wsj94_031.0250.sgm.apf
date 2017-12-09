@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_031.0250.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_031.0250">
+  <entity ID="wsj94_031.0250-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-1-0">
+      <extent>
+        <charseq START="158" END="167">Arkla Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="167">Arkla Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_031.0250-1-1">
+      <extent>
+        <charseq START="174" END="175">it</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="175">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_031.0250-1-2">
+      <extent>
+        <charseq START="193" END="195">its</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="195">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_031.0250-1-3">
+      <extent>
+        <charseq START="229" END="239">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="239">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_031.0250-1-4">
+      <extent>
+        <charseq START="329" END="339">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="339">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arkla Inc.">
+        <charseq START="158" END="167">Arkla Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-2-0">
+      <extent>
+        <charseq START="205" END="221">NorAm
+Energy Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="221">NorAm
+Energy Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NorAm Energy Corp">
+        <charseq START="205" END="221">NorAm
+Energy Corp</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_031.0250-3-0">
+      <extent>
+        <charseq START="271" END="282">shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="282">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="372" END="401">Mississippi River
+Transmission</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="401">Mississippi River
+Transmission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="599" END="628">Mississippi River Transmission</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="628">Mississippi River Transmission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_031.0250-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="643" END="647">their</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="647">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mississippi River Transmission">
+        <charseq START="372" END="401">Mississippi River
+Transmission</charseq>
+      </name>
+      <name NAME="Mississippi River Transmission">
+        <charseq START="599" END="628">Mississippi River Transmission</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-5-0">
+      <extent>
+        <charseq START="404" END="423">Entex and Minnegasco</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="423">Entex and Minnegasco</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_031.0250-5-1">
+      <extent>
+        <charseq START="426" END="427">it</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="427">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-5-2">
+      <extent>
+        <charseq START="542" END="546">Entex</charseq>
+      </extent>
+      <head>
+        <charseq START="542" END="546">Entex</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_031.0250-5-3">
+      <extent>
+        <charseq START="509" END="539">&apos;s three distribution divisions</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="539">divisions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-5-4">
+      <extent>
+        <charseq START="549" END="558">Minnegasco</charseq>
+      </extent>
+      <head>
+        <charseq START="549" END="558">Minnegasco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Entex and Minnegasco">
+        <charseq START="404" END="423">Entex and Minnegasco</charseq>
+      </name>
+      <name NAME="Entex">
+        <charseq START="542" END="546">Entex</charseq>
+      </name>
+      <name NAME="Minnegasco">
+        <charseq START="549" END="558">Minnegasco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-6-0">
+      <extent>
+        <charseq START="483" END="496">the name Arkla</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="496">Arkla</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_031.0250-6-1">
+      <extent>
+        <charseq START="487" END="490">name</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="490">name</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-6-2">
+      <extent>
+        <charseq START="504" END="508">Arkla</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="508">Arkla</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-6-3">
+      <extent>
+        <charseq START="678" END="726">Arkla Energy
+Resources and Arkla Energy Marketing</charseq>
+      </extent>
+      <head>
+        <charseq START="678" END="726">Arkla Energy
+Resources and Arkla Energy Marketing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arkla">
+        <charseq START="492" END="496">Arkla</charseq>
+      </name>
+      <name NAME="Arkla">
+        <charseq START="504" END="508">Arkla</charseq>
+      </name>
+      <name NAME="Arkla Energy Resources and Arkla Energy Marketing">
+        <charseq START="678" END="726">Arkla Energy
+Resources and Arkla Energy Marketing</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_031.0250-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_031.0250-7-0">
+      <extent>
+        <charseq START="564" END="585">Arkansas Louisiana Gas</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="585">Arkansas Louisiana Gas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arkansas Louisiana Gas">
+        <charseq START="564" END="585">Arkansas Louisiana Gas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_031.0250-T0" VAL="2016-05-10">
+    <timex2_mention ID="wsj94_031.0250-T0-1">
+      <extent>
+        <charseq START="316" END="321">May 10</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

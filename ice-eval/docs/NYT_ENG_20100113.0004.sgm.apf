@@ -1,0 +1,2020 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20100113.0004.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20100113.0004">
+  <entity ID="NYT_ENG_20100113.0004-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-1-0">
+      <extent>
+        <charseq START="184" END="206">The American contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="206">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="188" END="195">American</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="195">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-1" ROLE="LOC">
+      <extent>
+        <charseq START="427" END="430">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="430">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="767" END="770">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="767" END="770">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="827" END="830">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="830">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1286" END="1302">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1290" END="1302">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="3982" END="3988">America</charseq>
+      </extent>
+      <head>
+        <charseq START="3982" END="3988">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="4123" END="4139">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4127" END="4139">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="4373" END="4389">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4377" END="4389">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="4435" END="4438">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4435" END="4438">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="4458" END="4459">It</charseq>
+      </extent>
+      <head>
+        <charseq START="4458" END="4459">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-10" ROLE="GPE">
+      <extent>
+        <charseq START="4501" END="4517">the
+United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4505" END="4517">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-11" ROLE="GPE">
+      <extent>
+        <charseq START="4556" END="4559">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="4556" END="4559">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-12" ROLE="GPE">
+      <extent>
+        <charseq START="4631" END="4638">American</charseq>
+      </extent>
+      <head>
+        <charseq START="4631" END="4638">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-13" ROLE="GPE">
+      <extent>
+        <charseq START="4768" END="4771">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="4768" END="4771">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-2-14" ROLE="GPE">
+      <extent>
+        <charseq START="4942" END="4945">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="4942" END="4945">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="188" END="195">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="427" END="430">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="767" END="770">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="827" END="830">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="1290" END="1302">United States</charseq>
+      </name>
+      <name NAME="America">
+        <charseq START="3982" END="3988">America</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4127" END="4139">United States</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4377" END="4389">United States</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4505" END="4517">United States</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="4556" END="4559">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="4631" END="4638">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="4768" END="4771">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="4942" END="4945">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="220" END="223">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="223">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="338" END="341">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="341">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="809" END="812">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="812">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="984" END="987">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="987">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1021" END="1024">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1024">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="1108" END="1127">the Cuban government</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1127">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-6" ROLE="GPE">
+      <extent>
+        <charseq START="1112" END="1116">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="1112" END="1116">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-7" ROLE="GPE">
+      <extent>
+        <charseq START="1189" END="1208">The Cuban government</charseq>
+      </extent>
+      <head>
+        <charseq START="1199" END="1208">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-8" ROLE="GPE">
+      <extent>
+        <charseq START="1193" END="1197">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="1193" END="1197">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-9" ROLE="GPE">
+      <extent>
+        <charseq START="1311" END="1314">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="1311" END="1314">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-10" ROLE="GPE">
+      <extent>
+        <charseq START="1554" END="1557">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="1554" END="1557">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-11" ROLE="GPE">
+      <extent>
+        <charseq START="1808" END="1811">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="1808" END="1811">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-3-12" ROLE="GPE">
+      <extent>
+        <charseq START="1969" END="1972">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1969" END="1972">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-13" ROLE="GPE">
+      <extent>
+        <charseq START="2115" END="2124">The people</charseq>
+      </extent>
+      <head>
+        <charseq START="2119" END="2124">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-3-14" ROLE="GPE">
+      <extent>
+        <charseq START="2199" END="2202">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2199" END="2202">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-15" ROLE="GPE">
+      <extent>
+        <charseq START="2384" END="2387">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="2384" END="2387">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-16" ROLE="GPE">
+      <extent>
+        <charseq START="2438" END="2443">people</charseq>
+      </extent>
+      <head>
+        <charseq START="2438" END="2443">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-17" ROLE="GPE">
+      <extent>
+        <charseq START="2563" END="2566">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="2563" END="2566">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-18" ROLE="GPE">
+      <extent>
+        <charseq START="3438" END="3443">people</charseq>
+      </extent>
+      <head>
+        <charseq START="3438" END="3443">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-19" ROLE="GPE">
+      <extent>
+        <charseq START="3520" END="3523">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="3520" END="3523">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-20" ROLE="GPE">
+      <extent>
+        <charseq START="3621" END="3624">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="3621" END="3624">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-21" ROLE="GPE">
+      <extent>
+        <charseq START="3632" END="3635">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="3632" END="3635">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-22" ROLE="GPE">
+      <extent>
+        <charseq START="3703" END="3706">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="3703" END="3706">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-23" ROLE="GPE">
+      <extent>
+        <charseq START="3795" END="3808">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="3799" END="3808">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-24" ROLE="GPE">
+      <extent>
+        <charseq START="4019" END="4023">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="4019" END="4023">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-25" ROLE="GPE">
+      <extent>
+        <charseq START="4055" END="4059">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="4055" END="4059">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-26" ROLE="GPE">
+      <extent>
+        <charseq START="4175" END="4178">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="4175" END="4178">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-3-27" ROLE="GPE">
+      <extent>
+        <charseq START="4234" END="4237">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4234" END="4237">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-28" ROLE="GPE">
+      <extent>
+        <charseq START="4256" END="4259">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="4256" END="4259">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-3-29" ROLE="GPE">
+      <extent>
+        <charseq START="4283" END="4296">The government</charseq>
+      </extent>
+      <head>
+        <charseq START="4287" END="4296">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-30" ROLE="GPE">
+      <extent>
+        <charseq START="4341" END="4345">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="4341" END="4345">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-31" ROLE="GPE">
+      <extent>
+        <charseq START="4526" END="4530">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="4526" END="4530">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-32" ROLE="GPE">
+      <extent>
+        <charseq START="4651" END="4654">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="4651" END="4654">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-33" ROLE="GPE">
+      <extent>
+        <charseq START="4717" END="4721">Cuban</charseq>
+      </extent>
+      <head>
+        <charseq START="4717" END="4721">Cuban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-34" ROLE="GPE">
+      <extent>
+        <charseq START="4982" END="4985">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="4982" END="4985">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-3-35" ROLE="GPE">
+      <extent>
+        <charseq START="5028" END="5031">Cuba</charseq>
+      </extent>
+      <head>
+        <charseq START="5028" END="5031">Cuba</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cuba">
+        <charseq START="220" END="223">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="338" END="341">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="809" END="812">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="984" END="987">Cuba</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="1112" END="1116">Cuban</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="1193" END="1197">Cuban</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="1311" END="1314">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="1554" END="1557">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="1808" END="1811">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="2384" END="2387">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="2563" END="2566">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="3520" END="3523">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="3621" END="3624">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="3632" END="3635">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="3703" END="3706">Cuba</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="4019" END="4023">Cuban</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="4055" END="4059">Cuban</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="4175" END="4178">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="4256" END="4259">Cuba</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="4341" END="4345">Cuban</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="4526" END="4530">Cuban</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="4651" END="4654">Cuba</charseq>
+      </name>
+      <name NAME="Cuban">
+        <charseq START="4717" END="4721">Cuban</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="4982" END="4985">Cuba</charseq>
+      </name>
+      <name NAME="Cuba">
+        <charseq START="5028" END="5031">Cuba</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-4-0">
+      <extent>
+        <charseq START="257" END="261">a spy</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="261">spy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-5-0">
+      <extent>
+        <charseq START="266" END="292">a 60-year-old social worker</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="292">worker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-6-0">
+      <extent>
+        <charseq START="299" END="320">the
+Washington suburbs</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="320">suburbs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-7-0" ROLE="LOC">
+      <extent>
+        <charseq START="303" END="312">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="312">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="1417" END="1426">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1417" END="1426">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="4611" END="4620">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="4611" END="4620">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="303" END="312">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="1417" END="1426">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="4611" END="4620">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-8-0">
+      <extent>
+        <charseq START="382" END="411">Jewish nonprofit organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="411">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-9-0">
+      <extent>
+        <charseq START="427" END="440">U.S.
+officials</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="440">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-0">
+      <extent>
+        <charseq START="490" END="502">Alan P. Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="502">Alan P. Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-10-1">
+      <extent>
+        <charseq START="474" END="487">the contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="487">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-2">
+      <extent>
+        <charseq START="566" END="567">he</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="567">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-3">
+      <extent>
+        <charseq START="648" END="650">his</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="650">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-4">
+      <extent>
+        <charseq START="683" END="684">he</charseq>
+      </extent>
+      <head>
+        <charseq START="683" END="684">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-5">
+      <extent>
+        <charseq START="791" END="795">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="795">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-6">
+      <extent>
+        <charseq START="970" END="974">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="974">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-7">
+      <extent>
+        <charseq START="1039" END="1040">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1039" END="1040">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-8">
+      <extent>
+        <charseq START="1174" END="1175">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1174" END="1175">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-10-9">
+      <extent>
+        <charseq START="1180" END="1184">a spy</charseq>
+      </extent>
+      <head>
+        <charseq START="1182" END="1184">spy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-10">
+      <extent>
+        <charseq START="1238" END="1240">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1240">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-11">
+      <extent>
+        <charseq START="1354" END="1358">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1354" END="1358">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-12">
+      <extent>
+        <charseq START="1764" END="1777">the time Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="1773" END="1777">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-10-13">
+      <extent>
+        <charseq START="1768" END="1771">time</charseq>
+      </extent>
+      <head>
+        <charseq START="1768" END="1771">time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-14">
+      <extent>
+        <charseq START="2255" END="2259">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="2255" END="2259">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-15">
+      <extent>
+        <charseq START="2330" END="2331">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2330" END="2331">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-16">
+      <extent>
+        <charseq START="2541" END="2545">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="2541" END="2545">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-17">
+      <extent>
+        <charseq START="2551" END="2553">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2551" END="2553">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-18">
+      <extent>
+        <charseq START="2602" END="2606">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="2602" END="2606">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-19">
+      <extent>
+        <charseq START="2704" END="2705">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2704" END="2705">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-20">
+      <extent>
+        <charseq START="2824" END="2828">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="2824" END="2828">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-21">
+      <extent>
+        <charseq START="2884" END="2885">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2884" END="2885">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-22">
+      <extent>
+        <charseq START="3158" END="3160">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3158" END="3160">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-23">
+      <extent>
+        <charseq START="3249" END="3253">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="3249" END="3253">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-24">
+      <extent>
+        <charseq START="3330" END="3337">The Alan</charseq>
+      </extent>
+      <head>
+        <charseq START="3334" END="3337">Alan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-25">
+      <extent>
+        <charseq START="3349" END="3355">someone</charseq>
+      </extent>
+      <head>
+        <charseq START="3349" END="3355">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-26">
+      <extent>
+        <charseq START="3660" END="3664">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="3660" END="3664">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-27">
+      <extent>
+        <charseq START="3869" END="3873">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="3869" END="3873">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-28">
+      <extent>
+        <charseq START="3923" END="3927">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="3923" END="3927">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-29">
+      <extent>
+        <charseq START="4249" END="4253">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="4249" END="4253">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-30">
+      <extent>
+        <charseq START="4323" END="4325">him</charseq>
+      </extent>
+      <head>
+        <charseq START="4323" END="4325">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-10-31">
+      <extent>
+        <charseq START="4416" END="4418">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4416" END="4418">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-10-32">
+      <extent>
+        <charseq START="4589" END="4593">Gross</charseq>
+      </extent>
+      <head>
+        <charseq START="4589" END="4593">Gross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-10-33">
+      <extent>
+        <charseq START="4801" END="4814">the contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="4805" END="4814">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alan P. Gross">
+        <charseq START="490" END="502">Alan P. Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="791" END="795">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="970" END="974">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="1354" END="1358">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="1773" END="1777">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="2255" END="2259">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="2541" END="2545">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="2602" END="2606">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="2824" END="2828">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="3249" END="3253">Gross</charseq>
+      </name>
+      <name NAME="Alan">
+        <charseq START="3334" END="3337">Alan</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="3660" END="3664">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="3869" END="3873">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="3923" END="3927">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="4249" END="4253">Gross</charseq>
+      </name>
+      <name NAME="Gross">
+        <charseq START="4589" END="4593">Gross</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-11" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-11-0">
+      <extent>
+        <charseq START="630" END="638">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="638">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-12-0">
+      <extent>
+        <charseq START="641" END="643">One</charseq>
+      </extent>
+      <head>
+        <charseq START="641" END="643">One</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-13-0">
+      <extent>
+        <charseq START="648" END="676">his Internet networking sites</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="676">sites</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-14-0">
+      <extent>
+        <charseq START="695" END="721">a volunteer
+field organizer</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="721">organizer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-0">
+      <extent>
+        <charseq START="727" END="738">Barack Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="727" END="738">Barack Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-1">
+      <extent>
+        <charseq START="1509" END="1513">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="1509" END="1513">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-2">
+      <extent>
+        <charseq START="3460" END="3464">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="3460" END="3464">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-15-3">
+      <extent>
+        <charseq START="3530" END="3531">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3530" END="3531">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-4">
+      <extent>
+        <charseq START="3685" END="3689">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="3685" END="3689">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-5">
+      <extent>
+        <charseq START="3751" END="3755">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="3751" END="3755">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-15-6">
+      <extent>
+        <charseq START="3813" END="3815">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3813" END="3815">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-15-7">
+      <extent>
+        <charseq START="4202" END="4206">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="4202" END="4206">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Barack Obama">
+        <charseq START="727" END="738">Barack Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="1509" END="1513">Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="3460" END="3464">Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="3685" END="3689">Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="3751" END="3755">Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="4202" END="4206">Obama</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-16-0">
+      <extent>
+        <charseq START="767" END="780">U.S. officials</charseq>
+      </extent>
+      <head>
+        <charseq START="772" END="780">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-17-0">
+      <extent>
+        <charseq START="921" END="936">nonprofit groups</charseq>
+      </extent>
+      <head>
+        <charseq START="931" END="936">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-18-0">
+      <extent>
+        <charseq START="939" END="951">The officials</charseq>
+      </extent>
+      <head>
+        <charseq START="943" END="951">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-18-1">
+      <extent>
+        <charseq START="1134" END="1137">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1137">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-18-2">
+      <extent>
+        <charseq START="4556" END="4578">U.S. consular
+officials</charseq>
+      </extent>
+      <head>
+        <charseq START="4570" END="4578">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-19-0">
+      <extent>
+        <charseq START="1382" END="1391">the source</charseq>
+      </extent>
+      <head>
+        <charseq START="1386" END="1391">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-19-1">
+      <extent>
+        <charseq START="1793" END="1794">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1793" END="1794">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-19-2">
+      <extent>
+        <charseq START="1980" END="1981">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1980" END="1981">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-19-3">
+      <extent>
+        <charseq START="2141" END="2143">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2141" END="2143">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-19-4">
+      <extent>
+        <charseq START="2372" END="2374">His</charseq>
+      </extent>
+      <head>
+        <charseq START="2372" END="2374">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1432" END="1437">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="1432" END="1437">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1444" END="1445">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1444" END="1445">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="3907" END="3912">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="3907" END="3912">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-20-3" ROLE="GPE">
+      <extent>
+        <charseq START="4082" END="4087">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="4082" END="4087">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-20-4" ROLE="GPE">
+      <extent>
+        <charseq START="4689" END="4694">Havana</charseq>
+      </extent>
+      <head>
+        <charseq START="4689" END="4694">Havana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Havana">
+        <charseq START="1432" END="1437">Havana</charseq>
+      </name>
+      <name NAME="Havana">
+        <charseq START="3907" END="3912">Havana</charseq>
+      </name>
+      <name NAME="Havana">
+        <charseq START="4082" END="4087">Havana</charseq>
+      </name>
+      <name NAME="Havana">
+        <charseq START="4689" END="4694">Havana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-21-0">
+      <extent>
+        <charseq START="1482" END="1493">Capitol Hill</charseq>
+      </extent>
+      <head>
+        <charseq START="1482" END="1493">Capitol Hill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Capitol Hill">
+        <charseq START="1482" END="1493">Capitol Hill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-22-0">
+      <extent>
+        <charseq START="1505" END="1528">the Obama administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1515" END="1528">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-22-1">
+      <extent>
+        <charseq START="1550" END="1552">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1550" END="1552">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-22-2">
+      <extent>
+        <charseq START="1627" END="1644">the
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1631" END="1644">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-22-3">
+      <extent>
+        <charseq START="4198" END="4221">the Obama administration</charseq>
+      </extent>
+      <head>
+        <charseq START="4208" END="4221">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-23-0">
+      <extent>
+        <charseq START="1664" END="1667">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1664" END="1667">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bush">
+        <charseq START="1664" END="1667">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-24-0">
+      <extent>
+        <charseq START="1704" END="1722">development workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1716" END="1722">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-25-0">
+      <extent>
+        <charseq START="1875" END="1903">three Jewish
+community groups</charseq>
+      </extent>
+      <head>
+        <charseq START="1898" END="1903">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-26-0">
+      <extent>
+        <charseq START="1919" END="1924">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1919" END="1924">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-26-1">
+      <extent>
+        <charseq START="1944" END="1946">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1944" END="1946">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-27" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-27-0">
+      <extent>
+        <charseq START="2011" END="2039">Development Alternatives Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="2011" END="2039">Development Alternatives Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-27-1">
+      <extent>
+        <charseq START="2042" END="2053">a contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="2044" END="2053">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-27-2">
+      <extent>
+        <charseq START="2500" END="2502">DAI</charseq>
+      </extent>
+      <head>
+        <charseq START="2500" END="2502">DAI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Development Alternatives Inc.">
+        <charseq START="2011" END="2039">Development Alternatives Inc.</charseq>
+      </name>
+      <name NAME="DAI">
+        <charseq START="2500" END="2502">DAI</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-28-0">
+      <extent>
+        <charseq START="2068" END="2112">the U.S.
+Agency for International Development</charseq>
+      </extent>
+      <head>
+        <charseq START="2072" END="2112">U.S.
+Agency for International Development</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-28-1">
+      <extent>
+        <charseq START="5011" END="5013">AID</charseq>
+      </extent>
+      <head>
+        <charseq START="5011" END="5013">AID</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S. Agency for International Development">
+        <charseq START="2072" END="2112">U.S.
+Agency for International Development</charseq>
+      </name>
+      <name NAME="AID">
+        <charseq START="5011" END="5013">AID</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-29" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-29-0">
+      <extent>
+        <charseq START="2286" END="2295">the groups</charseq>
+      </extent>
+      <head>
+        <charseq START="2290" END="2295">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-29-1">
+      <extent>
+        <charseq START="2363" END="2366">them</charseq>
+      </extent>
+      <head>
+        <charseq START="2363" END="2366">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-29-2">
+      <extent>
+        <charseq START="5391" END="5396">groups</charseq>
+      </extent>
+      <head>
+        <charseq START="5391" END="5396">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-30-0">
+      <extent>
+        <charseq START="2462" END="2496">nondissident religious
+organization</charseq>
+      </extent>
+      <head>
+        <charseq START="2485" END="2496">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-31" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-31-0">
+      <extent>
+        <charseq START="2631" END="2656">the University of Maryland</charseq>
+      </extent>
+      <head>
+        <charseq START="2635" END="2656">University of Maryland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="University of Maryland">
+        <charseq START="2635" END="2656">University of Maryland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-32" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-32-0">
+      <extent>
+        <charseq START="2662" END="2697">the Virginia Commonwealth University</charseq>
+      </extent>
+      <head>
+        <charseq START="2666" END="2697">Virginia Commonwealth University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Virginia Commonwealth University">
+        <charseq START="2666" END="2697">Virginia Commonwealth University</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-33-0">
+      <extent>
+        <charseq START="2728" END="2762">an international development worker</charseq>
+      </extent>
+      <head>
+        <charseq START="2757" END="2762">worker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-33-1">
+      <extent>
+        <charseq START="2774" END="2776">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2774" END="2776">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2781" END="2801">at least 50
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="2793" END="2801">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-35-0">
+      <extent>
+        <charseq START="2806" END="2812">Friends</charseq>
+      </extent>
+      <head>
+        <charseq START="2806" END="2812">Friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-36-0">
+      <extent>
+        <charseq START="2838" END="2853">a philanthropist</charseq>
+      </extent>
+      <head>
+        <charseq START="2840" END="2853">philanthropist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-37-0">
+      <extent>
+        <charseq START="2860" END="2872">a
+businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="2862" END="2872">businessman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-38-0">
+      <extent>
+        <charseq START="2895" END="2903">a company</charseq>
+      </extent>
+      <head>
+        <charseq START="2897" END="2903">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-39-0">
+      <extent>
+        <charseq START="2912" END="2944">Joint Business
+Development Center</charseq>
+      </extent>
+      <head>
+        <charseq START="2912" END="2944">Joint Business
+Development Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Joint Business Development Center">
+        <charseq START="2912" END="2944">Joint Business
+Development Center</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-40" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-40-0">
+      <extent>
+        <charseq START="3010" END="3018">locations</charseq>
+      </extent>
+      <head>
+        <charseq START="3010" END="3018">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-41" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-41-0">
+      <extent>
+        <charseq START="3068" END="3099">more than 60 satellite terminals</charseq>
+      </extent>
+      <head>
+        <charseq START="3091" END="3099">terminals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-42-0" ROLE="GPE">
+      <extent>
+        <charseq START="3104" END="3107">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3104" END="3107">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="3104" END="3107">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-43-0" ROLE="GPE">
+      <extent>
+        <charseq START="3110" END="3120">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="3110" END="3120">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Afghanistan">
+        <charseq START="3110" END="3120">Afghanistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-44-0" ROLE="GPE">
+      <extent>
+        <charseq START="3123" END="3129">Armenia</charseq>
+      </extent>
+      <head>
+        <charseq START="3123" END="3129">Armenia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Armenia">
+        <charseq START="3123" END="3129">Armenia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="3135" END="3140">Kuwait</charseq>
+      </extent>
+      <head>
+        <charseq START="3135" END="3140">Kuwait</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kuwait">
+        <charseq START="3135" END="3140">Kuwait</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-46-0">
+      <extent>
+        <charseq START="3158" END="3168">his company</charseq>
+      </extent>
+      <head>
+        <charseq START="3162" END="3168">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-47-0">
+      <extent>
+        <charseq START="3218" END="3232">Howard Feinberg</charseq>
+      </extent>
+      <head>
+        <charseq START="3218" END="3232">Howard Feinberg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-47-1">
+      <extent>
+        <charseq START="3206" END="3215">One
+friend</charseq>
+      </extent>
+      <head>
+        <charseq START="3210" END="3215">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Howard Feinberg">
+        <charseq START="3218" END="3232">Howard Feinberg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-48" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-48-0">
+      <extent>
+        <charseq START="3276" END="3306">Jewish charitable organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="3294" END="3306">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-49-0">
+      <extent>
+        <charseq START="3627" END="3643">Some Cuba experts</charseq>
+      </extent>
+      <head>
+        <charseq START="3637" END="3643">experts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-50-0">
+      <extent>
+        <charseq START="3813" END="3827">his predecessor</charseq>
+      </extent>
+      <head>
+        <charseq START="3817" END="3827">predecessor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-51-0">
+      <extent>
+        <charseq START="3834" END="3854">President Raul Castro</charseq>
+      </extent>
+      <head>
+        <charseq START="3844" END="3854">Raul Castro</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-51-1">
+      <extent>
+        <charseq START="3834" END="3842">President</charseq>
+      </extent>
+      <head>
+        <charseq START="3834" END="3842">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Raul Castro">
+        <charseq START="3844" END="3854">Raul Castro</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-52-0">
+      <extent>
+        <charseq START="4014" END="4030">five Cuban agents</charseq>
+      </extent>
+      <head>
+        <charseq START="4025" END="4030">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-53" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-53-0">
+      <extent>
+        <charseq START="4055" END="4079">Cuban exile organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="4067" END="4079">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-54-0">
+      <extent>
+        <charseq START="4104" END="4113">the agents</charseq>
+      </extent>
+      <head>
+        <charseq START="4108" END="4113">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-55-0">
+      <extent>
+        <charseq START="4341" END="4357">Cuban authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="4347" END="4357">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-56-0">
+      <extent>
+        <charseq START="4526" END="4542">Cuban authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="4532" END="4542">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-57-0">
+      <extent>
+        <charseq START="4626" END="4646">many American experts</charseq>
+      </extent>
+      <head>
+        <charseq START="4640" END="4646">experts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-58" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-58-0">
+      <extent>
+        <charseq START="4713" END="4728">The Cuban regime</charseq>
+      </extent>
+      <head>
+        <charseq START="4723" END="4728">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-59-0">
+      <extent>
+        <charseq START="4844" END="4867">Rep. Ileana Ros-Lehtinen</charseq>
+      </extent>
+      <head>
+        <charseq START="4849" END="4867">Ileana Ros-Lehtinen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-59-1">
+      <extent>
+        <charseq START="4844" END="4847">Rep.</charseq>
+      </extent>
+      <head>
+        <charseq START="4844" END="4847">Rep.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ileana Ros-Lehtinen">
+        <charseq START="4849" END="4867">Ileana Ros-Lehtinen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-60" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-60-0">
+      <extent>
+        <charseq START="4898" END="4932">the
+House Foreign Affairs Committee</charseq>
+      </extent>
+      <head>
+        <charseq START="4902" END="4932">House Foreign Affairs Committee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="House Foreign Affairs Committee">
+        <charseq START="4902" END="4932">House Foreign Affairs Committee</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-61-0">
+      <extent>
+        <charseq START="4937" END="4955">Some U.S. officials</charseq>
+      </extent>
+      <head>
+        <charseq START="4947" END="4955">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20100113.0004-61-1">
+      <extent>
+        <charseq START="4962" END="4965">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4962" END="4965">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20100113.0004-62-0">
+      <extent>
+        <charseq START="5281" END="5298">Rep. Bill Delahunt</charseq>
+      </extent>
+      <head>
+        <charseq START="5286" END="5298">Bill Delahunt</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-62-1">
+      <extent>
+        <charseq START="5281" END="5284">Rep.</charseq>
+      </extent>
+      <head>
+        <charseq START="5281" END="5284">Rep.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bill Delahunt">
+        <charseq START="5286" END="5298">Bill Delahunt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20100113.0004-63" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20100113.0004-63-0">
+      <extent>
+        <charseq START="5431" END="5440">the island</charseq>
+      </extent>
+      <head>
+        <charseq START="5435" END="5440">island</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="NYT_ENG_20100113.0004-T0" VAL="2009-12">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T0-1">
+      <extent>
+        <charseq START="225" END="234">last month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T1" VAL="P20Y">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T1-1">
+      <extent>
+        <charseq START="583" END="590">20 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T2" VAL="2009-12">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T2-1">
+      <extent>
+        <charseq START="1959" END="1966">December</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T3" VAL="2010-W02">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T3-1">
+      <extent>
+        <charseq START="2591" END="2599">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T4" VAL="2001">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T4-1">
+      <extent>
+        <charseq START="2878" END="2881">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T5" VAL="2009">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T5-1">
+      <extent>
+        <charseq START="3195" END="3203">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T6" VAL="P30Y">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T6-1">
+      <extent>
+        <charseq START="3313" END="3320">30 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20100113.0004-T7" VAL="2009-12">
+    <timex2_mention ID="NYT_ENG_20100113.0004-T7-1">
+      <extent>
+        <charseq START="3893" END="3902">last
+month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

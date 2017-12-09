@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AGGRESSIVEVOICEDAILY_20041218.0146.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="AGGRESSIVEVOICEDAILY_20041218.0146">
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-1-0">
+      <extent>
+        <charseq START="108" END="112">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="112">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott">
+        <charseq START="108" END="112">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="137" END="149">San Francisco</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="149">San Francisco</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041218.0146-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="301" END="302">It</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="302">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="325" END="337">San Francisco</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="337">San Francisco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Francisco">
+        <charseq START="137" END="149">San Francisco</charseq>
+      </name>
+      <name NAME="San Francisco">
+        <charseq START="325" END="337">San Francisco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="187" END="201">the gay capital</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="201">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="206" END="212">America</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="212">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="America">
+        <charseq START="206" END="212">America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="242" END="254">Washington DC</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="254">Washington DC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="394" END="395">DC</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="395">DC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington DC">
+        <charseq START="242" END="254">Washington DC</charseq>
+      </name>
+      <name NAME="DC">
+        <charseq START="394" END="395">DC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="285" END="298">murder capital</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="298">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-7-0">
+      <extent>
+        <charseq START="325" END="347">San Francisco officials</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="347">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-8" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-8-0">
+      <extent>
+        <charseq START="397" END="399">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="399">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-9-0">
+      <extent>
+        <charseq START="406" END="430">Columnist
+Michelle Malkin</charseq>
+      </extent>
+      <head>
+        <charseq START="416" END="430">Michelle Malkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-9-1">
+      <extent>
+        <charseq START="406" END="414">Columnist</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="414">Columnist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-9-2">
+      <extent>
+        <charseq START="460" END="468">/bloggers</charseq>
+      </extent>
+      <head>
+        <charseq START="461" END="468">bloggers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Michelle Malkin">
+        <charseq START="416" END="430">Michelle Malkin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041218.0146-10-0">
+      <extent>
+        <charseq START="435" END="437">one</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="437">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-11-0">
+      <extent>
+        <charseq START="442" END="459">the few columnists</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="459">columnists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041218.0146-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041218.0146-12-0">
+      <extent>
+        <charseq START="547" END="556">the voters</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="556">voters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041218.0146-T0" VAL="2004-12-18T01:46:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041218.0146-T0-1">
+      <extent>
+        <charseq START="50" END="68">2004-12-18T01:46:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041218.0146-T1" VAL="2004-12-18T01:46:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041218.0146-T1-1">
+      <extent>
+        <charseq START="116" END="134">2004-12-18T01:46:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041218.0146-T2" VAL="2004-12-18">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041218.0146-T2-1">
+      <extent>
+        <charseq START="316" END="318">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AGGRESSIVEVOICEDAILY_20041218.0146-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="AGGRESSIVEVOICEDAILY_20041218.0146-3" ROLE="Arg-1" />
+    <relation_argument REFID="AGGRESSIVEVOICEDAILY_20041218.0146-4" ROLE="Arg-2" />
+      <relation_mention ID="AGGRESSIVEVOICEDAILY_20041218.0146-R1-2">
+      <extent>
+        <charseq START="187" END="212">the gay capital of
+America</charseq>
+      </extent>
+        <relation_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041218.0146-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="187" END="201">the gay capital</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041218.0146-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="206" END="212">America</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

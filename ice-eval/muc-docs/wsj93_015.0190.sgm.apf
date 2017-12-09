@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_015.0190.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_015.0190">
+  <entity ID="wsj93_015.0190-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="133" END="139">Ukraine</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="139">Ukraine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-1-1" ROLE="LOC">
+      <extent>
+        <charseq START="332" END="345">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="345">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="444" END="453">government</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="453">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="518">Ukraine</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="518">Ukraine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="530" END="547">staggering economy</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="547">economy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_015.0190-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="659" END="660">it</charseq>
+      </extent>
+      <head>
+        <charseq START="659" END="660">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ukraine">
+        <charseq START="133" END="139">Ukraine</charseq>
+      </name>
+      <name NAME="Ukraine">
+        <charseq START="512" END="518">Ukraine</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-2-0">
+      <extent>
+        <charseq START="140" END="152">&apos;s Parliament</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="152">Parliament</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-2-1">
+      <extent>
+        <charseq START="691" END="700">Parliament</charseq>
+      </extent>
+      <head>
+        <charseq START="691" END="700">Parliament</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Parliament">
+        <charseq START="143" END="152">Parliament</charseq>
+      </name>
+      <name NAME="Parliament">
+        <charseq START="691" END="700">Parliament</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-3-0">
+      <extent>
+        <charseq START="170" END="197">Prime Minister
+Leonid Kuchma</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="197">Leonid Kuchma</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-3-1">
+      <extent>
+        <charseq START="170" END="183">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="170" END="183">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-3-2">
+      <extent>
+        <charseq START="414" END="431">the
+prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="431">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-3-3">
+      <extent>
+        <charseq START="436" END="439">head</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="439">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-3-4">
+      <extent>
+        <charseq START="644" END="653">Mr. Kuchma</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="653">Kuchma</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-3-5">
+      <extent>
+        <charseq START="644" END="646">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="646">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-3-6">
+      <extent>
+        <charseq START="733" END="750">the prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="743" END="750">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_015.0190-3-7">
+      <extent>
+        <charseq START="762" END="764">his</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="764">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Leonid Kuchma">
+        <charseq START="185" END="197">Leonid Kuchma</charseq>
+      </name>
+      <name NAME="Kuchma">
+        <charseq START="648" END="653">Kuchma</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_015.0190-4-0">
+      <extent>
+        <charseq START="283" END="307">President Leonid Kravchuk</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="307">Leonid Kravchuk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-4-1">
+      <extent>
+        <charseq START="283" END="291">President</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="291">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-4-2">
+      <extent>
+        <charseq START="364" END="376">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="376">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-4-3">
+      <extent>
+        <charseq START="381" END="384">head</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="384">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_015.0190-4-4">
+      <extent>
+        <charseq START="716" END="718">his</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="718">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Leonid Kravchuk">
+        <charseq START="293" END="307">Leonid Kravchuk</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-5-0">
+      <extent>
+        <charseq START="389" END="408">the executive branch</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="408">branch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-6-0">
+      <extent>
+        <charseq START="461" END="474">Some lawmakers</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="474">lawmakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-7-0">
+      <extent>
+        <charseq START="480" END="499">government officials</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="499">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_015.0190-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_015.0190-8-0">
+      <extent>
+        <charseq START="633" END="639">Friends</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="639">Friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_015.0190-T0" VAL="2016-03-25">
+    <timex2_mention ID="wsj93_015.0190-T0-1">
+      <extent>
+        <charseq START="154" END="159">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_015.0190-T1" VAL="2016-03-24">
+    <timex2_mention ID="wsj93_015.0190-T1-1">
+      <extent>
+        <charseq START="233" END="240">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_015.0190-R1" TYPE="RESIDE">
+    <relation_argument REFID="wsj93_015.0190-3" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_015.0190-1" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_015.0190-R1-1">
+      <extent>
+        <charseq START="436" END="453">head of government</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_015.0190-3-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="436" END="439">head</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_015.0190-1-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="444" END="453">government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

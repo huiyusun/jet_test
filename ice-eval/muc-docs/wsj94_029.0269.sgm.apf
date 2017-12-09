@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_029.0269.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_029.0269">
+  <entity ID="wsj94_029.0269-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-1-0">
+      <extent>
+        <charseq START="243" END="254">METRICOM Inc</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="254">METRICOM Inc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-1-1">
+      <extent>
+        <charseq START="981" END="988">Metricom</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="988">Metricom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-1-2">
+      <extent>
+        <charseq START="993" END="1002">a supplier</charseq>
+      </extent>
+      <head>
+        <charseq START="995" END="1002">supplier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="METRICOM Inc">
+        <charseq START="243" END="254">METRICOM Inc</charseq>
+      </name>
+      <name NAME="Metricom">
+        <charseq START="981" END="988">Metricom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="258" END="266">Los Gatos</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="266">Los Gatos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Los Gatos">
+        <charseq START="258" END="266">Los Gatos</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="269" END="274">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="274">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="269" END="274">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-4-0">
+      <extent>
+        <charseq START="280" END="319">Former Defense Secretary
+Donald Rumsfeld</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="319">Donald Rumsfeld</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-4-1">
+      <extent>
+        <charseq START="424" END="435">Mr. Rumsfeld</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="435">Rumsfeld</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-4-2">
+      <extent>
+        <charseq START="424" END="426">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="426">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Donald Rumsfeld">
+        <charseq START="305" END="319">Donald Rumsfeld</charseq>
+      </name>
+      <name NAME="Rumsfeld">
+        <charseq START="428" END="435">Rumsfeld</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-5-0">
+      <extent>
+        <charseq START="325" END="349">three business executives</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="349">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-6-0">
+      <extent>
+        <charseq START="362" END="370">directors</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="370">directors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-7-0">
+      <extent>
+        <charseq START="395" END="403">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="403">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-8-0">
+      <extent>
+        <charseq START="462" END="472">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="472">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="462" END="472">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-9-0">
+      <extent>
+        <charseq START="462" END="478">White House chief</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="478">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-10-0">
+      <extent>
+        <charseq START="483" END="487">staff</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="487">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-11-0">
+      <extent>
+        <charseq START="492" END="515">the Nixon
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="515">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-12-0">
+      <extent>
+        <charseq START="496" END="500">Nixon</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="500">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nixon">
+        <charseq START="496" END="500">Nixon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-13-0">
+      <extent>
+        <charseq START="524" END="540">defense secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="540">secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-14-0">
+      <extent>
+        <charseq START="548" END="561">President Ford</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="561">Ford</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-14-1">
+      <extent>
+        <charseq START="548" END="556">President</charseq>
+      </extent>
+      <head>
+        <charseq START="548" END="556">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ford">
+        <charseq START="558" END="561">Ford</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-15-0">
+      <extent>
+        <charseq START="564" END="584">The
+other new members</charseq>
+      </extent>
+      <head>
+        <charseq START="578" END="584">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-15-1">
+      <extent>
+        <charseq START="590" END="604">Robert S. Cline</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="604">Robert S. Cline</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-15-2">
+      <extent>
+        <charseq START="611" END="618">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="611" END="618">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-15-3">
+      <extent>
+        <charseq START="624" END="638">chief
+executive</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="638">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert S. Cline">
+        <charseq START="590" END="604">Robert S. Cline</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-16-0">
+      <extent>
+        <charseq START="643" END="667">the Airborne Express unit</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="667">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-17-0">
+      <extent>
+        <charseq START="647" END="662">Airborne Express</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="662">Airborne Express</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Airborne Express">
+        <charseq START="647" END="662">Airborne Express</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-18-0">
+      <extent>
+        <charseq START="672" END="693">Airborne Freight Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="693">Airborne Freight Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Airborne Freight Corp.">
+        <charseq START="672" END="693">Airborne Freight Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="696" END="702">Seattle</charseq>
+      </extent>
+      <head>
+        <charseq START="696" END="702">Seattle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Seattle">
+        <charseq START="696" END="702">Seattle</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-20-0">
+      <extent>
+        <charseq START="705" END="714">Mike Slade</charseq>
+      </extent>
+      <head>
+        <charseq START="705" END="714">Mike Slade</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-20-1">
+      <extent>
+        <charseq START="721" END="729">president</charseq>
+      </extent>
+      <head>
+        <charseq START="721" END="729">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-20-2">
+      <extent>
+        <charseq START="735" END="749">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="741" END="749">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mike Slade">
+        <charseq START="705" END="714">Mike Slade</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-21-0">
+      <extent>
+        <charseq START="767" END="780">Starwave Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="767" END="780">Starwave Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-21-1">
+      <extent>
+        <charseq START="802" END="809">supplier</charseq>
+      </extent>
+      <head>
+        <charseq START="802" END="809">supplier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Starwave Corp.">
+        <charseq START="767" END="780">Starwave Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="783" END="792">a Bellevue</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="792">Bellevue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bellevue">
+        <charseq START="785" END="792">Bellevue</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="795" END="799">Wash.</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="799">Wash.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wash.">
+        <charseq START="795" END="799">Wash.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-24-0">
+      <extent>
+        <charseq START="839" END="855">Robert M. Smelick</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="855">Robert M. Smelick</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert M. Smelick">
+        <charseq START="839" END="855">Robert M. Smelick</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-25-0">
+      <extent>
+        <charseq START="885" END="892">director</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="892">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-26-0">
+      <extent>
+        <charseq START="910" END="927">Sterling Payot Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="927">Sterling Payot Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-26-1">
+      <extent>
+        <charseq START="930" END="955">an investment banking firm</charseq>
+      </extent>
+      <head>
+        <charseq START="952" END="955">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sterling Payot Co.">
+        <charseq START="910" END="927">Sterling Payot Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_029.0269-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="966" END="978">San Francisco</charseq>
+      </extent>
+      <head>
+        <charseq START="966" END="978">San Francisco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Francisco">
+        <charseq START="966" END="978">San Francisco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_029.0269-28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_029.0269-28-0">
+      <extent>
+        <charseq START="1007" END="1042">wireless data
+communication networks</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1042">networks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_029.0269-T0" VAL="P61Y">
+    <timex2_mention ID="wsj94_029.0269-T0-1">
+      <extent>
+        <charseq START="438" END="445">61
+years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_029.0269-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_029.0269-2" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_029.0269-3" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_029.0269-R1-1">
+      <extent>
+        <charseq START="258" END="274">Los Gatos, Calif.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_029.0269-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="258" END="266">Los Gatos</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_029.0269-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="269" END="274">Calif.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_029.0269-R2" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_029.0269-22" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_029.0269-23" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_029.0269-R2-1">
+      <extent>
+        <charseq START="783" END="799">a Bellevue, Wash.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_029.0269-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="783" END="792">a Bellevue</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_029.0269-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="795" END="799">Wash.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

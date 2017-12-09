@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030505_090022.1.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030505_090022.1">
+  <entity ID="CNN_ENG_20030505_090022.1-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="107" END="111">china</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="111">china</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="336" END="349">northern china</charseq>
+      </extent>
+      <head>
+        <charseq START="345" END="349">china</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="china">
+        <charseq START="107" END="111">china</charseq>
+      </name>
+      <name NAME="china">
+        <charseq START="345" END="349">china</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="114" END="124">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="124">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="272" END="282">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="282">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-3" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-3-0">
+      <extent>
+        <charseq START="246" END="267">the most affected part</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="267">part</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-4-0">
+      <extent>
+        <charseq START="405" END="415">leon harris</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="415">leon harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="leon harris">
+        <charseq START="405" END="415">leon harris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-5-0">
+      <extent>
+        <charseq START="459" END="467">survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="459" END="467">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="564" END="569">kansas</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="569">kansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="795" END="800">kansas</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="800">kansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kansas">
+        <charseq START="564" END="569">kansas</charseq>
+      </name>
+      <name NAME="kansas">
+        <charseq START="795" END="800">kansas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="572" END="579">missouri</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="579">missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="650" END="657">missouri</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="657">missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="missouri">
+        <charseq START="572" END="579">missouri</charseq>
+      </name>
+      <name NAME="missouri">
+        <charseq START="650" END="657">missouri</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="582" END="589">arkansas</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="589">arkansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="arkansas">
+        <charseq START="582" END="589">arkansas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="595" END="603">tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="603">tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="1366" END="1374">tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1374">tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tennessee">
+        <charseq START="595" END="603">tennessee</charseq>
+      </name>
+      <name NAME="tennessee">
+        <charseq START="1366" END="1374">tennessee</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-10-0">
+      <extent>
+        <charseq START="664" END="671">governor</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="671">governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="686" END="692">a state</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="692">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="780" END="789">that state</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="789">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-11-2" ROLE="GPE">
+      <extent>
+        <charseq START="895" END="903">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="903">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-12" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="729" END="752">several western
+counties</charseq>
+      </extent>
+      <head>
+        <charseq START="745" END="752">counties</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-13-0">
+      <extent>
+        <charseq START="755" END="763">20 people</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="763">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-14-0">
+      <extent>
+        <charseq START="803" END="813">authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="813">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-15-0">
+      <extent>
+        <charseq START="819" END="830">seven people</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="830">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-15-1">
+      <extent>
+        <charseq START="1089" END="1094">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1089" END="1094">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-16-0">
+      <extent>
+        <charseq START="870" END="890">the
+southeastern part</charseq>
+      </extent>
+      <head>
+        <charseq START="887" END="890">part</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-17" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="906" END="921">several counties</charseq>
+      </extent>
+      <head>
+        <charseq START="914" END="921">counties</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-18-0">
+      <extent>
+        <charseq START="942" END="955">disaster areas</charseq>
+      </extent>
+      <head>
+        <charseq START="951" END="955">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-19" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-19-0">
+      <extent>
+        <charseq START="976" END="985">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="985">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-20-0">
+      <extent>
+        <charseq START="988" END="1014">the storms demolished
+homes</charseq>
+      </extent>
+      <head>
+        <charseq START="1010" END="1014">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-21-0">
+      <extent>
+        <charseq START="1064" END="1075">search teams</charseq>
+      </extent>
+      <head>
+        <charseq START="1071" END="1075">teams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030505_090022.1-22-0">
+      <extent>
+        <charseq START="1119" END="1121">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1121">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-22-1">
+      <extent>
+        <charseq START="1170" END="1195">the law enforcement center</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1195">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-23-0">
+      <extent>
+        <charseq START="1126" END="1134">the sites</charseq>
+      </extent>
+      <head>
+        <charseq START="1130" END="1134">sites</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-24-0">
+      <extent>
+        <charseq START="1200" END="1225">the western
+tennessee city</charseq>
+      </extent>
+      <head>
+        <charseq START="1212" END="1225">tennessee city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-24-1">
+      <extent>
+        <charseq START="1204" END="1210">western</charseq>
+      </extent>
+      <head>
+        <charseq START="1204" END="1210">western</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1230" END="1236">jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="1230" END="1236">jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="1357" END="1363">jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="1357" END="1363">jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jackson">
+        <charseq START="1230" END="1236">jackson</charseq>
+      </name>
+      <name NAME="jackson">
+        <charseq START="1357" END="1363">jackson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-26-0">
+      <extent>
+        <charseq START="1239" END="1259">an emergency official</charseq>
+      </extent>
+      <head>
+        <charseq START="1252" END="1259">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-27-0">
+      <extent>
+        <charseq START="1267" END="1269">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1269">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="1267" END="1269">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-28-0">
+      <extent>
+        <charseq START="1276" END="1285">ten
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="1280" END="1285">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-29-0">
+      <extent>
+        <charseq START="1348" END="1352">mayor</charseq>
+      </extent>
+      <head>
+        <charseq START="1348" END="1352">mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-30-0">
+      <extent>
+        <charseq START="1377" END="1390">charles farmer</charseq>
+      </extent>
+      <head>
+        <charseq START="1377" END="1390">charles farmer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030505_090022.1-30-1">
+      <extent>
+        <charseq START="1393" END="1404">mayor farmer</charseq>
+      </extent>
+      <head>
+        <charseq START="1399" END="1404">farmer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-30-2">
+      <extent>
+        <charseq START="1393" END="1397">mayor</charseq>
+      </extent>
+      <head>
+        <charseq START="1393" END="1397">mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="charles farmer">
+        <charseq START="1377" END="1390">charles farmer</charseq>
+      </name>
+      <name NAME="farmer">
+        <charseq START="1399" END="1404">farmer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030505_090022.1-31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030505_090022.1-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1437" END="1445">your town</charseq>
+      </extent>
+      <head>
+        <charseq START="1442" END="1445">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030505_090022.1-T0" VAL="2003-05-05">
+    <timex2_mention ID="CNN_ENG_20030505_090022.1-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030505_090022.1-T1" VAL="2003-05-05">
+    <timex2_mention ID="CNN_ENG_20030505_090022.1-T1-1">
+      <extent>
+        <charseq START="135" END="137">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030505_090022.1-T2" VAL="2003-05-05T11:00">
+    <timex2_mention ID="CNN_ENG_20030505_090022.1-T2-1">
+      <extent>
+        <charseq START="352" END="361">11:00 a.m.</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030505_090022.1-T3" VAL="2003-05-05T08:00">
+    <timex2_mention ID="CNN_ENG_20030505_090022.1-T3-1">
+      <extent>
+        <charseq START="382" END="390">8:00 a.m.</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030505_090022.1-T4" VAL="2003-05-05">
+    <timex2_mention ID="CNN_ENG_20030505_090022.1-T4-1">
+      <extent>
+        <charseq START="964" END="966">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030505_090022.1-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030505_090022.1-25" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030505_090022.1-9" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030505_090022.1-R1-1">
+      <extent>
+        <charseq START="1357" END="1374">jackson, tennessee</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030505_090022.1-25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1357" END="1363">jackson</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030505_090022.1-9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1366" END="1374">tennessee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

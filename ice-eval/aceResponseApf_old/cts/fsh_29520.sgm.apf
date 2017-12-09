@@ -1,0 +1,1031 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="fsh_29520.sgm" SOURCE="telephone" TYPE="text" AUTHOR="NYU">
+<document DOCID="fsh_29520">
+  <entity ID="fsh_29520-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-1-0">
+      <extent>
+        <charseq START="52" END="57">prompt</charseq>
+      </extent>
+      <head>
+        <charseq START="52" END="57">prompt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="prompt">
+        <charseq START="52" END="57">prompt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-2-0">
+      <extent>
+        <charseq START="100" END="114">US Presidential</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="114">US Presidential</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US Presidential">
+        <charseq START="100" END="114">US Presidential</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-3-0">
+      <extent>
+        <charseq START="148" END="165">the two candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="165">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-4-0">
+      <extent>
+        <charseq START="168" END="178">George Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="178">George Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George Bush">
+        <charseq START="168" END="178">George Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-5-0">
+      <extent>
+        <charseq START="184" END="193">John Kerry</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="193">John Kerry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Kerry">
+        <charseq START="184" END="193">John Kerry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-6-0">
+      <extent>
+        <charseq START="207" END="238">the Vice Presidential candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="238">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-6-1">
+      <extent>
+        <charseq START="241" END="251">Dick Cheney</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="251">Dick Cheney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-6-2">
+      <extent>
+        <charseq START="2152" END="2162">Dick Cheney</charseq>
+      </extent>
+      <head>
+        <charseq START="2152" END="2162">Dick Cheney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dick Cheney">
+        <charseq START="241" END="251">Dick Cheney</charseq>
+      </name>
+      <name NAME="Dick Cheney">
+        <charseq START="2152" END="2162">Dick Cheney</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-7-0">
+      <extent>
+        <charseq START="257" END="268">John
+Edwards</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="268">John
+Edwards</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-7-1">
+      <extent>
+        <charseq START="2307" END="2318">John Edwards</charseq>
+      </extent>
+      <head>
+        <charseq START="2307" END="2318">John Edwards</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-7-2">
+      <extent>
+        <charseq START="2337" END="2338">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2337" END="2338">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-7-3">
+      <extent>
+        <charseq START="2356" END="2357">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2356" END="2357">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-7-4">
+      <extent>
+        <charseq START="2369" END="2370">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2369" END="2370">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-7-5">
+      <extent>
+        <charseq START="2486" END="2487">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2486" END="2487">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Edwards">
+        <charseq START="257" END="268">John
+Edwards</charseq>
+      </name>
+      <name NAME="John Edwards">
+        <charseq START="2307" END="2318">John Edwards</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-0">
+      <extent>
+        <charseq START="373" END="375">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="375">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-1">
+      <extent>
+        <charseq START="399" END="401">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="401">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-2">
+      <extent>
+        <charseq START="502" END="504">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="504">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-3">
+      <extent>
+        <charseq START="616" END="618">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="618">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-4">
+      <extent>
+        <charseq START="791" END="793">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="793">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-5">
+      <extent>
+        <charseq START="851" END="853">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="853">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-6">
+      <extent>
+        <charseq START="925" END="927">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="927">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-7">
+      <extent>
+        <charseq START="1073" END="1075">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1075">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-8">
+      <extent>
+        <charseq START="1129" END="1131">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="1129" END="1131">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-9">
+      <extent>
+        <charseq START="1191" END="1193">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="1191" END="1193">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-10">
+      <extent>
+        <charseq START="1345" END="1347">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="1345" END="1347">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-11">
+      <extent>
+        <charseq START="1714" END="1716">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="1714" END="1716">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-8-12">
+      <extent>
+        <charseq START="1814" END="1816">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1814" END="1816">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-8-13">
+      <extent>
+        <charseq START="1940" END="1942">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1940" END="1942">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-14">
+      <extent>
+        <charseq START="2059" END="2061">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="2059" END="2061">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-15">
+      <extent>
+        <charseq START="2214" END="2216">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="2214" END="2216">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-16">
+      <extent>
+        <charseq START="3105" END="3107">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="3105" END="3107">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-17">
+      <extent>
+        <charseq START="3470" END="3472">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="3470" END="3472">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-18">
+      <extent>
+        <charseq START="3763" END="3765">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="3763" END="3765">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-19">
+      <extent>
+        <charseq START="3971" END="3973">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="3971" END="3973">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-8-20">
+      <extent>
+        <charseq START="4821" END="4823">Obo</charseq>
+      </extent>
+      <head>
+        <charseq START="4821" END="4823">Obo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Obo">
+        <charseq START="373" END="375">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="399" END="401">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="502" END="504">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="616" END="618">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="791" END="793">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="851" END="853">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="925" END="927">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="1073" END="1075">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="1129" END="1131">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="1191" END="1193">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="1345" END="1347">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="1714" END="1716">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="2059" END="2061">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="2214" END="2216">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="3105" END="3107">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="3470" END="3472">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="3763" END="3765">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="3971" END="3973">Obo</charseq>
+      </name>
+      <name NAME="Obo">
+        <charseq START="4821" END="4823">Obo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="406" END="411">Ithaca</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="411">Ithaca</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ithaca">
+        <charseq START="406" END="411">Ithaca</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-10-0">
+      <extent>
+        <charseq START="426" END="428">Ted</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="428">Ted</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ted">
+        <charseq START="426" END="428">Ted</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="476" END="487">Jacksonville</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="487">Jacksonville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jacksonville">
+        <charseq START="476" END="487">Jacksonville</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="490" END="496">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="496">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Florida">
+        <charseq START="490" END="496">Florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-13-0">
+      <extent>
+        <charseq START="693" END="724">the vice presidential candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="724">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-14-0">
+      <extent>
+        <charseq START="891" END="904">the main party</charseq>
+      </extent>
+      <head>
+        <charseq START="900" END="904">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-14-1">
+      <extent>
+        <charseq START="965" END="978">the main party</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="978">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1436" END="1449">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="1440" END="1449">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-16-0">
+      <extent>
+        <charseq START="1554" END="1564">third
+party</charseq>
+      </extent>
+      <head>
+        <charseq START="1560" END="1564">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1619" END="1631">the Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="1623" END="1631">Democrats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="1701" END="1704">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1701" END="1704">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-17-2" ROLE="GPE">
+      <extent>
+        <charseq START="1887" END="1899">the Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="1891" END="1899">Democrats</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-17-3" ROLE="GPE">
+      <extent>
+        <charseq START="1963" END="1966">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1963" END="1966">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Democrats">
+        <charseq START="1623" END="1631">Democrats</charseq>
+      </name>
+      <name NAME="Democrats">
+        <charseq START="1891" END="1899">Democrats</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-18-0">
+      <extent>
+        <charseq START="1654" END="1664">Ralph Nader</charseq>
+      </extent>
+      <head>
+        <charseq START="1654" END="1664">Ralph Nader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ralph Nader">
+        <charseq START="1654" END="1664">Ralph Nader</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="fsh_29520-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1722" END="1732">every state</charseq>
+      </extent>
+      <head>
+        <charseq START="1728" END="1732">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1753" END="1767">the Republicans</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1767">Republicans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1796" END="1799">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1796" END="1799">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="1827" END="1830">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1827" END="1830">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-20-3" ROLE="GPE">
+      <extent>
+        <charseq START="1837" END="1840">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1837" END="1840">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-20-4" ROLE="GPE">
+      <extent>
+        <charseq START="1842" END="1845">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1842" END="1845">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-20-5" ROLE="GPE">
+      <extent>
+        <charseq START="1877" END="1880">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1877" END="1880">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Republicans">
+        <charseq START="1757" END="1767">Republicans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-21-0">
+      <extent>
+        <charseq START="1993" END="2011">a
+progressive party</charseq>
+      </extent>
+      <head>
+        <charseq START="2007" END="2011">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-22-0">
+      <extent>
+        <charseq START="2107" END="2142">the two vice presidential
+candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="2133" END="2142">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-23-0">
+      <extent>
+        <charseq START="2392" END="2401">the Senate</charseq>
+      </extent>
+      <head>
+        <charseq START="2396" END="2401">Senate</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-23-1">
+      <extent>
+        <charseq START="2603" END="2607">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2603" END="2607">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Senate">
+        <charseq START="2396" END="2401">Senate</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-24-0">
+      <extent>
+        <charseq START="2815" END="2823">Air Force</charseq>
+      </extent>
+      <head>
+        <charseq START="2815" END="2823">Air Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Air Force">
+        <charseq START="2815" END="2823">Air Force</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="fsh_29520-25-0">
+      <extent>
+        <charseq START="2861" END="2872">the military</charseq>
+      </extent>
+      <head>
+        <charseq START="2865" END="2872">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-26-0">
+      <extent>
+        <charseq START="3177" END="3195">the civilian
+sector</charseq>
+      </extent>
+      <head>
+        <charseq START="3190" END="3195">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="3625" END="3635">the
+country</charseq>
+      </extent>
+      <head>
+        <charseq START="3629" END="3635">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-28-0">
+      <extent>
+        <charseq START="3736" END="3743">the will</charseq>
+      </extent>
+      <head>
+        <charseq START="3740" END="3743">will</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-29-0">
+      <extent>
+        <charseq START="3748" END="3757">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="3752" END="3757">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-30" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-30-0">
+      <extent>
+        <charseq START="4121" END="4129">the
+world</charseq>
+      </extent>
+      <head>
+        <charseq START="4125" END="4129">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-30-1">
+      <extent>
+        <charseq START="4440" END="4448">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="4444" END="4448">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-30-2">
+      <extent>
+        <charseq START="4554" END="4562">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="4558" END="4562">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="fsh_29520-30-3">
+      <extent>
+        <charseq START="4604" END="4605">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4604" END="4605">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-30-4">
+      <extent>
+        <charseq START="4953" END="4967">the whole world</charseq>
+      </extent>
+      <head>
+        <charseq START="4963" END="4967">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-31-0">
+      <extent>
+        <charseq START="4157" END="4169">Rush Limbaugh</charseq>
+      </extent>
+      <head>
+        <charseq START="4157" END="4169">Rush Limbaugh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-31-1">
+      <extent>
+        <charseq START="4172" END="4173">ah</charseq>
+      </extent>
+      <head>
+        <charseq START="4172" END="4173">ah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-31-2">
+      <extent>
+        <charseq START="4310" END="4311">ah</charseq>
+      </extent>
+      <head>
+        <charseq START="4310" END="4311">ah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rush Limbaugh">
+        <charseq START="4157" END="4169">Rush Limbaugh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-32" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="fsh_29520-32-0">
+      <extent>
+        <charseq START="4266" END="4275">the street</charseq>
+      </extent>
+      <head>
+        <charseq START="4270" END="4275">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-33-0" ROLE="GPE">
+      <extent>
+        <charseq START="4352" END="4368">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4356" END="4368">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="fsh_29520-33-1" ROLE="GPE">
+      <extent>
+        <charseq START="4387" END="4403">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4391" END="4403">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="fsh_29520-33-2" ROLE="GPE">
+      <extent>
+        <charseq START="4412" END="4422">the big dog</charseq>
+      </extent>
+      <head>
+        <charseq START="4420" END="4422">dog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United States">
+        <charseq START="4356" END="4368">United States</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4391" END="4403">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="4653" END="4656">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="4653" END="4656">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iran">
+        <charseq START="4653" END="4656">Iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="4677" END="4680">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4677" END="4680">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="4677" END="4680">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="fsh_29520-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="fsh_29520-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="4699" END="4709">North Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="4699" END="4709">North Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Korea">
+        <charseq START="4699" END="4709">North Korea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="fsh_29520-T0" VAL="2004-12-12">
+    <timex2_mention ID="fsh_29520-T0-1">
+      <extent>
+        <charseq START="29" END="36">20041212</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T1" VAL="P50Y">
+    <timex2_mention ID="fsh_29520-T1-1">
+      <extent>
+        <charseq START="1423" END="1433">fifty years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T2" VAL="2004">
+    <timex2_mention ID="fsh_29520-T2-1">
+      <extent>
+        <charseq START="1600" END="1608">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T3" VAL="2004-12-12">
+    <timex2_mention ID="fsh_29520-T3-1">
+      <extent>
+        <charseq START="3152" END="3154">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T4" VAL="2004-12-12">
+    <timex2_mention ID="fsh_29520-T4-1">
+      <extent>
+        <charseq START="3853" END="3855">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T5" VAL="2004-12-12">
+    <timex2_mention ID="fsh_29520-T5-1">
+      <extent>
+        <charseq START="4082" END="4084">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T6" VAL="2004-12-12">
+    <timex2_mention ID="fsh_29520-T6-1">
+      <extent>
+        <charseq START="4289" END="4291">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="fsh_29520-T7" VAL="P50Y">
+    <timex2_mention ID="fsh_29520-T7-1">
+      <extent>
+        <charseq START="3578" END="3597">the past fifty years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="fsh_29520-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="fsh_29520-11" ROLE="Arg-1" />
+    <relation_argument REFID="fsh_29520-12" ROLE="Arg-2" />
+      <relation_mention ID="fsh_29520-R1-1">
+      <extent>
+        <charseq START="476" END="496">Jacksonville, Florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="fsh_29520-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="476" END="487">Jacksonville</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="fsh_29520-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="490" END="496">Florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="fsh_29520-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="fsh_29520-33" ROLE="Arg-1" />
+    <relation_argument REFID="fsh_29520-33" ROLE="Arg-2" />
+      <relation_mention ID="fsh_29520-R2-2">
+      <extent>
+        <charseq START="4387" END="4422">the United States is
+not the big dog</charseq>
+      </extent>
+        <relation_mention_argument REFID="fsh_29520-33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4387" END="4403">the United States</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="fsh_29520-33-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="4412" END="4422">the big dog</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

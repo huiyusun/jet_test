@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20100515.0380.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20100515.0380">
+  <entity ID="AFP_ENG_20100515.0380-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100515.0380-1-0">
+      <extent>
+        <charseq START="106" END="145">Nine-year-old Dutch boy Ruben van Assouw</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="145">Ruben van Assouw</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100515.0380-1-1">
+      <extent>
+        <charseq START="126" END="128">boy</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="128">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100515.0380-1-2">
+      <extent>
+        <charseq START="148" END="164">the sole survivor</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="164">survivor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ruben van Assouw">
+        <charseq START="130" END="145">Ruben van Assouw</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100515.0380-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100515.0380-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="120" END="124">Dutch</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="124">Dutch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dutch">
+        <charseq START="120" END="124">Dutch</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100515.0380-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100515.0380-3-0">
+      <extent>
+        <charseq START="195" END="204">103 people</charseq>
+      </extent>
+      <head>
+        <charseq START="199" END="204">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100515.0380-4" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100515.0380-4-0">
+      <extent>
+        <charseq START="240" END="261">a Libyan air ambulance</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="261">ambulance</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100515.0380-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100515.0380-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="242" END="247">Libyan</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="247">Libyan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Libyan">
+        <charseq START="242" END="247">Libyan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100515.0380-6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100515.0380-6-0">
+      <extent>
+        <charseq START="267" END="269">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="269">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="267" END="269">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20100515.0380-T0" VAL="2010-05-15">
+    <timex2_mention ID="AFP_ENG_20100515.0380-T0-1">
+      <extent>
+        <charseq START="224" END="231">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

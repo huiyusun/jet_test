@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030529_130011.6.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030529_130011.6">
+  <entity ID="CNN_ENG_20030529_130011.6-1" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-1-0">
+      <extent>
+        <charseq START="100" END="108">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="108">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-2-0">
+      <extent>
+        <charseq START="148" END="165">sir edmund hillary</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="165">edmund hillary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-2-1">
+      <extent>
+        <charseq START="148" END="150">sir</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="150">sir</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-2-2">
+      <extent>
+        <charseq START="1088" END="1105">sir edmund hillary</charseq>
+      </extent>
+      <head>
+        <charseq START="1092" END="1105">edmund hillary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-2-3">
+      <extent>
+        <charseq START="1088" END="1090">sir</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1090">sir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="edmund hillary">
+        <charseq START="152" END="165">edmund hillary</charseq>
+      </name>
+      <name NAME="edmund hillary">
+        <charseq START="1092" END="1105">edmund hillary</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-3-0">
+      <extent>
+        <charseq START="179" END="197">an
+honorary citizen</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="197">citizen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030529_130011.6-3-1">
+      <extent>
+        <charseq START="217" END="219">his</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="219">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="202" END="206">nepal</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="206">nepal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="nepal">
+        <charseq START="202" END="206">nepal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-5-0">
+      <extent>
+        <charseq START="267" END="279">sherpa norgay</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="279">norgay</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-5-1">
+      <extent>
+        <charseq START="1115" END="1120">norgay</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1120">norgay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="norgay">
+        <charseq START="274" END="279">norgay</charseq>
+      </name>
+      <name NAME="norgay">
+        <charseq START="1115" END="1120">norgay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-6" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-6-0">
+      <extent>
+        <charseq START="291" END="314">concern
+climbing everest</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="314">everest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-7" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-7-0">
+      <extent>
+        <charseq START="487" END="501">a little bit mt</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="501">mt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-8-0">
+      <extent>
+        <charseq START="504" END="510">everest</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="510">everest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-8-1">
+      <extent>
+        <charseq START="513" END="530">the highest summit</charseq>
+      </extent>
+      <head>
+        <charseq START="525" END="530">summit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030529_130011.6-8-2">
+      <extent>
+        <charseq START="656" END="658">him</charseq>
+      </extent>
+      <head>
+        <charseq START="656" END="658">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-8-3">
+      <extent>
+        <charseq START="859" END="865">everest</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="865">everest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-8-4">
+      <extent>
+        <charseq START="1074" END="1080">everest</charseq>
+      </extent>
+      <head>
+        <charseq START="1074" END="1080">everest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-8-5">
+      <extent>
+        <charseq START="1614" END="1623">the summit</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1623">summit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-8-6">
+      <extent>
+        <charseq START="1632" END="1638">everest</charseq>
+      </extent>
+      <head>
+        <charseq START="1632" END="1638">everest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="everest">
+        <charseq START="504" END="510">everest</charseq>
+      </name>
+      <name NAME="everest">
+        <charseq START="859" END="865">everest</charseq>
+      </name>
+      <name NAME="everest">
+        <charseq START="1074" END="1080">everest</charseq>
+      </name>
+      <name NAME="everest">
+        <charseq START="1632" END="1638">everest</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-9" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-9-0">
+      <extent>
+        <charseq START="535" END="544">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="544">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-10-0">
+      <extent>
+        <charseq START="599" END="615">the southern part</charseq>
+      </extent>
+      <head>
+        <charseq START="612" END="615">part</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-11" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="620" END="623">asia</charseq>
+      </extent>
+      <head>
+        <charseq START="620" END="623">asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="793" END="796">asia</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="796">asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="asia">
+        <charseq START="620" END="623">asia</charseq>
+      </name>
+      <name NAME="asia">
+        <charseq START="793" END="796">asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="712" END="716">india</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="716">india</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="india">
+        <charseq START="712" END="716">india</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-13" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="753" END="758">africa</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="758">africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="africa">
+        <charseq START="753" END="758">africa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-14-0">
+      <extent>
+        <charseq START="777" END="788">that portion</charseq>
+      </extent>
+      <head>
+        <charseq START="782" END="788">portion</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-15-0">
+      <extent>
+        <charseq START="824" END="831">mountain</charseq>
+      </extent>
+      <head>
+        <charseq START="824" END="831">mountain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-16" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-16-0">
+      <extent>
+        <charseq START="848" END="856">course mt</charseq>
+      </extent>
+      <head>
+        <charseq START="855" END="856">mt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-17" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-17-0">
+      <extent>
+        <charseq START="888" END="890">sea</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="890">sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-18" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-18-0">
+      <extent>
+        <charseq START="899" END="914">the highest peak</charseq>
+      </extent>
+      <head>
+        <charseq START="911" END="914">peak</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-19" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-19-0">
+      <extent>
+        <charseq START="1173" END="1183">this valley</charseq>
+      </extent>
+      <head>
+        <charseq START="1178" END="1183">valley</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-20-0">
+      <extent>
+        <charseq START="1339" END="1345">station</charseq>
+      </extent>
+      <head>
+        <charseq START="1339" END="1345">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-21-0">
+      <extent>
+        <charseq START="1376" END="1380">ridge</charseq>
+      </extent>
+      <head>
+        <charseq START="1376" END="1380">ridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-22-0">
+      <extent>
+        <charseq START="1473" END="1476">john</charseq>
+      </extent>
+      <head>
+        <charseq START="1473" END="1476">john</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-23-0">
+      <extent>
+        <charseq START="1519" END="1523">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="1521" END="1523">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-23-1">
+      <extent>
+        <charseq START="1545" END="1549">a lot</charseq>
+      </extent>
+      <head>
+        <charseq START="1547" END="1549">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-24-0">
+      <extent>
+        <charseq START="1528" END="1531">peek</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1531">peek</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-25-0">
+      <extent>
+        <charseq START="1554" END="1559">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1554" END="1559">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-26-0">
+      <extent>
+        <charseq START="1577" END="1586">175 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1581" END="1586">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-27-0">
+      <extent>
+        <charseq START="1657" END="1665">our guest</charseq>
+      </extent>
+      <head>
+        <charseq START="1661" END="1665">guest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-28-0">
+      <extent>
+        <charseq START="1679" END="1687">our
+guest</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1687">guest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_130011.6-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1712" END="1720">kathmandu</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1720">kathmandu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kathmandu">
+        <charseq START="1712" END="1720">kathmandu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_130011.6-30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_130011.6-30-0">
+      <extent>
+        <charseq START="1733" END="1741">the party</charseq>
+      </extent>
+      <head>
+        <charseq START="1737" END="1741">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T0" VAL="2003-05-29">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-29</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T1" VAL="PT15M">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T1-1">
+      <extent>
+        <charseq START="79" END="88">15 minutes</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T2" VAL="P50Y">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T2-1">
+      <extent>
+        <charseq START="123" END="130">50
+years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T3" VAL="2003-05-29">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T3-1">
+      <extent>
+        <charseq START="141" END="145">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T4" VAL="-97997">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T4-1">
+      <extent>
+        <charseq START="671" END="687">million years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_130011.6-T5" VAL="PAST_REF">
+    <timex2_mention ID="CNN_ENG_20030529_130011.6-T5-1">
+      <extent>
+        <charseq START="1490" END="1504">a few years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

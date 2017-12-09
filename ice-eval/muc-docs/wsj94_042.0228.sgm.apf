@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_042.0228.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_042.0228">
+  <entity ID="wsj94_042.0228-1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-1-0">
+      <extent>
+        <charseq START="283" END="304">Dollar Time Group Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="304">Time Group Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-1-1">
+      <extent>
+        <charseq START="283" END="288">Dollar</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="288">Dollar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Time Group Inc.">
+        <charseq START="290" END="304">Time Group Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-2-0">
+      <extent>
+        <charseq START="345" END="367">A
+Real New York Bargain</charseq>
+      </extent>
+      <head>
+        <charseq START="345" END="367">A
+Real New York Bargain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-2-1">
+      <extent>
+        <charseq START="712" END="734">A Real New York
+Bargain</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="734">A Real New York
+Bargain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-2-2">
+      <extent>
+        <charseq START="873" END="895">A Real New York Bargain</charseq>
+      </extent>
+      <head>
+        <charseq START="873" END="895">A Real New York Bargain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-2-3">
+      <extent>
+        <charseq START="1150" END="1160">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1154" END="1160">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="A Real New York Bargain">
+        <charseq START="345" END="367">A
+Real New York Bargain</charseq>
+      </name>
+      <name NAME="A Real New York Bargain">
+        <charseq START="712" END="734">A Real New York
+Bargain</charseq>
+      </name>
+      <name NAME="A Real New York Bargain">
+        <charseq START="873" END="895">A Real New York Bargain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-3-0">
+      <extent>
+        <charseq START="387" END="394">retailer</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="394">retailer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="405" END="412">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="412">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="405" END="412">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-0">
+      <extent>
+        <charseq START="473" END="483">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="483">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-5-1">
+      <extent>
+        <charseq START="505" END="512">operator</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="512">operator</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-2">
+      <extent>
+        <charseq START="589" END="599">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="599">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-3">
+      <extent>
+        <charseq START="625" END="635">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="635">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-4">
+      <extent>
+        <charseq START="1001" END="1011">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="1001" END="1011">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-5">
+      <extent>
+        <charseq START="1087" END="1097">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1097">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-5-6">
+      <extent>
+        <charseq START="1105" END="1115">Dollar Time</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1115">Dollar Time</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dollar Time">
+        <charseq START="473" END="483">Dollar Time</charseq>
+      </name>
+      <name NAME="Dollar Time">
+        <charseq START="589" END="599">Dollar Time</charseq>
+      </name>
+      <name NAME="Dollar Time">
+        <charseq START="625" END="635">Dollar Time</charseq>
+      </name>
+      <name NAME="Dollar Time">
+        <charseq START="1001" END="1011">Dollar Time</charseq>
+      </name>
+      <name NAME="Dollar Time">
+        <charseq START="1087" END="1097">Dollar Time</charseq>
+      </name>
+      <name NAME="Dollar Time">
+        <charseq START="1105" END="1115">Dollar Time</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="486" END="496">a Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="496">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hollywood">
+        <charseq START="488" END="496">Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="499" END="502">Fla.</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="502">Fla.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fla.">
+        <charseq START="499" END="502">Fla.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-8-0">
+      <extent>
+        <charseq START="517" END="533">55 variety stores</charseq>
+      </extent>
+      <head>
+        <charseq START="528" END="533">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-9-0">
+      <extent>
+        <charseq START="541" END="557">the two companies</charseq>
+      </extent>
+      <head>
+        <charseq START="549" END="557">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="742" END="754">the two sides</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="754">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-11-0">
+      <extent>
+        <charseq START="771" END="776">forces</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="776">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-12-0">
+      <extent>
+        <charseq START="831" END="843">Joseph Sasson</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="843">Joseph Sasson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-12-1">
+      <extent>
+        <charseq START="846" END="868">chief executive
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="868">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Joseph Sasson">
+        <charseq START="831" END="843">Joseph Sasson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-13-0">
+      <extent>
+        <charseq START="902" END="916">Jeffrey Klansky</charseq>
+      </extent>
+      <head>
+        <charseq START="902" END="916">Jeffrey Klansky</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-13-1">
+      <extent>
+        <charseq START="919" END="927">president</charseq>
+      </extent>
+      <head>
+        <charseq START="919" END="927">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-13-2">
+      <extent>
+        <charseq START="953" END="967">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="959" END="967">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-13-3">
+      <extent>
+        <charseq START="973" END="981">president</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="981">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-13-4">
+      <extent>
+        <charseq START="1199" END="1207">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1199" END="1207">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jeffrey Klansky">
+        <charseq START="902" END="916">Jeffrey Klansky</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-14-0">
+      <extent>
+        <charseq START="932" END="943">the retailer</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="943">retailer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-15-0">
+      <extent>
+        <charseq START="1025" END="1033">directors</charseq>
+      </extent>
+      <head>
+        <charseq START="1025" END="1033">directors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-16-0">
+      <extent>
+        <charseq START="1047" END="1057">the two men</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1057">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_042.0228-16-1">
+      <extent>
+        <charseq START="1068" END="1072">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1072">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_042.0228-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_042.0228-17-0">
+      <extent>
+        <charseq START="1122" END="1133">Gary de Luca</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1133">Gary de Luca</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_042.0228-17-1">
+      <extent>
+        <charseq START="1161" END="1186">&apos;s chief
+operating officer</charseq>
+      </extent>
+      <head>
+        <charseq START="1180" END="1186">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gary de Luca">
+        <charseq START="1122" END="1133">Gary de Luca</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_042.0228-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_042.0228-V1-1">
+      <extent>
+        <charseq START="283" END="288">Dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_042.0228-T0" VAL="2015-11">
+    <timex2_mention ID="wsj94_042.0228-T0-1">
+      <extent>
+        <charseq START="781" END="788">November</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_042.0228-T1" VAL="P40Y">
+    <timex2_mention ID="wsj94_042.0228-T1-1">
+      <extent>
+        <charseq START="1136" END="1143">40 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_042.0228-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_042.0228-6" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_042.0228-7" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_042.0228-R1-1">
+      <extent>
+        <charseq START="486" END="502">a Hollywood, Fla.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_042.0228-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="486" END="496">a Hollywood</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_042.0228-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="499" END="502">Fla.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

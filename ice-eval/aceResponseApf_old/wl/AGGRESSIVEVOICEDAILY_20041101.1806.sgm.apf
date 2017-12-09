@@ -1,0 +1,784 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AGGRESSIVEVOICEDAILY_20041101.1806.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="AGGRESSIVEVOICEDAILY_20041101.1806">
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-1-0">
+      <extent>
+        <charseq START="99" END="103">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="103">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott">
+        <charseq START="99" END="103">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-2-0">
+      <extent>
+        <charseq START="175" END="186">these people</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="186">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-2-1">
+      <extent>
+        <charseq START="2117" END="2128">these people</charseq>
+      </extent>
+      <head>
+        <charseq START="2123" END="2128">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-3-0">
+      <extent>
+        <charseq START="248" END="260">the Telegraph</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="260">Telegraph</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Telegraph">
+        <charseq START="252" END="260">Telegraph</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="293" END="299">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="299">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="553" END="559">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="559">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1059" END="1065">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1059" END="1065">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="1152" END="1158">England</charseq>
+      </extent>
+      <head>
+        <charseq START="1152" END="1158">England</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="1788" END="1793">the UK</charseq>
+      </extent>
+      <head>
+        <charseq START="1792" END="1793">UK</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="2228" END="2240">Great Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="2228" END="2240">Great Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-4-6" ROLE="GPE">
+      <extent>
+        <charseq START="2271" END="2274">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2271" END="2274">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Britain">
+        <charseq START="293" END="299">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="553" END="559">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="1059" END="1065">Britain</charseq>
+      </name>
+      <name NAME="England">
+        <charseq START="1152" END="1158">England</charseq>
+      </name>
+      <name NAME="UK">
+        <charseq START="1792" END="1793">UK</charseq>
+      </name>
+      <name NAME="Great Britain">
+        <charseq START="2228" END="2240">Great Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-5" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-0">
+      <extent>
+        <charseq START="303" END="305">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="305">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-1">
+      <extent>
+        <charseq START="688" END="690">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="690">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-2">
+      <extent>
+        <charseq START="1046" END="1048">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1046" END="1048">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-3">
+      <extent>
+        <charseq START="1100" END="1102">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1100" END="1102">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-4">
+      <extent>
+        <charseq START="1618" END="1620">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1620">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-5">
+      <extent>
+        <charseq START="1723" END="1725">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1723" END="1725">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-6">
+      <extent>
+        <charseq START="1947" END="1949">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1947" END="1949">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-7">
+      <extent>
+        <charseq START="2036" END="2038">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="2036" END="2038">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-5-8">
+      <extent>
+        <charseq START="2193" END="2195">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="2193" END="2195">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-6-0">
+      <extent>
+        <charseq START="479" END="522">an international firearms legislation expert</charseq>
+      </extent>
+      <head>
+        <charseq START="517" END="522">expert</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-7" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-7-0">
+      <extent>
+        <charseq START="496" END="503">firearms</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="503">firearms</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-7-1">
+      <extent>
+        <charseq START="1829" END="1836">firearms</charseq>
+      </extent>
+      <head>
+        <charseq START="1829" END="1836">firearms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-0">
+      <extent>
+        <charseq START="526" END="541">Prof Gary Mauser</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="541">Gary Mauser</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-1">
+      <extent>
+        <charseq START="854" END="864">Prof Mauser</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="864">Mauser</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-2">
+      <extent>
+        <charseq START="867" END="874">a member</charseq>
+      </extent>
+      <head>
+        <charseq START="869" END="874">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-3">
+      <extent>
+        <charseq START="923" END="924">He</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="924">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-4">
+      <extent>
+        <charseq START="1079" END="1081">His</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1081">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-8-5">
+      <extent>
+        <charseq START="1631" END="1641">Prof Mauser</charseq>
+      </extent>
+      <head>
+        <charseq START="1636" END="1641">Mauser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gary Mauser">
+        <charseq START="531" END="541">Gary Mauser</charseq>
+      </name>
+      <name NAME="Mauser">
+        <charseq START="859" END="864">Mauser</charseq>
+      </name>
+      <name NAME="Mauser">
+        <charseq START="1636" END="1641">Mauser</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="592" END="597">Canada</charseq>
+      </extent>
+      <head>
+        <charseq START="592" END="597">Canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="915" END="920">Canada</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="920">Canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canada">
+        <charseq START="592" END="597">Canada</charseq>
+      </name>
+      <name NAME="Canada">
+        <charseq START="915" END="920">Canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="603" END="611">Australia</charseq>
+      </extent>
+      <head>
+        <charseq START="603" END="611">Australia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Australia">
+        <charseq START="603" END="611">Australia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-11-0">
+      <extent>
+        <charseq START="628" END="639">legal owners</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="639">owners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="712" END="719">Dunblane</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="719">Dunblane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dunblane">
+        <charseq START="712" END="719">Dunblane</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-13-0">
+      <extent>
+        <charseq START="751" END="783">The Home Office and police chiefs</charseq>
+      </extent>
+      <head>
+        <charseq START="778" END="783">chiefs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-14-0">
+      <extent>
+        <charseq START="755" END="765">Home Office</charseq>
+      </extent>
+      <head>
+        <charseq START="755" END="765">Home Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-14-1">
+      <extent>
+        <charseq START="1446" END="1456">Home Office</charseq>
+      </extent>
+      <head>
+        <charseq START="1446" END="1456">Home Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Home Office">
+        <charseq START="755" END="765">Home Office</charseq>
+      </name>
+      <name NAME="Home Office">
+        <charseq START="1446" END="1456">Home Office</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-15-0">
+      <extent>
+        <charseq START="771" END="776">police</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="776">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-16" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-16-0">
+      <extent>
+        <charseq START="825" END="828">guns</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="828">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-16-1">
+      <extent>
+        <charseq START="1347" END="1350">guns</charseq>
+      </extent>
+      <head>
+        <charseq START="1347" END="1350">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-17-0">
+      <extent>
+        <charseq START="879" END="910">the
+independent Fraser Institute</charseq>
+      </extent>
+      <head>
+        <charseq START="895" END="910">Fraser Institute</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fraser Institute">
+        <charseq START="895" END="910">Fraser Institute</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-18" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-18-0">
+      <extent>
+        <charseq START="955" END="964">committees</charseq>
+      </extent>
+      <head>
+        <charseq START="955" END="964">committees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-19-0">
+      <extent>
+        <charseq START="969" END="988">the House of Commons</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="988">House of Commons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="House of Commons">
+        <charseq START="973" END="988">House of Commons</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-20-0">
+      <extent>
+        <charseq START="994" END="1012">the Canadian Senate</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1012">Canadian Senate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canadian Senate">
+        <charseq START="998" END="1012">Canadian Senate</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-21" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-21-0">
+      <extent>
+        <charseq START="1066" END="1075">&apos;s streets</charseq>
+      </extent>
+      <head>
+        <charseq START="1069" END="1075">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1164" END="1168">Wales</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1168">Wales</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wales">
+        <charseq START="1164" END="1168">Wales</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-23-0">
+      <extent>
+        <charseq START="1205" END="1225">the Labour
+Government</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1225">Labour
+Government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Labour Government">
+        <charseq START="1209" END="1225">Labour
+Government</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-24-0">
+      <extent>
+        <charseq START="1299" END="1312">schoolchildren</charseq>
+      </extent>
+      <head>
+        <charseq START="1299" END="1312">schoolchildren</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-25-0">
+      <extent>
+        <charseq START="1318" END="1323">a baby</charseq>
+      </extent>
+      <head>
+        <charseq START="1320" END="1323">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-25-1">
+      <extent>
+        <charseq START="1417" END="1418">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1417" END="1418">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-26-0">
+      <extent>
+        <charseq START="1427" END="1432">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="1427" END="1432">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-26-1">
+      <extent>
+        <charseq START="1683" END="1688">police</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1688">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-27" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-27-0">
+      <extent>
+        <charseq START="1493" END="1512">legally held weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1512">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-27-1">
+      <extent>
+        <charseq START="1531" END="1534">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1531" END="1534">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-27-2">
+      <extent>
+        <charseq START="1561" END="1570">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="1561" END="1570">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041101.1806-27-3">
+      <extent>
+        <charseq START="1587" END="1590">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1590">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-28-0">
+      <extent>
+        <charseq START="1550" END="1559">the police</charseq>
+      </extent>
+      <head>
+        <charseq START="1554" END="1559">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-29-0">
+      <extent>
+        <charseq START="1679" END="1697">the police officers</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1697">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-30-0">
+      <extent>
+        <charseq START="1714" END="1720">farmers</charseq>
+      </extent>
+      <head>
+        <charseq START="1714" END="1720">farmers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-31" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-31-0">
+      <extent>
+        <charseq START="1874" END="1878">a gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1876" END="1878">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="1885" END="1895">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1895">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-33-0" ROLE="GPE">
+      <extent>
+        <charseq START="1924" END="1927">city</charseq>
+      </extent>
+      <head>
+        <charseq START="1924" END="1927">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2061" END="2066">London</charseq>
+      </extent>
+      <head>
+        <charseq START="2061" END="2066">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="2061" END="2066">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="2069" END="2078">Birmingham</charseq>
+      </extent>
+      <head>
+        <charseq START="2069" END="2078">Birmingham</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Birmingham">
+        <charseq START="2069" END="2078">Birmingham</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041101.1806-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041101.1806-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="2084" END="2093">Manchester</charseq>
+      </extent>
+      <head>
+        <charseq START="2084" END="2093">Manchester</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Manchester">
+        <charseq START="2084" END="2093">Manchester</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041101.1806-T0" VAL="2004-11-01T18:06:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041101.1806-T0-1">
+      <extent>
+        <charseq START="50" END="68">2004-11-01T18:06:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041101.1806-T1" VAL="2004-11-01T18:06:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041101.1806-T1-1">
+      <extent>
+        <charseq START="107" END="125">2004-11-01T18:06:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041101.1806-T2" VAL="1997">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041101.1806-T2-1">
+      <extent>
+        <charseq START="1244" END="1247">1997</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041101.1806-T3" VAL="2004-06">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041101.1806-T3-1">
+      <extent>
+        <charseq START="2015" END="2018">June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041101.1806-T4" VAL="P2Y">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041101.1806-T4-1">
+      <extent>
+        <charseq START="1254" END="1271">the past two years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

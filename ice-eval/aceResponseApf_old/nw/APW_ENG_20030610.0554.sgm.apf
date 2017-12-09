@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030610.0554.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030610.0554">
+  <entity ID="APW_ENG_20030610.0554-1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="132" END="138">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="138">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Florida">
+        <charseq START="132" END="138">Florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-2-0">
+      <extent>
+        <charseq START="141" END="142">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="142">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="141" END="142">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-3" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-3-0">
+      <extent>
+        <charseq START="146" END="153">A rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="153">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-3-1">
+      <extent>
+        <charseq START="456" END="479">a Boeing Delta II rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="479">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-4" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-4-0">
+      <extent>
+        <charseq START="176" END="190">two Mars rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="190">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-4-1">
+      <extent>
+        <charseq START="839" END="844">rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="844">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-5" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-0">
+      <extent>
+        <charseq START="180" END="183">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="183">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-1">
+      <extent>
+        <charseq START="366" END="369">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="369">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-2">
+      <extent>
+        <charseq START="782" END="785">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="782" END="785">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-3">
+      <extent>
+        <charseq START="1057" END="1060">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1060">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-4">
+      <extent>
+        <charseq START="1213" END="1216">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1213" END="1216">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-5">
+      <extent>
+        <charseq START="1891" END="1894">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1891" END="1894">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-6">
+      <extent>
+        <charseq START="1993" END="1996">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1993" END="1996">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-7">
+      <extent>
+        <charseq START="2052" END="2055">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2052" END="2055">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-5-8">
+      <extent>
+        <charseq START="2292" END="2295">Mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2292" END="2295">Mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mars">
+        <charseq START="180" END="183">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="366" END="369">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="782" END="785">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="1057" END="1060">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="1213" END="1216">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="1891" END="1894">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="1993" END="1996">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="2052" END="2055">Mars</charseq>
+      </name>
+      <name NAME="Mars">
+        <charseq START="2292" END="2295">Mars</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-6-0">
+      <extent>
+        <charseq START="239" END="252">the red planet</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="252">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-7" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-7-0">
+      <extent>
+        <charseq START="260" END="287">the golf-cart-sized
+vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="287">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-8" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-8-0">
+      <extent>
+        <charseq START="373" END="381">The rover</charseq>
+      </extent>
+      <head>
+        <charseq START="377" END="381">rover</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-8-1">
+      <extent>
+        <charseq START="675" END="690">The second rover</charseq>
+      </extent>
+      <head>
+        <charseq START="686" END="690">rover</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-9-0">
+      <extent>
+        <charseq START="458" END="472">Boeing Delta II</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="472">Boeing Delta II</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boeing Delta II">
+        <charseq START="458" END="472">Boeing Delta II</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-10-0">
+      <extent>
+        <charseq START="564" END="572">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="572">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-11-0">
+      <extent>
+        <charseq START="633" END="640">stations</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="640">stations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-12" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-12-0">
+      <extent>
+        <charseq START="658" END="671">the spacecraft</charseq>
+      </extent>
+      <head>
+        <charseq START="662" END="671">spacecraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-13" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-13-0">
+      <extent>
+        <charseq START="853" END="870">robotic
+geologists</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="870">geologists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-14" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-14-0">
+      <extent>
+        <charseq START="1020" END="1024">Earth</charseq>
+      </extent>
+      <head>
+        <charseq START="1020" END="1024">Earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Earth">
+        <charseq START="1020" END="1024">Earth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-15-0">
+      <extent>
+        <charseq START="1089" END="1098">scientists</charseq>
+      </extent>
+      <head>
+        <charseq START="1089" END="1098">scientists</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-15-1">
+      <extent>
+        <charseq START="1170" END="1179">Scientists</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1179">Scientists</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-15-2">
+      <extent>
+        <charseq START="1413" END="1422">scientists</charseq>
+      </extent>
+      <head>
+        <charseq START="1413" END="1422">scientists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-16" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-16-0">
+      <extent>
+        <charseq START="1250" END="1259">The rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1259">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-16-1">
+      <extent>
+        <charseq START="1537" END="1546">The rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="1541" END="1546">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-16-2">
+      <extent>
+        <charseq START="1728" END="1737">The rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="1732" END="1737">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030610.0554-16-3">
+      <extent>
+        <charseq START="1786" END="1790">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1786" END="1790">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030610.0554-16-4">
+      <extent>
+        <charseq START="1809" END="1812">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1812">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-17-0">
+      <extent>
+        <charseq START="1262" END="1274">landing sites</charseq>
+      </extent>
+      <head>
+        <charseq START="1270" END="1274">sites</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1280" END="1293">opposite sides</charseq>
+      </extent>
+      <head>
+        <charseq START="1289" END="1293">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030610.0554-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="1326" END="1330">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1326" END="1330">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-19" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-19-0">
+      <extent>
+        <charseq START="1298" END="1307">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1302" END="1307">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-19-1">
+      <extent>
+        <charseq START="1829" END="1838">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1833" END="1838">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-19-2">
+      <extent>
+        <charseq START="1962" END="1971">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1966" END="1971">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-20-0">
+      <extent>
+        <charseq START="1605" END="1611">Martian</charseq>
+      </extent>
+      <head>
+        <charseq START="1605" END="1611">Martian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Martian">
+        <charseq START="1605" END="1611">Martian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-21-0">
+      <extent>
+        <charseq START="1975" END="1978">NASA</charseq>
+      </extent>
+      <head>
+        <charseq START="1975" END="1978">NASA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030610.0554-21-1">
+      <extent>
+        <charseq START="1989" END="1991">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1989" END="1991">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NASA">
+        <charseq START="1975" END="1978">NASA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-22-0">
+      <extent>
+        <charseq START="2074" END="2089">The space agency</charseq>
+      </extent>
+      <head>
+        <charseq START="2084" END="2089">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030610.0554-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="2189" END="2193">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="2189" END="2193">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="2189" END="2193">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-24-0">
+      <extent>
+        <charseq START="2204" END="2225">all
+seven crew members</charseq>
+      </extent>
+      <head>
+        <charseq START="2219" END="2225">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-25-0">
+      <extent>
+        <charseq START="2214" END="2217">crew</charseq>
+      </extent>
+      <head>
+        <charseq START="2214" END="2217">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030610.0554-26" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030610.0554-26-0">
+      <extent>
+        <charseq START="2287" END="2302">both Mars rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="2297" END="2302">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030610.0554-V7" TYPE="Contact-Info" SUBTYPE="URL">
+    <value_mention ID="APW_ENG_20030610.0554-V7-1">
+      <extent>
+        <charseq START="2348" END="2375">http://mars.jpl.nasa.gov/mer</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030610.0554-T0" VAL="2003-06-10">
+    <timex2_mention ID="APW_ENG_20030610.0554-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030610</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T1" VAL="2003-06-10">
+    <timex2_mention ID="APW_ENG_20030610.0554-T1-1">
+      <extent>
+        <charseq START="204" END="210">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T2" VAL="2003-06-10T13:58">
+    <timex2_mention ID="APW_ENG_20030610.0554-T2-1">
+      <extent>
+        <charseq START="484" END="492">1:58 p.m.</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T3" VAL="2003-06-10T17:58Z">
+    <timex2_mention ID="APW_ENG_20030610.0554-T3-1">
+      <extent>
+        <charseq START="495" END="502">1758 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T4" VAL="P2D">
+    <timex2_mention ID="APW_ENG_20030610.0554-T4-1">
+      <extent>
+        <charseq START="543" END="550">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T5" VAL="2003-06">
+    <timex2_mention ID="APW_ENG_20030610.0554-T5-1">
+      <extent>
+        <charseq START="735" END="744">this
+month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T6" VAL="2003-01">
+    <timex2_mention ID="APW_ENG_20030610.0554-T6-1">
+      <extent>
+        <charseq START="790" END="796">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T7" VAL="PT24H">
+    <timex2_mention ID="APW_ENG_20030610.0554-T7-1">
+      <extent>
+        <charseq START="1627" END="1634">24 hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T8" VAL="P3M">
+    <timex2_mention ID="APW_ENG_20030610.0554-T8-1">
+      <extent>
+        <charseq START="1693" END="1704">three months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T9" VAL="1999">
+    <timex2_mention ID="APW_ENG_20030610.0554-T9-1">
+      <extent>
+        <charseq START="2057" END="2070">four years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030610.0554-T10" VAL="2003-02">
+    <timex2_mention ID="APW_ENG_20030610.0554-T10-1">
+      <extent>
+        <charseq START="2129" END="2136">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

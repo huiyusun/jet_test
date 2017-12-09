@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20091207.1016.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20091207.1016">
+  <entity ID="APW_ENG_20091207.1016-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-1-0">
+      <extent>
+        <charseq START="103" END="109">A woman</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="109">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-1-1">
+      <extent>
+        <charseq START="158" END="164">a woman</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="164">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-1-2">
+      <extent>
+        <charseq START="211" END="213">she</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="213">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-2-0">
+      <extent>
+        <charseq START="264" END="275">a prosecutor</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="275">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="292" END="296">State</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="296">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="326" END="327">it</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="327">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-4-0">
+      <extent>
+        <charseq START="297" END="319">&apos;s Attorney David Cohen</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="319">David Cohen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-4-1">
+      <extent>
+        <charseq START="540" END="542">him</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="542">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-4-2">
+      <extent>
+        <charseq START="627" END="631">Cohen</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="631">Cohen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-4-3">
+      <extent>
+        <charseq START="941" END="945">Cohen</charseq>
+      </extent>
+      <head>
+        <charseq START="941" END="945">Cohen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-4-4">
+      <extent>
+        <charseq START="1581" END="1585">Cohen</charseq>
+      </extent>
+      <head>
+        <charseq START="1581" END="1585">Cohen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-4-5">
+      <extent>
+        <charseq START="2001" END="2005">Cohen</charseq>
+      </extent>
+      <head>
+        <charseq START="2001" END="2005">Cohen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="David Cohen">
+        <charseq START="309" END="319">David Cohen</charseq>
+      </name>
+      <name NAME="Cohen">
+        <charseq START="627" END="631">Cohen</charseq>
+      </name>
+      <name NAME="Cohen">
+        <charseq START="941" END="945">Cohen</charseq>
+      </name>
+      <name NAME="Cohen">
+        <charseq START="1581" END="1585">Cohen</charseq>
+      </name>
+      <name NAME="Cohen">
+        <charseq START="2001" END="2005">Cohen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-0">
+      <extent>
+        <charseq START="349" END="361">Sandra Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="361">Sandra Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-1">
+      <extent>
+        <charseq START="502" END="507">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="507">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-5-2">
+      <extent>
+        <charseq START="976" END="978">her</charseq>
+      </extent>
+      <head>
+        <charseq START="976" END="978">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-5-3">
+      <extent>
+        <charseq START="984" END="986">her</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="986">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-4">
+      <extent>
+        <charseq START="1036" END="1041">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="1036" END="1041">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-5">
+      <extent>
+        <charseq START="1159" END="1164">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="1159" END="1164">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-6">
+      <extent>
+        <charseq START="1250" END="1255">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1255">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-7">
+      <extent>
+        <charseq START="1651" END="1656">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="1651" END="1656">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-8">
+      <extent>
+        <charseq START="1661" END="1666">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="1661" END="1666">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-5-9">
+      <extent>
+        <charseq START="2655" END="2660">Herold</charseq>
+      </extent>
+      <head>
+        <charseq START="2655" END="2660">Herold</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sandra Herold">
+        <charseq START="349" END="361">Sandra Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="502" END="507">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="1036" END="1041">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="1159" END="1164">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="1250" END="1255">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="1651" END="1656">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="1661" END="1666">Herold</charseq>
+      </name>
+      <name NAME="Herold">
+        <charseq START="2655" END="2660">Herold</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="366" END="373">Stamford</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="373">Stamford</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="2229" END="2236">Stamford</charseq>
+      </extent>
+      <head>
+        <charseq START="2229" END="2236">Stamford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stamford">
+        <charseq START="366" END="373">Stamford</charseq>
+      </name>
+      <name NAME="Stamford">
+        <charseq START="2229" END="2236">Stamford</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-0">
+      <extent>
+        <charseq START="515" END="525">Charla Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="515" END="525">Charla Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-7-1">
+      <extent>
+        <charseq START="554" END="556">her</charseq>
+      </extent>
+      <head>
+        <charseq START="554" END="556">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-2">
+      <extent>
+        <charseq START="587" END="590">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="590">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-3">
+      <extent>
+        <charseq START="738" END="741">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="741">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-4">
+      <extent>
+        <charseq START="930" END="937">Ms. Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="937">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-7-5">
+      <extent>
+        <charseq START="930" END="932">Ms.</charseq>
+      </extent>
+      <head>
+        <charseq START="930" END="932">Ms.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-6">
+      <extent>
+        <charseq START="1047" END="1050">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1050">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-7-7">
+      <extent>
+        <charseq START="1066" END="1068">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1068">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-8">
+      <extent>
+        <charseq START="1136" END="1139">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="1136" END="1139">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-9">
+      <extent>
+        <charseq START="1227" END="1230">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="1227" END="1230">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-7-10">
+      <extent>
+        <charseq START="2406" END="2409">Nash</charseq>
+      </extent>
+      <head>
+        <charseq START="2406" END="2409">Nash</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Charla Nash">
+        <charseq START="515" END="525">Charla Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="587" END="590">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="738" END="741">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="934" END="937">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="1047" END="1050">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="1136" END="1139">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="1227" END="1230">Nash</charseq>
+      </name>
+      <name NAME="Nash">
+        <charseq START="2406" END="2409">Nash</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-8-0">
+      <extent>
+        <charseq START="554" END="562">her house</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="562">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-9-0">
+      <extent>
+        <charseq START="984" END="993">her family</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="993">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-9-1">
+      <extent>
+        <charseq START="1140" END="1148">&apos;s family</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1148">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-9-2">
+      <extent>
+        <charseq START="1231" END="1239">&apos;s family</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1239">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-10-0">
+      <extent>
+        <charseq START="1022" END="1030">attorneys</charseq>
+      </extent>
+      <head>
+        <charseq START="1022" END="1030">attorneys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="1199" END="1207">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="1203" END="1207">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-12-0">
+      <extent>
+        <charseq START="1364" END="1374">A biologist</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1374">biologist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-13-0">
+      <extent>
+        <charseq START="1380" END="1427">the state Department of Environmental Protection</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1427">Department of Environmental Protection</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-13-1">
+      <extent>
+        <charseq START="1384" END="1388">state</charseq>
+      </extent>
+      <head>
+        <charseq START="1384" END="1388">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-13-2">
+      <extent>
+        <charseq START="2339" END="2347">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="2343" END="2347">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-13-3">
+      <extent>
+        <charseq START="2431" END="2458">the environmental department</charseq>
+      </extent>
+      <head>
+        <charseq START="2449" END="2458">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Department of Environmental Protection">
+        <charseq START="1390" END="1427">Department of Environmental Protection</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-14-0">
+      <extent>
+        <charseq START="1436" END="1444">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1436" END="1444">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-15-0">
+      <extent>
+        <charseq START="1469" END="1474">Travis</charseq>
+      </extent>
+      <head>
+        <charseq START="1469" END="1474">Travis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-15-1">
+      <extent>
+        <charseq START="1518" END="1519">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1518" END="1519">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-15-2">
+      <extent>
+        <charseq START="1550" END="1551">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1550" END="1551">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-15-3">
+      <extent>
+        <charseq START="1947" END="1952">Travis</charseq>
+      </extent>
+      <head>
+        <charseq START="1947" END="1952">Travis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-15-4">
+      <extent>
+        <charseq START="1989" END="1991">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1989" END="1991">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-15-5">
+      <extent>
+        <charseq START="2545" END="2550">Travis</charseq>
+      </extent>
+      <head>
+        <charseq START="2545" END="2550">Travis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-15-6">
+      <extent>
+        <charseq START="2639" END="2644">Travis</charseq>
+      </extent>
+      <head>
+        <charseq START="2639" END="2644">Travis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Travis">
+        <charseq START="1469" END="1474">Travis</charseq>
+      </name>
+      <name NAME="Travis">
+        <charseq START="1947" END="1952">Travis</charseq>
+      </name>
+      <name NAME="Travis">
+        <charseq START="2545" END="2550">Travis</charseq>
+      </name>
+      <name NAME="Travis">
+        <charseq START="2639" END="2644">Travis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-16-0">
+      <extent>
+        <charseq START="1667" END="1677">&apos;s attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="1670" END="1677">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-16-1">
+      <extent>
+        <charseq START="1723" END="1725">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1723" END="1725">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-16-2">
+      <extent>
+        <charseq START="2410" END="2420">&apos;s attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="2413" END="2420">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-17-0">
+      <extent>
+        <charseq START="1723" END="1732">her family</charseq>
+      </extent>
+      <head>
+        <charseq START="1727" END="1732">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-18-0">
+      <extent>
+        <charseq START="1764" END="1772">a workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1766" END="1772">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-19-0">
+      <extent>
+        <charseq START="1879" END="1893">the chimp owner</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1893">owner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-20-0">
+      <extent>
+        <charseq START="2127" END="2132">police</charseq>
+      </extent>
+      <head>
+        <charseq START="2127" END="2132">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-20-1">
+      <extent>
+        <charseq START="2165" END="2167">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2165" END="2167">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-20-2">
+      <extent>
+        <charseq START="2189" END="2194">police</charseq>
+      </extent>
+      <head>
+        <charseq START="2189" END="2194">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-21-0">
+      <extent>
+        <charseq START="2165" END="2173">his owner</charseq>
+      </extent>
+      <head>
+        <charseq START="2169" END="2173">owner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-22" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-22-0">
+      <extent>
+        <charseq START="2174" END="2179">&apos;s car</charseq>
+      </extent>
+      <head>
+        <charseq START="2177" END="2179">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091207.1016-23-0">
+      <extent>
+        <charseq START="2285" END="2300">Associated Press</charseq>
+      </extent>
+      <head>
+        <charseq START="2285" END="2300">Associated Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Associated Press">
+        <charseq START="2285" END="2300">Associated Press</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-24-0">
+      <extent>
+        <charseq START="2524" END="2533">the agency</charseq>
+      </extent>
+      <head>
+        <charseq START="2528" END="2533">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-24-1">
+      <extent>
+        <charseq START="2663" END="2672">the agency</charseq>
+      </extent>
+      <head>
+        <charseq START="2667" END="2672">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-24-2">
+      <extent>
+        <charseq START="3094" END="3103">the agency</charseq>
+      </extent>
+      <head>
+        <charseq START="3098" END="3103">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-25-0">
+      <extent>
+        <charseq START="2557" END="2564">the home</charseq>
+      </extent>
+      <head>
+        <charseq START="2561" END="2564">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-26-0">
+      <extent>
+        <charseq START="2569" END="2602">Environmental protection officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2594" END="2602">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20091207.1016-26-1">
+      <extent>
+        <charseq START="2783" END="2786">They</charseq>
+      </extent>
+      <head>
+        <charseq START="2783" END="2786">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091207.1016-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091207.1016-27-0">
+      <extent>
+        <charseq START="2807" END="2819">the biologist</charseq>
+      </extent>
+      <head>
+        <charseq START="2811" END="2819">biologist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20091207.1016-T0" VAL="2009-12-07">
+    <timex2_mention ID="APW_ENG_20091207.1016-T0-1">
+      <extent>
+        <charseq START="282" END="287">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T1" VAL="2010-02">
+    <timex2_mention ID="APW_ENG_20091207.1016-T1-1">
+      <extent>
+        <charseq START="487" END="494">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T2" VAL="2009-11">
+    <timex2_mention ID="APW_ENG_20091207.1016-T2-1">
+      <extent>
+        <charseq START="1094" END="1103">last month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T3" VAL="2009-12-07">
+    <timex2_mention ID="APW_ENG_20091207.1016-T3-1">
+      <extent>
+        <charseq START="1592" END="1597">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T4" VAL="2003">
+    <timex2_mention ID="APW_ENG_20091207.1016-T4-1">
+      <extent>
+        <charseq START="2155" END="2158">2003</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T5" VAL="P5Y">
+    <timex2_mention ID="APW_ENG_20091207.1016-T5-1">
+      <extent>
+        <charseq START="2489" END="2498">five years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091207.1016-T6" VAL="P13Y">
+    <timex2_mention ID="APW_ENG_20091207.1016-T6-1">
+      <extent>
+        <charseq START="2626" END="2637">the 13 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20091207.1016-R1" TYPE="RESIDE">
+    <relation_argument REFID="APW_ENG_20091207.1016-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20091207.1016-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20091207.1016-R1-1">
+      <extent>
+        <charseq START="349" END="373">Sandra Herold of Stamford</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20091207.1016-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="349" END="361">Sandra Herold</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20091207.1016-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="366" END="373">Stamford</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20101219.0495.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20101219.0495">
+  <entity ID="APW_ENG_20101219.0495-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-1-0">
+      <extent>
+        <charseq START="77" END="85">Lady Gaga</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="85">Lady Gaga</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-1-1">
+      <extent>
+        <charseq START="511" END="519">Lady Gaga</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="519">Lady Gaga</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lady Gaga">
+        <charseq START="77" END="85">Lady Gaga</charseq>
+      </name>
+      <name NAME="Lady Gaga">
+        <charseq START="511" END="519">Lady Gaga</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="113" END="117">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="117">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="161" END="165">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="165">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="450" END="454">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="454">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paris">
+        <charseq START="113" END="117">Paris</charseq>
+      </name>
+      <name NAME="Paris">
+        <charseq START="161" END="165">Paris</charseq>
+      </name>
+      <name NAME="Paris">
+        <charseq START="450" END="454">Paris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-3-0">
+      <extent>
+        <charseq START="134" END="145">the pop diva</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="145">diva</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20101219.0495-3-1">
+      <extent>
+        <charseq START="780" END="782">her</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="782">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-4-0">
+      <extent>
+        <charseq START="360" END="370">authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="370">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-5" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-5-0">
+      <extent>
+        <charseq START="379" END="388">big trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="388">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-6" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-6-0">
+      <extent>
+        <charseq START="411" END="434">the Ile de France region</charseq>
+      </extent>
+      <head>
+        <charseq START="429" END="434">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-7-0">
+      <extent>
+        <charseq START="415" END="427">Ile de France</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="427">Ile de France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ile de France">
+        <charseq START="415" END="427">Ile de France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-8-0">
+      <extent>
+        <charseq START="457" END="483">Concert venue Bercy stadium</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="483">stadium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20101219.0495-8-1">
+      <extent>
+        <charseq START="493" END="495">its</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="495">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-9-0">
+      <extent>
+        <charseq START="471" END="475">Bercy</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="475">Bercy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-9-1">
+      <extent>
+        <charseq START="567" END="571">Bercy</charseq>
+      </extent>
+      <head>
+        <charseq START="567" END="571">Bercy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bercy">
+        <charseq START="471" END="475">Bercy</charseq>
+      </name>
+      <name NAME="Bercy">
+        <charseq START="567" END="571">Bercy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-10" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-10-0">
+      <extent>
+        <charseq START="520" END="528">&apos;s trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="528">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-10-1">
+      <extent>
+        <charseq START="751" END="760">the trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="755" END="760">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20101219.0495-11-0">
+      <extent>
+        <charseq START="546" END="554">the venue</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="554">venue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20101219.0495-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20101219.0495-12-0">
+      <extent>
+        <charseq START="717" END="723">Twitter</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="723">Twitter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Twitter">
+        <charseq START="717" END="723">Twitter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20101219.0495-T0" VAL="2010-10">
+    <timex2_mention ID="APW_ENG_20101219.0495-T0-1">
+      <extent>
+        <charseq START="125" END="131">October</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20101219.0495-T1" VAL="2010-12-19">
+    <timex2_mention ID="APW_ENG_20101219.0495-T1-1">
+      <extent>
+        <charseq START="295" END="300">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20101219.0495-T2" VAL="2010-12-13">
+    <timex2_mention ID="APW_ENG_20101219.0495-T2-1">
+      <extent>
+        <charseq START="588" END="593">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20101219.0495-T3" VAL="2010-12-14">
+    <timex2_mention ID="APW_ENG_20101219.0495-T3-1">
+      <extent>
+        <charseq START="687" END="693">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

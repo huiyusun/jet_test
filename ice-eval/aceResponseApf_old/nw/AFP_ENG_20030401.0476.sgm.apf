@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="/Users/nuist/jetx/data/ACE/2005/training/nw/AFP_ENG_20030401.0476.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030401.0476">
+  <entity ID="AFP_ENG_20030401.0476-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="119" END="124">LONDON</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="124">LONDON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="426" END="431">London</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="431">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LONDON">
+        <charseq START="119" END="124">LONDON</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="426" END="431">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-2-0">
+      <extent>
+        <charseq START="136" END="138">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="138">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="136" END="138">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="142" END="148">British</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="148">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="142" END="148">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-4-0">
+      <extent>
+        <charseq START="164" END="189">the Exchequer Gordon Brown</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="189">Gordon Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gordon Brown">
+        <charseq START="178" END="189">Gordon Brown</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-5-0">
+      <extent>
+        <charseq START="168" END="176">Exchequer</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="176">Exchequer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Exchequer">
+        <charseq START="168" END="176">Exchequer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-6-0">
+      <extent>
+        <charseq START="299" END="330">the Financial Services Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="330">Financial Services Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-6-1">
+      <extent>
+        <charseq START="333" END="335">FSA</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="335">FSA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-6-2">
+      <extent>
+        <charseq START="672" END="678">the FSA</charseq>
+      </extent>
+      <head>
+        <charseq START="676" END="678">FSA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-6-3">
+      <extent>
+        <charseq START="1194" END="1200">the FSA</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1200">FSA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030401.0476-6-4">
+      <extent>
+        <charseq START="1209" END="1238">Britain&apos;s sole regulatory body</charseq>
+      </extent>
+      <head>
+        <charseq START="1235" END="1238">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Financial Services Authority">
+        <charseq START="303" END="330">Financial Services Authority</charseq>
+      </name>
+      <name NAME="FSA">
+        <charseq START="333" END="335">FSA</charseq>
+      </name>
+      <name NAME="FSA">
+        <charseq START="676" END="678">FSA</charseq>
+      </name>
+      <name NAME="FSA">
+        <charseq START="1198" END="1200">FSA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-7-0">
+      <extent>
+        <charseq START="547" END="576">the London School of
+Economics</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="576">London School of
+Economics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London School of Economics">
+        <charseq START="551" END="576">London School of
+Economics</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-8" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030401.0476-8-0">
+      <extent>
+        <charseq START="579" END="633">one of the best-known parts of the University of London</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="581">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-9" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-9-0">
+      <extent>
+        <charseq START="610" END="633">the University of London</charseq>
+      </extent>
+      <head>
+        <charseq START="614" END="633">University of London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="University of London">
+        <charseq START="614" END="633">University of London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-10-0">
+      <extent>
+        <charseq START="889" END="929">the Office of Gas and Electricity Markets</charseq>
+      </extent>
+      <head>
+        <charseq START="893" END="929">Office of Gas and Electricity Markets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Office of Gas and Electricity Markets">
+        <charseq START="893" END="929">Office of Gas and Electricity Markets</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-11-0">
+      <extent>
+        <charseq START="935" END="993">Ofgem, which regulates Britain&apos;s privatised energy industry</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="939">Ofgem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ofgem">
+        <charseq START="935" END="939">Ofgem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="958" END="964">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="958" END="964">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="1209" END="1215">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1215">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Britain">
+        <charseq START="958" END="964">Britain</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="1209" END="1215">Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-13-0">
+      <extent>
+        <charseq START="1047" END="1059">Barclays Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1059">Barclays Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Barclays Bank">
+        <charseq START="1047" END="1059">Barclays Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-14-0">
+      <extent>
+        <charseq START="1062" END="1064">BZW</charseq>
+      </extent>
+      <head>
+        <charseq START="1062" END="1064">BZW</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BZW">
+        <charseq START="1062" END="1064">BZW</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-15-0">
+      <extent>
+        <charseq START="1070" END="1085">Kleinwort Benson</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1085">Kleinwort Benson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kleinwort Benson">
+        <charseq START="1070" END="1085">Kleinwort Benson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030401.0476-16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030401.0476-16-0">
+      <extent>
+        <charseq START="1133" END="1168">the Department of Trade and Industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1137" END="1168">Department of Trade and Industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Department of Trade and Industry">
+        <charseq START="1137" END="1168">Department of Trade and Industry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

@@ -1,0 +1,172 @@
+// Analyze Assessments for KBP Slot Filling
+// author:  Ralph Grishman
+// August 2015
+
+package KBPJet;
+
+import java.util.*;
+import java.io.*;
+import java.nio.file.*;
+import Jet.Tipster.*;
+import Jet.Time.TimeMain;
+import Jet.Zoner.*;
+import Jet.Scorer.SGMLProcessor;
+import KBPJet.SFQuery;
+import KBPJet.SFQueryList;
+
+/**
+ *  Given an assessment file for the slot-filling task, generates a set of test
+ *  cases for an extraction system.
+ */
+
+public class AnalyzeAssessments {
+
+	static int assessmentCount = 0;
+	static int trialCount = 0;
+	static int successCount = 0;
+
+	// file containing list of full paths of every document in corpus
+	public static String fileListPath = 
+		"/misc/proteus108/xiangli/Data/InitialData/FileLists/ColdStart/cs2013-2014FileList";
+
+	// map from document id to file path
+	static Map<String, String> id2DocPath = new HashMap<String, String>();
+
+	// set of fills alrady reported
+	static Set<String> fillsReported = new HashSet<String>();
+
+	// switches
+	// collect negative (as well as positive) examples
+	static boolean collectNegatives = false;
+	// collect only one example of each fill
+	static boolean uniqueFills = true;
+	// maximum number of assessments to process
+	static int max = 4000;
+
+	/**
+ 	 *  read in a series of KBP slot-filling assessments and convert training data
+ 	 */
+
+	public static void main (String[] args) 
+			throws IOException, InterruptedException, NumberFormatException {
+
+		if (args.length != 2) {
+			System.err.println ("Review requires 2 arguments:");
+			System.err.println ("     queries assessments");
+			System.exit(0);
+		}
+
+		String queriesFile = args[0];
+		String assessmentFile = args[1];
+		
+		loadIdFileListMap();
+		List<SFQuery> queries = new SFQueryList(queriesFile).queries;
+
+		BufferedReader reader = new BufferedReader(new InputStreamReader(
+			new FileInputStream(assessmentFile), "UTF-8"));
+		PrintWriter docListWriter = new PrintWriter (new FileWriter ("docList"));
+		PrintWriter fileListWriter = new PrintWriter (new FileWriter ("fileList"));
+		String assessment;
+		Set<String> tripleSet = new TreeSet<String>();
+		Set<String> ids = new TreeSet<String>();
+                //
+                //  read in an assessment
+		while ((assessment = reader.readLine()) != null) {
+			assessment = assessment.trim();
+			String[] field = assessment.split("\t");
+			String queryAndSlot = field[1];
+			String docAndOffsetList = field[2];
+			String fill = field[3];
+			String fillOffset = field[4];
+ 			boolean positive = field[5].equals("C") && field[6].equals("C");
+if(!docAndOffsetList.contains("ENG")) continue;
+			if (!positive && !collectNegatives) continue;
+			if (uniqueFills) 
+				if(fillsReported.contains(fillOffset))
+					continue;
+				else
+					fillsReported.add(fillOffset);
+                        // collect triples with slot fills
+			field = queryAndSlot.split(":", 2);
+			String queryId = field[0];
+			String slot = field[1];
+if(!slot.contains("residence")) continue;
+String relation = "RESIDE";
+			int queryNo = Integer.parseInt(queryId.substring(9, 12));
+			SFQuery query = queries.get(queryNo - 1);
+			assessmentCount++;
+			String triple = query.name + ":" + relation + ":" + fill;
+			tripleSet.add(triple);
+                        // collect id's of docs cited as justification
+                        ids.addAll(retrieveDocIds(docAndOffsetList));
+			if (assessmentCount >= max) break;
+		}
+		PrintWriter triplesWriter = new PrintWriter ( new FileWriter ("keyTriples"));
+		for (String trip : tripleSet)
+			triplesWriter.println(trip);
+		triplesWriter.close();
+                writeLists(ids);
+	}
+
+	static void loadIdFileListMap() throws IOException {
+		System.out.print("\n\n Loading paths for corpus ... ");
+		BufferedReader reader = new BufferedReader(new FileReader(fileListPath));
+		
+		String path = "", id = "";
+		while ((path = reader.readLine()) != null) {
+			path = path.trim();
+			if (path.isEmpty()) continue;
+			if (path.lastIndexOf("/") >= 0) {
+				id = path.substring(path.lastIndexOf("/")+1);
+				if (true) { //!CS2.format2013) {
+					if (id.lastIndexOf(".") < 0) {
+						System.out.println("***Error in CS1.loadIdFileListMap, invalid document id");
+						System.exit(1);
+					}
+					id = id.substring(0, id.lastIndexOf("."));
+				}
+			}
+			else
+				id = path;
+			
+			if (id == null || id2DocPath.containsKey(id)) {
+				System.out.println("***Error in CS1.loadIdFileListMap, duplicate or null document id: " + id);
+				System.exit(1);
+			}
+			
+			id2DocPath.put(id, path);
+		}
+		reader.close();
+		System.out.println("Done!");
+	}
+
+	/**
+ 	 *  Given a comma-separated list of document ids and offsets, returns the
+ 	 *  concatenated text.
+ 	 */
+
+	static Set<String> retrieveDocIds (String docAndOffsetList) {
+		String[] field = docAndOffsetList.split(",");
+		Set<String> docIds = new HashSet<String>();
+                for (String docAndOffset : field) {
+                        String[] f = docAndOffset.split(":", 2);
+		        String doc = f[0];
+			docIds.add(doc);
+		}
+		return docIds;
+	}
+
+        static void writeLists (Set<String> docIds) throws IOException {
+            PrintWriter fileListWriter = new PrintWriter ( new FileWriter ("fileList"));
+            for (String docId : docIds) {
+		String root = "/misc/proteus108/xiangli/Data/InitialData/KBPCorpus/2013";
+		String path = id2DocPath.get(docId);
+                Path from = FileSystems.getDefault().getPath(root, path);
+                Path to   = FileSystems.getDefault().getPath("docs", docId + ".sgm");
+                Files.copy(from, to);
+                fileListWriter.println(docId + ".sgm");
+            }
+            fileListWriter.close();
+        }
+		
+}

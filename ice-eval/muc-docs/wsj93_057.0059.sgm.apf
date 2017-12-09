@@ -1,0 +1,631 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_057.0059.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_057.0059">
+  <entity ID="wsj93_057.0059-1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-1-0">
+      <extent>
+        <charseq START="265" END="287">The New York Daily News</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="287">New York Daily News</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-1-1">
+      <extent>
+        <charseq START="426" END="439">the Daily News</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="439">Daily News</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-1-2">
+      <extent>
+        <charseq START="447" END="460">The Daily News</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="460">Daily News</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-1-3">
+      <extent>
+        <charseq START="718" END="725">the News</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="725">News</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-1-4">
+      <extent>
+        <charseq START="1043" END="1050">the News</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1050">News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Daily News">
+        <charseq START="269" END="287">New York Daily News</charseq>
+      </name>
+      <name NAME="Daily News">
+        <charseq START="430" END="439">Daily News</charseq>
+      </name>
+      <name NAME="Daily News">
+        <charseq START="451" END="460">Daily News</charseq>
+      </name>
+      <name NAME="News">
+        <charseq START="722" END="725">News</charseq>
+      </name>
+      <name NAME="News">
+        <charseq START="1047" END="1050">News</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-2-0">
+      <extent>
+        <charseq START="295" END="308">Lou Colasuonno</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="308">Lou Colasuonno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-2-1">
+      <extent>
+        <charseq START="316" END="321">editor</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="321">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-2-2">
+      <extent>
+        <charseq START="341" END="354">Mr. Colasuonno</charseq>
+      </extent>
+      <head>
+        <charseq START="345" END="354">Colasuonno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-2-3">
+      <extent>
+        <charseq START="341" END="343">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="343">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-2-4">
+      <extent>
+        <charseq START="375" END="380">editor</charseq>
+      </extent>
+      <head>
+        <charseq START="375" END="380">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-2-5">
+      <extent>
+        <charseq START="1258" END="1271">Mr. Colasuonno</charseq>
+      </extent>
+      <head>
+        <charseq START="1262" END="1271">Colasuonno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-2-6">
+      <extent>
+        <charseq START="1258" END="1260">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1260">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-2-7">
+      <extent>
+        <charseq START="1547" END="1560">Mr. Colasuonno</charseq>
+      </extent>
+      <head>
+        <charseq START="1551" END="1560">Colasuonno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-2-8">
+      <extent>
+        <charseq START="1547" END="1549">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1547" END="1549">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lou Colasuonno">
+        <charseq START="295" END="308">Lou Colasuonno</charseq>
+      </name>
+      <name NAME="Colasuonno">
+        <charseq START="345" END="354">Colasuonno</charseq>
+      </name>
+      <name NAME="Colasuonno">
+        <charseq START="1262" END="1271">Colasuonno</charseq>
+      </name>
+      <name NAME="Colasuonno">
+        <charseq START="1551" END="1560">Colasuonno</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-3-0">
+      <extent>
+        <charseq START="326" END="338">the newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="338">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-0">
+      <extent>
+        <charseq START="385" END="401">the New York Post</charseq>
+      </extent>
+      <head>
+        <charseq START="389" END="401">New York Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-4-1">
+      <extent>
+        <charseq START="404" END="421">the longtime rival</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="421">rival</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-2">
+      <extent>
+        <charseq START="621" END="628">the Post</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="628">Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-4-3">
+      <extent>
+        <charseq START="746" END="747">It</charseq>
+      </extent>
+      <head>
+        <charseq START="746" END="747">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-4">
+      <extent>
+        <charseq START="784" END="791">the Post</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="791">Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-4-5">
+      <extent>
+        <charseq START="852" END="854">its</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="854">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-6">
+      <extent>
+        <charseq START="958" END="965">the Post</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="965">Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-4-7">
+      <extent>
+        <charseq START="988" END="989">it</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="989">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-4-8">
+      <extent>
+        <charseq START="1016" END="1018">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1016" END="1018">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-9">
+      <extent>
+        <charseq START="1139" END="1146">the Post</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1146">Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-4-10">
+      <extent>
+        <charseq START="1356" END="1363">the Post</charseq>
+      </extent>
+      <head>
+        <charseq START="1360" END="1363">Post</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Post">
+        <charseq START="389" END="401">New York Post</charseq>
+      </name>
+      <name NAME="Post">
+        <charseq START="625" END="628">Post</charseq>
+      </name>
+      <name NAME="Post">
+        <charseq START="788" END="791">Post</charseq>
+      </name>
+      <name NAME="Post">
+        <charseq START="962" END="965">Post</charseq>
+      </name>
+      <name NAME="Post">
+        <charseq START="1143" END="1146">Post</charseq>
+      </name>
+      <name NAME="Post">
+        <charseq START="1360" END="1363">Post</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-5-0">
+      <extent>
+        <charseq START="488" END="508">Mortimer B. Zuckerman</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="508">Mortimer B. Zuckerman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-5-1">
+      <extent>
+        <charseq START="511" END="533">a
+real estate developer</charseq>
+      </extent>
+      <head>
+        <charseq START="525" END="533">developer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-5-2">
+      <extent>
+        <charseq START="539" END="547">publisher</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="547">publisher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mortimer B. Zuckerman">
+        <charseq START="488" END="508">Mortimer B. Zuckerman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-6" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-6-0">
+      <extent>
+        <charseq START="552" END="588">the magazine U.S. News &amp;
+World Report</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="588">U.S. News &amp;
+World Report</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-6-1">
+      <extent>
+        <charseq START="556" END="563">magazine</charseq>
+      </extent>
+      <head>
+        <charseq START="556" END="563">magazine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S. News &amp; World Report">
+        <charseq START="565" END="588">U.S. News &amp;
+World Report</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-7-0">
+      <extent>
+        <charseq START="647" END="657">James Lynch</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="657">James Lynch</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-7-1">
+      <extent>
+        <charseq START="596" END="616">Two other top editors</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="616">editors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="James Lynch">
+        <charseq START="647" END="657">James Lynch</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-8-0">
+      <extent>
+        <charseq START="631" END="681">managing editor James Lynch
+and metropolitan editor</charseq>
+      </extent>
+      <head>
+        <charseq START="676" END="681">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-9-0">
+      <extent>
+        <charseq START="683" END="697">Richard Gooding</charseq>
+      </extent>
+      <head>
+        <charseq START="683" END="697">Richard Gooding</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richard Gooding">
+        <charseq START="683" END="697">Richard Gooding</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-10-0">
+      <extent>
+        <charseq START="728" END="734">Reuters</charseq>
+      </extent>
+      <head>
+        <charseq START="728" END="734">Reuters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-10-1">
+      <extent>
+        <charseq START="1076" END="1082">Reuters</charseq>
+      </extent>
+      <head>
+        <charseq START="1076" END="1082">Reuters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-10-2">
+      <extent>
+        <charseq START="1409" END="1415">Reuters</charseq>
+      </extent>
+      <head>
+        <charseq START="1409" END="1415">Reuters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Reuters">
+        <charseq START="728" END="734">Reuters</charseq>
+      </name>
+      <name NAME="Reuters">
+        <charseq START="1076" END="1082">Reuters</charseq>
+      </name>
+      <name NAME="Reuters">
+        <charseq START="1409" END="1415">Reuters</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-11-0">
+      <extent>
+        <charseq START="771" END="779">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="779">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-12-0">
+      <extent>
+        <charseq START="909" END="925">Steven Hoffenberg</charseq>
+      </extent>
+      <head>
+        <charseq START="909" END="925">Steven Hoffenberg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-12-1">
+      <extent>
+        <charseq START="928" END="942">the businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="932" END="942">businessman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-12-2">
+      <extent>
+        <charseq START="1003" END="1004">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1004">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-12-3">
+      <extent>
+        <charseq START="1065" END="1067">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1065" END="1067">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-12-4">
+      <extent>
+        <charseq START="1228" END="1241">Mr. Hoffenberg</charseq>
+      </extent>
+      <head>
+        <charseq START="1232" END="1241">Hoffenberg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-12-5">
+      <extent>
+        <charseq START="1228" END="1230">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1228" END="1230">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steven Hoffenberg">
+        <charseq START="909" END="925">Steven Hoffenberg</charseq>
+      </name>
+      <name NAME="Hoffenberg">
+        <charseq START="1232" END="1241">Hoffenberg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-13-0">
+      <extent>
+        <charseq START="1065" END="1073">his staff</charseq>
+      </extent>
+      <head>
+        <charseq START="1069" END="1073">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_057.0059-14-0">
+      <extent>
+        <charseq START="1166" END="1177">Mike McAlary</charseq>
+      </extent>
+      <head>
+        <charseq START="1166" END="1177">Mike McAlary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-14-1">
+      <extent>
+        <charseq START="1147" END="1163">&apos;s lead
+columnist</charseq>
+      </extent>
+      <head>
+        <charseq START="1155" END="1163">columnist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-14-2">
+      <extent>
+        <charseq START="1205" END="1206">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1205" END="1206">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-14-3">
+      <extent>
+        <charseq START="1337" END="1338">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1337" END="1338">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-14-4">
+      <extent>
+        <charseq START="1383" END="1384">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1383" END="1384">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mike McAlary">
+        <charseq START="1166" END="1177">Mike McAlary</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1445" END="1448">town</charseq>
+      </extent>
+      <head>
+        <charseq START="1445" END="1448">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-16-0">
+      <extent>
+        <charseq START="1461" END="1470">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="1465" END="1470">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-16-1">
+      <extent>
+        <charseq START="1487" END="1488">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1488">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_057.0059-16-2">
+      <extent>
+        <charseq START="1589" END="1590">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1589" END="1590">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_057.0059-17" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_057.0059-17-0">
+      <extent>
+        <charseq START="1475" END="1483">this room</charseq>
+      </extent>
+      <head>
+        <charseq START="1480" END="1483">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_057.0059-T0" VAL="P44Y">
+    <timex2_mention ID="wsj93_057.0059-T0-1">
+      <extent>
+        <charseq START="357" END="364">44 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_057.0059-T1" VAL="2016-03-20">
+    <timex2_mention ID="wsj93_057.0059-T1-1">
+      <extent>
+        <charseq START="805" END="818">eight days ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_057.0059-T2" VAL="P192Y">
+    <timex2_mention ID="wsj93_057.0059-T2-1">
+      <extent>
+        <charseq START="868" END="876">192 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_057.0059-T3" VAL="2016-W12">
+    <timex2_mention ID="wsj93_057.0059-T3-1">
+      <extent>
+        <charseq START="1184" END="1192">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

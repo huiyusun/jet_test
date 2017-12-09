@@ -1,0 +1,672 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20100808.0205.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20100808.0205">
+  <entity ID="XIN_ENG_20100808.0205-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-1-0">
+      <extent>
+        <charseq START="111" END="132">The Finnish contestant</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="132">contestant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-1-1">
+      <extent>
+        <charseq START="510" END="529">a Finnish contestant</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="529">contestant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="115" END="121">Finnish</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="121">Finnish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-1" ROLE="LOC">
+      <extent>
+        <charseq START="183" END="189">Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="189">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-2" ROLE="LOC">
+      <extent>
+        <charseq START="276" END="282">Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="282">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-3" ROLE="LOC">
+      <extent>
+        <charseq START="304" END="310">Finnish</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="310">Finnish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="394" END="409">southern Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="409">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="518">Finnish</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="518">Finnish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="679" END="685">Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="679" END="685">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="1083" END="1089">Finnish</charseq>
+      </extent>
+      <head>
+        <charseq START="1083" END="1089">Finnish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="1148" END="1163">southern
+Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1163">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="1298" END="1304">Finnish</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1304">Finnish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Finnish">
+        <charseq START="115" END="121">Finnish</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="183" END="189">Finland</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="276" END="282">Finland</charseq>
+      </name>
+      <name NAME="Finnish">
+        <charseq START="304" END="310">Finnish</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="403" END="409">Finland</charseq>
+      </name>
+      <name NAME="Finnish">
+        <charseq START="512" END="518">Finnish</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="679" END="685">Finland</charseq>
+      </name>
+      <name NAME="Finnish">
+        <charseq START="1083" END="1089">Finnish</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="1157" END="1163">Finland</charseq>
+      </name>
+      <name NAME="Finnish">
+        <charseq START="1298" END="1304">Finnish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-3-0">
+      <extent>
+        <charseq START="262" END="271">a
+hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="271">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-3-1">
+      <extent>
+        <charseq START="1125" END="1134">a hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="1127" END="1134">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-3-2">
+      <extent>
+        <charseq START="1236" END="1245">a
+hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1245">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="283" END="301">&apos;s capital Helsinki</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="301">Helsinki</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-4-1" ROLE="LOC">
+      <extent>
+        <charseq START="286" END="292">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="292">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1250" END="1257">Helsinki</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1257">Helsinki</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Helsinki">
+        <charseq START="294" END="301">Helsinki</charseq>
+      </name>
+      <name NAME="Helsinki">
+        <charseq START="1250" END="1257">Helsinki</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-5-0">
+      <extent>
+        <charseq START="304" END="317">Finnish police</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="317">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="385" END="391">Heinola</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="391">Heinola</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="1875" END="1881">Heinola</charseq>
+      </extent>
+      <head>
+        <charseq START="1875" END="1881">Heinola</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Heinola">
+        <charseq START="385" END="391">Heinola</charseq>
+      </name>
+      <name NAME="Heinola">
+        <charseq START="1875" END="1881">Heinola</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-7-0">
+      <extent>
+        <charseq START="480" END="499">a Russian
+contestant</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="499">contestant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="482" END="488">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="488">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="619" END="624">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="624">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="1019" END="1025">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="1019" END="1025">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1392" END="1398">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="1392" END="1398">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian">
+        <charseq START="482" END="488">Russian</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="619" END="624">Russia</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="1019" END="1025">Russian</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="1392" END="1398">Russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-9-0">
+      <extent>
+        <charseq START="552" END="554">men</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="554">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-9-1">
+      <extent>
+        <charseq START="919" END="921">men</charseq>
+      </extent>
+      <head>
+        <charseq START="919" END="921">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-10-0">
+      <extent>
+        <charseq START="592" END="612">Vladimir Ladyzhenskiy</charseq>
+      </extent>
+      <head>
+        <charseq START="592" END="612">Vladimir Ladyzhenskiy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-10-1">
+      <extent>
+        <charseq START="568" END="589">The last two finalists</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="589">finalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-10-2">
+      <extent>
+        <charseq START="1015" END="1029">the Russian man</charseq>
+      </extent>
+      <head>
+        <charseq START="1027" END="1029">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-10-3">
+      <extent>
+        <charseq START="1079" END="1093">the
+Finnish man</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1093">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100808.0205-10-4">
+      <extent>
+        <charseq START="1209" END="1210">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1210">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-10-5">
+      <extent>
+        <charseq START="1388" END="1422">the Russian contestant Ladyzhenskiy</charseq>
+      </extent>
+      <head>
+        <charseq START="1411" END="1422">Ladyzhenskiy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-10-6">
+      <extent>
+        <charseq START="1400" END="1409">contestant</charseq>
+      </extent>
+      <head>
+        <charseq START="1400" END="1409">contestant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-10-7">
+      <extent>
+        <charseq START="1579" END="1590">Ladyzhenskiy</charseq>
+      </extent>
+      <head>
+        <charseq START="1579" END="1590">Ladyzhenskiy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vladimir Ladyzhenskiy">
+        <charseq START="592" END="612">Vladimir Ladyzhenskiy</charseq>
+      </name>
+      <name NAME="Ladyzhenskiy">
+        <charseq START="1411" END="1422">Ladyzhenskiy</charseq>
+      </name>
+      <name NAME="Ladyzhenskiy">
+        <charseq START="1579" END="1590">Ladyzhenskiy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-11-0">
+      <extent>
+        <charseq START="630" END="672">five-time
+championship winner Timo Kaukonen</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="672">Timo Kaukonen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-11-1">
+      <extent>
+        <charseq START="653" END="658">winner</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="658">winner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Timo Kaukonen">
+        <charseq START="660" END="672">Timo Kaukonen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-12" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-12-0">
+      <extent>
+        <charseq START="733" END="744">a sauna room</charseq>
+      </extent>
+      <head>
+        <charseq START="741" END="744">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-12-1">
+      <extent>
+        <charseq START="968" END="981">the sauna room</charseq>
+      </extent>
+      <head>
+        <charseq START="978" END="981">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-13-0">
+      <extent>
+        <charseq START="862" END="870">the staff</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="870">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-14-0">
+      <extent>
+        <charseq START="933" END="948">Both contestants</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="948">contestants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100808.0205-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1139" END="1143">Lahti</charseq>
+      </extent>
+      <head>
+        <charseq START="1139" END="1143">Lahti</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lahti">
+        <charseq START="1139" END="1143">Lahti</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-16-0">
+      <extent>
+        <charseq START="1298" END="1311">Finnish police</charseq>
+      </extent>
+      <head>
+        <charseq START="1306" END="1311">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-17-0">
+      <extent>
+        <charseq START="1318" END="1326">the media</charseq>
+      </extent>
+      <head>
+        <charseq START="1322" END="1326">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-18-0">
+      <extent>
+        <charseq START="1454" END="1469">Both
+contestants</charseq>
+      </extent>
+      <head>
+        <charseq START="1459" END="1469">contestants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100808.0205-18-1">
+      <extent>
+        <charseq START="1554" END="1563">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="1554" END="1563">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-19-0">
+      <extent>
+        <charseq START="1633" END="1660">The competition organization</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1660">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-20-0">
+      <extent>
+        <charseq START="1736" END="1742">the men</charseq>
+      </extent>
+      <head>
+        <charseq START="1740" END="1742">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-21-0">
+      <extent>
+        <charseq START="1936" END="1950">140 contestants</charseq>
+      </extent>
+      <head>
+        <charseq START="1940" END="1950">contestants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100808.0205-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100808.0205-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1957" END="1968">15 countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1960" END="1968">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20100808.0205-T0" VAL="2010-08-07">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T0-1">
+      <extent>
+        <charseq START="191" END="198">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T1" VAL="2010-08-08">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T1-1">
+      <extent>
+        <charseq START="327" END="332">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T2" VAL="2010-08-07">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T2-1">
+      <extent>
+        <charseq START="457" END="464">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T3" VAL="PT6M">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T3-1">
+      <extent>
+        <charseq START="802" END="812">six minutes</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T4" VAL="P60Y">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T4-1">
+      <extent>
+        <charseq START="1044" END="1051">60 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T5" VAL="2010-08-08">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T5-1">
+      <extent>
+        <charseq START="1331" END="1336">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T6" VAL="1999">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T6-1">
+      <extent>
+        <charseq START="1898" END="1901">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100808.0205-T7" VAL="2010">
+    <timex2_mention ID="XIN_ENG_20100808.0205-T7-1">
+      <extent>
+        <charseq START="1908" END="1916">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20100808.0205-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20100808.0205-10" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20100808.0205-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20100808.0205-R1-1">
+      <extent>
+        <charseq START="592" END="624">Vladimir Ladyzhenskiy from Russia</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20100808.0205-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="592" END="612">Vladimir Ladyzhenskiy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20100808.0205-8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="619" END="624">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20100808.0205-R2" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20100808.0205-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20100808.0205-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20100808.0205-R2-1">
+      <extent>
+        <charseq START="1936" END="1968">140 contestants from 15 countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20100808.0205-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1936" END="1950">140 contestants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20100808.0205-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1957" END="1968">15 countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

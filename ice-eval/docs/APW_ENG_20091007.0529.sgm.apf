@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20091007.0529.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20091007.0529">
+  <entity ID="APW_ENG_20091007.0529-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="86" END="91">German</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="91">German</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="German">
+        <charseq START="86" END="91">German</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091007.0529-2-0">
+      <extent>
+        <charseq START="86" END="115">German industrial conglomerate</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="115">conglomerate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-3-0">
+      <extent>
+        <charseq START="117" END="126">Siemens AG</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="126">Siemens AG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091007.0529-3-1">
+      <extent>
+        <charseq START="256" END="266">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="266">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-3-2">
+      <extent>
+        <charseq START="286" END="305">Munich-based Siemens</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="305">Siemens</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-3-3">
+      <extent>
+        <charseq START="431" END="437">Siemens</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="437">Siemens</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091007.0529-3-4">
+      <extent>
+        <charseq START="470" END="480">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="480">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-3-5">
+      <extent>
+        <charseq START="500" END="506">Siemens</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="506">Siemens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Siemens AG">
+        <charseq START="117" END="126">Siemens AG</charseq>
+      </name>
+      <name NAME="Siemens">
+        <charseq START="299" END="305">Siemens</charseq>
+      </name>
+      <name NAME="Siemens">
+        <charseq START="431" END="437">Siemens</charseq>
+      </name>
+      <name NAME="Siemens">
+        <charseq START="500" END="506">Siemens</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="174" END="182">San Diego</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="182">San Diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Diego">
+        <charseq START="174" END="182">San Diego</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="286" END="291">Munich</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="291">Munich</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Munich">
+        <charseq START="286" END="291">Munich</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-6" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091007.0529-6-0">
+      <extent>
+        <charseq START="396" END="403">The cars</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="403">cars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="440" END="449">Sacramento</charseq>
+      </extent>
+      <head>
+        <charseq START="440" END="449">Sacramento</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sacramento">
+        <charseq START="440" END="449">Sacramento</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="452" END="461">California</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="461">California</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="California">
+        <charseq START="452" END="461">California</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-9" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20091007.0529-9-0">
+      <extent>
+        <charseq START="452" END="467">California plant</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="467">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20091007.0529-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20091007.0529-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="544" END="552">Frankfurt</charseq>
+      </extent>
+      <head>
+        <charseq START="544" END="552">Frankfurt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Frankfurt">
+        <charseq START="544" END="552">Frankfurt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20091007.0529-T0" VAL="2009-10-07">
+    <timex2_mention ID="APW_ENG_20091007.0529-T0-1">
+      <extent>
+        <charseq START="273" END="281">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20091007.0529-T1" VAL="2011">
+    <timex2_mention ID="APW_ENG_20091007.0529-T1-1">
+      <extent>
+        <charseq START="388" END="391">2011</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

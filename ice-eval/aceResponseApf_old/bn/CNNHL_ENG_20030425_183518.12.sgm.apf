@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030425_183518.12.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030425_183518.12">
+  <entity ID="CNNHL_ENG_20030425_183518.12-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030425_183518.12-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="70" END="75">german</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="75">german</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="german">
+        <charseq START="70" END="75">german</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-2-0">
+      <extent>
+        <charseq START="70" END="82">german police</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="82">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-2-1">
+      <extent>
+        <charseq START="319" END="324">police</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="324">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-2-2">
+      <extent>
+        <charseq START="498" END="503">police</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="503">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-3-0">
+      <extent>
+        <charseq START="88" END="112">a teenage lebanese gunman</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="112">gunman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-3-1">
+      <extent>
+        <charseq START="190" END="199">the gunman</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="199">gunman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030425_183518.12-3-2">
+      <extent>
+        <charseq START="367" END="368">he</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="368">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030425_183518.12-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="98" END="105">lebanese</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="105">lebanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lebanese">
+        <charseq START="98" END="105">lebanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-5" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-5-0">
+      <extent>
+        <charseq START="128" END="132">a bus</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="132">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-5-1">
+      <extent>
+        <charseq START="229" END="235">the bus</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="235">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-6-0">
+      <extent>
+        <charseq START="181" END="187">suspect</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="187">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030425_183518.12-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="265" END="270">bremen</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="270">bremen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="240" END="260">the north german city</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="260">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bremen">
+        <charseq START="265" END="270">bremen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-8-0">
+      <extent>
+        <charseq START="287" END="292">people</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="292">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-9-0">
+      <extent>
+        <charseq START="319" END="324">police</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="324">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-10" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-10-0">
+      <extent>
+        <charseq START="337" END="348">the
+autobahn</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="348">autobahn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-11-0">
+      <extent>
+        <charseq START="351" END="361">negotiators</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="361">negotiators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-12-0">
+      <extent>
+        <charseq START="394" END="407">four prisoners</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="407">prisoners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030425_183518.12-13-0">
+      <extent>
+        <charseq START="420" END="435">ramzi binalshibh</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="435">binalshibh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="binalshibh">
+        <charseq START="426" END="435">binalshibh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030425_183518.12-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="488" END="495">pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="495">pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="pakistan">
+        <charseq START="488" END="495">pakistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030425_183518.12-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030425_183518.12-15-0">
+      <extent>
+        <charseq START="571" END="582">all hostages</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="582">hostages</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030425_183518.12-T0" VAL="2003-04-25">
+    <timex2_mention ID="CNNHL_ENG_20030425_183518.12-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-04-25</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030425_183518.12-T1" VAL="2003-04-25">
+    <timex2_mention ID="CNNHL_ENG_20030425_183518.12-T1-1">
+      <extent>
+        <charseq START="134" END="138">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030425_183518.12-T2" VAL="2002">
+    <timex2_mention ID="CNNHL_ENG_20030425_183518.12-T2-1">
+      <extent>
+        <charseq START="475" END="483">last
+year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNNHL_ENG_20030425_183518.12-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNNHL_ENG_20030425_183518.12-7" ROLE="Arg-1" />
+    <relation_argument REFID="CNNHL_ENG_20030425_183518.12-7" ROLE="Arg-2" />
+      <relation_mention ID="CNNHL_ENG_20030425_183518.12-R1-2">
+      <extent>
+        <charseq START="240" END="270">the north german city of bremen</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNNHL_ENG_20030425_183518.12-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="240" END="260">the north german city</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNNHL_ENG_20030425_183518.12-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="265" END="270">bremen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

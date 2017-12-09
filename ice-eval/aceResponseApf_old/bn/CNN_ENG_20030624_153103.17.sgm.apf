@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030624_153103.17.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030624_153103.17">
+  <entity ID="CNN_ENG_20030624_153103.17-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-1-0">
+      <extent>
+        <charseq START="92" END="115">the formal
+establishment</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="115">establishment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="125" END="141">our two countries</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="141">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="262" END="268">britain</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="268">britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="1738" END="1744">british</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1744">british</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="2089" END="2095">british</charseq>
+      </extent>
+      <head>
+        <charseq START="2089" END="2095">british</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="britain">
+        <charseq START="262" END="268">britain</charseq>
+      </name>
+      <name NAME="british">
+        <charseq START="1738" END="1744">british</charseq>
+      </name>
+      <name NAME="british">
+        <charseq START="2089" END="2095">british</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-4-0">
+      <extent>
+        <charseq START="328" END="345">the
+russian people</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="345">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.17-4-1">
+      <extent>
+        <charseq START="716" END="717">he</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="717">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.17-4-2">
+      <extent>
+        <charseq START="809" END="810">he</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="810">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="332" END="338">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="332" END="338">russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1026" END="1031">russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1031">russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030624_153103.17-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="1049" END="1054">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="1049" END="1054">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="2079" END="2084">russia</charseq>
+      </extent>
+      <head>
+        <charseq START="2079" END="2084">russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="russian">
+        <charseq START="332" END="338">russian</charseq>
+      </name>
+      <name NAME="russia">
+        <charseq START="1026" END="1031">russia</charseq>
+      </name>
+      <name NAME="russia">
+        <charseq START="2079" END="2084">russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-6-0">
+      <extent>
+        <charseq START="384" END="388">world</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="388">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="427" END="439">our countries</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="439">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-8" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-8-0">
+      <extent>
+        <charseq START="603" END="634">a more peaceful
+and secure world</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="634">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="652" END="663">your country</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="663">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-10-0">
+      <extent>
+        <charseq START="693" END="709">president yeltsin</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="709">yeltsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-10-1">
+      <extent>
+        <charseq START="693" END="701">president</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="701">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="yeltsin">
+        <charseq START="703" END="709">yeltsin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="994" END="1005">your country</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1005">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-12-0">
+      <extent>
+        <charseq START="1059" END="1069">our partner</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1069">partner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-13-0">
+      <extent>
+        <charseq START="1075" END="1084">our
+friend</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1084">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-14-0">
+      <extent>
+        <charseq START="1195" END="1200">fields</charseq>
+      </extent>
+      <head>
+        <charseq START="1195" END="1200">fields</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-15-0">
+      <extent>
+        <charseq START="1343" END="1345">mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1343" END="1345">mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-15-1">
+      <extent>
+        <charseq START="2548" END="2550">mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2548" END="2550">mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-16-0">
+      <extent>
+        <charseq START="1456" END="1459">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1456" END="1459">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1456" END="1468">firm partners</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1468">partners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1528" END="1544">our two
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1536" END="1544">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1586" END="1589">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1586" END="1589">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="1586" END="1589">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-20-0">
+      <extent>
+        <charseq START="1689" END="1706">the united
+nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1693" END="1706">united
+nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united nations">
+        <charseq START="1693" END="1706">united
+nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-21-0">
+      <extent>
+        <charseq START="2089" END="2105">british
+companies</charseq>
+      </extent>
+      <head>
+        <charseq START="2097" END="2105">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-22-0">
+      <extent>
+        <charseq START="2147" END="2164">sir paul
+mccartney</charseq>
+      </extent>
+      <head>
+        <charseq START="2151" END="2164">paul
+mccartney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-22-1">
+      <extent>
+        <charseq START="2147" END="2149">sir</charseq>
+      </extent>
+      <head>
+        <charseq START="2147" END="2149">sir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="paul mccartney">
+        <charseq START="2151" END="2164">paul
+mccartney</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-23-0">
+      <extent>
+        <charseq START="2177" END="2195">enthusiastic crowds</charseq>
+      </extent>
+      <head>
+        <charseq START="2190" END="2195">crowds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-24-0">
+      <extent>
+        <charseq START="2200" END="2202">red</charseq>
+      </extent>
+      <head>
+        <charseq START="2200" END="2202">red</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="2273" END="2285">your own city</charseq>
+      </extent>
+      <head>
+        <charseq START="2282" END="2285">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030624_153103.17-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="2290" END="2299">petersburg</charseq>
+      </extent>
+      <head>
+        <charseq START="2290" END="2299">petersburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="petersburg">
+        <charseq START="2290" END="2299">petersburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-27-0">
+      <extent>
+        <charseq START="2344" END="2359">the young people</charseq>
+      </extent>
+      <head>
+        <charseq START="2354" END="2359">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="2364" END="2376">our countries</charseq>
+      </extent>
+      <head>
+        <charseq START="2368" END="2376">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-29" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-29-0">
+      <extent>
+        <charseq START="2422" END="2427">school</charseq>
+      </extent>
+      <head>
+        <charseq START="2422" END="2427">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-30" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-30-0">
+      <extent>
+        <charseq START="2443" END="2452">university</charseq>
+      </extent>
+      <head>
+        <charseq START="2443" END="2452">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030624_153103.17-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030624_153103.17-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="2563" END="2574">your country</charseq>
+      </extent>
+      <head>
+        <charseq START="2568" END="2574">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T0" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T1" VAL="1994">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T1-1">
+      <extent>
+        <charseq START="668" END="671">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T2" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T2-1">
+      <extent>
+        <charseq START="880" END="882">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T3" VAL="2012">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T3-1">
+      <extent>
+        <charseq START="885" END="900">nine years later</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T4" VAL="2003">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T4-1">
+      <extent>
+        <charseq START="1554" END="1562">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T5" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T5-1">
+      <extent>
+        <charseq START="1603" END="1605">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T6" VAL="2003-06-24">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T6-1">
+      <extent>
+        <charseq START="1752" END="1756">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030624_153103.17-T7" VAL="PXM">
+    <timex2_mention ID="CNN_ENG_20030624_153103.17-T7-1">
+      <extent>
+        <charseq START="2000" END="2014">last few months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

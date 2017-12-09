@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030306_083604.6.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030306_083604.6">
+  <entity ID="CNN_ENG_20030306_083604.6-1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-1-0">
+      <extent>
+        <charseq START="88" END="94">college</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="94">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-1-1">
+      <extent>
+        <charseq START="219" END="225">college</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="225">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-2-0">
+      <extent>
+        <charseq START="100" END="119">high school students</charseq>
+      </extent>
+      <head>
+        <charseq START="112" END="119">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-2-1">
+      <extent>
+        <charseq START="227" END="234">students</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="234">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-3" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-3-0">
+      <extent>
+        <charseq START="105" END="110">school</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="110">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-3-1">
+      <extent>
+        <charseq START="208" END="213">school</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="213">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-4-0">
+      <extent>
+        <charseq START="147" END="154">campuses</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="154">campuses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-5-0">
+      <extent>
+        <charseq START="171" END="175">coast</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="175">coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-6-0">
+      <extent>
+        <charseq START="177" END="184">to-coast</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="184">coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_083604.6-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="187" END="196">california</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="196">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_083604.6-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="264" END="268">their</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="268">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="california">
+        <charseq START="187" END="196">california</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_083604.6-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="286" END="289">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="289">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="286" END="289">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_083604.6-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="304" END="307">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="307">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="304" END="307">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-10" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-10-0">
+      <extent>
+        <charseq START="324" END="328">bombs</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="328">bombs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="359" END="404">the national youth and student peace
+coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="404">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-12-0">
+      <extent>
+        <charseq START="382" END="388">student</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="388">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="430" END="438">the north</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="438">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-14" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_083604.6-14-0">
+      <extent>
+        <charseq START="478" END="490">lake superior</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="490">lake superior</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030306_083604.6-14-1">
+      <extent>
+        <charseq START="578" END="590">lake superior</charseq>
+      </extent>
+      <head>
+        <charseq START="578" END="590">lake superior</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030306_083604.6-14-2">
+      <extent>
+        <charseq START="630" END="631">it</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="631">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lake superior">
+        <charseq START="478" END="490">lake superior</charseq>
+      </name>
+      <name NAME="lake superior">
+        <charseq START="578" END="590">lake superior</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-15-0">
+      <extent>
+        <charseq START="508" END="518">forecasters</charseq>
+      </extent>
+      <head>
+        <charseq START="508" END="518">forecasters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030306_083604.6-16" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030306_083604.6-16-0">
+      <extent>
+        <charseq START="608" END="627">the five great lakes</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="627">lakes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030306_083604.6-T0" VAL="2003-03-06">
+    <timex2_mention ID="CNN_ENG_20030306_083604.6-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-03-06</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_083604.6-T1" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030306_083604.6-T1-1">
+      <extent>
+        <charseq START="156" END="164">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_083604.6-T2" VAL="2003-03-06">
+    <timex2_mention ID="CNN_ENG_20030306_083604.6-T2-1">
+      <extent>
+        <charseq START="198" END="200">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030306_083604.6-T3" VAL="2003-03-06">
+    <timex2_mention ID="CNN_ENG_20030306_083604.6-T3-1">
+      <extent>
+        <charseq START="459" END="461">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

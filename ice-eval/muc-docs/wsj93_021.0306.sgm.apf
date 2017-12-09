@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_021.0306.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_021.0306">
+  <entity ID="wsj93_021.0306-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="299" END="302">U.K.</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="302">U.K.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="566" END="572">British</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="572">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.K.">
+        <charseq START="299" END="302">U.K.</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="566" END="572">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-2-0">
+      <extent>
+        <charseq START="314" END="350">property and engineering conglomerate</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="350">conglomerate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-0">
+      <extent>
+        <charseq START="352" END="370">Trafalgar House PLC</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="370">Trafalgar House PLC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-3-1">
+      <extent>
+        <charseq START="461" END="471">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="471">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-3-2">
+      <extent>
+        <charseq START="562" END="580">The British company</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="580">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-3">
+      <extent>
+        <charseq START="785" END="793">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="793">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-4">
+      <extent>
+        <charseq START="834" END="842">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="842">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-5">
+      <extent>
+        <charseq START="997" END="1005">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1005">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-6">
+      <extent>
+        <charseq START="1085" END="1093">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1093">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-7">
+      <extent>
+        <charseq START="1169" END="1177">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="1169" END="1177">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-3-8">
+      <extent>
+        <charseq START="1840" END="1848">Trafalgar</charseq>
+      </extent>
+      <head>
+        <charseq START="1840" END="1848">Trafalgar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Trafalgar House PLC">
+        <charseq START="352" END="370">Trafalgar House PLC</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="785" END="793">Trafalgar</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="834" END="842">Trafalgar</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="997" END="1005">Trafalgar</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="1085" END="1093">Trafalgar</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="1169" END="1177">Trafalgar</charseq>
+      </name>
+      <name NAME="Trafalgar">
+        <charseq START="1840" END="1848">Trafalgar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-4-0">
+      <extent>
+        <charseq START="502" END="534">a prominent Hong Kong businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="534">businessman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="514" END="522">Hong Kong</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="522">Hong Kong</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="934" END="942">Hong Kong</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="942">Hong Kong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hong Kong">
+        <charseq START="514" END="522">Hong Kong</charseq>
+      </name>
+      <name NAME="Hong Kong">
+        <charseq START="934" END="942">Hong Kong</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-6-0">
+      <extent>
+        <charseq START="539" END="554">its new
+chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="554">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-7-0">
+      <extent>
+        <charseq START="611" END="616">Cunard</charseq>
+      </extent>
+      <head>
+        <charseq START="611" END="616">Cunard</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-7-1">
+      <extent>
+        <charseq START="1991" END="2004">Cunard Leisure</charseq>
+      </extent>
+      <head>
+        <charseq START="1991" END="2004">Cunard Leisure</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cunard">
+        <charseq START="611" END="616">Cunard</charseq>
+      </name>
+      <name NAME="Cunard Leisure">
+        <charseq START="1991" END="2004">Cunard Leisure</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-8-0">
+      <extent>
+        <charseq START="635" END="648">the Ritz hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="648">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-9-0">
+      <extent>
+        <charseq START="639" END="642">Ritz</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="642">Ritz</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ritz">
+        <charseq START="639" END="642">Ritz</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="653" END="658">London</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="658">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="1068" END="1073">London</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1073">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="653" END="658">London</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="1068" END="1073">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-11-0">
+      <extent>
+        <charseq START="666" END="678">Simon Keswick</charseq>
+      </extent>
+      <head>
+        <charseq START="666" END="678">Simon Keswick</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-11-1">
+      <extent>
+        <charseq START="681" END="688">the head</charseq>
+      </extent>
+      <head>
+        <charseq START="685" END="688">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Simon Keswick">
+        <charseq START="666" END="678">Simon Keswick</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-12-0">
+      <extent>
+        <charseq START="693" END="719">Hongkong Land Holdings Ltd.</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="719">Hongkong Land Holdings Ltd.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-12-1">
+      <extent>
+        <charseq START="756" END="768">Hongkong Land</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="768">Hongkong Land</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-12-2">
+      <extent>
+        <charseq START="856" END="868">Hongkong Land</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="868">Hongkong Land</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_021.0306-12-3">
+      <extent>
+        <charseq START="873" END="878">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="873" END="878">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-12-4">
+      <extent>
+        <charseq START="963" END="975">Hongkong Land</charseq>
+      </extent>
+      <head>
+        <charseq START="963" END="975">Hongkong Land</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-12-5">
+      <extent>
+        <charseq START="1793" END="1805">Hongkong Land</charseq>
+      </extent>
+      <head>
+        <charseq START="1793" END="1805">Hongkong Land</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hongkong Land Holdings Ltd.">
+        <charseq START="693" END="719">Hongkong Land Holdings Ltd.</charseq>
+      </name>
+      <name NAME="Hongkong Land">
+        <charseq START="756" END="768">Hongkong Land</charseq>
+      </name>
+      <name NAME="Hongkong Land">
+        <charseq START="856" END="868">Hongkong Land</charseq>
+      </name>
+      <name NAME="Hongkong Land">
+        <charseq START="963" END="975">Hongkong Land</charseq>
+      </name>
+      <name NAME="Hongkong Land">
+        <charseq START="1793" END="1805">Hongkong Land</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-13-0">
+      <extent>
+        <charseq START="776" END="780">25.1%</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="780">%</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-14-0">
+      <extent>
+        <charseq START="894" END="923">Jardine Matheson Holdings Ltd.</charseq>
+      </extent>
+      <head>
+        <charseq START="894" END="923">Jardine Matheson Holdings Ltd.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-14-1">
+      <extent>
+        <charseq START="926" END="955">a giant Hong Kong
+conglomerate</charseq>
+      </extent>
+      <head>
+        <charseq START="944" END="955">conglomerate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jardine Matheson Holdings Ltd.">
+        <charseq START="894" END="923">Jardine Matheson Holdings Ltd.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-15-0">
+      <extent>
+        <charseq START="1380" END="1387">analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="1380" END="1387">analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-16-0">
+      <extent>
+        <charseq START="1661" END="1673">Alan Clements</charseq>
+      </extent>
+      <head>
+        <charseq START="1661" END="1673">Alan Clements</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-16-1">
+      <extent>
+        <charseq START="1632" END="1658">The current acting chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1651" END="1658">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alan Clements">
+        <charseq START="1661" END="1673">Alan Clements</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-17-0">
+      <extent>
+        <charseq START="1688" END="1704">a deputy
+chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1697" END="1704">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-18-0">
+      <extent>
+        <charseq START="1709" END="1717">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1713" END="1717">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-18-1">
+      <extent>
+        <charseq START="1909" END="1917">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1913" END="1917">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-19-0">
+      <extent>
+        <charseq START="1752" END="1763">David Gawler</charseq>
+      </extent>
+      <head>
+        <charseq START="1752" END="1763">David Gawler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-19-1">
+      <extent>
+        <charseq START="1766" END="1788">chief financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="1782" END="1788">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-19-2">
+      <extent>
+        <charseq START="1859" END="1868">Mr. Gawler</charseq>
+      </extent>
+      <head>
+        <charseq START="1863" END="1868">Gawler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-19-3">
+      <extent>
+        <charseq START="1859" END="1861">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1859" END="1861">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="David Gawler">
+        <charseq START="1752" END="1763">David Gawler</charseq>
+      </name>
+      <name NAME="Gawler">
+        <charseq START="1863" END="1868">Gawler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-20-0">
+      <extent>
+        <charseq START="1820" END="1835">finance
+director</charseq>
+      </extent>
+      <head>
+        <charseq START="1828" END="1835">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-21-0">
+      <extent>
+        <charseq START="1879" END="1890">John Ansdell</charseq>
+      </extent>
+      <head>
+        <charseq START="1879" END="1890">John Ansdell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Ansdell">
+        <charseq START="1879" END="1890">John Ansdell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_021.0306-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_021.0306-22-0">
+      <extent>
+        <charseq START="1957" END="1972">Dermot
+McDermott</charseq>
+      </extent>
+      <head>
+        <charseq START="1957" END="1972">Dermot
+McDermott</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_021.0306-22-1">
+      <extent>
+        <charseq START="1975" END="1982">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1975" END="1982">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dermot McDermott">
+        <charseq START="1957" END="1972">Dermot
+McDermott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_021.0306-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_021.0306-V1-1">
+      <extent>
+        <charseq START="452" END="454">72%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_021.0306-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_021.0306-V4-1">
+      <extent>
+        <charseq START="776" END="780">25.1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_021.0306-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_021.0306-V5-1">
+      <extent>
+        <charseq START="1123" END="1126">3.3%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_021.0306-T0" VAL="2016-03-31">
+    <timex2_mention ID="wsj93_021.0306-T0-1">
+      <extent>
+        <charseq START="418" END="425">March 31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T1" VAL="2016-05-26">
+    <timex2_mention ID="wsj93_021.0306-T1-1">
+      <extent>
+        <charseq START="748" END="753">May 26</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T2" VAL="2015-10">
+    <timex2_mention ID="wsj93_021.0306-T2-1">
+      <extent>
+        <charseq START="847" END="853">October</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T3" VAL="2016-03-31">
+    <timex2_mention ID="wsj93_021.0306-T3-1">
+      <extent>
+        <charseq START="1266" END="1273">March 31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T4" VAL="2015-03-28">
+    <timex2_mention ID="wsj93_021.0306-T4-1">
+      <extent>
+        <charseq START="1313" END="1326">a year earlier</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T5" VAL="2016-06">
+    <timex2_mention ID="wsj93_021.0306-T5-1">
+      <extent>
+        <charseq START="1853" END="1856">June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_021.0306-T6" VAL="P2M">
+    <timex2_mention ID="wsj93_021.0306-T6-1">
+      <extent>
+        <charseq START="1935" END="1944">two months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_021.0306-R1" TYPE="SUCCEED">
+    <relation_argument REFID="wsj93_021.0306-19" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_021.0306-21" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_021.0306-R1-1">
+      <extent>
+        <charseq START="1859" END="1890">Mr. Gawler succeeds John Ansdell</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_021.0306-19-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1859" END="1868">Mr. Gawler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_021.0306-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1879" END="1890">John Ansdell</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

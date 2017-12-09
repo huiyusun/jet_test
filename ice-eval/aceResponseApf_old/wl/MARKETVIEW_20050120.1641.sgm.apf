@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKETVIEW_20050120.1641.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKETVIEW_20050120.1641">
+  <entity ID="MARKETVIEW_20050120.1641-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050120.1641-1-0">
+      <extent>
+        <charseq START="98" END="102">Byrne</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="102">Byrne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrne">
+        <charseq START="98" END="102">Byrne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050120.1641-2-0">
+      <extent>
+        <charseq START="127" END="130">eBay</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="130">eBay</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050120.1641-2-1">
+      <extent>
+        <charseq START="584" END="587">eBay</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="587">eBay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="eBay">
+        <charseq START="127" END="130">eBay</charseq>
+      </name>
+      <name NAME="eBay">
+        <charseq START="584" END="587">eBay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050120.1641-3-0">
+      <extent>
+        <charseq START="218" END="225">Motorola</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="225">Motorola</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Motorola">
+        <charseq START="218" END="225">Motorola</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050120.1641-4-0">
+      <extent>
+        <charseq START="790" END="793">fool</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="793">fool</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050120.1641-5-0">
+      <extent>
+        <charseq START="877" END="893">the greatest fool</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="893">fool</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050120.1641-6-0">
+      <extent>
+        <charseq START="942" END="948">muckdog</charseq>
+      </extent>
+      <head>
+        <charseq START="942" END="948">muckdog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="muckdog">
+        <charseq START="942" END="948">muckdog</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050120.1641-7-0">
+      <extent>
+        <charseq START="1014" END="1033">the only thing folks</charseq>
+      </extent>
+      <head>
+        <charseq START="1029" END="1033">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050120.1641-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050120.1641-8-0">
+      <extent>
+        <charseq START="1051" END="1062">Institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="1051" END="1062">Institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="MARKETVIEW_20050120.1641-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050120.1641-V1-1">
+      <extent>
+        <charseq START="172" END="177">19.14%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="MARKETVIEW_20050120.1641-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050120.1641-V3-1">
+      <extent>
+        <charseq START="598" END="609">a modest 10%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="MARKETVIEW_20050120.1641-T0" VAL="2005-01-20T16:41:00">
+    <timex2_mention ID="MARKETVIEW_20050120.1641-T0-1">
+      <extent>
+        <charseq START="40" END="58">2005-01-20T16:41:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20050120.1641-T1" VAL="2005-01-20T16:41:00">
+    <timex2_mention ID="MARKETVIEW_20050120.1641-T1-1">
+      <extent>
+        <charseq START="106" END="124">2005-01-20T16:41:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

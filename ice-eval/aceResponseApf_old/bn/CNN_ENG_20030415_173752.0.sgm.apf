@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030415_173752.0.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030415_173752.0">
+  <entity ID="CNN_ENG_20030415_173752.0-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-1-0">
+      <extent>
+        <charseq START="67" END="69">spy</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="69">spy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-2-0">
+      <extent>
+        <charseq START="79" END="104">free private jessica lynch</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="104">jessica lynch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jessica lynch">
+        <charseq START="92" END="104">jessica lynch</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="155" END="158">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="158">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="706" END="709">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="706" END="709">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="985" END="988">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="985" END="988">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="155" END="158">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="706" END="709">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="985" END="988">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-4-0">
+      <extent>
+        <charseq START="155" END="165">u.s. forces</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="165">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="173" END="184">near
+baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="184">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="634" END="640">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="640">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="178" END="184">baghdad</charseq>
+      </name>
+      <name NAME="baghdad">
+        <charseq START="634" END="640">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-6" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-6-0">
+      <extent>
+        <charseq START="196" END="211">the italian ship</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="211">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-6-1">
+      <extent>
+        <charseq START="424" END="431">the ship</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="431">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="252" END="262">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="262">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="palestinian">
+        <charseq START="252" END="262">palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-8-0">
+      <extent>
+        <charseq START="252" END="273">palestinian terrorists</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="273">terrorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-9-0">
+      <extent>
+        <charseq START="323" END="337">leon clinghover</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="337">leon clinghover</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-9-1">
+      <extent>
+        <charseq START="340" END="341">he</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="341">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-9-2">
+      <extent>
+        <charseq START="388" END="390">him</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="390">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-9-3">
+      <extent>
+        <charseq START="403" END="405">him</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="405">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-9-4">
+      <extent>
+        <charseq START="462" END="463">he</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="463">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="leon clinghover">
+        <charseq START="323" END="337">leon clinghover</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-10-0">
+      <extent>
+        <charseq START="368" END="381">the terrorists</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="381">terrorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-11" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-11-0">
+      <extent>
+        <charseq START="438" END="454">the mediterranean</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="454">mediterranean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-12-0">
+      <extent>
+        <charseq START="482" END="489">this man</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="489">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-12-1">
+      <extent>
+        <charseq START="552" END="553">he</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="553">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-12-2">
+      <extent>
+        <charseq START="575" END="576">he</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="576">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-13-0">
+      <extent>
+        <charseq START="492" END="500">abu abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="500">abu abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-13-1">
+      <extent>
+        <charseq START="532" END="533">he</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="533">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="abu abbas">
+        <charseq START="492" END="500">abu abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="545" END="549">tunas</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="549">tunas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tunas">
+        <charseq START="545" END="549">tunas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="565" END="569">libya</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="569">libya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="libya">
+        <charseq START="565" END="569">libya</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-16-0">
+      <extent>
+        <charseq START="616" END="629">saddam hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="629">saddam hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030415_173752.0-16-1">
+      <extent>
+        <charseq START="647" END="648">he</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="648">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saddam hussein">
+        <charseq START="616" END="629">saddam hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="674" END="678">italy</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="678">italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="674" END="684">italy italy</charseq>
+      </extent>
+      <head>
+        <charseq START="680" END="684">italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="italy">
+        <charseq START="674" END="678">italy</charseq>
+      </name>
+      <name NAME="italy">
+        <charseq START="680" END="684">italy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-18-0">
+      <extent>
+        <charseq START="962" END="980">this man abu absaas</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="980">abu absaas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030415_173752.0-18-1">
+      <extent>
+        <charseq START="967" END="969">man</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="969">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="abu absaas">
+        <charseq START="971" END="980">abu absaas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030415_173752.0-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030415_173752.0-19-0">
+      <extent>
+        <charseq START="997" END="1001">miles</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1001">miles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="miles">
+        <charseq START="997" END="1001">miles</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030415_173752.0-T0" VAL="2003-04-15">
+    <timex2_mention ID="CNN_ENG_20030415_173752.0-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-15</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030415_173752.0-T1" VAL="1995">
+    <timex2_mention ID="CNN_ENG_20030415_173752.0-T1-1">
+      <extent>
+        <charseq START="129" END="132">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030415_173752.0-T2" VAL="1985">
+    <timex2_mention ID="CNN_ENG_20030415_173752.0-T2-1">
+      <extent>
+        <charseq START="283" END="286">1985</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030415_173752.0-T3" VAL="2003-04-15">
+    <timex2_mention ID="CNN_ENG_20030415_173752.0-T3-1">
+      <extent>
+        <charseq START="947" END="949">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030415_173752.0-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030415_173752.0-17" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030415_173752.0-17" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030415_173752.0-R1-1">
+      <extent>
+        <charseq START="674" END="684">italy italy</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030415_173752.0-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="674" END="678">italy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030415_173752.0-17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="674" END="684">italy italy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

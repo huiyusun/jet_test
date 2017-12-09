@@ -1,0 +1,616 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030626_193133.8.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030626_193133.8">
+  <entity ID="CNN_ENG_20030626_193133.8-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-1-0">
+      <extent>
+        <charseq START="79" END="90">the clintons</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="90">clintons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="clintons">
+        <charseq START="83" END="90">clintons</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-2-0">
+      <extent>
+        <charseq START="93" END="96">ford</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="96">ford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-3-0">
+      <extent>
+        <charseq START="102" END="122">arnold schwarzenegger</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="122">arnold schwarzenegger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="arnold schwarzenegger">
+        <charseq START="102" END="122">arnold schwarzenegger</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-4-0">
+      <extent>
+        <charseq START="140" END="147">&quot;friends</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="147">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-4-1">
+      <extent>
+        <charseq START="166" END="169">they</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="169">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="180" END="189">california</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="189">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="california">
+        <charseq START="180" END="189">california</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-6-0">
+      <extent>
+        <charseq START="224" END="235">aaron tonkin</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="235">aaron tonkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-6-1">
+      <extent>
+        <charseq START="272" END="273">he</charseq>
+      </extent>
+      <head>
+        <charseq START="272" END="273">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-6-2">
+      <extent>
+        <charseq START="362" END="367">plenty</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="367">plenty</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-6-3">
+      <extent>
+        <charseq START="866" END="877">aaron
+tonkin</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="877">aaron
+tonkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-6-4">
+      <extent>
+        <charseq START="882" END="883">he</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="883">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-6-5">
+      <extent>
+        <charseq START="888" END="890">one</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="890">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-6-6">
+      <extent>
+        <charseq START="1501" END="1510">mr.
+tonkin</charseq>
+      </extent>
+      <head>
+        <charseq START="1505" END="1510">tonkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-6-7">
+      <extent>
+        <charseq START="1501" END="1503">mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1501" END="1503">mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-6-8">
+      <extent>
+        <charseq START="1757" END="1768">aaron tonkin</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1768">aaron tonkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="aaron tonkin">
+        <charseq START="224" END="235">aaron tonkin</charseq>
+      </name>
+      <name NAME="aaron tonkin">
+        <charseq START="866" END="877">aaron
+tonkin</charseq>
+      </name>
+      <name NAME="tonkin">
+        <charseq START="1505" END="1510">tonkin</charseq>
+      </name>
+      <name NAME="aaron tonkin">
+        <charseq START="1757" END="1768">aaron tonkin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-7-0">
+      <extent>
+        <charseq START="258" END="268">vanity
+fair</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="268">vanity
+fair</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="vanity fair">
+        <charseq START="258" END="268">vanity
+fair</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-8-0">
+      <extent>
+        <charseq START="342" END="349">investor</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="349">investor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-9-0">
+      <extent>
+        <charseq START="384" END="395">brian burrow</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="395">brian burrow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-9-1">
+      <extent>
+        <charseq START="446" END="450">brian</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="450">brian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-9-2">
+      <extent>
+        <charseq START="845" END="856">brian burrow</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="856">brian burrow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="brian burrow">
+        <charseq START="384" END="395">brian burrow</charseq>
+      </name>
+      <name NAME="brian">
+        <charseq START="446" END="450">brian</charseq>
+      </name>
+      <name NAME="brian burrow">
+        <charseq START="845" END="856">brian burrow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-10-0">
+      <extent>
+        <charseq START="423" END="430">this guy</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="430">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-11-0">
+      <extent>
+        <charseq START="433" END="443">garn tonkin</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="443">garn tonkin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="garn tonkin">
+        <charseq START="433" END="443">garn tonkin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-12-0">
+      <extent>
+        <charseq START="602" END="607">bliian</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="607">bliian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bliian">
+        <charseq START="602" END="607">bliian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-13-0">
+      <extent>
+        <charseq START="676" END="683">anderson</charseq>
+      </extent>
+      <head>
+        <charseq START="676" END="683">anderson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="anderson">
+        <charseq START="676" END="683">anderson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-14" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-14-0">
+      <extent>
+        <charseq START="716" END="719">many</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="719">many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-15-0">
+      <extent>
+        <charseq START="795" END="800">member</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="800">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-16" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-16-0">
+      <extent>
+        <charseq START="935" END="943">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="939" END="943">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-17-0">
+      <extent>
+        <charseq START="948" END="956">hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="956">hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-17-1">
+      <extent>
+        <charseq START="1145" END="1167">the
+hollywood community</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1167">hollywood community</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-17-2">
+      <extent>
+        <charseq START="1965" END="1973">hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="1965" END="1973">hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="hollywood">
+        <charseq START="948" END="956">hollywood</charseq>
+      </name>
+      <name NAME="hollywood community">
+        <charseq START="1149" END="1167">hollywood community</charseq>
+      </name>
+      <name NAME="hollywood">
+        <charseq START="1965" END="1973">hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-18-0">
+      <extent>
+        <charseq START="972" END="979">a person</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="979">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-18-1">
+      <extent>
+        <charseq START="1056" END="1057">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1057">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-18-2">
+      <extent>
+        <charseq START="1264" END="1266">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1264" END="1266">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-19-0">
+      <extent>
+        <charseq START="1004" END="1014">celebrities</charseq>
+      </extent>
+      <head>
+        <charseq START="1004" END="1014">celebrities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-20-0">
+      <extent>
+        <charseq START="1021" END="1029">charities</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1029">charities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-21-0">
+      <extent>
+        <charseq START="1117" END="1120">bill</charseq>
+      </extent>
+      <head>
+        <charseq START="1117" END="1120">bill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bill">
+        <charseq START="1117" END="1120">bill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-22-0">
+      <extent>
+        <charseq START="1126" END="1140">hillary clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="1126" END="1140">hillary clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-22-1">
+      <extent>
+        <charseq START="1445" END="1468">former president clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1468">clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-22-2">
+      <extent>
+        <charseq START="1452" END="1460">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1452" END="1460">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-22-3">
+      <extent>
+        <charseq START="1471" END="1491">former president ford</charseq>
+      </extent>
+      <head>
+        <charseq START="1488" END="1491">ford</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-22-4">
+      <extent>
+        <charseq START="1478" END="1486">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1486">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="hillary clinton">
+        <charseq START="1126" END="1140">hillary clinton</charseq>
+      </name>
+      <name NAME="clinton">
+        <charseq START="1462" END="1468">clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-23-0">
+      <extent>
+        <charseq START="1240" END="1254">the celebrities</charseq>
+      </extent>
+      <head>
+        <charseq START="1244" END="1254">celebrities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-23-1">
+      <extent>
+        <charseq START="1619" END="1633">the celebrities</charseq>
+      </extent>
+      <head>
+        <charseq START="1623" END="1633">celebrities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-23-2">
+      <extent>
+        <charseq START="1663" END="1666">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1663" END="1666">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030626_193133.8-24-0">
+      <extent>
+        <charseq START="1516" END="1533">sylvester stl loan</charseq>
+      </extent>
+      <head>
+        <charseq START="1516" END="1533">sylvester stl loan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-24-1">
+      <extent>
+        <charseq START="1944" END="1945">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1944" END="1945">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-24-2">
+      <extent>
+        <charseq START="1995" END="1997">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1995" END="1997">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030626_193133.8-24-3">
+      <extent>
+        <charseq START="2138" END="2139">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2138" END="2139">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sylvester stl loan">
+        <charseq START="1516" END="1533">sylvester stl loan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-25-0">
+      <extent>
+        <charseq START="1955" END="1985">many many hollywood celebrities</charseq>
+      </extent>
+      <head>
+        <charseq START="1975" END="1985">celebrities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030626_193133.8-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030626_193133.8-26-0">
+      <extent>
+        <charseq START="1995" END="2006">his attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="1999" END="2006">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030626_193133.8-V4" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="CNN_ENG_20030626_193133.8-V4-1">
+      <extent>
+        <charseq START="1889" END="1911">several million dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030626_193133.8-T0" VAL="2003-06-26">
+    <timex2_mention ID="CNN_ENG_20030626_193133.8-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-26</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030626_193133.8-T1" VAL="2003-06-26">
+    <timex2_mention ID="CNN_ENG_20030626_193133.8-T1-1">
+      <extent>
+        <charseq START="671" END="673">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030626_193133.8-T2" VAL="2003-06-26">
+    <timex2_mention ID="CNN_ENG_20030626_193133.8-T2-1">
+      <extent>
+        <charseq START="1752" END="1754">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030626_193133.8-T3" VAL="2003-06-26">
+    <timex2_mention ID="CNN_ENG_20030626_193133.8-T3-1">
+      <extent>
+        <charseq START="1990" END="1992">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

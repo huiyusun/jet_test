@@ -1,0 +1,430 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="/Users/nuist/jetx/data/ACE/2005/training/nw/APW_ENG_20030408.0090.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030408.0090">
+  <entity ID="APW_ENG_20030408.0090-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="117" END="121">TOKYO</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="121">TOKYO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="TOKYO">
+        <charseq START="117" END="121">TOKYO</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-2-0">
+      <extent>
+        <charseq START="124" END="125">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="125">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="124" END="125">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-3-0">
+      <extent>
+        <charseq START="129" END="146">Toyota Motor Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="146">Toyota Motor Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030408.0090-3-1">
+      <extent>
+        <charseq START="161" END="162">it</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-3-2">
+      <extent>
+        <charseq START="387" END="392">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="392">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-3-3">
+      <extent>
+        <charseq START="629" END="634">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="634">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030408.0090-3-4">
+      <extent>
+        <charseq START="878" END="880">its</charseq>
+      </extent>
+      <head>
+        <charseq START="878" END="880">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Toyota Motor Corp.">
+        <charseq START="129" END="146">Toyota Motor Corp.</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="387" END="392">Toyota</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="629" END="634">Toyota</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-4-0">
+      <extent>
+        <charseq START="177" END="187">Akio Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="177" END="187">Akio Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-4-1">
+      <extent>
+        <charseq START="316" END="330">director Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="330">Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-4-2">
+      <extent>
+        <charseq START="316" END="323">director</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="323">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-4-3">
+      <extent>
+        <charseq START="610" END="635">Toyoda, who joined Toyota,</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="615">Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-4-4">
+      <extent>
+        <charseq START="862" END="867">Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="867">Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-4-5">
+      <extent>
+        <charseq START="936" END="941">Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="941">Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030408.0090-4-6">
+      <extent>
+        <charseq START="986" END="987">he</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="987">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030408.0090-4-7">
+      <extent>
+        <charseq START="1015" END="1016">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1016">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-4-8">
+      <extent>
+        <charseq START="1022" END="1040">its youngest member</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1040">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Akio Toyoda">
+        <charseq START="177" END="187">Akio Toyoda</charseq>
+      </name>
+      <name NAME="Toyoda">
+        <charseq START="325" END="330">Toyoda</charseq>
+      </name>
+      <name NAME="Toyoda">
+        <charseq START="610" END="615">Toyoda</charseq>
+      </name>
+      <name NAME="Toyoda">
+        <charseq START="862" END="867">Toyoda</charseq>
+      </name>
+      <name NAME="Toyoda">
+        <charseq START="936" END="941">Toyoda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="279" END="283">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="283">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="659" END="671">central Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="671">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="279" END="283">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="667" END="671">Japan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-6-0">
+      <extent>
+        <charseq START="349" END="363">Kiichiro Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="363">Kiichiro Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-6-1">
+      <extent>
+        <charseq START="1420" END="1434">Kiichiro Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="1420" END="1434">Kiichiro Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kiichiro Toyoda">
+        <charseq START="349" END="363">Kiichiro Toyoda</charseq>
+      </name>
+      <name NAME="Kiichiro Toyoda">
+        <charseq START="1420" END="1434">Kiichiro Toyoda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-7-0">
+      <extent>
+        <charseq START="412" END="427">Shoichiro Toyoda</charseq>
+      </extent>
+      <head>
+        <charseq START="412" END="427">Shoichiro Toyoda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Shoichiro Toyoda">
+        <charseq START="412" END="427">Shoichiro Toyoda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="646" END="651">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="646" END="651">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="646" END="656">Toyota city</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="656">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="844" END="849">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="849">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1105" END="1110">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1110">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-8-4" ROLE="GPE">
+      <extent>
+        <charseq START="1302" END="1307">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="1302" END="1307">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-8-5" ROLE="GPE">
+      <extent>
+        <charseq START="1343" END="1348">Toyota</charseq>
+      </extent>
+      <head>
+        <charseq START="1343" END="1348">Toyota</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Toyota">
+        <charseq START="646" END="651">Toyota</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="844" END="849">Toyota</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="1105" END="1110">Toyota</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="1302" END="1307">Toyota</charseq>
+      </name>
+      <name NAME="Toyota">
+        <charseq START="1343" END="1348">Toyota</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="882" END="886">China</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="886">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="882" END="886">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-10-0">
+      <extent>
+        <charseq START="996" END="1004">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="1000" END="1004">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-10-1">
+      <extent>
+        <charseq START="1105" END="1118">Toyota&apos;s
+board</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1118">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-11-0">
+      <extent>
+        <charseq START="1066" END="1084">President Fujio Cho</charseq>
+      </extent>
+      <head>
+        <charseq START="1076" END="1084">Fujio Cho</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-11-1">
+      <extent>
+        <charseq START="1066" END="1074">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1074">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-11-2">
+      <extent>
+        <charseq START="1370" END="1372">Cho</charseq>
+      </extent>
+      <head>
+        <charseq START="1370" END="1372">Cho</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fujio Cho">
+        <charseq START="1076" END="1084">Fujio Cho</charseq>
+      </name>
+      <name NAME="Cho">
+        <charseq START="1370" END="1372">Cho</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-12-0">
+      <extent>
+        <charseq START="1302" END="1334">Toyota spokesman Shigeru Hayakawa</charseq>
+      </extent>
+      <head>
+        <charseq START="1319" END="1334">Shigeru Hayakawa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-12-1">
+      <extent>
+        <charseq START="1309" END="1317">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="1309" END="1317">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Shigeru Hayakawa">
+        <charseq START="1319" END="1334">Shigeru Hayakawa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030408.0090-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030408.0090-13-0">
+      <extent>
+        <charseq START="1378" END="1399">Chairman Hiroshi Okuda</charseq>
+      </extent>
+      <head>
+        <charseq START="1387" END="1399">Hiroshi Okuda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030408.0090-13-1">
+      <extent>
+        <charseq START="1378" END="1385">Chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1378" END="1385">Chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hiroshi Okuda">
+        <charseq START="1387" END="1399">Hiroshi Okuda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030528_165958.16.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030528_165958.16">
+  <entity ID="CNN_ENG_20030528_165958.16-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_165958.16-1-0">
+      <extent>
+        <charseq START="68" END="76">president</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="76">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_165958.16-1-1">
+      <extent>
+        <charseq START="282" END="290">president</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="290">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_165958.16-2-0">
+      <extent>
+        <charseq START="78" END="81">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="78" END="81">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="78" END="81">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_165958.16-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="109" END="114">france</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="114">france</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="france">
+        <charseq START="109" END="114">france</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_165958.16-4-0">
+      <extent>
+        <charseq START="144" END="157">saddam hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="144" END="157">saddam hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030528_165958.16-4-1">
+      <extent>
+        <charseq START="166" END="168">his</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="168">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saddam hussein">
+        <charseq START="144" END="157">saddam hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_165958.16-5-0">
+      <extent>
+        <charseq START="210" END="228">the american public</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="228">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_165958.16-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="214" END="221">american</charseq>
+      </extent>
+      <head>
+        <charseq START="214" END="221">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="american">
+        <charseq START="214" END="221">american</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_165958.16-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_165958.16-7-0">
+      <extent>
+        <charseq START="293" END="335">our senior political analyst bill schneider</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="335">bill schneider</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_165958.16-7-1">
+      <extent>
+        <charseq START="314" END="320">analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="320">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bill schneider">
+        <charseq START="322" END="335">bill schneider</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030528_165958.16-T0" VAL="2003-05-28">
+    <timex2_mention ID="CNN_ENG_20030528_165958.16-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-05-28</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20100428.0908.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20100428.0908">
+  <entity ID="APW_ENG_20100428.0908-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="79" END="82">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="79" END="82">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-1-1" ROLE="LOC">
+      <extent>
+        <charseq START="142" END="158">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="158">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="79" END="82">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="146" END="158">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-2-0">
+      <extent>
+        <charseq START="79" END="113">U.S. Interior Secretary Ken Salazar</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="113">Ken Salazar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-2-1">
+      <extent>
+        <charseq START="203" END="209">Salazar</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="209">Salazar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-2-2">
+      <extent>
+        <charseq START="278" END="284">Salazar</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="284">Salazar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ken Salazar">
+        <charseq START="103" END="113">Ken Salazar</charseq>
+      </name>
+      <name NAME="Salazar">
+        <charseq START="203" END="209">Salazar</charseq>
+      </name>
+      <name NAME="Salazar">
+        <charseq START="278" END="284">Salazar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100428.0908-3-0">
+      <extent>
+        <charseq START="161" END="184">first offshore wind farm</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="184">farm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="191" END="198">Cape Cod</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="198">Cape Cod</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cape Cod">
+        <charseq START="191" END="198">Cape Cod</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="268" END="273">Boston</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="273">Boston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boston">
+        <charseq START="268" END="273">Boston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-6-0">
+      <extent>
+        <charseq START="318" END="326">Cape Wind</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="326">Cape Wind</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cape Wind">
+        <charseq START="318" END="326">Cape Wind</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100428.0908-7-0">
+      <extent>
+        <charseq START="355" END="377">a 130-turbine wind farm</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="377">farm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100428.0908-7-1">
+      <extent>
+        <charseq START="343" END="349">the way</charseq>
+      </extent>
+      <head>
+        <charseq START="347" END="349">way</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="382" END="390">Nantucket</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="390">Nantucket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nantucket">
+        <charseq START="382" END="390">Nantucket</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100428.0908-9-0">
+      <extent>
+        <charseq START="402" END="410">the coast</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="410">coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20100428.0908-10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20100428.0908-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="441" END="453">Massachusetts</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="453">Massachusetts</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20100428.0908-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="415" END="436">the northeastern state</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="436">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Massachusetts">
+        <charseq START="441" END="453">Massachusetts</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20100428.0908-T0" VAL="2010-04-28">
+    <timex2_mention ID="APW_ENG_20100428.0908-T0-1">
+      <extent>
+        <charseq START="255" END="263">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

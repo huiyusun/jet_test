@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_016.0020.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_016.0020">
+  <entity ID="wsj94_016.0020-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_016.0020-1-0">
+      <extent>
+        <charseq START="162" END="183">MALLINCKRODT GROUP Inc</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="183">MALLINCKRODT GROUP Inc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MALLINCKRODT GROUP Inc">
+        <charseq START="162" END="183">MALLINCKRODT GROUP Inc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="187" END="189">St.</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="189">St.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_016.0020-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="187" END="195">St. Louis</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="195">St. Louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="St. Louis">
+        <charseq START="187" END="195">St. Louis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_016.0020-4-0">
+      <extent>
+        <charseq START="201" END="216">Michael A. Rocca</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="216">Michael A. Rocca</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-4-1">
+      <extent>
+        <charseq START="242" END="255">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="255">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-4-2">
+      <extent>
+        <charseq START="261" END="269">treasurer</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="269">treasurer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Michael A. Rocca">
+        <charseq START="201" END="216">Michael A. Rocca</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_016.0020-5-0">
+      <extent>
+        <charseq START="274" END="287">Honeywell Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="287">Honeywell Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Honeywell Inc.">
+        <charseq START="274" END="287">Honeywell Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-6-0">
+      <extent>
+        <charseq START="300" END="320">senior vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="320">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-7-0">
+      <extent>
+        <charseq START="326" END="348">chief financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="348">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_016.0020-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_016.0020-8-0">
+      <extent>
+        <charseq START="353" END="362">this
+maker</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="362">maker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_016.0020-T0" VAL="P49Y">
+    <timex2_mention ID="wsj94_016.0020-T0-1">
+      <extent>
+        <charseq START="219" END="226">49 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

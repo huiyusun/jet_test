@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="OIADVANTAGE_20050203.2102.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="OIADVANTAGE_20050203.2102">
+  <entity ID="OIADVANTAGE_20050203.2102-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20050203.2102-1-0">
+      <extent>
+        <charseq START="100" END="105">John A</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="105">John A</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John A">
+        <charseq START="100" END="105">John A</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-2-0">
+      <extent>
+        <charseq START="523" END="533">stockholder</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="533">stockholder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-3-0">
+      <extent>
+        <charseq START="748" END="761">help investors</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="761">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20050203.2102-4-0">
+      <extent>
+        <charseq START="850" END="862">Business
+Week</charseq>
+      </extent>
+      <head>
+        <charseq START="850" END="862">Business
+Week</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Business Week">
+        <charseq START="850" END="862">Business
+Week</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20050203.2102-5-0">
+      <extent>
+        <charseq START="871" END="889">Wall Street Journal</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="889">Wall Street Journal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wall Street Journal">
+        <charseq START="871" END="889">Wall Street Journal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-6-0">
+      <extent>
+        <charseq START="1296" END="1304">employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1296" END="1304">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-6-1">
+      <extent>
+        <charseq START="1438" END="1446">employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1438" END="1446">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-7" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-7-0">
+      <extent>
+        <charseq START="1382" END="1393">selling guns</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1393">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-8-0">
+      <extent>
+        <charseq START="1677" END="1685">Companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1677" END="1685">Companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-8-1">
+      <extent>
+        <charseq START="1749" END="1757">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1749" END="1757">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20050203.2102-8-2">
+      <extent>
+        <charseq START="1794" END="1798">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1794" END="1798">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-8-3">
+      <extent>
+        <charseq START="1835" END="1843">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1835" END="1843">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-8-4">
+      <extent>
+        <charseq START="1911" END="1919">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1911" END="1919">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-9-0">
+      <extent>
+        <charseq START="1702" END="1709">employee</charseq>
+      </extent>
+      <head>
+        <charseq START="1702" END="1709">employee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-10-0">
+      <extent>
+        <charseq START="1794" END="1813">their industry peers</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1813">peers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-11-0">
+      <extent>
+        <charseq START="1800" END="1807">industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1800" END="1807">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20050203.2102-12-0">
+      <extent>
+        <charseq START="1859" END="1862">NLRB</charseq>
+      </extent>
+      <head>
+        <charseq START="1859" END="1862">NLRB</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NLRB">
+        <charseq START="1859" END="1862">NLRB</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-13-0">
+      <extent>
+        <charseq START="1895" END="1905">their peers</charseq>
+      </extent>
+      <head>
+        <charseq START="1901" END="1905">peers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-14" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-14-0">
+      <extent>
+        <charseq START="1969" END="1976">firearms</charseq>
+      </extent>
+      <head>
+        <charseq START="1969" END="1976">firearms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-15-0">
+      <extent>
+        <charseq START="2157" END="2160">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="2157" END="2160">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-16-0">
+      <extent>
+        <charseq START="2222" END="2242">the greedy capitalist</charseq>
+      </extent>
+      <head>
+        <charseq START="2233" END="2242">capitalist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20050203.2102-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20050203.2102-17-0">
+      <extent>
+        <charseq START="2248" END="2253">hippie</charseq>
+      </extent>
+      <head>
+        <charseq START="2248" END="2253">hippie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="OIADVANTAGE_20050203.2102-T0" VAL="2005-02-03T21:02:00">
+    <timex2_mention ID="OIADVANTAGE_20050203.2102-T0-1">
+      <extent>
+        <charseq START="41" END="59">2005-02-03T21:02:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20050203.2102-T1" VAL="2005-02-03T21:02:00">
+    <timex2_mention ID="OIADVANTAGE_20050203.2102-T1-1">
+      <extent>
+        <charseq START="109" END="127">2005-02-03T21:02:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

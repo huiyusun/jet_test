@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_048.0089.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_048.0089">
+  <entity ID="wsj93_048.0089-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-1-0">
+      <extent>
+        <charseq START="283" END="313">Blockbuster Entertainment Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="313">Blockbuster Entertainment Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-1-1">
+      <extent>
+        <charseq START="557" END="567">Blockbuster</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="567">Blockbuster</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-1-2">
+      <extent>
+        <charseq START="616" END="626">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="620" END="626">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-1-3">
+      <extent>
+        <charseq START="882" END="892">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="886" END="892">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_048.0089-1-4">
+      <extent>
+        <charseq START="895" END="896">It</charseq>
+      </extent>
+      <head>
+        <charseq START="895" END="896">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-1-5">
+      <extent>
+        <charseq START="951" END="961">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="955" END="961">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-1-6">
+      <extent>
+        <charseq START="1111" END="1121">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1121">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Blockbuster Entertainment Corp.">
+        <charseq START="283" END="313">Blockbuster Entertainment Corp.</charseq>
+      </name>
+      <name NAME="Blockbuster">
+        <charseq START="557" END="567">Blockbuster</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-2-0">
+      <extent>
+        <charseq START="319" END="326">CBS Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="326">CBS Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CBS Inc.">
+        <charseq START="319" END="326">CBS Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-3-0">
+      <extent>
+        <charseq START="437" END="442">CBS TV</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="442">CBS TV</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CBS TV">
+        <charseq START="437" END="442">CBS TV</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="654" END="660">Memphis</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="660">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Memphis">
+        <charseq START="654" END="660">Memphis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="663" END="667">Tenn.</charseq>
+      </extent>
+      <head>
+        <charseq START="663" END="667">Tenn.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tenn.">
+        <charseq START="663" END="667">Tenn.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="670" END="677">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="677">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="670" END="677">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="683" END="688">Boston</charseq>
+      </extent>
+      <head>
+        <charseq START="683" END="688">Boston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boston">
+        <charseq START="683" END="688">Boston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-8-0">
+      <extent>
+        <charseq START="720" END="733">Steven Berrard</charseq>
+      </extent>
+      <head>
+        <charseq START="720" END="733">Steven Berrard</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-8-1">
+      <extent>
+        <charseq START="736" END="748">vice chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="741" END="748">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_048.0089-8-2">
+      <extent>
+        <charseq START="915" END="916">he</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="916">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_048.0089-8-3">
+      <extent>
+        <charseq START="941" END="942">he</charseq>
+      </extent>
+      <head>
+        <charseq START="941" END="942">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steven Berrard">
+        <charseq START="720" END="733">Steven Berrard</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-9-0">
+      <extent>
+        <charseq START="785" END="806">Price Stern Sloan Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="806">Stern Sloan Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stern Sloan Inc.">
+        <charseq START="791" END="806">Stern Sloan Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-10-0">
+      <extent>
+        <charseq START="856" END="866">Morton Mint</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="866">Morton Mint</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-10-1">
+      <extent>
+        <charseq START="813" END="825">its president</charseq>
+      </extent>
+      <head>
+        <charseq START="817" END="825">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-10-2">
+      <extent>
+        <charseq START="975" END="982">Mr. Mint</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="982">Mint</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-10-3">
+      <extent>
+        <charseq START="975" END="977">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="975" END="977">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-10-4">
+      <extent>
+        <charseq START="993" END="1001">president</charseq>
+      </extent>
+      <head>
+        <charseq START="993" END="1001">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Morton Mint">
+        <charseq START="856" END="866">Morton Mint</charseq>
+      </name>
+      <name NAME="Mint">
+        <charseq START="979" END="982">Mint</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-11-0">
+      <extent>
+        <charseq START="831" END="853">chief
+executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="847" END="853">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-12-0">
+      <extent>
+        <charseq START="1007" END="1021">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1021">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_048.0089-13-0">
+      <extent>
+        <charseq START="1095" END="1108">Lawrence Sloan</charseq>
+      </extent>
+      <head>
+        <charseq START="1095" END="1108">Lawrence Sloan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-13-1">
+      <extent>
+        <charseq START="1122" END="1132">&apos;s chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1125" END="1132">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lawrence Sloan">
+        <charseq START="1095" END="1108">Lawrence Sloan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-14-0">
+      <extent>
+        <charseq START="1141" END="1149">directors</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1149">directors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_048.0089-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_048.0089-15-0">
+      <extent>
+        <charseq START="1162" END="1172">a
+successor</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1172">successor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_048.0089-T0" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_048.0089-T0-1">
+      <extent>
+        <charseq START="359" END="363">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_048.0089-T1" VAL="3127">
+    <timex2_mention ID="wsj93_048.0089-T1-1">
+      <extent>
+        <charseq START="571" END="575">3,127</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_048.0089-T2" VAL="2016-06">
+    <timex2_mention ID="wsj93_048.0089-T2-1">
+      <extent>
+        <charseq START="610" END="613">June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_048.0089-T3" VAL="2015-04">
+    <timex2_mention ID="wsj93_048.0089-T3-1">
+      <extent>
+        <charseq START="963" END="972">last April</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_048.0089-T4" VAL="P6M">
+    <timex2_mention ID="wsj93_048.0089-T4-1">
+      <extent>
+        <charseq START="694" END="712">the past six months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

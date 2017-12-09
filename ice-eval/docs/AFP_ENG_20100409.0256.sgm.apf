@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20100409.0256.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20100409.0256">
+  <entity ID="AFP_ENG_20100409.0256-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-1-0">
+      <extent>
+        <charseq START="93" END="103">The US Army</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="103">US Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US Army">
+        <charseq START="97" END="103">US Army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="133" END="141">Fort Hood</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="141">Fort Hood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="550" END="558">Fort Hood</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="558">Fort Hood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fort Hood">
+        <charseq START="133" END="141">Fort Hood</charseq>
+      </name>
+      <name NAME="Fort Hood">
+        <charseq START="550" END="558">Fort Hood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-3-0">
+      <extent>
+        <charseq START="186" END="195">a hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="195">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-3-1">
+      <extent>
+        <charseq START="452" END="463">the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="463">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-4-0">
+      <extent>
+        <charseq START="200" END="211">a local jail</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="211">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-5-0">
+      <extent>
+        <charseq START="214" END="225">the military</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="225">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-6-0">
+      <extent>
+        <charseq START="246" END="262">Major Nidal Hasan</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="262">Nidal Hasan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-6-1">
+      <extent>
+        <charseq START="246" END="250">Major</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="250">Major</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-6-2">
+      <extent>
+        <charseq START="418" END="422">Hasan</charseq>
+      </extent>
+      <head>
+        <charseq START="418" END="422">Hasan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-6-3">
+      <extent>
+        <charseq START="584" END="588">Hasan</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="588">Hasan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100409.0256-6-4">
+      <extent>
+        <charseq START="631" END="633">him</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="633">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-6-5">
+      <extent>
+        <charseq START="666" END="670">Hasan</charseq>
+      </extent>
+      <head>
+        <charseq START="666" END="670">Hasan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100409.0256-6-6">
+      <extent>
+        <charseq START="736" END="738">his</charseq>
+      </extent>
+      <head>
+        <charseq START="736" END="738">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nidal Hasan">
+        <charseq START="252" END="262">Nidal Hasan</charseq>
+      </name>
+      <name NAME="Hasan">
+        <charseq START="418" END="422">Hasan</charseq>
+      </name>
+      <name NAME="Hasan">
+        <charseq START="584" END="588">Hasan</charseq>
+      </name>
+      <name NAME="Hasan">
+        <charseq START="666" END="670">Hasan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-7-0">
+      <extent>
+        <charseq START="282" END="307">Brooke Army Medical Center</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="307">Brooke Army Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Brooke Army Medical Center">
+        <charseq START="282" END="307">Brooke Army Medical Center</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-8-0">
+      <extent>
+        <charseq START="328" END="347">the Bell County Jail</charseq>
+      </extent>
+      <head>
+        <charseq START="332" END="347">Bell County Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bell County Jail">
+        <charseq START="332" END="347">Bell County Jail</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="468" END="478">San Antonio</charseq>
+      </extent>
+      <head>
+        <charseq START="468" END="478">San Antonio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Antonio">
+        <charseq START="468" END="478">San Antonio</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="481" END="485">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="485">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="481" END="485">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-11-0">
+      <extent>
+        <charseq START="528" END="536">13 people</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="536">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-12" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-12-0">
+      <extent>
+        <charseq START="546" END="563">the Fort Hood base</charseq>
+      </extent>
+      <head>
+        <charseq START="560" END="563">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-13-0">
+      <extent>
+        <charseq START="568" END="578">Authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="578">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-14-0">
+      <extent>
+        <charseq START="610" END="624">civilian police</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="624">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100409.0256-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="707" END="713">Islamic</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="713">Islamic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Islamic">
+        <charseq START="707" END="713">Islamic</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100409.0256-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100409.0256-16-0">
+      <extent>
+        <charseq START="754" END="769">a radical cleric</charseq>
+      </extent>
+      <head>
+        <charseq START="764" END="769">cleric</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20100409.0256-T0" VAL="2010-04-09">
+    <timex2_mention ID="AFP_ENG_20100409.0256-T0-1">
+      <extent>
+        <charseq START="235" END="240">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20100409.0256-T1" VAL="2010-11-05">
+    <timex2_mention ID="AFP_ENG_20100409.0256-T1-1">
+      <extent>
+        <charseq START="498" END="507">November 5</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20100409.0256-R1" TYPE="REGIONOF">
+    <relation_argument REFID="AFP_ENG_20100409.0256-9" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20100409.0256-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20100409.0256-R1-1">
+      <extent>
+        <charseq START="468" END="485">San Antonio, Texas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20100409.0256-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="468" END="478">San Antonio</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20100409.0256-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="481" END="485">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

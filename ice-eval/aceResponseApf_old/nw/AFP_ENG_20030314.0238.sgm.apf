@@ -1,0 +1,1281 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="/Users/nuist/jetx/data/ACE/2005/training/nw/AFP_ENG_20030314.0238.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030314.0238">
+  <entity ID="AFP_ENG_20030314.0238-1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-0">
+      <extent>
+        <charseq START="147" END="160">UNITED NATIONS</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="160">UNITED NATIONS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-1">
+      <extent>
+        <charseq START="207" END="224">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="224">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-2">
+      <extent>
+        <charseq START="821" END="826">the UN</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="826">UN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-3">
+      <extent>
+        <charseq START="1479" END="1496">the
+United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1483" END="1496">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-4">
+      <extent>
+        <charseq START="1569" END="1574">the UN</charseq>
+      </extent>
+      <head>
+        <charseq START="1573" END="1574">UN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-5">
+      <extent>
+        <charseq START="2161" END="2178">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="2165" END="2178">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-6">
+      <extent>
+        <charseq START="3233" END="3234">UN</charseq>
+      </extent>
+      <head>
+        <charseq START="3233" END="3234">UN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-1-7">
+      <extent>
+        <charseq START="4027" END="4032">the UN</charseq>
+      </extent>
+      <head>
+        <charseq START="4031" END="4032">UN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UNITED NATIONS">
+        <charseq START="147" END="160">UNITED NATIONS</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="211" END="224">United Nations</charseq>
+      </name>
+      <name NAME="UN">
+        <charseq START="825" END="826">UN</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="1483" END="1496">United Nations</charseq>
+      </name>
+      <name NAME="UN">
+        <charseq START="1573" END="1574">UN</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="2165" END="2178">United Nations</charseq>
+      </name>
+      <name NAME="UN">
+        <charseq START="3233" END="3234">UN</charseq>
+      </name>
+      <name NAME="UN">
+        <charseq START="4031" END="4032">UN</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-2-0">
+      <extent>
+        <charseq START="173" END="175">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="175">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="173" END="175">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="287" END="290">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="290">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="988" END="991">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="991">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1279" END="1283">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1283">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1817" END="1820">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1817" END="1820">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1973" END="1976">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1973" END="1976">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="1989" END="1991">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1989" END="1991">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-6" ROLE="GPE">
+      <extent>
+        <charseq START="2791" END="2794">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2791" END="2794">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-7" ROLE="GPE">
+      <extent>
+        <charseq START="3495" END="3498">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3495" END="3498">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-8" ROLE="GPE">
+      <extent>
+        <charseq START="3620" END="3623">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3620" END="3623">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-9" ROLE="GPE">
+      <extent>
+        <charseq START="3862" END="3865">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3862" END="3865">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-3-10" ROLE="GPE">
+      <extent>
+        <charseq START="3869" END="3870">It</charseq>
+      </extent>
+      <head>
+        <charseq START="3869" END="3870">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-11" ROLE="GPE">
+      <extent>
+        <charseq START="3924" END="3927">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3924" END="3927">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-12" ROLE="GPE">
+      <extent>
+        <charseq START="4366" END="4369">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4366" END="4369">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-3-13" ROLE="GPE">
+      <extent>
+        <charseq START="4738" END="4741">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4738" END="4741">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="287" END="290">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="988" END="991">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1279" END="1283">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1817" END="1820">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1973" END="1976">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2791" END="2794">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3495" END="3498">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3620" END="3623">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3862" END="3865">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3924" END="3927">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="4366" END="4369">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="4738" END="4741">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="298" END="318">Washington
+warning it</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="307">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="317" END="318">it</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="318">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="2239" END="2248">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="2239" END="2248">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="2867" END="2876">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="2867" END="2876">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="2887" END="2889">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2887" END="2889">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="2917" END="2918">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2917" END="2918">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="298" END="307">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="2239" END="2248">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="2867" END="2876">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-5-0">
+      <extent>
+        <charseq START="333" END="352">the Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="352">Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-5-1">
+      <extent>
+        <charseq START="640" END="659">the Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="659">Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-5-2">
+      <extent>
+        <charseq START="2033" END="2043">the council</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2043">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-5-3">
+      <extent>
+        <charseq START="2343" END="2353">the council</charseq>
+      </extent>
+      <head>
+        <charseq START="2347" END="2353">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-5-4">
+      <extent>
+        <charseq START="3449" END="3466">a Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="3451" END="3466">Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-5-5">
+      <extent>
+        <charseq START="4309" END="4328">the security council</charseq>
+      </extent>
+      <head>
+        <charseq START="4322" END="4328">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-5-6">
+      <extent>
+        <charseq START="4486" END="4515">the
+15-member Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="4500" END="4515">Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Security Council">
+        <charseq START="337" END="352">Security Council</charseq>
+      </name>
+      <name NAME="Security Council">
+        <charseq START="644" END="659">Security Council</charseq>
+      </name>
+      <name NAME="Security Council">
+        <charseq START="3451" END="3466">Security Council</charseq>
+      </name>
+      <name NAME="Security Council">
+        <charseq START="4500" END="4515">Security Council</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="453" END="458">French</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="458">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="798" END="803">France</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="803">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="2662" END="2667">French</charseq>
+      </extent>
+      <head>
+        <charseq START="2662" END="2667">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="2847" END="2852">France</charseq>
+      </extent>
+      <head>
+        <charseq START="2847" END="2852">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="3054" END="3059">France</charseq>
+      </extent>
+      <head>
+        <charseq START="3054" END="3059">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="3078" END="3080">its</charseq>
+      </extent>
+      <head>
+        <charseq START="3078" END="3080">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-6-6" ROLE="GPE">
+      <extent>
+        <charseq START="3179" END="3182">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3179" END="3182">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-6-7" ROLE="GPE">
+      <extent>
+        <charseq START="3314" END="3315">it</charseq>
+      </extent>
+      <head>
+        <charseq START="3314" END="3315">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-8" ROLE="GPE">
+      <extent>
+        <charseq START="4262" END="4267">France</charseq>
+      </extent>
+      <head>
+        <charseq START="4262" END="4267">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-6-9" ROLE="GPE">
+      <extent>
+        <charseq START="4562" END="4567">France</charseq>
+      </extent>
+      <head>
+        <charseq START="4562" END="4567">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="French">
+        <charseq START="453" END="458">French</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="798" END="803">France</charseq>
+      </name>
+      <name NAME="French">
+        <charseq START="2662" END="2667">French</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="2847" END="2852">France</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="3054" END="3059">France</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="4262" END="4267">France</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="4562" END="4567">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="464" END="470">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="470">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="2673" END="2679">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="2673" END="2679">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="3363" END="3369">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="3363" END="3369">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-7-3" ROLE="GPE">
+      <extent>
+        <charseq START="4275" END="4280">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="4275" END="4280">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-7-4" ROLE="GPE">
+      <extent>
+        <charseq START="4573" END="4578">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="4573" END="4578">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian">
+        <charseq START="464" END="470">Russian</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="2673" END="2679">Russian</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="3363" END="3369">Russian</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="4275" END="4280">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="4573" END="4578">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="486" END="487">US</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="487">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="508" END="524">the
+United States</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="524">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="532" END="534">its</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="534">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1250" END="1251">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1251">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-4" ROLE="GPE">
+      <extent>
+        <charseq START="1398" END="1399">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1398" END="1399">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-5" ROLE="GPE">
+      <extent>
+        <charseq START="1653" END="1654">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1653" END="1654">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-6" ROLE="GPE">
+      <extent>
+        <charseq START="2192" END="2193">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2192" END="2193">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-7" ROLE="GPE">
+      <extent>
+        <charseq START="2735" END="2751">the United
+States</charseq>
+      </extent>
+      <head>
+        <charseq START="2739" END="2751">United
+States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-8-8" ROLE="GPE">
+      <extent>
+        <charseq START="2764" END="2766">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2764" END="2766">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-9" ROLE="GPE">
+      <extent>
+        <charseq START="3417" END="3418">US</charseq>
+      </extent>
+      <head>
+        <charseq START="3417" END="3418">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-10" ROLE="GPE">
+      <extent>
+        <charseq START="4441" END="4442">US</charseq>
+      </extent>
+      <head>
+        <charseq START="4441" END="4442">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-11" ROLE="GPE">
+      <extent>
+        <charseq START="4654" END="4670">The United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4658" END="4670">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-8-12" ROLE="GPE">
+      <extent>
+        <charseq START="4691" END="4693">its</charseq>
+      </extent>
+      <head>
+        <charseq START="4691" END="4693">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-8-13" ROLE="GPE">
+      <extent>
+        <charseq START="4860" END="4861">US</charseq>
+      </extent>
+      <head>
+        <charseq START="4860" END="4861">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="486" END="487">US</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="512" END="524">United States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1250" END="1251">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1398" END="1399">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1653" END="1654">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2192" END="2193">US</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="2739" END="2751">United
+States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="3417" END="3418">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="4441" END="4442">US</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4658" END="4670">United States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="4860" END="4861">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="489" END="495">British</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="495">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="1253" END="1259">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1259">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-2" ROLE="GPE">
+      <extent>
+        <charseq START="1416" END="1422">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1416" END="1422">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-3" ROLE="GPE">
+      <extent>
+        <charseq START="1790" END="1796">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1790" END="1796">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-4" ROLE="GPE">
+      <extent>
+        <charseq START="2988" END="2994">British</charseq>
+      </extent>
+      <head>
+        <charseq START="2988" END="2994">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-5" ROLE="GPE">
+      <extent>
+        <charseq START="3120" END="3126">British</charseq>
+      </extent>
+      <head>
+        <charseq START="3120" END="3126">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-6" ROLE="GPE">
+      <extent>
+        <charseq START="3266" END="3272">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="3266" END="3272">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-7" ROLE="GPE">
+      <extent>
+        <charseq START="3567" END="3573">British</charseq>
+      </extent>
+      <head>
+        <charseq START="3567" END="3573">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-8" ROLE="GPE">
+      <extent>
+        <charseq START="3599" END="3605">British</charseq>
+      </extent>
+      <head>
+        <charseq START="3599" END="3605">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-9-9" ROLE="GPE">
+      <extent>
+        <charseq START="4433" END="4439">British</charseq>
+      </extent>
+      <head>
+        <charseq START="4433" END="4439">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="489" END="495">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1253" END="1259">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1416" END="1422">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1790" END="1796">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="2988" END="2994">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="3120" END="3126">British</charseq>
+      </name>
+      <name NAME="Britain">
+        <charseq START="3266" END="3272">Britain</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="3567" END="3573">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="3599" END="3605">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="4433" END="4439">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-10" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-10-0">
+      <extent>
+        <charseq START="597" END="607">the Red Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="607">Red Sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-10-1">
+      <extent>
+        <charseq START="4824" END="4834">the Red Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="4828" END="4834">Red Sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Red Sea">
+        <charseq START="601" END="607">Red Sea</charseq>
+      </name>
+      <name NAME="Red Sea">
+        <charseq START="4828" END="4834">Red Sea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-11-0">
+      <extent>
+        <charseq START="611" END="659">Six non-permanent members of the Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="635">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-12-0">
+      <extent>
+        <charseq START="946" END="969">Jean-Marc de La Sabliere</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="969">Jean-Marc de La Sabliere</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jean-Marc de La Sabliere">
+        <charseq START="946" END="969">Jean-Marc de La Sabliere</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="1116" END="1160">Baghdad, who said a second batch of documents</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1122">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="3032" END="3038">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="3032" END="3038">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-13-2" ROLE="GPE">
+      <extent>
+        <charseq START="3730" END="3736">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="3730" END="3736">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baghdad">
+        <charseq START="1116" END="1122">Baghdad</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="3032" END="3038">Baghdad</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="3730" END="3736">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-14-0">
+      <extent>
+        <charseq START="1279" END="1308">Iraqi President Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="1295" END="1308">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-14-1">
+      <extent>
+        <charseq START="1285" END="1293">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1285" END="1293">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="1295" END="1308">Saddam Hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1360" END="1363">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="1360" END="1363">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="1360" END="1363">Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="1546" END="1551">London</charseq>
+      </extent>
+      <head>
+        <charseq START="1546" END="1551">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="1546" END="1551">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-17-0">
+      <extent>
+        <charseq START="1577" END="1593">Jeremy Greenstock</charseq>
+      </extent>
+      <head>
+        <charseq START="1577" END="1593">Jeremy Greenstock</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-17-1">
+      <extent>
+        <charseq START="1603" END="1604">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1603" END="1604">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jeremy Greenstock">
+        <charseq START="1577" END="1593">Jeremy Greenstock</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-18-0">
+      <extent>
+        <charseq START="1669" END="1683">John Negroponte</charseq>
+      </extent>
+      <head>
+        <charseq START="1669" END="1683">John Negroponte</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Negroponte">
+        <charseq START="1669" END="1683">John Negroponte</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-19-0">
+      <extent>
+        <charseq START="2208" END="2212">State</charseq>
+      </extent>
+      <head>
+        <charseq START="2208" END="2212">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="State">
+        <charseq START="2208" END="2212">State</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-20-0">
+      <extent>
+        <charseq START="2208" END="2225">State Colin Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="2214" END="2225">Colin Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-20-1">
+      <extent>
+        <charseq START="2514" END="2519">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="2514" END="2519">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-20-2">
+      <extent>
+        <charseq START="2594" END="2595">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2594" END="2595">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colin Powell">
+        <charseq START="2214" END="2225">Colin Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="2514" END="2519">Powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-21-0">
+      <extent>
+        <charseq START="3120" END="3155">British Foreign Secretary Jack Straw</charseq>
+      </extent>
+      <head>
+        <charseq START="3146" END="3155">Jack Straw</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-21-1">
+      <extent>
+        <charseq START="3128" END="3144">Foreign Secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="3128" END="3144">Foreign Secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-21-2">
+      <extent>
+        <charseq START="3255" END="3259">Straw</charseq>
+      </extent>
+      <head>
+        <charseq START="3255" END="3259">Straw</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-21-3">
+      <extent>
+        <charseq START="3551" END="3552">He</charseq>
+      </extent>
+      <head>
+        <charseq START="3551" END="3552">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-21-4">
+      <extent>
+        <charseq START="3776" END="3777">He</charseq>
+      </extent>
+      <head>
+        <charseq START="3776" END="3777">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030314.0238-21-5">
+      <extent>
+        <charseq START="3974" END="3976">His</charseq>
+      </extent>
+      <head>
+        <charseq START="3974" END="3976">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jack Straw">
+        <charseq START="3146" END="3155">Jack Straw</charseq>
+      </name>
+      <name NAME="Straw">
+        <charseq START="3255" END="3259">Straw</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-22-0">
+      <extent>
+        <charseq START="3276" END="3287">The Guardian</charseq>
+      </extent>
+      <head>
+        <charseq START="3276" END="3287">The Guardian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="The Guardian">
+        <charseq START="3276" END="3287">The Guardian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-23-0">
+      <extent>
+        <charseq START="3363" END="3406">Russian Deputy Foreign Minister Yury Fedotov</charseq>
+      </extent>
+      <head>
+        <charseq START="3395" END="3406">Yury Fedotov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030314.0238-23-1">
+      <extent>
+        <charseq START="3378" END="3393">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="3378" END="3393">Foreign Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yury Fedotov">
+        <charseq START="3395" END="3406">Yury Fedotov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-24-0">
+      <extent>
+        <charseq START="3744" END="3751">Interfax</charseq>
+      </extent>
+      <head>
+        <charseq START="3744" END="3751">Interfax</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Interfax">
+        <charseq START="3744" END="3751">Interfax</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="3793" END="3798">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="3793" END="3798">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Moscow">
+        <charseq START="3793" END="3798">Moscow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="4122" END="4128">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="4122" END="4128">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-26-1" ROLE="GPE">
+      <extent>
+        <charseq START="4631" END="4637">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="4631" END="4637">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="4122" END="4128">Germany</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="4631" END="4637">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-27-0">
+      <extent>
+        <charseq START="4131" END="4158">Chancellor Gerhard Schroeder</charseq>
+      </extent>
+      <head>
+        <charseq START="4142" END="4158">Gerhard Schroeder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-27-1">
+      <extent>
+        <charseq START="4412" END="4420">Schroeder</charseq>
+      </extent>
+      <head>
+        <charseq START="4412" END="4420">Schroeder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gerhard Schroeder">
+        <charseq START="4142" END="4158">Gerhard Schroeder</charseq>
+      </name>
+      <name NAME="Schroeder">
+        <charseq START="4412" END="4420">Schroeder</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="4283" END="4287">China</charseq>
+      </extent>
+      <head>
+        <charseq START="4283" END="4287">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-28-1" ROLE="GPE">
+      <extent>
+        <charseq START="4621" END="4625">China</charseq>
+      </extent>
+      <head>
+        <charseq START="4621" END="4625">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="4283" END="4287">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="4621" END="4625">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030314.0238-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030314.0238-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="4614" END="4618">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="4614" END="4618">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syria">
+        <charseq START="4614" END="4618">Syria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

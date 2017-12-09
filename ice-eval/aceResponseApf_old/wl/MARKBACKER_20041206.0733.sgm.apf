@@ -1,0 +1,816 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKBACKER_20041206.0733.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKBACKER_20041206.0733">
+  <entity ID="MARKBACKER_20041206.0733-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-1-0">
+      <extent>
+        <charseq START="96" END="106">Mark Backer</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="106">Mark Backer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mark Backer">
+        <charseq START="96" END="106">Mark Backer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-2" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-2-0">
+      <extent>
+        <charseq START="257" END="280">the Auburn Football team</charseq>
+      </extent>
+      <head>
+        <charseq START="277" END="280">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-2-1">
+      <extent>
+        <charseq START="693" END="700">the team</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="700">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-3" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-0">
+      <extent>
+        <charseq START="261" END="266">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="266">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-1">
+      <extent>
+        <charseq START="306" END="311">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="311">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-2">
+      <extent>
+        <charseq START="1326" END="1331">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="1326" END="1331">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-3">
+      <extent>
+        <charseq START="1602" END="1607">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="1602" END="1607">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-4">
+      <extent>
+        <charseq START="1680" END="1685">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="1680" END="1685">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-5">
+      <extent>
+        <charseq START="2212" END="2217">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="2212" END="2217">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-6">
+      <extent>
+        <charseq START="2334" END="2339">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="2334" END="2339">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-7">
+      <extent>
+        <charseq START="2464" END="2469">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="2464" END="2469">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-3-8">
+      <extent>
+        <charseq START="2752" END="2755">them</charseq>
+      </extent>
+      <head>
+        <charseq START="2752" END="2755">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-3-9">
+      <extent>
+        <charseq START="2787" END="2790">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2787" END="2790">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-10">
+      <extent>
+        <charseq START="2900" END="2905">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="2900" END="2905">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-3-11">
+      <extent>
+        <charseq START="3270" END="3275">Auburn</charseq>
+      </extent>
+      <head>
+        <charseq START="3270" END="3275">Auburn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Auburn">
+        <charseq START="261" END="266">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="306" END="311">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="1326" END="1331">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="1602" END="1607">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="1680" END="1685">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="2212" END="2217">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="2334" END="2339">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="2464" END="2469">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="2900" END="2905">Auburn</charseq>
+      </name>
+      <name NAME="Auburn">
+        <charseq START="3270" END="3275">Auburn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-4" TYPE="ORG" SUBTYPE="Sports" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-4-0">
+      <extent>
+        <charseq START="297" END="325">no other Auburn football team</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="325">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-5-0">
+      <extent>
+        <charseq START="384" END="386">SEC</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="386">SEC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-5-1">
+      <extent>
+        <charseq START="425" END="427">SEC</charseq>
+      </extent>
+      <head>
+        <charseq START="425" END="427">SEC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-5-2">
+      <extent>
+        <charseq START="2593" END="2595">SEC</charseq>
+      </extent>
+      <head>
+        <charseq START="2593" END="2595">SEC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="SEC">
+        <charseq START="384" END="386">SEC</charseq>
+      </name>
+      <name NAME="SEC">
+        <charseq START="425" END="427">SEC</charseq>
+      </name>
+      <name NAME="SEC">
+        <charseq START="2593" END="2595">SEC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-6-0">
+      <extent>
+        <charseq START="543" END="551">the coach</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="551">coach</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-6-1">
+      <extent>
+        <charseq START="577" END="586">plane trip</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="586">trip</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-7-0">
+      <extent>
+        <charseq START="577" END="581">plane</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="581">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-8-0">
+      <extent>
+        <charseq START="633" END="653">too
+empowered booster</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="653">booster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-9-0">
+      <extent>
+        <charseq START="761" END="777">beated four
+teams</charseq>
+      </extent>
+      <head>
+        <charseq START="773" END="777">teams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="880" END="885">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="885">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="880" END="885">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-11-0">
+      <extent>
+        <charseq START="935" END="943">three all</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="943">three all</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-12-0">
+      <extent>
+        <charseq START="974" END="991">a shitty UCLA team</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="991">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-13-0">
+      <extent>
+        <charseq START="983" END="986">UCLA</charseq>
+      </extent>
+      <head>
+        <charseq START="983" END="986">UCLA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-13-1">
+      <extent>
+        <charseq START="1132" END="1135">UCLA</charseq>
+      </extent>
+      <head>
+        <charseq START="1132" END="1135">UCLA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UCLA">
+        <charseq START="983" END="986">UCLA</charseq>
+      </name>
+      <name NAME="UCLA">
+        <charseq START="1132" END="1135">UCLA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-14-0">
+      <extent>
+        <charseq START="1043" END="1053">an official</charseq>
+      </extent>
+      <head>
+        <charseq START="1046" END="1053">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1149" END="1156">Oklahoma</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1156">Oklahoma</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="1168" END="1169">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1168" END="1169">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-15-2" ROLE="GPE">
+      <extent>
+        <charseq START="2251" END="2258">Oklahoma</charseq>
+      </extent>
+      <head>
+        <charseq START="2251" END="2258">Oklahoma</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-15-3" ROLE="GPE">
+      <extent>
+        <charseq START="3222" END="3232">an Oklahoma</charseq>
+      </extent>
+      <head>
+        <charseq START="3225" END="3232">Oklahoma</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Oklahoma">
+        <charseq START="1149" END="1156">Oklahoma</charseq>
+      </name>
+      <name NAME="Oklahoma">
+        <charseq START="2251" END="2258">Oklahoma</charseq>
+      </name>
+      <name NAME="Oklahoma">
+        <charseq START="3225" END="3232">Oklahoma</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-16" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-16-0">
+      <extent>
+        <charseq START="1203" END="1227">a four-loss
+Colorado team</charseq>
+      </extent>
+      <head>
+        <charseq START="1224" END="1227">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-16-1">
+      <extent>
+        <charseq START="1449" END="1454">a team</charseq>
+      </extent>
+      <head>
+        <charseq START="1451" END="1454">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1215" END="1222">Colorado</charseq>
+      </extent>
+      <head>
+        <charseq START="1215" END="1222">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="2260" END="2267">Colorado</charseq>
+      </extent>
+      <head>
+        <charseq START="2260" END="2267">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colorado">
+        <charseq START="1215" END="1222">Colorado</charseq>
+      </name>
+      <name NAME="Colorado">
+        <charseq START="2260" END="2267">Colorado</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1352" END="1360">Tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="1352" END="1360">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="1977" END="1985">Tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="1977" END="1985">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tennessee">
+        <charseq START="1352" END="1360">Tennessee</charseq>
+      </name>
+      <name NAME="Tennessee">
+        <charseq START="1977" END="1985">Tennessee</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-19" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-19-0">
+      <extent>
+        <charseq START="1423" END="1429">college</charseq>
+      </extent>
+      <head>
+        <charseq START="1423" END="1429">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-20-0">
+      <extent>
+        <charseq START="1547" END="1556">Kody Bliss</charseq>
+      </extent>
+      <head>
+        <charseq START="1547" END="1556">Kody Bliss</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kody Bliss">
+        <charseq START="1547" END="1556">Kody Bliss</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-21-0">
+      <extent>
+        <charseq START="1643" END="1644">UT</charseq>
+      </extent>
+      <head>
+        <charseq START="1643" END="1644">UT</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UT">
+        <charseq START="1643" END="1644">UT</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-22-0">
+      <extent>
+        <charseq START="1713" END="1726">Jason Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="1713" END="1726">Jason Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-22-1">
+      <extent>
+        <charseq START="1771" END="1773">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1771" END="1773">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-22-2">
+      <extent>
+        <charseq START="1799" END="1800">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1799" END="1800">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-22-3">
+      <extent>
+        <charseq START="1821" END="1823">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1821" END="1823">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-22-4">
+      <extent>
+        <charseq START="1886" END="1888">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1886" END="1888">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-22-5">
+      <extent>
+        <charseq START="2415" END="2438">senior QB Jason Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="2425" END="2438">Jason Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jason Campbell">
+        <charseq START="1713" END="1726">Jason Campbell</charseq>
+      </name>
+      <name NAME="Jason Campbell">
+        <charseq START="2425" END="2438">Jason Campbell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-23-0">
+      <extent>
+        <charseq START="1771" END="1783">his receivers</charseq>
+      </extent>
+      <head>
+        <charseq START="1775" END="1783">receivers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-24-0">
+      <extent>
+        <charseq START="2579" END="2600">an undefeated SEC team</charseq>
+      </extent>
+      <head>
+        <charseq START="2597" END="2600">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-25-0">
+      <extent>
+        <charseq START="2655" END="2666">Jeff Sagarin</charseq>
+      </extent>
+      <head>
+        <charseq START="2655" END="2666">Jeff Sagarin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jeff Sagarin">
+        <charseq START="2655" END="2666">Jeff Sagarin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-26-0">
+      <extent>
+        <charseq START="2672" END="2686">the other dicks</charseq>
+      </extent>
+      <head>
+        <charseq START="2682" END="2686">dicks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-27" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-27-0">
+      <extent>
+        <charseq START="2920" END="2922">one</charseq>
+      </extent>
+      <head>
+        <charseq START="2920" END="2922">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-28" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-28-0">
+      <extent>
+        <charseq START="2927" END="2949">the three
+hottest teams</charseq>
+      </extent>
+      <head>
+        <charseq START="2945" END="2949">teams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="2954" END="2964">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="2958" END="2964">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="3064" END="3074">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="3068" END="3074">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-30" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKBACKER_20041206.0733-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="2981" END="2988">Virginia</charseq>
+      </extent>
+      <head>
+        <charseq START="2981" END="2988">Virginia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Virginia">
+        <charseq START="2981" END="2988">Virginia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-31" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-31-0">
+      <extent>
+        <charseq START="3026" END="3028">one</charseq>
+      </extent>
+      <head>
+        <charseq START="3026" END="3028">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-32" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-32-0">
+      <extent>
+        <charseq START="3042" END="3059">well coached teams</charseq>
+      </extent>
+      <head>
+        <charseq START="3055" END="3059">teams</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKBACKER_20041206.0733-32-1">
+      <extent>
+        <charseq START="3080" END="3083">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3080" END="3083">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-33-0">
+      <extent>
+        <charseq START="3127" END="3134">our kids</charseq>
+      </extent>
+      <head>
+        <charseq START="3131" END="3134">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-34-0">
+      <extent>
+        <charseq START="3188" END="3196">pollsters</charseq>
+      </extent>
+      <head>
+        <charseq START="3188" END="3196">pollsters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKBACKER_20041206.0733-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKBACKER_20041206.0733-35-0">
+      <extent>
+        <charseq START="3208" END="3213">idiots</charseq>
+      </extent>
+      <head>
+        <charseq START="3208" END="3213">idiots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="MARKBACKER_20041206.0733-T0" VAL="2004-12-06T07:33:00">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T0-1">
+      <extent>
+        <charseq START="40" END="58">2004-12-06T07:33:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T1" VAL="2004-12-06T07:33:00">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T1-1">
+      <extent>
+        <charseq START="110" END="128">2004-12-06T07:33:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T2" VAL="2004-12-06">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T2-1">
+      <extent>
+        <charseq START="197" END="199">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T3" VAL="1987">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T3-1">
+      <extent>
+        <charseq START="400" END="403">1987</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T4" VAL="2004-12-06">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T4-1">
+      <extent>
+        <charseq START="757" END="759">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T5" VAL="2003">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T5-1">
+      <extent>
+        <charseq START="2757" END="2765">last
+year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T6" VAL="2005">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T6-1">
+      <extent>
+        <charseq START="2814" END="2822">next year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T7" VAL="2004">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T7-1">
+      <extent>
+        <charseq START="2862" END="2870">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKBACKER_20041206.0733-T8" VAL="2005-01-03">
+    <timex2_mention ID="MARKBACKER_20041206.0733-T8-1">
+      <extent>
+        <charseq START="3106" END="3116">January 3rd</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

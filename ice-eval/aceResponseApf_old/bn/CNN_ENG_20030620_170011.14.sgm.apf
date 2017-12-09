@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030620_170011.14.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030620_170011.14">
+  <entity ID="CNN_ENG_20030620_170011.14-1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030620_170011.14-1-0" ROLE="GPE">
+      <extent>
+        <charseq START="185" END="194">california</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="194">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030620_170011.14-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="209" END="211">its</charseq>
+      </extent>
+      <head>
+        <charseq START="209" END="211">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="california">
+        <charseq START="185" END="194">california</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030620_170011.14-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030620_170011.14-2-0">
+      <extent>
+        <charseq START="229" END="268">our national correspondent frank
+buckley</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="268">frank
+buckley</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030620_170011.14-2-1">
+      <extent>
+        <charseq START="242" END="254">correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="254">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="frank buckley">
+        <charseq START="256" END="268">frank
+buckley</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030620_170011.14-T0" VAL="2003-06-20">
+    <timex2_mention ID="CNN_ENG_20030620_170011.14-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-20</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

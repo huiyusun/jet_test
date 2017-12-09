@@ -1,0 +1,1 @@
+java -cp .:$JET_HOME/jet-all.jar:../sf2015 -DjetHome=$JET_HOME KBPJet.AnalyzeAssessments ../sf2015/queries/queries-2014.xml ../sf2015/SFscorer/SFassessment-2014 $1 $2

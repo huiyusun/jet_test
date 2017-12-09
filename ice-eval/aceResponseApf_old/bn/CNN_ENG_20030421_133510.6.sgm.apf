@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030421_133510.6.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030421_133510.6">
+  <entity ID="CNN_ENG_20030421_133510.6-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-1-0">
+      <extent>
+        <charseq START="67" END="83">american airlines</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="83">american airlines</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-1-1">
+      <extent>
+        <charseq START="408" END="424">american
+airlines</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="424">american
+airlines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="american airlines">
+        <charseq START="67" END="83">american airlines</charseq>
+      </name>
+      <name NAME="american airlines">
+        <charseq START="408" END="424">american
+airlines</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-2-0">
+      <extent>
+        <charseq START="126" END="141">bankruptcy court</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="141">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-3-0">
+      <extent>
+        <charseq START="144" END="179">the airlines flight attendants union</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="179">union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-4-0">
+      <extent>
+        <charseq START="164" END="173">attendants</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="173">attendants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-5" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-5-0">
+      <extent>
+        <charseq START="309" END="317">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="317">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-6-0">
+      <extent>
+        <charseq START="318" END="335">&apos;s largest airline</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="335">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-7-0">
+      <extent>
+        <charseq START="389" END="391">amr</charseq>
+      </extent>
+      <head>
+        <charseq START="389" END="391">amr</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-7-1">
+      <extent>
+        <charseq START="394" END="403">the parent</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="403">parent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="amr">
+        <charseq START="389" END="391">amr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-8-0">
+      <extent>
+        <charseq START="463" END="474">donald carty</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="474">donald carty</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="donald carty">
+        <charseq START="463" END="474">donald carty</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-9-0">
+      <extent>
+        <charseq START="479" END="489">apoll cized</charseq>
+      </extent>
+      <head>
+        <charseq START="479" END="489">apoll cized</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="apoll cized">
+        <charseq START="479" END="489">apoll cized</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-10-0">
+      <extent>
+        <charseq START="494" END="502">employees</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="502">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-11-0">
+      <extent>
+        <charseq START="536" END="543">the nyse</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="543">nyse</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030421_133510.6-11-1">
+      <extent>
+        <charseq START="914" END="940">the new york stock
+exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="918" END="940">new york stock
+exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="nyse">
+        <charseq START="540" END="543">nyse</charseq>
+      </name>
+      <name NAME="new york stock exchange">
+        <charseq START="918" END="940">new york stock
+exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030421_133510.6-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030421_133510.6-12-0">
+      <extent>
+        <charseq START="607" END="618">some traders</charseq>
+      </extent>
+      <head>
+        <charseq START="612" END="618">traders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030421_133510.6-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030421_133510.6-V2-1">
+      <extent>
+        <charseq START="524" END="526">40%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030421_133510.6-T0" VAL="2003-04-21">
+    <timex2_mention ID="CNN_ENG_20030421_133510.6-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-21</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030421_133510.6-T1" VAL="2002">
+    <timex2_mention ID="CNN_ENG_20030421_133510.6-T1-1">
+      <extent>
+        <charseq START="264" END="272">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030421_133510.6-T2" VAL="2003-04-21">
+    <timex2_mention ID="CNN_ENG_20030421_133510.6-T2-1">
+      <extent>
+        <charseq START="723" END="727">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

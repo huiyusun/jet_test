@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030304_142751.10.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030304_142751.10">
+  <entity ID="CNNHL_ENG_20030304_142751.10-1" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-1-0">
+      <extent>
+        <charseq START="85" END="97">a small plane</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="97">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-1-1">
+      <extent>
+        <charseq START="308" END="316">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="316">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-1-2">
+      <extent>
+        <charseq START="471" END="479">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="479">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-1-3">
+      <extent>
+        <charseq START="523" END="531">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="531">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="126" END="138">massachusetts</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="138">massachusetts</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="504" END="516">massachusetts</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="516">massachusetts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="massachusetts">
+        <charseq START="126" END="138">massachusetts</charseq>
+      </name>
+      <name NAME="massachusetts">
+        <charseq START="504" END="516">massachusetts</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-3-0">
+      <extent>
+        <charseq START="166" END="181">three young
+boys</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="181">boys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-4-0">
+      <extent>
+        <charseq START="279" END="288">the
+father</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="288">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-5-0">
+      <extent>
+        <charseq START="364" END="375">the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="375">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-6-0">
+      <extent>
+        <charseq START="378" END="385">the boys</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="385">boys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-7-0">
+      <extent>
+        <charseq START="388" END="393">mother</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="393">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-8-0">
+      <extent>
+        <charseq START="399" END="416">two other brothers</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="416">brothers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-9-0">
+      <extent>
+        <charseq START="431" END="439">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="439">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-10-0">
+      <extent>
+        <charseq START="445" END="453">the pilot</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="453">pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-11" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-11-0">
+      <extent>
+        <charseq START="610" END="621">the aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="614" END="621">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030304_142751.10-11-1">
+      <extent>
+        <charseq START="685" END="686">it</charseq>
+      </extent>
+      <head>
+        <charseq START="685" END="686">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030304_142751.10-11-2">
+      <extent>
+        <charseq START="693" END="694">it</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="694">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-12" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-12-0">
+      <extent>
+        <charseq START="780" END="788">no person</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="788">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-13-0">
+      <extent>
+        <charseq START="847" END="854">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="854">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-14" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-14-0">
+      <extent>
+        <charseq START="903" END="914">the
+airplane</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="914">airplane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-15-0">
+      <extent>
+        <charseq START="919" END="928">the family</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="928">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="969" END="976">lakeland</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="976">lakeland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lakeland">
+        <charseq START="969" END="976">lakeland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="979" END="985">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="985">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030304_142751.10-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="992" END="996">their</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="996">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="florida">
+        <charseq START="979" END="985">florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-18" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-18-0">
+      <extent>
+        <charseq START="992" END="1002">their plane</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1002">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030304_142751.10-19-0">
+      <extent>
+        <charseq START="1035" END="1053">the many unemployed</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1053">unemployed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-20-0">
+      <extent>
+        <charseq START="1063" END="1069">company</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1069">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-21-0">
+      <extent>
+        <charseq START="1074" END="1087">valerie morris</charseq>
+      </extent>
+      <head>
+        <charseq START="1074" END="1087">valerie morris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-21-1">
+      <extent>
+        <charseq START="1134" END="1140">valerie</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1140">valerie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="valerie morris">
+        <charseq START="1074" END="1087">valerie morris</charseq>
+      </name>
+      <name NAME="valerie">
+        <charseq START="1134" END="1140">valerie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1108" END="1115">new york</charseq>
+      </extent>
+      <head>
+        <charseq START="1108" END="1115">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="1108" END="1115">new york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-23-0">
+      <extent>
+        <charseq START="1149" END="1153">renay</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1153">renay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="renay">
+        <charseq START="1149" END="1153">renay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-24-0">
+      <extent>
+        <charseq START="1156" END="1161">sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="1156" END="1161">sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="sharon">
+        <charseq START="1156" END="1161">sharon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-25-0">
+      <extent>
+        <charseq START="1214" END="1242">challenger gray and christmas</charseq>
+      </extent>
+      <head>
+        <charseq START="1214" END="1242">challenger gray and christmas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="challenger gray and christmas">
+        <charseq START="1214" END="1242">challenger gray and christmas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1352" END="1361">government</charseq>
+      </extent>
+      <head>
+        <charseq START="1352" END="1361">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-26-1" ROLE="GPE">
+      <extent>
+        <charseq START="1699" END="1708">government</charseq>
+      </extent>
+      <head>
+        <charseq START="1699" END="1708">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-27-0">
+      <extent>
+        <charseq START="1367" END="1384">non-profit
+workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1378" END="1384">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-28-0">
+      <extent>
+        <charseq START="1389" END="1420">many state and local governments</charseq>
+      </extent>
+      <head>
+        <charseq START="1410" END="1420">governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1455" END="1458">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1458">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="1860" END="1865">united</charseq>
+      </extent>
+      <head>
+        <charseq START="1860" END="1865">united</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-29-2" ROLE="GPE">
+      <extent>
+        <charseq START="1904" END="1909">united</charseq>
+      </extent>
+      <head>
+        <charseq START="1904" END="1909">united</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-29-3" ROLE="GPE">
+      <extent>
+        <charseq START="1952" END="1957">united</charseq>
+      </extent>
+      <head>
+        <charseq START="1952" END="1957">united</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="1455" END="1458">u.s.</charseq>
+      </name>
+      <name NAME="united">
+        <charseq START="1860" END="1865">united</charseq>
+      </name>
+      <name NAME="united">
+        <charseq START="1904" END="1909">united</charseq>
+      </name>
+      <name NAME="united">
+        <charseq START="1952" END="1957">united</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-30" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-30-0">
+      <extent>
+        <charseq START="1558" END="1569">destinations</charseq>
+      </extent>
+      <head>
+        <charseq START="1558" END="1569">destinations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-31" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-31-0">
+      <extent>
+        <charseq START="1598" END="1613">ten air carriers</charseq>
+      </extent>
+      <head>
+        <charseq START="1606" END="1613">carriers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-32-0">
+      <extent>
+        <charseq START="1807" END="1816">passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="1807" END="1816">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-33" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-33-0">
+      <extent>
+        <charseq START="2112" END="2122">wall street</charseq>
+      </extent>
+      <head>
+        <charseq START="2117" END="2122">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-34" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030304_142751.10-34-0">
+      <extent>
+        <charseq START="2139" END="2142">auto</charseq>
+      </extent>
+      <head>
+        <charseq START="2139" END="2142">auto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030304_142751.10-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030304_142751.10-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="2256" END="2259">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2256" END="2259">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="2256" END="2259">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="CNNHL_ENG_20030304_142751.10-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030304_142751.10-V3-1">
+      <extent>
+        <charseq START="1262" END="1269">about 5%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNNHL_ENG_20030304_142751.10-T0" VAL="2003-03-04">
+    <timex2_mention ID="CNNHL_ENG_20030304_142751.10-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-03-04</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030304_142751.10-T1" VAL="PT18H">
+    <timex2_mention ID="CNNHL_ENG_20030304_142751.10-T1-1">
+      <extent>
+        <charseq START="257" END="264">18 hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030304_142751.10-T2" VAL="2003-03-03">
+    <timex2_mention ID="CNNHL_ENG_20030304_142751.10-T2-1">
+      <extent>
+        <charseq START="351" END="359">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030304_142751.10-T3" VAL="P2Y">
+    <timex2_mention ID="CNNHL_ENG_20030304_142751.10-T3-1">
+      <extent>
+        <charseq START="1505" END="1522">the past two years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNNHL_ENG_20030304_142751.10-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNNHL_ENG_20030304_142751.10-16" ROLE="Arg-1" />
+    <relation_argument REFID="CNNHL_ENG_20030304_142751.10-17" ROLE="Arg-2" />
+      <relation_mention ID="CNNHL_ENG_20030304_142751.10-R1-1">
+      <extent>
+        <charseq START="969" END="985">lakeland,
+florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNNHL_ENG_20030304_142751.10-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="969" END="976">lakeland</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNNHL_ENG_20030304_142751.10-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="979" END="985">florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

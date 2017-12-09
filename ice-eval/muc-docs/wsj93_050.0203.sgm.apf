@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_050.0203.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_050.0203">
+  <entity ID="wsj93_050.0203-1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-1-0">
+      <extent>
+        <charseq START="161" END="170">NEWSPAPERS</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="170">NEWSPAPERS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-2-0">
+      <extent>
+        <charseq START="173" END="190">New York Times Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="190">New York Times Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-2-1">
+      <extent>
+        <charseq START="266" END="279">New York Times</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="279">New York Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-2-2">
+      <extent>
+        <charseq START="829" END="833">Times</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="833">Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Times Co.">
+        <charseq START="173" END="190">New York Times Co.</charseq>
+      </name>
+      <name NAME="New York Times">
+        <charseq START="266" END="279">New York Times</charseq>
+      </name>
+      <name NAME="Times">
+        <charseq START="829" END="833">Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-3-0">
+      <extent>
+        <charseq START="198" END="213">Russell T. Lewis</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="213">Russell T. Lewis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-3-1">
+      <extent>
+        <charseq START="220" END="228">president</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="228">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-3-2">
+      <extent>
+        <charseq START="234" END="248">general manager</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="248">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_050.0203-3-3">
+      <extent>
+        <charseq START="338" END="339">He</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="339">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-3-4">
+      <extent>
+        <charseq START="345" END="368">executive vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="368">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-3-5">
+      <extent>
+        <charseq START="374" END="395">deputy general manager</charseq>
+      </extent>
+      <head>
+        <charseq START="389" END="395">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_050.0203-3-6">
+      <extent>
+        <charseq START="398" END="399">He</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="399">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-3-7">
+      <extent>
+        <charseq START="454" END="462">president</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="462">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russell T. Lewis">
+        <charseq START="198" END="213">Russell T. Lewis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-4-0">
+      <extent>
+        <charseq START="253" END="289">its flagship New York Times
+newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="281" END="289">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-4-1">
+      <extent>
+        <charseq START="650" END="662">the newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="662">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-5-0">
+      <extent>
+        <charseq START="410" END="424">Lance R. Primis</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="424">Lance R. Primis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lance R. Primis">
+        <charseq START="410" END="424">Lance R. Primis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-6-0">
+      <extent>
+        <charseq START="468" END="490">chief
+operating officer</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="490">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-7-0">
+      <extent>
+        <charseq START="530" END="544">John M. O&apos;Brien</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="544">John M. O&apos;Brien</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-7-1">
+      <extent>
+        <charseq START="551" END="574">executive vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="574">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-7-2">
+      <extent>
+        <charseq START="580" END="601">deputy general manager</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="601">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John M. O&apos;Brien">
+        <charseq START="530" END="544">John M. O&apos;Brien</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj93_050.0203-8-0">
+      <extent>
+        <charseq START="643" END="645">all</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="645">all</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-8-1">
+      <extent>
+        <charseq START="663" END="687">&apos;s operations departments</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="687">departments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-9-0">
+      <extent>
+        <charseq START="690" END="703">Karen Messineo</charseq>
+      </extent>
+      <head>
+        <charseq START="690" END="703">Karen Messineo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Karen Messineo">
+        <charseq START="690" END="703">Karen Messineo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-10-0">
+      <extent>
+        <charseq START="718" END="727">controller</charseq>
+      </extent>
+      <head>
+        <charseq START="718" END="727">controller</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-11-0">
+      <extent>
+        <charseq START="749" END="765">&apos;s vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="765">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-11-1">
+      <extent>
+        <charseq START="872" END="885">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="877" END="885">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-12-0">
+      <extent>
+        <charseq START="771" END="793">chief
+financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="793">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_050.0203-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_050.0203-13-0">
+      <extent>
+        <charseq START="796" END="818">Penelope Muse Abernathy</charseq>
+      </extent>
+      <head>
+        <charseq START="796" END="818">Penelope Muse Abernathy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_050.0203-13-1">
+      <extent>
+        <charseq START="825" END="859">the Times newsroom
+business manager</charseq>
+      </extent>
+      <head>
+        <charseq START="853" END="859">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Penelope Muse Abernathy">
+        <charseq START="796" END="818">Penelope Muse Abernathy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_050.0203-T0" VAL="2016-09">
+    <timex2_mention ID="wsj93_050.0203-T0-1">
+      <extent>
+        <charseq START="434" END="442">September</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_050.0203-R1" TYPE="APPOINT">
+    <relation_argument REFID="wsj93_050.0203-2" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_050.0203-3" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_050.0203-R1-1">
+      <extent>
+        <charseq START="173" END="213">New York Times Co. named Russell T. Lewis</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_050.0203-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="173" END="190">New York Times Co.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_050.0203-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="198" END="213">Russell T. Lewis</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj93_050.0203-R2" TYPE="SUCCEED">
+    <relation_argument REFID="wsj93_050.0203-3" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_050.0203-5" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_050.0203-R2-1">
+      <extent>
+        <charseq START="398" END="424">He succeeds
+Lance R. Primis</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_050.0203-3-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="398" END="399">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_050.0203-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="410" END="424">Lance R. Primis</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

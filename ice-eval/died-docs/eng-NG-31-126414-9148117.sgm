@@ -1,0 +1,166 @@
+<DOC>
+<DOCID> eng-NG-31-126414-9148117 </DOCID>
+<DOCTYPE SOURCE="usenet"> USENET TEXT </DOCTYPE>
+<DATETIME> 2007-09-16T21:21:00 </DATETIME>
+<BODY>
+<HEADLINE>
+Xfce Terminal and Xorg 7.3
+</HEADLINE>
+<TEXT>
+<POST>
+<POSTER> Warren Block &lt;wbl...@wonkity.com&gt; </POSTER>
+<POSTDATE> 2007-09-16T21:21:00 </POSTDATE>
+Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+ugprade?  In particular, now there's a noticeable delay after clicking a
+maximize button, and text scrolling is jerky.
+
+Other applications seem to be fine, it's just Terminal.
+
+--
+Warren Block * Rapid City, South Dakota * USA
+</POST>
+<POST>
+<POSTER> Tim Daneliuk &lt;tun...@tundraware.com&gt; </POSTER>
+<POSTDATE> 2007-09-16T22:35:00 </POSTDATE>
+<QUOTE PREVIOUSPOST="
+Warren Block wrote:
+&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt; maximize button, and text scrolling is jerky.
+
+&gt; Other applications seem to be fine, it's just Terminal.
+">
+
+'Just tried this with terminal 0.2.6.  No problems of the sort you
+described...
+
+--
+--------------------------------------------------------------------------- -
+Tim Daneliuk     tun ... @tundraware.com
+PGP Key: http://www.tundraware.com/PGP/
+</POST>
+<POST>
+<POSTER> Warren Block &lt;wbl...@wonkity.com&gt; </POSTER>
+<POSTDATE> 2007-09-16T22:58:00 </POSTDATE>
+<QUOTE PREVIOUSPOST="
+Tim Daneliuk &lt;tun ... @tundraware.com&gt; wrote:
+&gt; Warren Block wrote:
+&gt;&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt;&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt;&gt; maximize button, and text scrolling is jerky.
+
+&gt;&gt; Other applications seem to be fine, it's just Terminal.
+
+&gt; 'Just tried this with terminal 0.2.6.  No problems of the sort you
+&gt; described...
+">
+
+Drag-resizing seems to be really, really slow.  Maybe something to do
+with my old Matrox G450 video card, although it seems like it would
+affect other applications.
+
+--
+Warren Block * Rapid City, South Dakota * USA
+</POST>
+<POST>
+<POSTER> Tim Daneliuk &lt;tun...@tundraware.com&gt; </POSTER>
+<POSTDATE> 2007-09-16T23:05:00 </POSTDATE>
+<QUOTE PREVIOUSPOST="
+Warren Block wrote:
+&gt; Tim Daneliuk &lt;tun ... @tundraware.com&gt; wrote:
+&gt;&gt; Warren Block wrote:
+&gt;&gt;&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt;&gt;&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt;&gt;&gt; maximize button, and text scrolling is jerky.
+
+&gt;&gt;&gt; Other applications seem to be fine, it's just Terminal.
+&gt;&gt; 'Just tried this with terminal 0.2.6.  No problems of the sort you
+&gt;&gt; described...
+
+&gt; Drag-resizing seems to be really, really slow.  Maybe something to do
+&gt; with my old Matrox G450 video card, although it seems like it would
+&gt; affect other applications.
+">
+
+I just tried that too - 'seemed to be OK.  I am running an Intel mobo
+with onboard graphics but I've never gotten the driver to work. So,
+I use VESA which seems fine (this machine is primarily a server so I
+don't care that much).  Try the VESA driver and see if the behavior
+changes...
+
+--
+--------------------------------------------------------------------------- -
+Tim Daneliuk     tun ... @tundraware.com
+PGP Key: http://www.tundraware.com/PGP/
+</POST>
+<POST>
+<POSTER> nebo...@anja.ig3.net </POSTER>
+<POSTDATE> 2007-09-26T03:46:00 </POSTDATE>
+On Sep 17, 3:21 am, Warren Block &lt;wbl ... @wonkity.com&gt; wrote:
+
+<QUOTE PREVIOUSPOST="
+&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt; maximize button, and text scrolling is jerky.
+
+&gt; Other applications seem to be fine, it's just Terminal.
+">
+
+Same here. Using gentoo on 3 different machines, different graphic
+cards (from really old to very fast), it is the same. gnome-terminal
+works fast, as before (they share vte).
+Besides, after upgrading to xorg 7.3 it seems like xfce is missing
+some key events - sometimes it takes two or three times to logout - it
+just swallows logout requests.
+</POST>
+<POST>
+<POSTER> nebo...@anja.ig3.net </POSTER>
+<POSTDATE> 2007-09-27T02:29:00 </POSTDATE>
+On Sep 17, 3:21 am, Warren Block &lt;wbl ... @wonkity.com&gt; wrote:
+
+<QUOTE PREVIOUSPOST="
+&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt; maximize button, and text scrolling is jerky.
+
+&gt; Other applications seem to be fine, it's just Terminal.
+
+&gt; --
+&gt; Warren Block * Rapid City, South Dakota * USA
+">
+
+It seems to be known problem, see http://bugzilla.xfce.org/show_bug.cgi?id=2818
+.
+Disable composite extension in xorg.conf (or apply patch) and problem
+dissappears.
+</POST>
+<POST>
+<POSTER> Warren Block &lt;wbl...@wonkity.com&gt; </POSTER>
+<POSTDATE> 2007-10-06T23:44:00 </POSTDATE>
+<QUOTE PREVIOUSPOST="
+nebo ... @anja.ig3.net &lt;nebo ... @anja.ig3.net&gt; wrote:
+&gt; On Sep 17, 3:21 am, Warren Block &lt;wbl ... @wonkity.com&gt; wrote:
+&gt;&gt; Has anyone else noticed a slowdown in Xfce's Terminal after the Xorg 7.3
+&gt;&gt; ugprade?  In particular, now there's a noticeable delay after clicking a
+&gt;&gt; maximize button, and text scrolling is jerky.
+
+&gt;&gt; Other applications seem to be fine, it's just Terminal.
+
+&gt;&gt; --
+&gt;&gt; Warren Block * Rapid City, South Dakota * USA
+
+&gt; It seems to be known problem, see http://bugzilla.xfce.org/show_bug.cgi?id=2818
+&gt; .
+&gt; Disable composite extension in xorg.conf (or apply patch) and problem
+&gt; dissappears.
+">
+
+Thanks for posting this!  My google groups killfile prevented me from
+seeing it here.  I actually found it on a web search.
+
+--
+Warren Block * Rapid City, South Dakota * USA
+</POST>
+</TEXT>
+</BODY>
+</DOC>

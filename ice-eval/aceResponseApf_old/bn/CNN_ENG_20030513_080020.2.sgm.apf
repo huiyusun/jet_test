@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030513_080020.2.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030513_080020.2">
+  <entity ID="CNN_ENG_20030513_080020.2-1" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="95" END="109">the middle east</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="109">middle east</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="middle east">
+        <charseq START="99" END="109">middle east</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="191" END="196">beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="196">beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="513" END="518">beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="518">beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1545" END="1550">beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="1545" END="1550">beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="beirut">
+        <charseq START="191" END="196">beirut</charseq>
+      </name>
+      <name NAME="beirut">
+        <charseq START="513" END="518">beirut</charseq>
+      </name>
+      <name NAME="beirut">
+        <charseq START="1545" END="1550">beirut</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="199" END="205">lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="199" END="205">lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="744" END="750">lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="744" END="750">lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1553" END="1559">lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="1553" END="1559">lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lebanon">
+        <charseq START="199" END="205">lebanon</charseq>
+      </name>
+      <name NAME="lebanon">
+        <charseq START="744" END="750">lebanon</charseq>
+      </name>
+      <name NAME="lebanon">
+        <charseq START="1553" END="1559">lebanon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-4-0">
+      <extent>
+        <charseq START="295" END="301">khatami</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="301">khatami</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-4-1">
+      <extent>
+        <charseq START="308" END="316">president</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="316">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-4-2">
+      <extent>
+        <charseq START="489" END="505">president khatami</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="505">khatami</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-4-3">
+      <extent>
+        <charseq START="489" END="497">president</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="497">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-4-4">
+      <extent>
+        <charseq START="934" END="940">khatami</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="940">khatami</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030513_080020.2-4-5">
+      <extent>
+        <charseq START="968" END="969">he</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="969">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-4-6">
+      <extent>
+        <charseq START="1510" END="1526">president khatami</charseq>
+      </extent>
+      <head>
+        <charseq START="1520" END="1526">khatami</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-4-7">
+      <extent>
+        <charseq START="1510" END="1518">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1510" END="1518">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="khatami">
+        <charseq START="295" END="301">khatami</charseq>
+      </name>
+      <name NAME="khatami">
+        <charseq START="499" END="505">khatami</charseq>
+      </name>
+      <name NAME="khatami">
+        <charseq START="934" END="940">khatami</charseq>
+      </name>
+      <name NAME="khatami">
+        <charseq START="1520" END="1526">khatami</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="321" END="324">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="324">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="632" END="635">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="632" END="635">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iran">
+        <charseq START="321" END="324">iran</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="632" END="635">iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-6-0">
+      <extent>
+        <charseq START="478" END="486">the crowd</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="486">crowd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-6-1">
+      <extent>
+        <charseq START="620" END="629">this crowd</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="629">crowd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="660" END="667">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="667">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="664" END="667">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-8-0">
+      <extent>
+        <charseq START="695" END="703">hezbollah</charseq>
+      </extent>
+      <head>
+        <charseq START="695" END="703">hezbollah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-8-1">
+      <extent>
+        <charseq START="1063" END="1071">hezbollah</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1071">hezbollah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-9-0">
+      <extent>
+        <charseq START="719" END="733">an organization</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="733">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-9-1">
+      <extent>
+        <charseq START="850" END="864">an organization</charseq>
+      </extent>
+      <head>
+        <charseq START="853" END="864">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-10-0">
+      <extent>
+        <charseq START="788" END="796">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="796">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-10-1">
+      <extent>
+        <charseq START="1385" END="1393">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="1385" END="1393">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-11-0">
+      <extent>
+        <charseq START="811" END="822">peter bergen</charseq>
+      </extent>
+      <head>
+        <charseq START="811" END="822">peter bergen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="peter bergen">
+        <charseq START="811" END="822">peter bergen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-12-0">
+      <extent>
+        <charseq START="824" END="838">mentioned saudi</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="838">saudi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saudi">
+        <charseq START="834" END="838">saudi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="877" END="888">that
+country</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="888">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-14-0">
+      <extent>
+        <charseq START="1006" END="1019">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1016" END="1019">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-14-1">
+      <extent>
+        <charseq START="1006" END="1014">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1014">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-14-2">
+      <extent>
+        <charseq START="1573" END="1586">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1583" END="1586">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-14-3">
+      <extent>
+        <charseq START="1573" END="1581">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1573" END="1581">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-14-4">
+      <extent>
+        <charseq START="1743" END="1751">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1743" END="1751">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="1016" END="1019">bush</charseq>
+      </name>
+      <name NAME="bush">
+        <charseq START="1583" END="1586">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-15" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1144" END="1150">mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="1144" END="1150">mideast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mideast">
+        <charseq START="1144" END="1150">mideast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-16-0">
+      <extent>
+        <charseq START="1228" END="1245">secretary of state</charseq>
+      </extent>
+      <head>
+        <charseq START="1228" END="1245">secretary of state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-17-0">
+      <extent>
+        <charseq START="1247" END="1258">colin powell</charseq>
+      </extent>
+      <head>
+        <charseq START="1247" END="1258">colin powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="colin powell">
+        <charseq START="1247" END="1258">colin powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-18-0">
+      <extent>
+        <charseq START="1283" END="1292">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="1287" END="1292">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-18-1">
+      <extent>
+        <charseq START="1455" END="1465">that region</charseq>
+      </extent>
+      <head>
+        <charseq START="1460" END="1465">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-19-0">
+      <extent>
+        <charseq START="1309" END="1324">regional leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="1318" END="1324">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030513_080020.2-20-0">
+      <extent>
+        <charseq START="1356" END="1371">the
+palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="1360" END="1371">palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1698" END="1709">saudi
+arabia</charseq>
+      </extent>
+      <head>
+        <charseq START="1698" END="1709">saudi
+arabia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saudi arabia">
+        <charseq START="1698" END="1709">saudi
+arabia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-22-0">
+      <extent>
+        <charseq START="1712" END="1722">chris burns</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1722">chris burns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030513_080020.2-22-1">
+      <extent>
+        <charseq START="1754" END="1755">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1754" END="1755">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-22-2">
+      <extent>
+        <charseq START="1789" END="1793">chris</charseq>
+      </extent>
+      <head>
+        <charseq START="1789" END="1793">chris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chris burns">
+        <charseq START="1712" END="1722">chris burns</charseq>
+      </name>
+      <name NAME="chris">
+        <charseq START="1789" END="1793">chris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030513_080020.2-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030513_080020.2-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1771" END="1782">indianapolis</charseq>
+      </extent>
+      <head>
+        <charseq START="1771" END="1782">indianapolis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="indianapolis">
+        <charseq START="1771" END="1782">indianapolis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T0" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-13</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T1" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T1-1">
+      <extent>
+        <charseq START="73" END="75">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T2" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T2-1">
+      <extent>
+        <charseq START="170" END="172">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T3" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T3-1">
+      <extent>
+        <charseq START="327" END="329">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T4" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T4-1">
+      <extent>
+        <charseq START="637" END="639">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030513_080020.2-T5" VAL="2003-05-13">
+    <timex2_mention ID="CNN_ENG_20030513_080020.2-T5-1">
+      <extent>
+        <charseq START="1596" END="1600">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030513_080020.2-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030513_080020.2-2" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030513_080020.2-3" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030513_080020.2-R1-1">
+      <extent>
+        <charseq START="191" END="205">beirut,
+lebanon</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030513_080020.2-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="191" END="196">beirut</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030513_080020.2-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="199" END="205">lebanon</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="CNN_ENG_20030513_080020.2-R1-2">
+      <extent>
+        <charseq START="1545" END="1559">beirut, lebanon</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030513_080020.2-2-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1545" END="1550">beirut</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030513_080020.2-3-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1553" END="1559">lebanon</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_045.0105.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_045.0105">
+  <entity ID="wsj94_045.0105-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="210" END="215">LONDON</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="215">LONDON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-1-1" ROLE="LOC">
+      <extent>
+        <charseq START="236" END="241">London</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="241">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_045.0105-1-2" ROLE="LOC">
+      <extent>
+        <charseq START="251" END="253">its</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="253">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LONDON">
+        <charseq START="210" END="215">LONDON</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="236" END="241">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-2-0">
+      <extent>
+        <charseq START="218" END="219">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="219">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="218" END="219">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-0">
+      <extent>
+        <charseq START="225" END="229">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="229">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-1">
+      <extent>
+        <charseq START="485" END="489">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="489">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-2">
+      <extent>
+        <charseq START="534" END="538">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="538">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-3">
+      <extent>
+        <charseq START="660" END="664">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="664">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-4">
+      <extent>
+        <charseq START="952" END="956">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="952" END="956">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-5">
+      <extent>
+        <charseq START="1363" END="1367">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1367">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-3-6">
+      <extent>
+        <charseq START="1456" END="1460">Lloyd</charseq>
+      </extent>
+      <head>
+        <charseq START="1456" END="1460">Lloyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lloyd">
+        <charseq START="225" END="229">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="485" END="489">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="534" END="538">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="660" END="664">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="952" END="956">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="1363" END="1367">Lloyd</charseq>
+      </name>
+      <name NAME="Lloyd">
+        <charseq START="1456" END="1460">Lloyd</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0105-4-0">
+      <extent>
+        <charseq START="283" END="300">hard-hit investors</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="300">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0105-5-0">
+      <extent>
+        <charseq START="539" END="550">&apos;s
+investors</charseq>
+      </extent>
+      <head>
+        <charseq START="542" END="550">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_045.0105-5-1">
+      <extent>
+        <charseq START="587" END="591">their</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="591">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0105-6-0">
+      <extent>
+        <charseq START="957" END="981">&apos;s Chairman
+David Rowland</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="981">David Rowland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0105-6-1">
+      <extent>
+        <charseq START="960" END="967">Chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="960" END="967">Chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="David Rowland">
+        <charseq START="969" END="981">David Rowland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0105-7-0">
+      <extent>
+        <charseq START="1107" END="1116">syndicates</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1116">syndicates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0105-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0105-8-0">
+      <extent>
+        <charseq START="1352" END="1358">Members</charseq>
+      </extent>
+      <head>
+        <charseq START="1352" END="1358">Members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_045.0105-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_045.0105-V1-1">
+      <extent>
+        <charseq START="693" END="709">20 billion pounds</charseq>
+      </extent>
+    </value_mention>
+  </value>
+</document>
+</source_file>

@@ -1,0 +1,936 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030430.0075.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030430.0075">
+  <entity ID="AFP_ENG_20030430.0075-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="113">SYDNEY</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="113">SYDNEY</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="455" END="460">Sydney</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="460">Sydney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1568" END="1573">Sydney</charseq>
+      </extent>
+      <head>
+        <charseq START="1568" END="1573">Sydney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1579" END="1602">a more attractive option</charseq>
+      </extent>
+      <head>
+        <charseq START="1597" END="1602">option</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1635" END="1637">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1635" END="1637">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="1743" END="1748">Sydney</charseq>
+      </extent>
+      <head>
+        <charseq START="1743" END="1748">Sydney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-1-6" ROLE="GPE">
+      <extent>
+        <charseq START="2116" END="2121">Sydney</charseq>
+      </extent>
+      <head>
+        <charseq START="2116" END="2121">Sydney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="SYDNEY">
+        <charseq START="108" END="113">SYDNEY</charseq>
+      </name>
+      <name NAME="Sydney">
+        <charseq START="455" END="460">Sydney</charseq>
+      </name>
+      <name NAME="Sydney">
+        <charseq START="1568" END="1573">Sydney</charseq>
+      </name>
+      <name NAME="Sydney">
+        <charseq START="1743" END="1748">Sydney</charseq>
+      </name>
+      <name NAME="Sydney">
+        <charseq START="2116" END="2121">Sydney</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-2-0">
+      <extent>
+        <charseq START="126" END="128">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="128">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="126" END="128">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-3-0">
+      <extent>
+        <charseq START="132" END="151">The Daily Planet Ltd</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="151">Daily Planet Ltd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-3-1">
+      <extent>
+        <charseq START="170" END="186">the first brothel</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="186">brothel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-3-2">
+      <extent>
+        <charseq START="568" END="583">The Daily Planet</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="583">Daily Planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-3-3">
+      <extent>
+        <charseq START="1301" END="1309">a brothel</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1309">brothel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-3-4">
+      <extent>
+        <charseq START="2047" END="2058">Daily Planet</charseq>
+      </extent>
+      <head>
+        <charseq START="2047" END="2058">Daily Planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-3-5">
+      <extent>
+        <charseq START="2183" END="2194">Daily Planet</charseq>
+      </extent>
+      <head>
+        <charseq START="2183" END="2194">Daily Planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-3-6">
+      <extent>
+        <charseq START="2206" END="2208">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2206" END="2208">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Daily Planet Ltd">
+        <charseq START="136" END="151">Daily Planet Ltd</charseq>
+      </name>
+      <name NAME="Daily Planet">
+        <charseq START="572" END="583">Daily Planet</charseq>
+      </name>
+      <name NAME="Daily Planet">
+        <charseq START="2047" END="2058">Daily Planet</charseq>
+      </name>
+      <name NAME="Daily Planet">
+        <charseq START="2183" END="2194">Daily Planet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-4-0">
+      <extent>
+        <charseq START="199" END="227">the Australian Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="227">Australian Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-4-1">
+      <extent>
+        <charseq START="249" END="251">its</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="251">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-4-2">
+      <extent>
+        <charseq START="1197" END="1225">the Australian Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1201" END="1225">Australian Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-4-3">
+      <extent>
+        <charseq START="1314" END="1331">the stock exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1324" END="1331">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Australian Stock Exchange">
+        <charseq START="203" END="227">Australian Stock Exchange</charseq>
+      </name>
+      <name NAME="Australian Stock Exchange">
+        <charseq START="1201" END="1225">Australian Stock Exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-5-0">
+      <extent>
+        <charseq START="307" END="334">the Melbourne-based
+bordello</charseq>
+      </extent>
+      <head>
+        <charseq START="327" END="334">bordello</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="311" END="319">Melbourne</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="319">Melbourne</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="801" END="809">Melbourne</charseq>
+      </extent>
+      <head>
+        <charseq START="801" END="809">Melbourne</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="1683" END="1691">Melbourne</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1691">Melbourne</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="2163" END="2171">Melbourne</charseq>
+      </extent>
+      <head>
+        <charseq START="2163" END="2171">Melbourne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Melbourne">
+        <charseq START="311" END="319">Melbourne</charseq>
+      </name>
+      <name NAME="Melbourne">
+        <charseq START="801" END="809">Melbourne</charseq>
+      </name>
+      <name NAME="Melbourne">
+        <charseq START="1683" END="1691">Melbourne</charseq>
+      </name>
+      <name NAME="Melbourne">
+        <charseq START="2163" END="2171">Melbourne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-7-0">
+      <extent>
+        <charseq START="358" END="386">Chief executive Andrew Harris</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="386">Andrew Harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-7-1">
+      <extent>
+        <charseq START="364" END="372">executive</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="372">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-7-2">
+      <extent>
+        <charseq START="875" END="880">Harris</charseq>
+      </extent>
+      <head>
+        <charseq START="875" END="880">Harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-7-3">
+      <extent>
+        <charseq START="1335" END="1340">Harris</charseq>
+      </extent>
+      <head>
+        <charseq START="1335" END="1340">Harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-7-4">
+      <extent>
+        <charseq START="1556" END="1561">Harris</charseq>
+      </extent>
+      <head>
+        <charseq START="1556" END="1561">Harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-7-5">
+      <extent>
+        <charseq START="1788" END="1789">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1788" END="1789">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Andrew Harris">
+        <charseq START="374" END="386">Andrew Harris</charseq>
+      </name>
+      <name NAME="Harris">
+        <charseq START="875" END="880">Harris</charseq>
+      </name>
+      <name NAME="Harris">
+        <charseq START="1335" END="1340">Harris</charseq>
+      </name>
+      <name NAME="Harris">
+        <charseq START="1556" END="1561">Harris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-8-0">
+      <extent>
+        <charseq START="393" END="403">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="403">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-9-0">
+      <extent>
+        <charseq START="444" END="450">a hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="450">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-10-0">
+      <extent>
+        <charseq START="464" END="474">Kings Cross</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="474">Kings Cross</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-10-1">
+      <extent>
+        <charseq START="461" END="493">&apos;s Kings Cross red light district</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="493">district</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kings Cross">
+        <charseq START="464" END="474">Kings Cross</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-11-0">
+      <extent>
+        <charseq START="548" END="564">a better
+location</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="564">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-12-0">
+      <extent>
+        <charseq START="665" END="667">one</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="667">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-13-0">
+      <extent>
+        <charseq START="672" END="695">the new 600 shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="684" END="695">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="745" END="762">Renowned Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="754" END="762">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hollywood">
+        <charseq START="754" END="762">Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-15-0">
+      <extent>
+        <charseq START="764" END="768">madam</charseq>
+      </extent>
+      <head>
+        <charseq START="764" END="768">madam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-16-0">
+      <extent>
+        <charseq START="770" END="781">Heidi Fleiss</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="781">Heidi Fleiss</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-16-1">
+      <extent>
+        <charseq START="968" END="973">&quot;Heidi</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="973">Heidi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-16-2">
+      <extent>
+        <charseq START="984" END="986">her</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="986">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-16-3">
+      <extent>
+        <charseq START="1000" END="1002">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1000" END="1002">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-16-4">
+      <extent>
+        <charseq START="1091" END="1095">Heidi</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1095">Heidi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Heidi Fleiss">
+        <charseq START="770" END="781">Heidi Fleiss</charseq>
+      </name>
+      <name NAME="Heidi">
+        <charseq START="969" END="973">Heidi</charseq>
+      </name>
+      <name NAME="Heidi">
+        <charseq START="1091" END="1095">Heidi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-17-0">
+      <extent>
+        <charseq START="814" END="818">guest</charseq>
+      </extent>
+      <head>
+        <charseq START="814" END="818">guest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-17-1">
+      <extent>
+        <charseq START="1044" END="1045">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1045">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-18-0">
+      <extent>
+        <charseq START="937" END="941">media</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="941">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-19-0">
+      <extent>
+        <charseq START="1270" END="1286">The establishment</charseq>
+      </extent>
+      <head>
+        <charseq START="1274" END="1286">establishment</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-19-1">
+      <extent>
+        <charseq START="1350" END="1351">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1350" END="1351">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-20" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-20-0">
+      <extent>
+        <charseq START="1449" END="1465">every institution</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1465">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-21-0">
+      <extent>
+        <charseq START="1468" END="1481">every law firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1481">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-21-1">
+      <extent>
+        <charseq START="1487" END="1488">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1488">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-22-0">
+      <extent>
+        <charseq START="1776" END="1784">a monster</charseq>
+      </extent>
+      <head>
+        <charseq START="1778" END="1784">monster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-23-0">
+      <extent>
+        <charseq START="1807" END="1837">a complete one-stop adult venue</charseq>
+      </extent>
+      <head>
+        <charseq START="1833" END="1837">venue</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-23-1">
+      <extent>
+        <charseq START="1850" END="1871">a complete adult
+venue</charseq>
+      </extent>
+      <head>
+        <charseq START="1867" END="1871">venue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-24-0">
+      <extent>
+        <charseq START="1861" END="1865">adult</charseq>
+      </extent>
+      <head>
+        <charseq START="1861" END="1865">adult</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-24-1">
+      <extent>
+        <charseq START="1878" END="1882">adult</charseq>
+      </extent>
+      <head>
+        <charseq START="1878" END="1882">adult</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-24-2">
+      <extent>
+        <charseq START="1893" END="1897">adult</charseq>
+      </extent>
+      <head>
+        <charseq START="1893" END="1897">adult</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030430.0075-24-3">
+      <extent>
+        <charseq START="2364" END="2365">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2364" END="2365">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-25-0">
+      <extent>
+        <charseq START="1878" END="1890">adult cinemas</charseq>
+      </extent>
+      <head>
+        <charseq START="1884" END="1890">cinemas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-26-0">
+      <extent>
+        <charseq START="1922" END="1941">much bigger
+premises</charseq>
+      </extent>
+      <head>
+        <charseq START="1934" END="1941">premises</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-27" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-27-0">
+      <extent>
+        <charseq START="1946" END="1967">a much better location</charseq>
+      </extent>
+      <head>
+        <charseq START="1960" END="1967">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-28-0">
+      <extent>
+        <charseq START="1999" END="2009">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="2003" END="2009">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="2067" END="2075">Australia</charseq>
+      </extent>
+      <head>
+        <charseq START="2067" END="2075">Australia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Australia">
+        <charseq START="2067" END="2075">Australia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-30-0">
+      <extent>
+        <charseq START="2082" END="2094">likely venues</charseq>
+      </extent>
+      <head>
+        <charseq START="2089" END="2094">venues</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="2099" END="2103">Perth</charseq>
+      </extent>
+      <head>
+        <charseq START="2099" END="2103">Perth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Perth">
+        <charseq START="2099" END="2103">Perth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="2106" END="2113">Brisbane</charseq>
+      </extent>
+      <head>
+        <charseq START="2106" END="2113">Brisbane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Brisbane">
+        <charseq START="2106" END="2113">Brisbane</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-33" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-33-0">
+      <extent>
+        <charseq START="2122" END="2139">&apos;s western
+suburbs</charseq>
+      </extent>
+      <head>
+        <charseq START="2133" END="2139">suburbs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-34-0">
+      <extent>
+        <charseq START="2145" END="2158">a second venue</charseq>
+      </extent>
+      <head>
+        <charseq START="2154" END="2158">venue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-35-0">
+      <extent>
+        <charseq START="2311" END="2319">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="2315" END="2319">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="2391" END="2403">a
+little city</charseq>
+      </extent>
+      <head>
+        <charseq START="2400" END="2403">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030430.0075-37-0">
+      <extent>
+        <charseq START="2428" END="2447">a 150-200 room hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="2443" END="2447">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030430.0075-38" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030430.0075-38-0" ROLE="GPE">
+      <extent>
+        <charseq START="2452" END="2457">Nevada</charseq>
+      </extent>
+      <head>
+        <charseq START="2452" END="2457">Nevada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nevada">
+        <charseq START="2452" END="2457">Nevada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030430.0075-V3" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030430.0075-V3-1">
+      <extent>
+        <charseq START="592" END="610">3.5 million dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030430.0075-V4" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030430.0075-V4-1">
+      <extent>
+        <charseq START="707" END="725">1.0 million dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030430.0075-T0" VAL="2003-04-30">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030430</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T1" VAL="2003-04-30">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T1-1">
+      <extent>
+        <charseq START="116" END="123">April 30</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T2" VAL="2003-05">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T2-1">
+      <extent>
+        <charseq START="253" END="255">May</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T3" VAL="2003-04-30">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T3-1">
+      <extent>
+        <charseq START="346" END="354">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T4" VAL="2003-04-24">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T4-1">
+      <extent>
+        <charseq START="833" END="840">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T5" VAL="1994">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T5-1">
+      <extent>
+        <charseq START="1262" END="1265">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030430.0075-T6" VAL="2003-04-30">
+    <timex2_mention ID="AFP_ENG_20030430.0075-T6-1">
+      <extent>
+        <charseq START="1514" END="1516">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030430.0075-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030430.0075-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030430.0075-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030430.0075-R1-2">
+      <extent>
+        <charseq START="1568" END="1602">Sydney was a more attractive option</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030430.0075-1-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1568" END="1573">Sydney</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030430.0075-1-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1579" END="1602">a more attractive option</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030430.0075-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030430.0075-31" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030430.0075-32" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030430.0075-R2-1">
+      <extent>
+        <charseq START="2099" END="2113">Perth, Brisbane</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030430.0075-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2099" END="2103">Perth</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030430.0075-32-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2106" END="2113">Brisbane</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

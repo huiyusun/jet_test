@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030529_085826.10.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030529_085826.10">
+  <entity ID="CNN_ENG_20030529_085826.10-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="68" END="74">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="74">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="israeli">
+        <charseq START="68" END="74">israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-2-0">
+      <extent>
+        <charseq START="68" END="102">israeli prime minister ariel sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="102">ariel sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-2-1">
+      <extent>
+        <charseq START="76" END="89">prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="89">prime minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ariel sharon">
+        <charseq START="91" END="102">ariel sharon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="118">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="118">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="palestinian">
+        <charseq START="108" END="118">palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-4-0">
+      <extent>
+        <charseq START="108" END="147">palestinian prime minister
+mahmoud abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="147">mahmoud abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-4-1">
+      <extent>
+        <charseq START="120" END="133">prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="133">prime minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mahmoud abbas">
+        <charseq START="135" END="147">mahmoud abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-5-0">
+      <extent>
+        <charseq START="209" END="231">the bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="231">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-6-0">
+      <extent>
+        <charseq START="213" END="216">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="216">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-6-1">
+      <extent>
+        <charseq START="290" END="303">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="300" END="303">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-6-2">
+      <extent>
+        <charseq START="290" END="298">president</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="298">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="213" END="216">bush</charseq>
+      </name>
+      <name NAME="bush">
+        <charseq START="300" END="303">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-7" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-7-0" ROLE="LOC">
+      <extent>
+        <charseq START="249" END="255">mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="255">mideast</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="328" END="334">mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="334">mideast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mideast">
+        <charseq START="249" END="255">mideast</charseq>
+      </name>
+      <name NAME="mideast">
+        <charseq START="328" END="334">mideast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="264" END="273">both
+sides</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="273">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="351" END="359">jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="359">jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jerusalem">
+        <charseq START="351" END="359">jerusalem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-10-0">
+      <extent>
+        <charseq START="361" END="366">bureau</charseq>
+      </extent>
+      <head>
+        <charseq START="361" END="366">bureau</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030529_085826.10-11-0">
+      <extent>
+        <charseq START="368" END="372">chief</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="372">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030529_085826.10-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-12-0">
+      <extent>
+        <charseq START="374" END="383">mike hanna</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="383">mike hanna</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030529_085826.10-12-1">
+      <extent>
+        <charseq START="417" END="420">mike</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="420">mike</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mike hanna">
+        <charseq START="374" END="383">mike hanna</charseq>
+      </name>
+      <name NAME="mike">
+        <charseq START="417" END="420">mike</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030529_085826.10-T0" VAL="2003-05-29">
+    <timex2_mention ID="CNN_ENG_20030529_085826.10-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-05-29</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_085826.10-T1" VAL="2003-05-29">
+    <timex2_mention ID="CNN_ENG_20030529_085826.10-T1-1">
+      <extent>
+        <charseq START="167" END="171">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_085826.10-T2" VAL="2003-05-29">
+    <timex2_mention ID="CNN_ENG_20030529_085826.10-T2-1">
+      <extent>
+        <charseq START="194" END="196">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030529_085826.10-T3" VAL="2003-W23">
+    <timex2_mention ID="CNN_ENG_20030529_085826.10-T3-1">
+      <extent>
+        <charseq START="336" END="344">next week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

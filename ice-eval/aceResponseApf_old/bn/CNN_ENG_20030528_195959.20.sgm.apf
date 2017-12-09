@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030528_195959.20.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030528_195959.20">
+  <entity ID="CNN_ENG_20030528_195959.20-1" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-1-0">
+      <extent>
+        <charseq START="121" END="141">so-called smoking gun</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="141">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="164" END="167">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="167">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="472" END="475">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="472" END="475">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="164" END="167">iraq</charseq>
+      </name>
+      <name NAME="iraq">
+        <charseq START="472" END="475">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-3" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-3-0">
+      <extent>
+        <charseq START="184" END="190">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="190">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-4-0">
+      <extent>
+        <charseq START="220" END="262">national
+security correspondent david ensor</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="262">david ensor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-4-1">
+      <extent>
+        <charseq START="238" END="250">correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="250">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="david ensor">
+        <charseq START="252" END="262">david ensor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="283" END="286">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="286">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="787" END="790">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="790">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="283" END="286">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="787" END="790">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-6" TYPE="WEA" SUBTYPE="Underspecified" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-6-0">
+      <extent>
+        <charseq START="315" END="325">any weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="325">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-6-1">
+      <extent>
+        <charseq START="506" END="512">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="512">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-6-2">
+      <extent>
+        <charseq START="975" END="981">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="975" END="981">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-6-3">
+      <extent>
+        <charseq START="1175" END="1192">biological weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1192">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-7-0">
+      <extent>
+        <charseq START="360" END="367">pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="367">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-7-1">
+      <extent>
+        <charseq START="1103" END="1110">pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1110">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-8-0">
+      <extent>
+        <charseq START="381" END="389">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="389">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-9" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-9-0">
+      <extent>
+        <charseq START="409" END="429">the mysterious trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="429">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-9-1">
+      <extent>
+        <charseq START="488" END="534">mobile
+biological weapons production facilities</charseq>
+      </extent>
+      <head>
+        <charseq START="525" END="534">facilities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-9-2">
+      <extent>
+        <charseq START="775" END="784">the trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="779" END="784">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-9-3">
+      <extent>
+        <charseq START="1127" END="1136">the trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1136">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-9-4">
+      <extent>
+        <charseq START="1147" END="1162">an efficient way</charseq>
+      </extent>
+      <head>
+        <charseq START="1160" END="1162">way</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-10-0">
+      <extent>
+        <charseq START="545" END="562">secretary
+of state</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="562">secretary
+of state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-11-0">
+      <extent>
+        <charseq START="564" END="569">powell</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="569">powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="powell">
+        <charseq START="564" END="569">powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030528_195959.20-12-0">
+      <extent>
+        <charseq START="595" END="612">the united nations</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="612">united nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united nations">
+        <charseq START="599" END="612">united nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-13" TYPE="WEA" SUBTYPE="Biological" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-13-0">
+      <extent>
+        <charseq START="745" END="760">biological toxin</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="760">toxin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-14-0">
+      <extent>
+        <charseq START="787" END="813">u.s. intelligence officials</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="813">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030528_195959.20-14-1">
+      <extent>
+        <charseq START="819" END="822">they</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="822">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-14-2">
+      <extent>
+        <charseq START="1199" END="1207">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1199" END="1207">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-15-0">
+      <extent>
+        <charseq START="964" END="1003">biological weapons production
+facilities</charseq>
+      </extent>
+      <head>
+        <charseq START="994" END="1003">facilities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-16-0">
+      <extent>
+        <charseq START="1024" END="1049">the intelligence community</charseq>
+      </extent>
+      <head>
+        <charseq START="1041" END="1049">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-17-0">
+      <extent>
+        <charseq START="1229" END="1238">the iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1238">iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030528_195959.20-18" TYPE="WEA" SUBTYPE="Biological" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030528_195959.20-18-0">
+      <extent>
+        <charseq START="1344" END="1350">anthrax</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1350">anthrax</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030528_195959.20-T0" VAL="2003-05-28">
+    <timex2_mention ID="CNN_ENG_20030528_195959.20-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-05-28</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030528_195959.20-T1" VAL="2003-05-28">
+    <timex2_mention ID="CNN_ENG_20030528_195959.20-T1-1">
+      <extent>
+        <charseq START="81" END="83">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030528_195959.20-T2" VAL="2003-05-28">
+    <timex2_mention ID="CNN_ENG_20030528_195959.20-T2-1">
+      <extent>
+        <charseq START="395" END="397">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

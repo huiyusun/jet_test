@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_005.0254.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_005.0254">
+  <entity ID="wsj93_005.0254-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="265" END="269">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="269">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="953" END="966">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="966">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="977" END="979">its</charseq>
+      </extent>
+      <head>
+        <charseq START="977" END="979">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1070" END="1074">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1074">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1373" END="1377">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1373" END="1377">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="2185" END="2198">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="2189" END="2198">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-1-6" ROLE="GPE">
+      <extent>
+        <charseq START="2344" END="2354">this nation</charseq>
+      </extent>
+      <head>
+        <charseq START="2349" END="2354">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-7" ROLE="GPE">
+      <extent>
+        <charseq START="2413" END="2417">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="2413" END="2417">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-1-8" ROLE="GPE">
+      <extent>
+        <charseq START="2526" END="2547">this strong
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="2538" END="2547">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-9" ROLE="GPE">
+      <extent>
+        <charseq START="2940" END="2947">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="2940" END="2947">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-10" ROLE="GPE">
+      <extent>
+        <charseq START="3066" END="3073">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="3066" END="3073">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-11" ROLE="GPE">
+      <extent>
+        <charseq START="3453" END="3457">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="3453" END="3457">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-1-12" ROLE="GPE">
+      <extent>
+        <charseq START="3622" END="3644">the
+Japanese government</charseq>
+      </extent>
+      <head>
+        <charseq START="3635" END="3644">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-1-13" ROLE="GPE">
+      <extent>
+        <charseq START="3626" END="3633">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="3626" END="3633">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="265" END="269">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="1070" END="1074">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="1373" END="1377">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="2413" END="2417">Japan</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="2940" END="2947">Japanese</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="3066" END="3073">Japanese</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="3453" END="3457">Japan</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="3626" END="3633">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="304" END="309">nation</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="309">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-3-0">
+      <extent>
+        <charseq START="639" END="642">four</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="642">four</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-4-0">
+      <extent>
+        <charseq START="739" END="748">economists</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="748">economists</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-4-1">
+      <extent>
+        <charseq START="819" END="822">They</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="822">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-5-0">
+      <extent>
+        <charseq START="1158" END="1172">Some economists</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1172">economists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-6-0">
+      <extent>
+        <charseq START="1318" END="1332">Geoffrey Barker</charseq>
+      </extent>
+      <head>
+        <charseq START="1318" END="1332">Geoffrey Barker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-6-1">
+      <extent>
+        <charseq START="1335" END="1349">chief economist</charseq>
+      </extent>
+      <head>
+        <charseq START="1341" END="1349">economist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-6-2">
+      <extent>
+        <charseq START="2817" END="2826">Mr. Barker</charseq>
+      </extent>
+      <head>
+        <charseq START="2821" END="2826">Barker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-6-3">
+      <extent>
+        <charseq START="2817" END="2819">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2817" END="2819">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Geoffrey Barker">
+        <charseq START="1318" END="1332">Geoffrey Barker</charseq>
+      </name>
+      <name NAME="Barker">
+        <charseq START="2821" END="2826">Barker</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-7-0">
+      <extent>
+        <charseq START="1354" END="1370">Baring Securities</charseq>
+      </extent>
+      <head>
+        <charseq START="1354" END="1370">Baring Securities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baring Securities">
+        <charseq START="1354" END="1370">Baring Securities</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-8-0">
+      <extent>
+        <charseq START="1660" END="1682">desperate
+manufacturers</charseq>
+      </extent>
+      <head>
+        <charseq START="1670" END="1682">manufacturers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-9-0">
+      <extent>
+        <charseq START="1688" END="1696">merchants</charseq>
+      </extent>
+      <head>
+        <charseq START="1688" END="1696">merchants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-9-1">
+      <extent>
+        <charseq START="1872" END="1880">Merchants</charseq>
+      </extent>
+      <head>
+        <charseq START="1872" END="1880">Merchants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-9-2">
+      <extent>
+        <charseq START="1906" END="1910">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1906" END="1910">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-9-3">
+      <extent>
+        <charseq START="1962" END="1965">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1962" END="1965">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="2047" END="2053">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="2047" END="2053">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="2364" END="2371">the
+U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2368" END="2371">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_005.0254-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="2394" END="2396">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2394" END="2396">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="2368" END="2371">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-12-0">
+      <extent>
+        <charseq START="2565" END="2582">Kenneth S. Courtis</charseq>
+      </extent>
+      <head>
+        <charseq START="2565" END="2582">Kenneth S. Courtis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-12-1">
+      <extent>
+        <charseq START="2585" END="2593">economist</charseq>
+      </extent>
+      <head>
+        <charseq START="2585" END="2593">economist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kenneth S. Courtis">
+        <charseq START="2565" END="2582">Kenneth S. Courtis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_005.0254-13-0">
+      <extent>
+        <charseq START="2598" END="2613">Deutsche
+Bank AG</charseq>
+      </extent>
+      <head>
+        <charseq START="2598" END="2613">Deutsche
+Bank AG</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Deutsche Bank AG">
+        <charseq START="2598" END="2613">Deutsche
+Bank AG</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-14" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-14-0">
+      <extent>
+        <charseq START="2699" END="2710">the consumer</charseq>
+      </extent>
+      <head>
+        <charseq START="2703" END="2710">consumer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-14-1">
+      <extent>
+        <charseq START="2896" END="2907">the consumer</charseq>
+      </extent>
+      <head>
+        <charseq START="2900" END="2907">consumer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-14-2">
+      <extent>
+        <charseq START="3335" END="3346">the consumer</charseq>
+      </extent>
+      <head>
+        <charseq START="3339" END="3346">consumer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-15-0">
+      <extent>
+        <charseq START="2940" END="2957">Japanese officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2949" END="2957">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-16" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-16-0">
+      <extent>
+        <charseq START="3319" END="3330">the
+pipeline</charseq>
+      </extent>
+      <head>
+        <charseq START="3323" END="3330">pipeline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-17-0">
+      <extent>
+        <charseq START="3748" END="3756">Consumers</charseq>
+      </extent>
+      <head>
+        <charseq START="3748" END="3756">Consumers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_005.0254-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_005.0254-18-0">
+      <extent>
+        <charseq START="3762" END="3771">businesses</charseq>
+      </extent>
+      <head>
+        <charseq START="3762" END="3771">businesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_005.0254-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V1-1">
+      <extent>
+        <charseq START="431" END="434">0.6%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V5-1">
+      <extent>
+        <charseq START="689" END="692">2.7%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V6" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V6-1">
+      <extent>
+        <charseq START="698" END="701">0.7%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V7" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_005.0254-V7-1">
+      <extent>
+        <charseq START="1027" END="1042">The stronger yen</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V12" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V12-1">
+      <extent>
+        <charseq START="1824" END="1827">1.7%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V15" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V15-1">
+      <extent>
+        <charseq START="2004" END="2006">11%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V17" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V17-1">
+      <extent>
+        <charseq START="2137" END="2140">6.5%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V19" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V19-1">
+      <extent>
+        <charseq START="2669" END="2675">only 7%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V20" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V20-1">
+      <extent>
+        <charseq START="2723" END="2733">roughly 57%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V23" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_005.0254-V23-1">
+      <extent>
+        <charseq START="2994" END="3007">the strong
+yen</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V24" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_005.0254-V24-1">
+      <extent>
+        <charseq START="3107" END="3117">roughly 10%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V25" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_005.0254-V25-1">
+      <extent>
+        <charseq START="3134" END="3143">the dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_005.0254-V26" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_005.0254-V26-1">
+      <extent>
+        <charseq START="3174" END="3180">The yen</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_005.0254-T0" VAL="2016-01">
+    <timex2_mention ID="wsj93_005.0254-T0-1">
+      <extent>
+        <charseq START="343" END="349">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T1" VAL="2016-03">
+    <timex2_mention ID="wsj93_005.0254-T1-1">
+      <extent>
+        <charseq START="359" END="363">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T2" VAL="2016-01">
+    <timex2_mention ID="wsj93_005.0254-T2-1">
+      <extent>
+        <charseq START="863" END="869">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T3" VAL="2016-03">
+    <timex2_mention ID="wsj93_005.0254-T3-1">
+      <extent>
+        <charseq START="874" END="878">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T4" VAL="2016-01">
+    <timex2_mention ID="wsj93_005.0254-T4-1">
+      <extent>
+        <charseq START="1543" END="1549">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T5" VAL="2016-03">
+    <timex2_mention ID="wsj93_005.0254-T5-1">
+      <extent>
+        <charseq START="1554" END="1558">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T6" VAL="2016-03-31">
+    <timex2_mention ID="wsj93_005.0254-T6-1">
+      <extent>
+        <charseq START="1738" END="1745">March 31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T7" VAL="2016-03">
+    <timex2_mention ID="wsj93_005.0254-T7-1">
+      <extent>
+        <charseq START="1832" END="1836">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T8" VAL="P9M">
+    <timex2_mention ID="wsj93_005.0254-T8-1">
+      <extent>
+        <charseq START="1859" END="1869">nine months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T9" VAL="2016-04">
+    <timex2_mention ID="wsj93_005.0254-T9-1">
+      <extent>
+        <charseq START="1951" END="1955">April</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T10" VAL="2016-04">
+    <timex2_mention ID="wsj93_005.0254-T10-1">
+      <extent>
+        <charseq START="1993" END="1997">April</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T11" VAL="PXM">
+    <timex2_mention ID="wsj93_005.0254-T11-1">
+      <extent>
+        <charseq START="2092" END="2104">recent months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T12" VAL="2015">
+    <timex2_mention ID="wsj93_005.0254-T12-1">
+      <extent>
+        <charseq START="2243" END="2251">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T13" VAL="2016-02">
+    <timex2_mention ID="wsj93_005.0254-T13-1">
+      <extent>
+        <charseq START="3164" END="3171">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T14" VAL="2016-01">
+    <timex2_mention ID="wsj93_005.0254-T14-1">
+      <extent>
+        <charseq START="3214" END="3220">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T15" VAL="2016-03">
+    <timex2_mention ID="wsj93_005.0254-T15-1">
+      <extent>
+        <charseq START="3225" END="3229">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_005.0254-T16" VAL="2016-03-25">
+    <timex2_mention ID="wsj93_005.0254-T16-1">
+      <extent>
+        <charseq START="3646" END="3651">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

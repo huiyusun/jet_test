@@ -1,0 +1,601 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030605_223004.4.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030605_223004.4">
+  <entity ID="CNN_ENG_20030605_223004.4-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-1-0" ROLE="GPE">
+      <extent>
+        <charseq START="282" END="286">tampa</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="286">tampa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="330" END="338">professor</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="338">professor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tampa">
+        <charseq START="282" END="286">tampa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="289" END="295">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="295">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="343" END="349">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="349">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="florida">
+        <charseq START="289" END="295">florida</charseq>
+      </name>
+      <name NAME="florida">
+        <charseq START="343" END="349">florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-3-0">
+      <extent>
+        <charseq START="298" END="311">samuel arianna</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="311">samuel arianna</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-3-1">
+      <extent>
+        <charseq START="460" END="461">he</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="461">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-3-2">
+      <extent>
+        <charseq START="478" END="479">he</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="479">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-3-3">
+      <extent>
+        <charseq START="491" END="493">his</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="493">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-3-4">
+      <extent>
+        <charseq START="512" END="514">his</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="514">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-3-5">
+      <extent>
+        <charseq START="600" END="602">him</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="602">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="samuel arianna">
+        <charseq START="298" END="311">samuel arianna</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-4" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-4-0">
+      <extent>
+        <charseq START="313" END="328">a former college</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="328">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-5-0">
+      <extent>
+        <charseq START="425" END="457">a palestinian group islamic jihad</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="457">islamic jihad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-5-1">
+      <extent>
+        <charseq START="439" END="443">group</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="443">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="islamic jihad">
+        <charseq START="445" END="457">islamic jihad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="427" END="437">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="437">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="palestinian">
+        <charseq START="427" END="437">palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-7-0">
+      <extent>
+        <charseq START="491" END="504">his dmai court</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="504">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-7-1">
+      <extent>
+        <charseq START="523" END="527">court</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="527">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-8-0">
+      <extent>
+        <charseq START="560" END="566">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="560" END="566">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-9-0">
+      <extent>
+        <charseq START="572" END="584">the three
+men</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="584">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-9-1">
+      <extent>
+        <charseq START="608" END="611">they</charseq>
+      </extent>
+      <head>
+        <charseq START="608" END="611">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-9-2">
+      <extent>
+        <charseq START="682" END="686">their</charseq>
+      </extent>
+      <head>
+        <charseq START="682" END="686">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-9-3">
+      <extent>
+        <charseq START="701" END="716">the indicted men</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="716">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-9-4">
+      <extent>
+        <charseq START="810" END="813">they</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="813">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="644" END="657">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="657">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-11-0">
+      <extent>
+        <charseq START="694" END="696">two</charseq>
+      </extent>
+      <head>
+        <charseq START="694" END="696">two</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-12-0">
+      <extent>
+        <charseq START="739" END="750">samiel aryan</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="750">samiel aryan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="samiel aryan">
+        <charseq START="739" END="750">samiel aryan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-13-0">
+      <extent>
+        <charseq START="756" END="770">other defendant</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="770">defendant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-14-0">
+      <extent>
+        <charseq START="828" END="831">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="831">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-15-0">
+      <extent>
+        <charseq START="953" END="969">president lincoln</charseq>
+      </extent>
+      <head>
+        <charseq START="963" END="969">lincoln</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-15-1">
+      <extent>
+        <charseq START="953" END="961">president</charseq>
+      </extent>
+      <head>
+        <charseq START="953" END="961">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lincoln">
+        <charseq START="963" END="969">lincoln</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-16-0">
+      <extent>
+        <charseq START="1007" END="1011">f.d.r</charseq>
+      </extent>
+      <head>
+        <charseq START="1007" END="1011">f.d.r</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="f.d.r">
+        <charseq START="1007" END="1011">f.d.r</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-17-0">
+      <extent>
+        <charseq START="1021" END="1025">world</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1025">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-18-0">
+      <extent>
+        <charseq START="1225" END="1230">others</charseq>
+      </extent>
+      <head>
+        <charseq START="1225" END="1230">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-19-0">
+      <extent>
+        <charseq START="1260" END="1267">mr. barr</charseq>
+      </extent>
+      <head>
+        <charseq START="1264" END="1267">barr</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-19-1">
+      <extent>
+        <charseq START="1260" END="1262">mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1260" END="1262">mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="barr">
+        <charseq START="1264" END="1267">barr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_223004.4-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1315" END="1321">georgia</charseq>
+      </extent>
+      <head>
+        <charseq START="1315" END="1321">georgia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1302" END="1310">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="1306" END="1310">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="georgia">
+        <charseq START="1315" END="1321">georgia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-21-0">
+      <extent>
+        <charseq START="1324" END="1340">former
+prosecutor</charseq>
+      </extent>
+      <head>
+        <charseq START="1331" END="1340">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-21-1">
+      <extent>
+        <charseq START="1424" END="1425">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1425">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_223004.4-21-2">
+      <extent>
+        <charseq START="1471" END="1473">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1471" END="1473">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-22-0">
+      <extent>
+        <charseq START="1352" END="1366">the last person</charseq>
+      </extent>
+      <head>
+        <charseq START="1361" END="1366">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-23" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-23-0">
+      <extent>
+        <charseq START="1371" END="1380">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="1375" END="1380">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-24-0">
+      <extent>
+        <charseq START="1407" END="1421">ablying liberal</charseq>
+      </extent>
+      <head>
+        <charseq START="1415" END="1421">liberal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_223004.4-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-25-0">
+      <extent>
+        <charseq START="1476" END="1486">congressman</charseq>
+      </extent>
+      <head>
+        <charseq START="1476" END="1486">congressman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_223004.4-25-1">
+      <extent>
+        <charseq START="1489" END="1500">good evening</charseq>
+      </extent>
+      <head>
+        <charseq START="1494" END="1500">evening</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T0" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T1" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T1-1">
+      <extent>
+        <charseq START="76" END="82">tonight</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T2" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T2-1">
+      <extent>
+        <charseq START="472" END="476">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T3" VAL="2005">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T3-1">
+      <extent>
+        <charseq START="554" END="557">2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T4" VAL="P18M">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T4-1">
+      <extent>
+        <charseq START="867" END="875">18
+months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T5" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T5-1">
+      <extent>
+        <charseq START="1205" END="1207">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_223004.4-T6" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_223004.4-T6-1">
+      <extent>
+        <charseq START="1436" END="1442">tonight</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030605_223004.4-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-1" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-2" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030605_223004.4-R1-1">
+      <extent>
+        <charseq START="282" END="295">tampa, florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="282" END="286">tampa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="289" END="295">florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030605_223004.4-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-1" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-1" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030605_223004.4-R2-2">
+      <extent>
+        <charseq START="282" END="338">tampa, florida,
+samuel arianna a former college professor</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="282" END="286">tampa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="330" END="338">professor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_ENG_20030605_223004.4-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-20" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030605_223004.4-20" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030605_223004.4-R3-2">
+      <extent>
+        <charseq START="1302" END="1321">the state of georgia</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1302" END="1310">the state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030605_223004.4-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1315" END="1321">georgia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

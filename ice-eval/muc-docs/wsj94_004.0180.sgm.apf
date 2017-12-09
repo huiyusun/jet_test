@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_004.0180.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_004.0180">
+  <entity ID="wsj94_004.0180-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-1-0">
+      <extent>
+        <charseq START="216" END="237">Cheyenne Software Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="216" END="237">Cheyenne Software Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-1-1">
+      <extent>
+        <charseq START="293" END="303">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="303">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_004.0180-1-2">
+      <extent>
+        <charseq START="315" END="317">its</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="317">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cheyenne Software Inc.">
+        <charseq START="216" END="237">Cheyenne Software Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-2-0">
+      <extent>
+        <charseq START="315" END="326">its chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="326">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-3-0">
+      <extent>
+        <charseq START="360" END="377">the Roslyn Heights</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="377">Roslyn Heights</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Roslyn Heights">
+        <charseq START="364" END="377">Roslyn Heights</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="380" END="383">N.Y.</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="383">N.Y.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="N.Y.">
+        <charseq START="380" END="383">N.Y.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-5-0">
+      <extent>
+        <charseq START="386" END="394">developer</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="394">developer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-6-0">
+      <extent>
+        <charseq START="454" END="480">the American
+Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="480">American
+Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-6-1">
+      <extent>
+        <charseq START="488" END="498">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="498">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-6-2">
+      <extent>
+        <charseq START="701" END="709">The stock</charseq>
+      </extent>
+      <head>
+        <charseq START="705" END="709">stock</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-6-3">
+      <extent>
+        <charseq START="862" END="872">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="872">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American Stock Exchange">
+        <charseq START="458" END="480">American
+Stock Exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-7-0">
+      <extent>
+        <charseq START="735" END="767">the CNBC cable-television
+network</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="767">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_004.0180-7-1">
+      <extent>
+        <charseq START="793" END="795">its</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="795">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-8-0">
+      <extent>
+        <charseq START="739" END="742">CNBC</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="742">CNBC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-8-1">
+      <extent>
+        <charseq START="804" END="814">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="814">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CNBC">
+        <charseq START="739" END="742">CNBC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-9-0">
+      <extent>
+        <charseq START="842" END="859">corporate insiders</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="859">insiders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-10-0">
+      <extent>
+        <charseq START="926" END="937">Eli Oxenhorn</charseq>
+      </extent>
+      <head>
+        <charseq START="926" END="937">Eli Oxenhorn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-10-1">
+      <extent>
+        <charseq START="940" END="947">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="940" END="947">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-10-2">
+      <extent>
+        <charseq START="1094" END="1105">Mr. Oxenhorn</charseq>
+      </extent>
+      <head>
+        <charseq START="1098" END="1105">Oxenhorn</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-10-3">
+      <extent>
+        <charseq START="1094" END="1096">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1096">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eli Oxenhorn">
+        <charseq START="926" END="937">Eli Oxenhorn</charseq>
+      </name>
+      <name NAME="Oxenhorn">
+        <charseq START="1098" END="1105">Oxenhorn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_004.0180-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_004.0180-11-0">
+      <extent>
+        <charseq START="1056" END="1067">ReiJane Huai</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1067">ReiJane Huai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_004.0180-11-1">
+      <extent>
+        <charseq START="1070" END="1078">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1078">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ReiJane Huai">
+        <charseq START="1056" END="1067">ReiJane Huai</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_004.0180-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_004.0180-V1-1">
+      <extent>
+        <charseq START="258" END="260">13%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_004.0180-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_004.0180-V3-1">
+      <extent>
+        <charseq START="535" END="537">82%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_004.0180-V4" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_004.0180-V4-1">
+      <extent>
+        <charseq START="560" END="567">26 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_004.0180-V5" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj94_004.0180-V5-1">
+      <extent>
+        <charseq START="600" END="607">14
+cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj94_004.0180-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_004.0180-V7-1">
+      <extent>
+        <charseq START="643" END="645">92%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_004.0180-T0" VAL="2015-03-28">
+    <timex2_mention ID="wsj94_004.0180-T0-1">
+      <extent>
+        <charseq START="618" END="627">a year ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_004.0180-T1" VAL="2016-03-31">
+    <timex2_mention ID="wsj94_004.0180-T1-1">
+      <extent>
+        <charseq START="686" END="693">March 31</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_004.0180-T2" VAL="1987">
+    <timex2_mention ID="wsj94_004.0180-T2-1">
+      <extent>
+        <charseq START="955" END="958">1987</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_004.0180-T3" VAL="P3Y">
+    <timex2_mention ID="wsj94_004.0180-T3-1">
+      <extent>
+        <charseq START="1043" END="1053">three years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_004.0180-T4" VAL="2016-05-20">
+    <timex2_mention ID="wsj94_004.0180-T4-1">
+      <extent>
+        <charseq START="1118" END="1123">May
+20</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

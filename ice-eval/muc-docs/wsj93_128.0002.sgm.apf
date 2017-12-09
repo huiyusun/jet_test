@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_128.0002.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_128.0002">
+  <entity ID="wsj93_128.0002-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-1-0">
+      <extent>
+        <charseq START="239" END="255">President Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="255">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-1">
+      <extent>
+        <charseq START="239" END="247">President</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="247">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-1-2">
+      <extent>
+        <charseq START="460" END="470">Mr. Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="470">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-3">
+      <extent>
+        <charseq START="460" END="462">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="462">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-4">
+      <extent>
+        <charseq START="473" END="485">the
+president</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="485">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-1-5">
+      <extent>
+        <charseq START="852" END="862">Mr. Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="862">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-6">
+      <extent>
+        <charseq START="852" END="854">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="854">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-7">
+      <extent>
+        <charseq START="1774" END="1786">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="1778" END="1786">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-8">
+      <extent>
+        <charseq START="1833" END="1834">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1833" END="1834">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-9">
+      <extent>
+        <charseq START="1847" END="1849">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1847" END="1849">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-10">
+      <extent>
+        <charseq START="1858" END="1859">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1858" END="1859">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-11">
+      <extent>
+        <charseq START="2003" END="2004">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2003" END="2004">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-12">
+      <extent>
+        <charseq START="2130" END="2132">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2130" END="2132">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-1-13">
+      <extent>
+        <charseq START="2138" END="2140">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2138" END="2140">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-1-14">
+      <extent>
+        <charseq START="2200" END="2216">President Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="2210" END="2216">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-1-15">
+      <extent>
+        <charseq START="2200" END="2208">President</charseq>
+      </extent>
+      <head>
+        <charseq START="2200" END="2208">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Clinton">
+        <charseq START="249" END="255">Clinton</charseq>
+      </name>
+      <name NAME="Clinton">
+        <charseq START="464" END="470">Clinton</charseq>
+      </name>
+      <name NAME="Clinton">
+        <charseq START="856" END="862">Clinton</charseq>
+      </name>
+      <name NAME="Clinton">
+        <charseq START="2210" END="2216">Clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-2-0">
+      <extent>
+        <charseq START="352" END="364">Ron Kiczenski</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="364">Ron Kiczenski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-2-1">
+      <extent>
+        <charseq START="733" END="745">Mr. Kiczenski</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="745">Kiczenski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-2-2">
+      <extent>
+        <charseq START="733" END="735">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="735">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-2-3">
+      <extent>
+        <charseq START="1709" END="1721">Mr. Kiczenski</charseq>
+      </extent>
+      <head>
+        <charseq START="1713" END="1721">Kiczenski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-2-4">
+      <extent>
+        <charseq START="1709" END="1711">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1709" END="1711">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-2-5">
+      <extent>
+        <charseq START="2451" END="2463">Mr. Kiczenski</charseq>
+      </extent>
+      <head>
+        <charseq START="2455" END="2463">Kiczenski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-2-6">
+      <extent>
+        <charseq START="2451" END="2453">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2451" END="2453">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ron Kiczenski">
+        <charseq START="352" END="364">Ron Kiczenski</charseq>
+      </name>
+      <name NAME="Kiczenski">
+        <charseq START="737" END="745">Kiczenski</charseq>
+      </name>
+      <name NAME="Kiczenski">
+        <charseq START="1713" END="1721">Kiczenski</charseq>
+      </name>
+      <name NAME="Kiczenski">
+        <charseq START="2455" END="2463">Kiczenski</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-3-0">
+      <extent>
+        <charseq START="369" END="379">Paso Robles</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="379">Paso Robles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-1">
+      <extent>
+        <charseq START="410" END="411">he</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="411">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-2">
+      <extent>
+        <charseq START="767" END="768">he</charseq>
+      </extent>
+      <head>
+        <charseq START="767" END="768">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-3">
+      <extent>
+        <charseq START="820" END="821">he</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="821">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-4">
+      <extent>
+        <charseq START="882" END="883">he</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="883">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-5">
+      <extent>
+        <charseq START="945" END="946">he</charseq>
+      </extent>
+      <head>
+        <charseq START="945" END="946">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-6">
+      <extent>
+        <charseq START="1000" END="1001">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1000" END="1001">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-7">
+      <extent>
+        <charseq START="1008" END="1009">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1009">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-8">
+      <extent>
+        <charseq START="1210" END="1211">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1210" END="1211">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-9">
+      <extent>
+        <charseq START="1269" END="1270">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1269" END="1270">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-10">
+      <extent>
+        <charseq START="1338" END="1340">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1338" END="1340">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-11">
+      <extent>
+        <charseq START="1349" END="1350">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1350">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-12">
+      <extent>
+        <charseq START="1624" END="1625">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1624" END="1625">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-13">
+      <extent>
+        <charseq START="2285" END="2286">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2285" END="2286">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-3-14">
+      <extent>
+        <charseq START="2434" END="2435">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2434" END="2435">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paso Robles">
+        <charseq START="369" END="379">Paso Robles</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="382" END="387">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="387">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="382" END="387">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-5-0">
+      <extent>
+        <charseq START="787" END="801">the White
+House</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="801">White
+House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-5-1">
+      <extent>
+        <charseq START="828" END="829">it</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="829">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-5-2">
+      <extent>
+        <charseq START="843" END="846">time</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="846">time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-5-3">
+      <extent>
+        <charseq START="1474" END="1488">The White House</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1488">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-5-4">
+      <extent>
+        <charseq START="1637" END="1647">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="1637" END="1647">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-5-5">
+      <extent>
+        <charseq START="2221" END="2235">the White House</charseq>
+      </extent>
+      <head>
+        <charseq START="2225" END="2235">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="791" END="801">White
+House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="1478" END="1488">White House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="1637" END="1647">White House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="2225" END="2235">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-6" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-6-0">
+      <extent>
+        <charseq START="1103" END="1111">the plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1111">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-6-1">
+      <extent>
+        <charseq START="1017" END="1034">the drug legalized</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1034">legalized</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-7-0">
+      <extent>
+        <charseq START="1559" END="1571">Mr. Kiczenksi</charseq>
+      </extent>
+      <head>
+        <charseq START="1563" END="1571">Kiczenksi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-7-1">
+      <extent>
+        <charseq START="1559" END="1561">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1561">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kiczenksi">
+        <charseq START="1563" END="1571">Kiczenksi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-8-0">
+      <extent>
+        <charseq START="1637" END="1657">White House employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1657">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-8-1">
+      <extent>
+        <charseq START="1659" END="1662">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1659" END="1662">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-9-0">
+      <extent>
+        <charseq START="1877" END="1937">the Secret Service and Drug
+Enforcement Administration agents</charseq>
+      </extent>
+      <head>
+        <charseq START="1932" END="1937">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_128.0002-9-1">
+      <extent>
+        <charseq START="1951" END="1954">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1951" END="1954">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-10-0">
+      <extent>
+        <charseq START="1881" END="1894">Secret Service</charseq>
+      </extent>
+      <head>
+        <charseq START="1881" END="1894">Secret Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Secret Service">
+        <charseq START="1881" END="1894">Secret Service</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-11-0">
+      <extent>
+        <charseq START="1900" END="1930">Drug
+Enforcement Administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1900" END="1930">Drug
+Enforcement Administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-11-1">
+      <extent>
+        <charseq START="2271" END="2277">the DEA</charseq>
+      </extent>
+      <head>
+        <charseq START="2275" END="2277">DEA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Drug Enforcement Administration">
+        <charseq START="1900" END="1930">Drug
+Enforcement Administration</charseq>
+      </name>
+      <name NAME="DEA">
+        <charseq START="2275" END="2277">DEA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-12-0">
+      <extent>
+        <charseq START="2033" END="2047">Mary Lee Warren</charseq>
+      </extent>
+      <head>
+        <charseq START="2033" END="2047">Mary Lee Warren</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-12-1">
+      <extent>
+        <charseq START="2050" END="2054">chief</charseq>
+      </extent>
+      <head>
+        <charseq START="2050" END="2054">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-12-2">
+      <extent>
+        <charseq START="2239" END="2248">Ms. Warren</charseq>
+      </extent>
+      <head>
+        <charseq START="2243" END="2248">Warren</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-12-3">
+      <extent>
+        <charseq START="2239" END="2241">Ms.</charseq>
+      </extent>
+      <head>
+        <charseq START="2239" END="2241">Ms.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mary Lee Warren">
+        <charseq START="2033" END="2047">Mary Lee Warren</charseq>
+      </name>
+      <name NAME="Warren">
+        <charseq START="2243" END="2248">Warren</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_128.0002-13-0">
+      <extent>
+        <charseq START="2059" END="2080">the
+Justice Department</charseq>
+      </extent>
+      <head>
+        <charseq START="2063" END="2080">Justice Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Justice Department">
+        <charseq START="2063" END="2080">Justice Department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_128.0002-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_128.0002-14-0">
+      <extent>
+        <charseq START="2311" END="2319">the chief</charseq>
+      </extent>
+      <head>
+        <charseq START="2315" END="2319">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_128.0002-T0" VAL="P29Y">
+    <timex2_mention ID="wsj93_128.0002-T0-1">
+      <extent>
+        <charseq START="748" END="755">29 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_128.0002-T1" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_128.0002-T1-1">
+      <extent>
+        <charseq START="1283" END="1285">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

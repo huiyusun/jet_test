@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="/Users/nuist/jetx/data/ACE/2005/training/nw/AFP_ENG_20030417.0307.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030417.0307">
+  <entity ID="AFP_ENG_20030417.0307-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="143" END="148">MOSCOW</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="148">MOSCOW</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="229" END="234">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="234">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1304" END="1309">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="1304" END="1309">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1489" END="1494">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="1489" END="1494">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1967" END="1972">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="1967" END="1972">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="2449" END="2454">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="2449" END="2454">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0307-1-6" ROLE="GPE">
+      <extent>
+        <charseq START="2484" END="2485">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2484" END="2485">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-1-7" ROLE="GPE">
+      <extent>
+        <charseq START="2842" END="2847">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="2842" END="2847">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MOSCOW">
+        <charseq START="143" END="148">MOSCOW</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="229" END="234">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="1304" END="1309">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="1489" END="1494">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="1967" END="1972">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="2449" END="2454">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="2842" END="2847">Moscow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-2-0">
+      <extent>
+        <charseq START="161" END="163">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="163">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="161" END="163">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="454" END="458">China</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="458">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="818" END="822">China</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="822">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="454" END="458">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="818" END="822">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="464" END="478">India that said</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="468">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="India">
+        <charseq START="464" END="468">India</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="849" END="854">France</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="854">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1267" END="1272">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1272">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="1673" END="1678">French</charseq>
+      </extent>
+      <head>
+        <charseq START="1673" END="1678">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="2345" END="2350">France</charseq>
+      </extent>
+      <head>
+        <charseq START="2345" END="2350">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="849" END="854">France</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="1267" END="1272">France</charseq>
+      </name>
+      <name NAME="French">
+        <charseq START="1673" END="1678">French</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="2345" END="2350">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-6-0">
+      <extent>
+        <charseq START="865" END="883">UN
+Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="883">UN
+Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UN Security Council">
+        <charseq START="865" END="883">UN
+Security Council</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="1013" END="1023">North Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1023">North Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Korea">
+        <charseq START="1013" END="1023">North Korea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-8" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="1151" END="1154">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="1151" END="1154">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="1151" END="1154">Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-9-0">
+      <extent>
+        <charseq START="1211" END="1231">Foreign Minister Igor</charseq>
+      </extent>
+      <head>
+        <charseq START="1228" END="1231">Igor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0307-9-1">
+      <extent>
+        <charseq START="1211" END="1226">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1211" END="1226">Foreign Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Igor">
+        <charseq START="1228" END="1231">Igor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-10-0">
+      <extent>
+        <charseq START="1234" END="1239">Ivanov</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1239">Ivanov</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ivanov">
+        <charseq START="1234" END="1239">Ivanov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="1255" END="1261">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1255" END="1261">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="1824" END="1829">German</charseq>
+      </extent>
+      <head>
+        <charseq START="1824" END="1829">German</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-11-2" ROLE="GPE">
+      <extent>
+        <charseq START="2356" END="2362">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="2356" END="2362">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="1255" END="1261">Germany</charseq>
+      </name>
+      <name NAME="German">
+        <charseq START="1824" END="1829">German</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="2356" END="2362">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-12-0">
+      <extent>
+        <charseq START="1282" END="1339">Andrei Piontkovsky of Moscow&apos;s Center of
+Strategic Studies</charseq>
+      </extent>
+      <head>
+        <charseq START="1282" END="1299">Andrei Piontkovsky</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Andrei Piontkovsky">
+        <charseq START="1282" END="1299">Andrei Piontkovsky</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-13-0">
+      <extent>
+        <charseq START="1304" END="1339">Moscow&apos;s Center of
+Strategic Studies</charseq>
+      </extent>
+      <head>
+        <charseq START="1313" END="1339">Center of
+Strategic Studies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Center of Strategic Studies">
+        <charseq START="1313" END="1339">Center of
+Strategic Studies</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="1444" END="1449">Bejing</charseq>
+      </extent>
+      <head>
+        <charseq START="1444" END="1449">Bejing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bejing">
+        <charseq START="1444" END="1449">Bejing</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1578" END="1591">the European &quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1589">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European">
+        <charseq START="1582" END="1589">European</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-16-0">
+      <extent>
+        <charseq START="1673" END="1703">French President Jacques Chirac</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1703">Jacques Chirac</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0307-16-1">
+      <extent>
+        <charseq START="1680" END="1688">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1680" END="1688">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jacques Chirac">
+        <charseq START="1690" END="1703">Jacques Chirac</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-17-0">
+      <extent>
+        <charseq START="1824" END="1858">German Chancellor Gerhard Schroeder</charseq>
+      </extent>
+      <head>
+        <charseq START="1842" END="1858">Gerhard Schroeder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0307-17-1">
+      <extent>
+        <charseq START="2137" END="2139">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2137" END="2139">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gerhard Schroeder">
+        <charseq START="1842" END="1858">Gerhard Schroeder</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="2096" END="2100">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="2096" END="2100">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="2851" END="2855">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="2851" END="2855">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-18-2" ROLE="GPE">
+      <extent>
+        <charseq START="3815" END="3819">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="3815" END="3819">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-18-3" ROLE="GPE">
+      <extent>
+        <charseq START="3904" END="3908">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="3904" END="3908">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Putin">
+        <charseq START="2096" END="2100">Putin</charseq>
+      </name>
+      <name NAME="Putin">
+        <charseq START="2851" END="2855">Putin</charseq>
+      </name>
+      <name NAME="Putin">
+        <charseq START="3815" END="3819">Putin</charseq>
+      </name>
+      <name NAME="Putin">
+        <charseq START="3904" END="3908">Putin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-19-0">
+      <extent>
+        <charseq START="2275" END="2291">Anatoly
+Adamishin</charseq>
+      </extent>
+      <head>
+        <charseq START="2275" END="2291">Anatoly
+Adamishin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anatoly Adamishin">
+        <charseq START="2275" END="2291">Anatoly
+Adamishin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="2727" END="2734">European</charseq>
+      </extent>
+      <head>
+        <charseq START="2727" END="2734">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European">
+        <charseq START="2727" END="2734">European</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="2783" END="2787">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="2783" END="2787">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paris">
+        <charseq START="2783" END="2787">Paris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="2996" END="3011">Saint Petersburg</charseq>
+      </extent>
+      <head>
+        <charseq START="2996" END="3011">Saint Petersburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0307-22-1" ROLE="GPE">
+      <extent>
+        <charseq START="2960" END="3011">the Russian leader&apos;s
+native city of Saint Petersburg</charseq>
+      </extent>
+      <head>
+        <charseq START="2988" END="2991">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saint Petersburg">
+        <charseq START="2996" END="3011">Saint Petersburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-23-0">
+      <extent>
+        <charseq START="3091" END="3154">liberal lawmaker Irina Khakamada of the Union of Rightist Forces</charseq>
+      </extent>
+      <head>
+        <charseq START="3108" END="3122">Irina Khakamada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-23-1">
+      <extent>
+        <charseq START="3306" END="3314">Khakamada</charseq>
+      </extent>
+      <head>
+        <charseq START="3306" END="3314">Khakamada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Irina Khakamada">
+        <charseq START="3108" END="3122">Irina Khakamada</charseq>
+      </name>
+      <name NAME="Khakamada">
+        <charseq START="3306" END="3314">Khakamada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-24-0">
+      <extent>
+        <charseq START="3127" END="3154">the Union of Rightist Forces</charseq>
+      </extent>
+      <head>
+        <charseq START="3131" END="3154">Union of Rightist Forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Union of Rightist Forces">
+        <charseq START="3131" END="3154">Union of Rightist Forces</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-25-0">
+      <extent>
+        <charseq START="3169" END="3181">the Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="3173" END="3181">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Americans">
+        <charseq START="3173" END="3181">Americans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-26-0">
+      <extent>
+        <charseq START="3576" END="3589">Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="3576" END="3589">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="3576" END="3589">Saddam Hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-27-0">
+      <extent>
+        <charseq START="3998" END="4010">most Russians</charseq>
+      </extent>
+      <head>
+        <charseq START="4003" END="4010">Russians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russians">
+        <charseq START="4003" END="4010">Russians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-28-0">
+      <extent>
+        <charseq START="4245" END="4280">Viktor Kuvaldin of a research center</charseq>
+      </extent>
+      <head>
+        <charseq START="4245" END="4259">Viktor Kuvaldin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Viktor Kuvaldin">
+        <charseq START="4245" END="4259">Viktor Kuvaldin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-29-0">
+      <extent>
+        <charseq START="4292" END="4332">former Soviet president Mikhail Gorbachev</charseq>
+      </extent>
+      <head>
+        <charseq START="4316" END="4332">Mikhail Gorbachev</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0307-29-1">
+      <extent>
+        <charseq START="4306" END="4314">president</charseq>
+      </extent>
+      <head>
+        <charseq START="4306" END="4314">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mikhail Gorbachev">
+        <charseq START="4316" END="4332">Mikhail Gorbachev</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0307-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0307-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="4299" END="4304">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="4299" END="4304">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Soviet">
+        <charseq START="4299" END="4304">Soviet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

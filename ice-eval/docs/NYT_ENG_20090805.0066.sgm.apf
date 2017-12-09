@@ -1,0 +1,1727 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20090805.0066.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20090805.0066">
+  <entity ID="NYT_ENG_20090805.0066-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-1-0">
+      <extent>
+        <charseq START="57" END="70">The supervisor</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="70">supervisor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-1-1">
+      <extent>
+        <charseq START="111" END="125">Lynn Hoogenboom</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="125">Lynn Hoogenboom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lynn Hoogenboom">
+        <charseq START="111" END="125">Lynn Hoogenboom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-2-0">
+      <extent>
+        <charseq START="80" END="106">New York Times News
+Service</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="106">New York Times News
+Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-2-1">
+      <extent>
+        <charseq START="4837" END="4867">THE NEW YORK TIMES NEWS SERVICE</charseq>
+      </extent>
+      <head>
+        <charseq START="4841" END="4867">NEW YORK TIMES NEWS SERVICE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Times News Service">
+        <charseq START="80" END="106">New York Times News
+Service</charseq>
+      </name>
+      <name NAME="NEW YORK TIMES NEWS SERVICE">
+        <charseq START="4841" END="4867">NEW YORK TIMES NEWS SERVICE</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-3-0">
+      <extent>
+        <charseq START="159" END="176">lyhoog@nytimes.com</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="176">lyhoog@nytimes.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lyhoog@nytimes.com">
+        <charseq START="159" END="176">lyhoog@nytimes.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="197" END="200">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="200">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="311" END="318">American</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="318">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="513" END="529">the
+United States</charseq>
+      </extent>
+      <head>
+        <charseq START="517" END="529">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="3572" END="3575">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3572" END="3575">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="3667" END="3674">American</charseq>
+      </extent>
+      <head>
+        <charseq START="3667" END="3674">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="3938" END="3954">the United
+States</charseq>
+      </extent>
+      <head>
+        <charseq START="3942" END="3954">United
+States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="197" END="200">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="311" END="318">American</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="517" END="529">United States</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3572" END="3575">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="3667" END="3674">American</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="3942" END="3954">United
+States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-5-0">
+      <extent>
+        <charseq START="230" END="258">former President Bill
+Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="258">Bill
+Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-5-1">
+      <extent>
+        <charseq START="237" END="245">President</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="245">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-5-2">
+      <extent>
+        <charseq START="452" END="458">Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="458">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-5-3">
+      <extent>
+        <charseq START="535" END="537">his</charseq>
+      </extent>
+      <head>
+        <charseq START="535" END="537">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bill Clinton">
+        <charseq START="247" END="258">Bill
+Clinton</charseq>
+      </name>
+      <name NAME="Clinton">
+        <charseq START="452" END="458">Clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="273" END="283">North Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="283">North Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="561">North Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="561">North Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="569" END="571">its</charseq>
+      </extent>
+      <head>
+        <charseq START="569" END="571">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="585" END="586">it</charseq>
+      </extent>
+      <head>
+        <charseq START="585" END="586">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="604" END="606">its</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="606">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Korea">
+        <charseq START="273" END="283">North Korea</charseq>
+      </name>
+      <name NAME="North Korea">
+        <charseq START="551" END="561">North Korea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-7-0">
+      <extent>
+        <charseq START="307" END="330">two American
+journalists</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="330">journalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-8-0">
+      <extent>
+        <charseq START="333" END="356">the Obama administration</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="356">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-8-1">
+      <extent>
+        <charseq START="3273" END="3296">the Obama
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="3283" END="3296">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-9-0">
+      <extent>
+        <charseq START="337" END="341">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="341">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-9-1">
+      <extent>
+        <charseq START="424" END="445">President Barack Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="445">Barack Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-9-2">
+      <extent>
+        <charseq START="424" END="432">President</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="432">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-9-3">
+      <extent>
+        <charseq START="2056" END="2077">President Barack Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="2066" END="2077">Barack Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-9-4">
+      <extent>
+        <charseq START="2056" END="2064">President</charseq>
+      </extent>
+      <head>
+        <charseq START="2056" END="2064">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-9-5">
+      <extent>
+        <charseq START="3277" END="3281">Obama</charseq>
+      </extent>
+      <head>
+        <charseq START="3277" END="3281">Obama</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Obama">
+        <charseq START="337" END="341">Obama</charseq>
+      </name>
+      <name NAME="Barack Obama">
+        <charseq START="434" END="445">Barack Obama</charseq>
+      </name>
+      <name NAME="Barack Obama">
+        <charseq START="2066" END="2077">Barack Obama</charseq>
+      </name>
+      <name NAME="Obama">
+        <charseq START="3277" END="3281">Obama</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-10-0">
+      <extent>
+        <charseq START="399" END="421">the North Korean regime</charseq>
+      </extent>
+      <head>
+        <charseq START="416" END="421">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="403" END="414">North Korean</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="414">North Korean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Korean">
+        <charseq START="403" END="414">North Korean</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="535" END="544">his allies</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="544">allies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-13-0">
+      <extent>
+        <charseq START="622" END="633">Mark Landler</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="633">Mark Landler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mark Landler">
+        <charseq START="622" END="633">Mark Landler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="666" END="670">Seoul</charseq>
+      </extent>
+      <head>
+        <charseq START="666" END="670">Seoul</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Seoul">
+        <charseq START="666" END="670">Seoul</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="673" END="683">South Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="673" END="683">South Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="689" END="700">South Korean</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="700">South Korean</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-15-2" ROLE="GPE">
+      <extent>
+        <charseq START="2730" END="2739">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="2734" END="2739">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="South Korea">
+        <charseq START="673" END="683">South Korea</charseq>
+      </name>
+      <name NAME="South Korean">
+        <charseq START="689" END="700">South Korean</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-16-0">
+      <extent>
+        <charseq START="689" END="717">South Korean police
+commandos</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="717">commandos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-17" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-17-0">
+      <extent>
+        <charseq START="727" END="739">a car factory</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="739">factory</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-17-1">
+      <extent>
+        <charseq START="975" END="985">the factory</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="985">factory</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-18" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-18-0">
+      <extent>
+        <charseq START="747" END="757">helicopters</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="757">helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-19" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-19-0">
+      <extent>
+        <charseq START="760" END="772">water cannons</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="772">cannons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-20-0">
+      <extent>
+        <charseq START="795" END="809">the authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="799" END="809">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-21-0">
+      <extent>
+        <charseq START="860" END="866">workers</charseq>
+      </extent>
+      <head>
+        <charseq START="860" END="866">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-22" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-22-0">
+      <extent>
+        <charseq START="879" END="887">the plant</charseq>
+      </extent>
+      <head>
+        <charseq START="883" END="887">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-22-1">
+      <extent>
+        <charseq START="988" END="1016">the Ssangyong Motor Co. plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1016">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-23-0">
+      <extent>
+        <charseq START="938" END="948">the workers</charseq>
+      </extent>
+      <head>
+        <charseq START="942" END="948">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-24-0">
+      <extent>
+        <charseq START="992" END="1010">Ssangyong Motor Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="1010">Ssangyong Motor Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ssangyong Motor Co.">
+        <charseq START="992" END="1010">Ssangyong Motor Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-25-0">
+      <extent>
+        <charseq START="1177" END="1197">DIGITAL-STATISTICIANS</charseq>
+      </extent>
+      <head>
+        <charseq START="1185" END="1197">STATISTICIANS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1200" END="1208">Palo Alto</charseq>
+      </extent>
+      <head>
+        <charseq START="1200" END="1208">Palo Alto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palo Alto">
+        <charseq START="1200" END="1208">Palo Alto</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1211" END="1216">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="1211" END="1216">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="1211" END="1216">Calif.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-28" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-28-0">
+      <extent>
+        <charseq START="1225" END="1231">Harvard</charseq>
+      </extent>
+      <head>
+        <charseq START="1225" END="1231">Harvard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Harvard">
+        <charseq START="1225" END="1231">Harvard</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-29-0">
+      <extent>
+        <charseq START="1234" END="1246">Carrie Grimes</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1246">Carrie Grimes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-29-1">
+      <extent>
+        <charseq START="1314" END="1316">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1314" END="1316">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-29-2">
+      <extent>
+        <charseq START="1336" END="1338">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1336" END="1338">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-29-3">
+      <extent>
+        <charseq START="1407" END="1409">She</charseq>
+      </extent>
+      <head>
+        <charseq START="1407" END="1409">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-29-4">
+      <extent>
+        <charseq START="1528" END="1533">Grimes</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1533">Grimes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-29-5">
+      <extent>
+        <charseq START="1538" END="1540">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1538" END="1540">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Carrie Grimes">
+        <charseq START="1234" END="1246">Carrie Grimes</charseq>
+      </name>
+      <name NAME="Grimes">
+        <charseq START="1528" END="1533">Grimes</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1283" END="1287">Mayan</charseq>
+      </extent>
+      <head>
+        <charseq START="1283" END="1287">Mayan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mayan">
+        <charseq START="1283" END="1287">Mayan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-31-0">
+      <extent>
+        <charseq START="1424" END="1429">Google</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1429">Google</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-31-1">
+      <extent>
+        <charseq START="1509" END="1511">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1509" END="1511">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Google">
+        <charseq START="1424" END="1429">Google</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-32-0">
+      <extent>
+        <charseq START="1545" END="1574">the Internet-age
+statisticians</charseq>
+      </extent>
+      <head>
+        <charseq START="1562" END="1574">statisticians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-33-0">
+      <extent>
+        <charseq START="1661" END="1670">Steve Lohr</charseq>
+      </extent>
+      <head>
+        <charseq START="1661" END="1670">Steve Lohr</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steve Lohr">
+        <charseq START="1661" END="1670">Steve Lohr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="1705" END="1711">Atlanta</charseq>
+      </extent>
+      <head>
+        <charseq START="1705" END="1711">Atlanta</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Atlanta">
+        <charseq START="1705" END="1711">Atlanta</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="1787" END="1803">state governments</charseq>
+      </extent>
+      <head>
+        <charseq START="1793" END="1803">governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-36" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="1870" END="1876">Georgia</charseq>
+      </extent>
+      <head>
+        <charseq START="1870" END="1876">Georgia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Georgia">
+        <charseq START="1870" END="1876">Georgia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-37-0">
+      <extent>
+        <charseq START="1879" END="1898">golf course managers</charseq>
+      </extent>
+      <head>
+        <charseq START="1891" END="1898">managers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-38-0">
+      <extent>
+        <charseq START="1954" END="1968">both industries</charseq>
+      </extent>
+      <head>
+        <charseq START="1959" END="1968">industries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-39" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-39-0">
+      <extent>
+        <charseq START="1974" END="1989">nonprofit groups</charseq>
+      </extent>
+      <head>
+        <charseq START="1984" END="1989">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-40-0">
+      <extent>
+        <charseq START="1995" END="2008">Leslie
+Kaufman</charseq>
+      </extent>
+      <head>
+        <charseq START="1995" END="2008">Leslie
+Kaufman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-40-1">
+      <extent>
+        <charseq START="2227" END="2229">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2227" END="2229">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Leslie Kaufman">
+        <charseq START="1995" END="2008">Leslie
+Kaufman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-41-0">
+      <extent>
+        <charseq START="2022" END="2026">BANKS</charseq>
+      </extent>
+      <head>
+        <charseq START="2022" END="2026">BANKS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-42" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-42-0">
+      <extent>
+        <charseq START="2132" END="2139">Congress</charseq>
+      </extent>
+      <head>
+        <charseq START="2132" END="2139">Congress</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-42-1">
+      <extent>
+        <charseq START="2142" END="2145">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2142" END="2145">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Congress">
+        <charseq START="2132" END="2139">Congress</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-43-0">
+      <extent>
+        <charseq START="2195" END="2210">central elements</charseq>
+      </extent>
+      <head>
+        <charseq START="2203" END="2210">elements</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-44-0">
+      <extent>
+        <charseq START="2227" END="2244">his own regulators</charseq>
+      </extent>
+      <head>
+        <charseq START="2235" END="2244">regulators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="2280" END="2308">the banking industry segments</charseq>
+      </extent>
+      <head>
+        <charseq START="2301" END="2308">segments</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-45-1" ROLE="GPE">
+      <extent>
+        <charseq START="2310" END="2313">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2310" END="2313">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-46-0">
+      <extent>
+        <charseq START="2366" END="2383">the top regulators</charseq>
+      </extent>
+      <head>
+        <charseq START="2374" END="2383">regulators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-47-0">
+      <extent>
+        <charseq START="2475" END="2489">Stephen Labaton</charseq>
+      </extent>
+      <head>
+        <charseq START="2475" END="2489">Stephen Labaton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-47-1">
+      <extent>
+        <charseq START="2525" END="2527">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2525" END="2527">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stephen Labaton">
+        <charseq START="2475" END="2489">Stephen Labaton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-48-0" ROLE="GPE">
+      <extent>
+        <charseq START="2509" END="2514">Beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="2509" END="2514">Beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Beirut">
+        <charseq START="2509" END="2514">Beirut</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-49-0">
+      <extent>
+        <charseq START="2525" END="2539">his adversaries</charseq>
+      </extent>
+      <head>
+        <charseq START="2529" END="2539">adversaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-50-0">
+      <extent>
+        <charseq START="2550" END="2581">the ceremony
+and security forces</charseq>
+      </extent>
+      <head>
+        <charseq START="2576" END="2581">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-51" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-51-0">
+      <extent>
+        <charseq START="2586" END="2596">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="2590" END="2596">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-52-0">
+      <extent>
+        <charseq START="2599" END="2627">President Mahmoud Ahmadinejad</charseq>
+      </extent>
+      <head>
+        <charseq START="2609" END="2627">Mahmoud Ahmadinejad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-52-1">
+      <extent>
+        <charseq START="2599" END="2607">President</charseq>
+      </extent>
+      <head>
+        <charseq START="2599" END="2607">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahmoud Ahmadinejad">
+        <charseq START="2609" END="2627">Mahmoud Ahmadinejad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-53-0">
+      <extent>
+        <charseq START="2821" END="2835">Robert
+F. Worth</charseq>
+      </extent>
+      <head>
+        <charseq START="2821" END="2835">Robert
+F. Worth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert F. Worth">
+        <charseq START="2821" END="2835">Robert
+F. Worth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-54-0" ROLE="GPE">
+      <extent>
+        <charseq START="2865" END="2873">Matsuyama</charseq>
+      </extent>
+      <head>
+        <charseq START="2865" END="2873">Matsuyama</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Matsuyama">
+        <charseq START="2865" END="2873">Matsuyama</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-55-0" ROLE="GPE">
+      <extent>
+        <charseq START="2876" END="2880">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="2876" END="2880">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-55-1" ROLE="GPE">
+      <extent>
+        <charseq START="3217" END="3226">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="3221" END="3226">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="2876" END="2880">Japan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-56" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-56-0">
+      <extent>
+        <charseq START="2902" END="2944">the
+long-governing Liberal Democratic Party</charseq>
+      </extent>
+      <head>
+        <charseq START="2921" END="2944">Liberal Democratic Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-56-1">
+      <extent>
+        <charseq START="2994" END="3002">the party</charseq>
+      </extent>
+      <head>
+        <charseq START="2998" END="3002">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Liberal Democratic Party">
+        <charseq START="2921" END="2944">Liberal Democratic Party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-57" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-57-0">
+      <extent>
+        <charseq START="2945" END="2951">&apos;s base</charseq>
+      </extent>
+      <head>
+        <charseq START="2948" END="2951">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-58" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-58-0">
+      <extent>
+        <charseq START="2956" END="2970">the countryside</charseq>
+      </extent>
+      <head>
+        <charseq START="2960" END="2970">countryside</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-59-0">
+      <extent>
+        <charseq START="3140" END="3153">Martin Fackler</charseq>
+      </extent>
+      <head>
+        <charseq START="3140" END="3153">Martin Fackler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Martin Fackler">
+        <charseq START="3140" END="3153">Martin Fackler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-60" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-60-0">
+      <extent>
+        <charseq START="3388" END="3400">electric cars</charseq>
+      </extent>
+      <head>
+        <charseq START="3397" END="3400">cars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-61" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-61-0" ROLE="GPE">
+      <extent>
+        <charseq START="3529" END="3532">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="3529" END="3532">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="3529" END="3532">Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-62-0">
+      <extent>
+        <charseq START="3538" END="3552">Matthew L. Wald</charseq>
+      </extent>
+      <head>
+        <charseq START="3538" END="3552">Matthew L. Wald</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Matthew L. Wald">
+        <charseq START="3538" END="3552">Matthew L. Wald</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-63" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-63-0" ROLE="GPE">
+      <extent>
+        <charseq START="3566" END="3570">CHINA</charseq>
+      </extent>
+      <head>
+        <charseq START="3566" END="3570">CHINA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-64" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-64-0" ROLE="GPE">
+      <extent>
+        <charseq START="3585" END="3591">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="3585" END="3591">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-64-1" ROLE="GPE">
+      <extent>
+        <charseq START="3610" END="3616">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="3610" END="3616">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Beijing">
+        <charseq START="3585" END="3591">Beijing</charseq>
+      </name>
+      <name NAME="Beijing">
+        <charseq START="3610" END="3616">Beijing</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-65" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-65-0" ROLE="GPE">
+      <extent>
+        <charseq START="3597" END="3604">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="3597" END="3604">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Shanghai">
+        <charseq START="3597" END="3604">Shanghai</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-66" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-66-0" ROLE="GPE">
+      <extent>
+        <charseq START="3631" END="3639">new lands</charseq>
+      </extent>
+      <head>
+        <charseq START="3635" END="3639">lands</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-67-0">
+      <extent>
+        <charseq START="3660" END="3692">recent American college
+graduates</charseq>
+      </extent>
+      <head>
+        <charseq START="3684" END="3692">graduates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-68-0">
+      <extent>
+        <charseq START="3768" END="3774">Chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="3768" END="3774">Chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-68-1">
+      <extent>
+        <charseq START="3798" END="3801">They</charseq>
+      </extent>
+      <head>
+        <charseq START="3798" END="3801">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chinese">
+        <charseq START="3768" END="3774">Chinese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-69" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-69-0" ROLE="GPE">
+      <extent>
+        <charseq START="3816" END="3820">China</charseq>
+      </extent>
+      <head>
+        <charseq START="3816" END="3820">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="3816" END="3820">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-70-0">
+      <extent>
+        <charseq START="3890" END="3893">some</charseq>
+      </extent>
+      <head>
+        <charseq START="3890" END="3893">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-71-0">
+      <extent>
+        <charseq START="3960" END="3974">Hannah Seligson</charseq>
+      </extent>
+      <head>
+        <charseq START="3960" END="3974">Hannah Seligson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hannah Seligson">
+        <charseq START="3960" END="3974">Hannah Seligson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-72" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-72-0" ROLE="GPE">
+      <extent>
+        <charseq START="4005" END="4015">Bridgeville</charseq>
+      </extent>
+      <head>
+        <charseq START="4005" END="4015">Bridgeville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bridgeville">
+        <charseq START="4005" END="4015">Bridgeville</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-73" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-73-0" ROLE="GPE">
+      <extent>
+        <charseq START="4018" END="4020">Pa.</charseq>
+      </extent>
+      <head>
+        <charseq START="4018" END="4020">Pa.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pa.">
+        <charseq START="4018" END="4020">Pa.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-74-0">
+      <extent>
+        <charseq START="4030" END="4032">man</charseq>
+      </extent>
+      <head>
+        <charseq START="4030" END="4032">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-74-1">
+      <extent>
+        <charseq START="4185" END="4187">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4185" END="4187">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-74-2">
+      <extent>
+        <charseq START="4242" END="4243">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4242" END="4243">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-75" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-75-0">
+      <extent>
+        <charseq START="4053" END="4073">a busy fitness center</charseq>
+      </extent>
+      <head>
+        <charseq START="4068" END="4073">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-76-0">
+      <extent>
+        <charseq START="4084" END="4094">three women</charseq>
+      </extent>
+      <head>
+        <charseq START="4090" END="4094">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-77-0">
+      <extent>
+        <charseq START="4207" END="4218">a girlfriend</charseq>
+      </extent>
+      <head>
+        <charseq START="4209" END="4218">girlfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-78" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-78-0">
+      <extent>
+        <charseq START="4260" END="4288">Two law enforcement officials</charseq>
+      </extent>
+      <head>
+        <charseq START="4280" END="4288">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-79-0">
+      <extent>
+        <charseq START="4313" END="4322">the gunman</charseq>
+      </extent>
+      <head>
+        <charseq START="4317" END="4322">gunman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-79-1">
+      <extent>
+        <charseq START="4328" END="4340">George Sodini</charseq>
+      </extent>
+      <head>
+        <charseq START="4328" END="4340">George Sodini</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George Sodini">
+        <charseq START="4328" END="4340">George Sodini</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-80" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-80-0" ROLE="GPE">
+      <extent>
+        <charseq START="4350" END="4363">Scott Township</charseq>
+      </extent>
+      <head>
+        <charseq START="4350" END="4363">Scott Township</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20090805.0066-80-1" ROLE="GPE">
+      <extent>
+        <charseq START="4370" END="4373">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4370" END="4373">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott Township">
+        <charseq START="4350" END="4363">Scott Township</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20090805.0066-81-0">
+      <extent>
+        <charseq START="4420" END="4433">Sean D. Hamill</charseq>
+      </extent>
+      <head>
+        <charseq START="4420" END="4433">Sean D. Hamill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sean D. Hamill">
+        <charseq START="4420" END="4433">Sean D. Hamill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-82" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-82-0">
+      <extent>
+        <charseq START="4548" END="4572">client news organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="4560" END="4572">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-83-0">
+      <extent>
+        <charseq START="4665" END="4675">All clients</charseq>
+      </extent>
+      <head>
+        <charseq START="4669" END="4675">clients</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20090805.0066-84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20090805.0066-84-0">
+      <extent>
+        <charseq START="4702" END="4726">only
+full-service clients</charseq>
+      </extent>
+      <head>
+        <charseq START="4720" END="4726">clients</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="NYT_ENG_20090805.0066-V1" TYPE="Contact-Info" SUBTYPE="E-Mail">
+    <value_mention ID="NYT_ENG_20090805.0066-V1-1">
+      <extent>
+        <charseq START="159" END="176">lyhoog@nytimes.com</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="NYT_ENG_20090805.0066-T0" VAL="2009-07-30">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T0-1">
+      <extent>
+        <charseq START="39" END="46">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T1" VAL="9867">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T1-1">
+      <extent>
+        <charseq START="145" END="148">9867</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T2" VAL="2009-06">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T2-1">
+      <extent>
+        <charseq START="899" END="912">two months
+ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T3" VAL="2009-08-05">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T3-1">
+      <extent>
+        <charseq START="1411" END="1413">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T4" VAL="2009-08-04">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T4-1">
+      <extent>
+        <charseq START="2388" END="2394">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T5" VAL="2009-08-05">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T5-1">
+      <extent>
+        <charseq START="2672" END="2680">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T6" VAL="P2M">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T6-1">
+      <extent>
+        <charseq START="2690" END="2699">two
+months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T7" VAL="1979">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T7-1">
+      <extent>
+        <charseq START="2804" END="2815">30 years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T8" VAL="2009-08-05">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T8-1">
+      <extent>
+        <charseq START="3510" END="3512">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20090805.0066-T9" VAL="PXM">
+    <timex2_mention ID="NYT_ENG_20090805.0066-T9-1">
+      <extent>
+        <charseq START="4146" END="4155">for months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="NYT_ENG_20090805.0066-R1" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20090805.0066-14" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20090805.0066-15" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20090805.0066-R1-1">
+      <extent>
+        <charseq START="666" END="683">Seoul, South Korea</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="666" END="670">Seoul</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="673" END="683">South Korea</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20090805.0066-R2" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20090805.0066-26" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20090805.0066-27" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20090805.0066-R2-1">
+      <extent>
+        <charseq START="1200" END="1216">Palo Alto, Calif.</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1200" END="1208">Palo Alto</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1211" END="1216">Calif.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20090805.0066-R3" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20090805.0066-54" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20090805.0066-55" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20090805.0066-R3-1">
+      <extent>
+        <charseq START="2865" END="2880">Matsuyama, Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-54-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2865" END="2873">Matsuyama</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-55-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2876" END="2880">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20090805.0066-R4" TYPE="REGIONOF">
+    <relation_argument REFID="NYT_ENG_20090805.0066-72" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20090805.0066-73" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20090805.0066-R4-1">
+      <extent>
+        <charseq START="4005" END="4020">Bridgeville, Pa.</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4005" END="4015">Bridgeville</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-73-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4018" END="4020">Pa.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20090805.0066-R5" TYPE="RESIDE">
+    <relation_argument REFID="NYT_ENG_20090805.0066-79" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20090805.0066-80" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20090805.0066-R5-1">
+      <extent>
+        <charseq START="4328" END="4363">George Sodini, 48, of Scott Township</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-79-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4328" END="4340">George Sodini</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20090805.0066-80-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4350" END="4363">Scott Township</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

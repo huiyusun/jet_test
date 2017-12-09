@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_039.0198.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_039.0198">
+  <entity ID="wsj94_039.0198-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_039.0198-1-0">
+      <extent>
+        <charseq START="113" END="133">Raymond C. Foster Jr.</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="133">Raymond C. Foster Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_039.0198-1-1">
+      <extent>
+        <charseq START="140" END="154">former chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="154">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_039.0198-1-2">
+      <extent>
+        <charseq START="160" END="182">chief executive
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="182">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Raymond C. Foster Jr.">
+        <charseq START="113" END="133">Raymond C. Foster Jr.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_039.0198-2" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_039.0198-2-0">
+      <extent>
+        <charseq START="187" END="206">Stone &amp; Webster Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="206">Stone &amp; Webster Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stone &amp; Webster Inc.">
+        <charseq START="187" END="206">Stone &amp; Webster Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_039.0198-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_039.0198-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="222" END="227">Stuart</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="227">Stuart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stuart">
+        <charseq START="222" END="227">Stuart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_039.0198-4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_039.0198-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="230" END="236">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="236">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Florida">
+        <charseq START="230" END="236">Florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_039.0198-T0" VAL="2016-03-26">
+    <timex2_mention ID="wsj94_039.0198-T0-1">
+      <extent>
+        <charseq START="209" END="216">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_039.0198-R1" TYPE="RESIDE">
+    <relation_argument REFID="wsj94_039.0198-1" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_039.0198-3" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_039.0198-R1-1">
+      <extent>
+        <charseq START="113" END="227">Raymond C. Foster Jr., 74, former chairman and chief executive
+officer of Stone &amp; Webster Inc., Saturday, in Stuart</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_039.0198-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="113" END="133">Raymond C. Foster Jr.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_039.0198-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="222" END="227">Stuart</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_039.0198-R2" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_039.0198-3" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_039.0198-4" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_039.0198-R2-1">
+      <extent>
+        <charseq START="222" END="236">Stuart, Florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_039.0198-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="222" END="227">Stuart</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_039.0198-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="230" END="236">Florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

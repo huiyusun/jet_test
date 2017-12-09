@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030304_173120.16.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030304_173120.16">
+  <entity ID="CNN_ENG_20030304_173120.16-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-1-0">
+      <extent>
+        <charseq START="119" END="136">the u.n.
+secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="136">secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-2-0">
+      <extent>
+        <charseq START="123" END="126">u.n.</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="126">u.n.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.n.">
+        <charseq START="123" END="126">u.n.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-3-0">
+      <extent>
+        <charseq START="138" END="144">general</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="144">general</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-4-0">
+      <extent>
+        <charseq START="263" END="296">the ninth circuit court of appeals</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="296">ninth circuit court of appeals</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-4-1">
+      <extent>
+        <charseq START="655" END="671">the appeals court</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="671">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-4-2">
+      <extent>
+        <charseq START="839" END="843">court</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="843">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ninth circuit court of appeals">
+        <charseq START="267" END="296">ninth circuit court of appeals</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-5-0">
+      <extent>
+        <charseq START="303" END="312">that court</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="312">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030304_173120.16-5-1">
+      <extent>
+        <charseq START="334" END="336">its</charseq>
+      </extent>
+      <head>
+        <charseq START="334" END="336">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-6" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-6-0">
+      <extent>
+        <charseq START="381" END="397">public classrooms</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="397">classrooms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-7-0">
+      <extent>
+        <charseq START="400" END="406">schools</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="406">schools</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="411" END="429">nine
+western states</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="429">states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-9-0">
+      <extent>
+        <charseq START="470" END="477">students</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="477">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-10-0">
+      <extent>
+        <charseq START="540" END="559">the school districts</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="559">districts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-11" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030304_173120.16-11-0">
+      <extent>
+        <charseq START="544" END="549">school</charseq>
+      </extent>
+      <head>
+        <charseq START="544" END="549">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-12-0">
+      <extent>
+        <charseq START="612" END="633">the u.s. supreme court</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="633">u.s. supreme court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s. supreme court">
+        <charseq START="616" END="633">u.s. supreme court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="643" END="652">washington</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="652">washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="washington">
+        <charseq START="643" END="652">washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-14-0">
+      <extent>
+        <charseq START="713" END="715">god</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="715">god</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="god">
+        <charseq START="713" END="715">god</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1010" END="1017">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1017">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="1014" END="1017">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-16-0">
+      <extent>
+        <charseq START="1026" END="1039">saddam
+hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1039">saddam
+hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-16-1">
+      <extent>
+        <charseq START="1111" END="1124">saddam hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1124">saddam hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-16-2">
+      <extent>
+        <charseq START="1277" END="1290">saddam hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="1277" END="1290">saddam hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saddam hussein">
+        <charseq START="1026" END="1039">saddam
+hussein</charseq>
+      </name>
+      <name NAME="saddam hussein">
+        <charseq START="1111" END="1124">saddam hussein</charseq>
+      </name>
+      <name NAME="saddam hussein">
+        <charseq START="1277" END="1290">saddam hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030304_173120.16-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-17-0">
+      <extent>
+        <charseq START="1042" END="1049">kim jong</charseq>
+      </extent>
+      <head>
+        <charseq START="1042" END="1049">kim jong</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-17-1">
+      <extent>
+        <charseq START="1152" END="1159">kim jong</charseq>
+      </extent>
+      <head>
+        <charseq START="1152" END="1159">kim jong</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030304_173120.16-17-2">
+      <extent>
+        <charseq START="1301" END="1308">kim jong</charseq>
+      </extent>
+      <head>
+        <charseq START="1301" END="1308">kim jong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kim jong">
+        <charseq START="1042" END="1049">kim jong</charseq>
+      </name>
+      <name NAME="kim jong">
+        <charseq START="1152" END="1159">kim jong</charseq>
+      </name>
+      <name NAME="kim jong">
+        <charseq START="1301" END="1308">kim jong</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030304_173120.16-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V2-1">
+      <extent>
+        <charseq START="1095" END="1098">13%%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V3-1">
+      <extent>
+        <charseq START="1097" END="1097">%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V4-1">
+      <extent>
+        <charseq START="1127" END="1129">14%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V5-1">
+      <extent>
+        <charseq START="1165" END="1167">41%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V6" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V6-1">
+      <extent>
+        <charseq START="1269" END="1271">13%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V7-1">
+      <extent>
+        <charseq START="1293" END="1295">46%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030304_173120.16-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030304_173120.16-V8-1">
+      <extent>
+        <charseq START="1314" END="1316">41%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030304_173120.16-T0" VAL="2003-03-04">
+    <timex2_mention ID="CNN_ENG_20030304_173120.16-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-03-04</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030304_173120.16-T1" VAL="2003-03-04">
+    <timex2_mention ID="CNN_ENG_20030304_173120.16-T1-1">
+      <extent>
+        <charseq START="318" END="320">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030304_173120.16-T2" VAL="P90D">
+    <timex2_mention ID="CNN_ENG_20030304_173120.16-T2-1">
+      <extent>
+        <charseq START="591" END="597">90 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

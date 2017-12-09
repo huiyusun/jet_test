@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030404_163526.10.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030404_163526.10">
+  <entity ID="CNN_ENG_20030404_163526.10-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-1-0">
+      <extent>
+        <charseq START="83" END="90">an iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="90">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraqi">
+        <charseq START="86" END="90">iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="193" END="199">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="199">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="386" END="392">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="392">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1098" END="1104">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="1098" END="1104">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030404_163526.10-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1113" END="1114">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1113" END="1114">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="193" END="199">baghdad</charseq>
+      </name>
+      <name NAME="baghdad">
+        <charseq START="386" END="392">baghdad</charseq>
+      </name>
+      <name NAME="baghdad">
+        <charseq START="1098" END="1104">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-3" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-3-0">
+      <extent>
+        <charseq START="295" END="312">anti-aircraft guns</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="312">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030404_163526.10-3-1">
+      <extent>
+        <charseq START="329" END="332">they</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="332">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="598" END="605">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="605">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030404_163526.10-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="624" END="626">its</charseq>
+      </extent>
+      <head>
+        <charseq START="624" END="626">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="762" END="769">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="769">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="772" END="780">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="772" END="780">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-6-0">
+      <extent>
+        <charseq START="772" END="787">coalition forces</charseq>
+      </extent>
+      <head>
+        <charseq START="782" END="787">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030404_163526.10-6-1">
+      <extent>
+        <charseq START="979" END="982">they</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="982">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-7" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-7-0">
+      <extent>
+        <charseq START="836" END="871">saddam hussein international
+airport</charseq>
+      </extent>
+      <head>
+        <charseq START="836" END="871">saddam hussein international
+airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saddam hussein international airport">
+        <charseq START="836" END="871">saddam hussein international
+airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-8" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030404_163526.10-8-0">
+      <extent>
+        <charseq START="889" END="931">the coalition baghdad international
+airport</charseq>
+      </extent>
+      <head>
+        <charseq START="903" END="931">baghdad international
+airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-8-1">
+      <extent>
+        <charseq START="893" END="901">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="893" END="901">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-8-2">
+      <extent>
+        <charseq START="938" END="950">the coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="942" END="950">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-8-3">
+      <extent>
+        <charseq START="1040" END="1050">the
+airport</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1050">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad international airport">
+        <charseq START="903" END="931">baghdad international
+airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030404_163526.10-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030404_163526.10-9-0">
+      <extent>
+        <charseq START="1007" END="1014">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="1011" END="1014">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030404_163526.10-T0" VAL="2003-04-04">
+    <timex2_mention ID="CNN_ENG_20030404_163526.10-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-04-04</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030404_163526.10-T1" VAL="2003-04-04">
+    <timex2_mention ID="CNN_ENG_20030404_163526.10-T1-1">
+      <extent>
+        <charseq START="76" END="78">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030404_163526.10-T2" VAL="2003-04-04">
+    <timex2_mention ID="CNN_ENG_20030404_163526.10-T2-1">
+      <extent>
+        <charseq START="428" END="434">tonight</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030404_163526.10-T3" VAL="2003-04-04">
+    <timex2_mention ID="CNN_ENG_20030404_163526.10-T3-1">
+      <extent>
+        <charseq START="571" END="573">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030404_163526.10-T4" VAL="2003-04-04">
+    <timex2_mention ID="CNN_ENG_20030404_163526.10-T4-1">
+      <extent>
+        <charseq START="874" END="876">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

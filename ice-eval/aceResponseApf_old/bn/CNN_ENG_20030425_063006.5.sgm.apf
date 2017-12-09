@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030425_063006.5.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030425_063006.5">
+  <entity ID="CNN_ENG_20030425_063006.5-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030425_063006.5-1-0">
+      <extent>
+        <charseq START="67" END="94">two southwest airline pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="89" END="94">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030425_063006.5-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030425_063006.5-2-0">
+      <extent>
+        <charseq START="81" END="87">airline</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="87">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030425_063006.5-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030425_063006.5-3-0">
+      <extent>
+        <charseq START="174" END="183">&quot;usa today</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="183">usa today</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="usa today">
+        <charseq START="175" END="183">usa today</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030425_063006.5-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030425_063006.5-4-0">
+      <extent>
+        <charseq START="191" END="200">the pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="200">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030425_063006.5-4-1">
+      <extent>
+        <charseq START="257" END="261">their</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="261">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030425_063006.5-4-2">
+      <extent>
+        <charseq START="326" END="335">the pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="335">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030425_063006.5-4-3">
+      <extent>
+        <charseq START="404" END="408">their</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="408">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030425_063006.5-5" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030425_063006.5-5-0">
+      <extent>
+        <charseq START="274" END="284">the
+cockpit</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="284">cockpit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030425_063006.5-T0" VAL="2003-04-25">
+    <timex2_mention ID="CNN_ENG_20030425_063006.5-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-25</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030425_063006.5-T1" VAL="2003-04-25">
+    <timex2_mention ID="CNN_ENG_20030425_063006.5-T1-1">
+      <extent>
+        <charseq START="179" END="183">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

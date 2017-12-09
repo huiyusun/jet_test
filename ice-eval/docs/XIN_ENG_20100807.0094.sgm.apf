@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20100807.0094.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20100807.0094">
+  <entity ID="XIN_ENG_20100807.0094-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-1-0">
+      <extent>
+        <charseq START="88" END="108">Vladimir Ladyzhenskiy</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="108">Vladimir Ladyzhenskiy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100807.0094-1-1">
+      <extent>
+        <charseq START="131" END="133">she</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="133">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-1-2">
+      <extent>
+        <charseq START="450" END="461">Ladyzhenskiy</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="461">Ladyzhenskiy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vladimir Ladyzhenskiy">
+        <charseq START="88" END="108">Vladimir Ladyzhenskiy</charseq>
+      </name>
+      <name NAME="Ladyzhenskiy">
+        <charseq START="450" END="461">Ladyzhenskiy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="113" END="118">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="118">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="113" END="118">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="198" END="204">Heinola</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="204">Heinola</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="226" END="232">Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="232">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-3-2" ROLE="LOC">
+      <extent>
+        <charseq START="207" END="221">a southern city</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="221">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Heinola">
+        <charseq START="198" END="204">Heinola</charseq>
+      </name>
+      <name NAME="Finland">
+        <charseq START="226" END="232">Finland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-4-0">
+      <extent>
+        <charseq START="250" END="266">The two finalists</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="266">finalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-5-0">
+      <extent>
+        <charseq START="268" END="280">Timo Kaukonen</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="280">Timo Kaukonen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-5-1">
+      <extent>
+        <charseq START="405" END="412">Kaukonen</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="412">Kaukonen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Timo Kaukonen">
+        <charseq START="268" END="280">Timo Kaukonen</charseq>
+      </name>
+      <name NAME="Kaukonen">
+        <charseq START="405" END="412">Kaukonen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100807.0094-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="285" END="291">Finland</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="291">Finland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Finland">
+        <charseq START="285" END="291">Finland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-7-0">
+      <extent>
+        <charseq START="426" END="441">a local hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="441">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-8" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-8-0">
+      <extent>
+        <charseq START="534" END="547">spot ambulance</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="547">ambulance</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-9-0">
+      <extent>
+        <charseq START="554" END="570">the
+medical staff</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="570">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100807.0094-9-1">
+      <extent>
+        <charseq START="587" END="589">him</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="589">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100807.0094-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100807.0094-10-0">
+      <extent>
+        <charseq START="594" END="607">Finnish police</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="607">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20100807.0094-T0" VAL="2010-08-07">
+    <timex2_mention ID="XIN_ENG_20100807.0094-T0-1">
+      <extent>
+        <charseq START="238" END="245">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100807.0094-T1" VAL="PT6M">
+    <timex2_mention ID="XIN_ENG_20100807.0094-T1-1">
+      <extent>
+        <charseq START="314" END="324">six minutes</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20100807.0094-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20100807.0094-1" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20100807.0094-2" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20100807.0094-R1-1">
+      <extent>
+        <charseq START="88" END="118">Vladimir Ladyzhenskiy of Russia</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20100807.0094-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="88" END="108">Vladimir Ladyzhenskiy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20100807.0094-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="113" END="118">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20100807.0094-R2" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20100807.0094-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20100807.0094-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20100807.0094-R2-1">
+      <extent>
+        <charseq START="268" END="291">Timo Kaukonen of Finland</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20100807.0094-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="268" END="280">Timo Kaukonen</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20100807.0094-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="285" END="291">Finland</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

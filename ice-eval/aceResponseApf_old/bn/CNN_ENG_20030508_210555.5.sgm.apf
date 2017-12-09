@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030508_210555.5.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030508_210555.5">
+  <entity ID="CNN_ENG_20030508_210555.5-1" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-1-0">
+      <extent>
+        <charseq START="117" END="120">guns</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="120">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-1-1">
+      <extent>
+        <charseq START="299" END="303">their</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="303">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-2-0">
+      <extent>
+        <charseq START="133" END="138">people</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="138">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-2-1">
+      <extent>
+        <charseq START="141" END="146">people</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="146">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-2-2">
+      <extent>
+        <charseq START="244" END="249">people</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="249">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-2-3">
+      <extent>
+        <charseq START="258" END="263">people</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="263">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-3-0">
+      <extent>
+        <charseq START="279" END="290">other people</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="290">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-4-0">
+      <extent>
+        <charseq START="367" END="379">&quot; beth nissen</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="379">beth nissen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="beth nissen">
+        <charseq START="369" END="379">beth nissen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="423" END="433">connecticut</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="433">connecticut</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="483" END="493">connecticut</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="493">connecticut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="connecticut">
+        <charseq START="423" END="433">connecticut</charseq>
+      </name>
+      <name NAME="connecticut">
+        <charseq START="483" END="493">connecticut</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-6-0">
+      <extent>
+        <charseq START="451" END="456">police</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="456">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-6-1">
+      <extent>
+        <charseq START="633" END="638">police</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="638">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-7-0">
+      <extent>
+        <charseq START="462" END="478">jennifer o&apos;conner</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="478">jennifer o&apos;conner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-7-1">
+      <extent>
+        <charseq START="619" END="626">o&apos;conner</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="626">o&apos;conner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-7-2">
+      <extent>
+        <charseq START="640" END="642">she</charseq>
+      </extent>
+      <head>
+        <charseq START="640" END="642">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-7-3">
+      <extent>
+        <charseq START="670" END="672">her</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="672">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-7-4">
+      <extent>
+        <charseq START="847" END="854">o&apos;conner</charseq>
+      </extent>
+      <head>
+        <charseq START="847" END="854">o&apos;conner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-7-5">
+      <extent>
+        <charseq START="1298" END="1305">o&apos;conner</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1305">o&apos;conner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jennifer o&apos;conner">
+        <charseq START="462" END="478">jennifer o&apos;conner</charseq>
+      </name>
+      <name NAME="o&apos;conner">
+        <charseq START="619" END="626">o&apos;conner</charseq>
+      </name>
+      <name NAME="o&apos;conner">
+        <charseq START="847" END="854">o&apos;conner</charseq>
+      </name>
+      <name NAME="o&apos;conner">
+        <charseq START="1298" END="1305">o&apos;conner</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-8-0">
+      <extent>
+        <charseq START="481" END="499">a connecticut woman</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="499">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-8-1">
+      <extent>
+        <charseq START="562" END="564">her</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="564">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-9-0">
+      <extent>
+        <charseq START="562" END="573">her daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="573">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-10-0">
+      <extent>
+        <charseq START="584" END="603">the 7
+-year-old girl</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="603">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-11-0">
+      <extent>
+        <charseq START="670" END="690">her daughter daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="683" END="690">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-11-1">
+      <extent>
+        <charseq START="674" END="681">daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="681">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-12-0">
+      <extent>
+        <charseq START="748" END="753">thomas</charseq>
+      </extent>
+      <head>
+        <charseq START="748" END="753">thomas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-12-1">
+      <extent>
+        <charseq START="756" END="760">owner</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="760">owner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-12-2">
+      <extent>
+        <charseq START="800" END="801">he</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="801">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-12-3">
+      <extent>
+        <charseq START="820" END="821">he</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="821">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="thomas">
+        <charseq START="748" END="753">thomas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-13" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-13-0">
+      <extent>
+        <charseq START="762" END="772">a local gun</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="772">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-13-1">
+      <extent>
+        <charseq START="922" END="928">the gun</charseq>
+      </extent>
+      <head>
+        <charseq START="926" END="928">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-13-2">
+      <extent>
+        <charseq START="943" END="944">it</charseq>
+      </extent>
+      <head>
+        <charseq START="943" END="944">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-14-0">
+      <extent>
+        <charseq START="778" END="792">motorcycle shop</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="792">shop</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-15-0">
+      <extent>
+        <charseq START="895" END="913">the police officers</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="913">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-16-0">
+      <extent>
+        <charseq START="899" END="904">police</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="904">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-17-0">
+      <extent>
+        <charseq START="995" END="1000">oconer</charseq>
+      </extent>
+      <head>
+        <charseq START="995" END="1000">oconer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-1">
+      <extent>
+        <charseq START="1035" END="1037">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1037">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-2">
+      <extent>
+        <charseq START="1055" END="1057">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1057">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-3">
+      <extent>
+        <charseq START="1190" END="1191">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1191">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-4">
+      <extent>
+        <charseq START="1273" END="1275">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1275">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-5">
+      <extent>
+        <charseq START="1290" END="1291">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1290" END="1291">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030508_210555.5-17-6">
+      <extent>
+        <charseq START="1338" END="1339">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1338" END="1339">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="oconer">
+        <charseq START="995" END="1000">oconer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-18" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-18-0">
+      <extent>
+        <charseq START="1074" END="1100">smaller caliber hunting gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1098" END="1100">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-18-1">
+      <extent>
+        <charseq START="1124" END="1147">medium-size game hunting</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1147">hunting</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030508_210555.5-19-0">
+      <extent>
+        <charseq START="1198" END="1204">oconeor</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1204">oconeor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="oconeor">
+        <charseq START="1198" END="1204">oconeor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030508_210555.5-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030508_210555.5-20-0">
+      <extent>
+        <charseq START="1223" END="1242">the state authoritys</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1242">authoritys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030508_210555.5-T0" VAL="2003-05-08">
+    <timex2_mention ID="CNN_ENG_20030508_210555.5-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-08</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030508_210555.5-T1" VAL="P3D">
+    <timex2_mention ID="CNN_ENG_20030508_210555.5-T1-1">
+      <extent>
+        <charseq START="730" END="739">three days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

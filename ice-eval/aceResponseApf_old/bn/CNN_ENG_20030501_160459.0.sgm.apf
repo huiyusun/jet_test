@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030501_160459.0.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030501_160459.0">
+  <entity ID="CNN_ENG_20030501_160459.0-1" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-1-0">
+      <extent>
+        <charseq START="337" END="355">an aircraft
+carrier</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="355">carrier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-2" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-2-0">
+      <extent>
+        <charseq START="340" END="347">aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="347">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030501_160459.0-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="360" END="367">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="367">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030501_160459.0-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="706" END="713">american</charseq>
+      </extent>
+      <head>
+        <charseq START="706" END="713">american</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="364" END="367">u.s.</charseq>
+      </name>
+      <name NAME="american">
+        <charseq START="706" END="713">american</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030501_160459.0-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="379" END="385">vietnam</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="385">vietnam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="vietnam">
+        <charseq START="379" END="385">vietnam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-5-0">
+      <extent>
+        <charseq START="402" END="410">president</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="410">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-6" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030501_160459.0-6-0">
+      <extent>
+        <charseq START="480" END="483">many</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="483">many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-7-0">
+      <extent>
+        <charseq START="488" END="500">the young men</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="500">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-8-0">
+      <extent>
+        <charseq START="506" END="510">women</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="510">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-9" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-9-0">
+      <extent>
+        <charseq START="515" END="529">the
+flight deck</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="529">deck</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-9-1">
+      <extent>
+        <charseq START="906" END="920">the flight deck</charseq>
+      </extent>
+      <head>
+        <charseq START="917" END="920">deck</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-10-0">
+      <extent>
+        <charseq START="702" END="720">the american people</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="720">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-11-0">
+      <extent>
+        <charseq START="768" END="772">white</charseq>
+      </extent>
+      <head>
+        <charseq START="768" END="772">white</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-12-0">
+      <extent>
+        <charseq START="768" END="784">white house aides</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="784">aides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030501_160459.0-12-1">
+      <extent>
+        <charseq START="818" END="819">he</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="819">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030501_160459.0-12-2">
+      <extent>
+        <charseq START="883" END="884">he</charseq>
+      </extent>
+      <head>
+        <charseq START="883" END="884">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-13-0">
+      <extent>
+        <charseq START="774" END="778">house</charseq>
+      </extent>
+      <head>
+        <charseq START="774" END="778">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-14" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-14-0">
+      <extent>
+        <charseq START="865" END="868">part</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="868">part</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-15" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-15-0">
+      <extent>
+        <charseq START="873" END="880">the ship</charseq>
+      </extent>
+      <head>
+        <charseq START="877" END="880">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-16" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030501_160459.0-16-0">
+      <extent>
+        <charseq START="968" END="971">some</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="971">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-17" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-17-0">
+      <extent>
+        <charseq START="976" END="992">the f-18
+aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="985" END="992">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-17-1">
+      <extent>
+        <charseq START="1015" END="1028">these aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1028">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-18" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030501_160459.0-18-0">
+      <extent>
+        <charseq START="980" END="980">f</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="980">f</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030501_160459.0-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030501_160459.0-19-0">
+      <extent>
+        <charseq START="1084" END="1087">wolf</charseq>
+      </extent>
+      <head>
+        <charseq START="1084" END="1087">wolf</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="wolf">
+        <charseq START="1084" END="1087">wolf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030501_160459.0-T0" VAL="2003-05-01">
+    <timex2_mention ID="CNN_ENG_20030501_160459.0-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-01</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030501_160459.0-T1" VAL="2003-05-01">
+    <timex2_mention ID="CNN_ENG_20030501_160459.0-T1-1">
+      <extent>
+        <charseq START="1003" END="1005">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

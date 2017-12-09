@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030605_193002.8.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030605_193002.8">
+  <entity ID="CNN_ENG_20030605_193002.8-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-1-0">
+      <extent>
+        <charseq START="67" END="80">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="80">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-1-1">
+      <extent>
+        <charseq START="88" END="116">the only corporate figurehead</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="116">figurehead</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="martha stewart">
+        <charseq START="67" END="80">martha stewart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-2-0">
+      <extent>
+        <charseq START="137" END="144">the jury</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="144">jury</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-2-1">
+      <extent>
+        <charseq START="177" END="195">a grand
+rapids jury</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="195">jury</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-2-2">
+      <extent>
+        <charseq START="399" END="401">his</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="401">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-3-0">
+      <extent>
+        <charseq START="204" END="212">taco bell</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="212">taco bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-3-1">
+      <extent>
+        <charseq START="1064" END="1072">taco bell</charseq>
+      </extent>
+      <head>
+        <charseq START="1064" END="1072">taco bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-3-2">
+      <extent>
+        <charseq START="1294" END="1302">taco bell</charseq>
+      </extent>
+      <head>
+        <charseq START="1294" END="1302">taco bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-3-3">
+      <extent>
+        <charseq START="1329" END="1332">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1329" END="1332">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-3-4">
+      <extent>
+        <charseq START="1366" END="1370">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1370">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="taco bell">
+        <charseq START="204" END="212">taco bell</charseq>
+      </name>
+      <name NAME="taco bell">
+        <charseq START="1064" END="1072">taco bell</charseq>
+      </name>
+      <name NAME="taco bell">
+        <charseq START="1294" END="1302">taco bell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-4-0">
+      <extent>
+        <charseq START="225" END="241">the true creators</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="241">creators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-5-0">
+      <extent>
+        <charseq START="270" END="276">two men</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="276">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-5-1">
+      <extent>
+        <charseq START="286" END="290">their</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="290">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-6-0">
+      <extent>
+        <charseq START="348" END="356">taco
+ball</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="356">taco
+ball</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-6-1">
+      <extent>
+        <charseq START="479" END="482">they</charseq>
+      </extent>
+      <head>
+        <charseq START="479" END="482">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="taco ball">
+        <charseq START="348" END="356">taco
+ball</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-7-0">
+      <extent>
+        <charseq START="399" END="420">his attorney
+john doza</charseq>
+      </extent>
+      <head>
+        <charseq START="412" END="420">john doza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-7-1">
+      <extent>
+        <charseq START="403" END="410">attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="410">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="john doza">
+        <charseq START="412" END="420">john doza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-8-0">
+      <extent>
+        <charseq START="573" END="575">joe</charseq>
+      </extent>
+      <head>
+        <charseq START="573" END="575">joe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-1">
+      <extent>
+        <charseq START="589" END="590">he</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="590">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-8-2">
+      <extent>
+        <charseq START="594" END="604">the partner</charseq>
+      </extent>
+      <head>
+        <charseq START="598" END="604">partner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-3">
+      <extent>
+        <charseq START="948" END="950">him</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="950">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-4">
+      <extent>
+        <charseq START="972" END="974">him</charseq>
+      </extent>
+      <head>
+        <charseq START="972" END="974">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-5">
+      <extent>
+        <charseq START="996" END="997">he</charseq>
+      </extent>
+      <head>
+        <charseq START="996" END="997">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-6">
+      <extent>
+        <charseq START="1004" END="1006">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1004" END="1006">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-8-7">
+      <extent>
+        <charseq START="1045" END="1047">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1045" END="1047">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="joe">
+        <charseq START="573" END="575">joe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-9-0">
+      <extent>
+        <charseq START="1060" END="1078">the taco bell folks</charseq>
+      </extent>
+      <head>
+        <charseq START="1074" END="1078">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-9-1">
+      <extent>
+        <charseq START="1096" END="1099">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1096" END="1099">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-10-0">
+      <extent>
+        <charseq START="1167" END="1173">a bunch</charseq>
+      </extent>
+      <head>
+        <charseq START="1169" END="1173">bunch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-11-0">
+      <extent>
+        <charseq START="1178" END="1200">different manufacturers</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1200">manufacturers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-11-1">
+      <extent>
+        <charseq START="1450" END="1453">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1450" END="1453">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_193002.8-11-2">
+      <extent>
+        <charseq START="1563" END="1566">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1563" END="1566">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="1236" END="1248">new york city</charseq>
+      </extent>
+      <head>
+        <charseq START="1236" END="1248">new york city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york city">
+        <charseq START="1236" END="1248">new york city</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_193002.8-13-0">
+      <extent>
+        <charseq START="1256" END="1265">nick loada</charseq>
+      </extent>
+      <head>
+        <charseq START="1256" END="1265">nick loada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="nick loada">
+        <charseq START="1256" END="1265">nick loada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-14-0">
+      <extent>
+        <charseq START="1686" END="1700">a new ad agency</charseq>
+      </extent>
+      <head>
+        <charseq START="1695" END="1700">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_193002.8-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_193002.8-15-0">
+      <extent>
+        <charseq START="1974" END="1986">one other
+guy</charseq>
+      </extent>
+      <head>
+        <charseq START="1984" END="1986">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030605_193002.8-T0" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_193002.8-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_193002.8-T1" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_193002.8-T1-1">
+      <extent>
+        <charseq START="130" END="134">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_193002.8-T2" VAL="1996">
+    <timex2_mention ID="CNN_ENG_20030605_193002.8-T2-1">
+      <extent>
+        <charseq START="1210" END="1213">1996</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

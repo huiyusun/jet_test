@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030616.0715.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030616.0715">
+  <entity ID="AFP_ENG_20030616.0715-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="109" END="115">MADISON</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="115">MADISON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-1-1" ROLE="LOC">
+      <extent>
+        <charseq START="138" END="140">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="140">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MADISON">
+        <charseq START="109" END="115">MADISON</charseq>
+      </name>
+      <name NAME="AFP">
+        <charseq START="138" END="140">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="126">Wisconsin</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="126">Wisconsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="200" END="208">Wisconsin</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="208">Wisconsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wisconsin">
+        <charseq START="118" END="126">Wisconsin</charseq>
+      </name>
+      <name NAME="Wisconsin">
+        <charseq START="200" END="208">Wisconsin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-3-0">
+      <extent>
+        <charseq START="144" END="155">The skeleton</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="155">skeleton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-4-0">
+      <extent>
+        <charseq START="160" END="172">a second baby</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="172">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-4-1">
+      <extent>
+        <charseq START="821" END="828">the baby</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="828">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-4-2">
+      <extent>
+        <charseq START="870" END="877">the baby</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="877">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-4-3">
+      <extent>
+        <charseq START="1382" END="1396">the second baby</charseq>
+      </extent>
+      <head>
+        <charseq START="1393" END="1396">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-5-0">
+      <extent>
+        <charseq START="192" END="213">a rural Wisconsin
+home</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="213">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-5-1">
+      <extent>
+        <charseq START="424" END="427">home</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="427">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-6-0">
+      <extent>
+        <charseq START="221" END="239">a 22-year-old woman</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="239">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-7-0">
+      <extent>
+        <charseq START="240" END="253">&apos;s dead infant</charseq>
+      </extent>
+      <head>
+        <charseq START="248" END="253">infant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-7-1">
+      <extent>
+        <charseq START="754" END="763">the infant</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="763">infant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-8-0">
+      <extent>
+        <charseq START="306" END="314">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="314">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-9-0">
+      <extent>
+        <charseq START="330" END="342">Kristin Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="342">Kristin Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-9-1">
+      <extent>
+        <charseq START="345" END="354">the mother</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="354">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-2">
+      <extent>
+        <charseq START="369" END="371">she</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="371">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-3">
+      <extent>
+        <charseq START="411" END="413">her</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="413">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-4">
+      <extent>
+        <charseq START="556" END="558">her</charseq>
+      </extent>
+      <head>
+        <charseq START="556" END="558">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-5">
+      <extent>
+        <charseq START="594" END="596">she</charseq>
+      </extent>
+      <head>
+        <charseq START="594" END="596">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-6">
+      <extent>
+        <charseq START="631" END="633">She</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="633">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-9-7">
+      <extent>
+        <charseq START="783" END="787">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="787">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-8">
+      <extent>
+        <charseq START="801" END="803">she</charseq>
+      </extent>
+      <head>
+        <charseq START="801" END="803">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-9-9">
+      <extent>
+        <charseq START="861" END="863">She</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="863">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kristin Scott">
+        <charseq START="330" END="342">Kristin Scott</charseq>
+      </name>
+      <name NAME="Scott">
+        <charseq START="783" END="787">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-10-0">
+      <extent>
+        <charseq START="362" END="367">police</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="367">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-10-1">
+      <extent>
+        <charseq START="540" END="545">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="545">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-10-2">
+      <extent>
+        <charseq START="794" END="799">police</charseq>
+      </extent>
+      <head>
+        <charseq START="794" END="799">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-11-0">
+      <extent>
+        <charseq START="396" END="406">both babies</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="406">babies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-12-0">
+      <extent>
+        <charseq START="411" END="421">her parents</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="421">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="432" END="442">Byrds Creek</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="442">Byrds Creek</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="1219" END="1229">Byrds Creek</charseq>
+      </extent>
+      <head>
+        <charseq START="1219" END="1229">Byrds Creek</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrds Creek">
+        <charseq START="432" END="442">Byrds Creek</charseq>
+      </name>
+      <name NAME="Byrds Creek">
+        <charseq START="1219" END="1229">Byrds Creek</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-14" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="445" END="459">Richland County</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="459">Richland County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richland County">
+        <charseq START="445" END="459">Richland County</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-15-0">
+      <extent>
+        <charseq START="510" END="524">a fullterm girl</charseq>
+      </extent>
+      <head>
+        <charseq START="521" END="524">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-15-1">
+      <extent>
+        <charseq START="527" END="533">January</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="533">January</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-15-2">
+      <extent>
+        <charseq START="773" END="779">January</charseq>
+      </extent>
+      <head>
+        <charseq START="773" END="779">January</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="563" END="569">Abilene</charseq>
+      </extent>
+      <head>
+        <charseq START="563" END="569">Abilene</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abilene">
+        <charseq START="563" END="569">Abilene</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="572" END="576">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="576">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="1181" END="1185">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="1181" END="1185">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="572" END="576">Texas</charseq>
+      </name>
+      <name NAME="Texas">
+        <charseq START="1181" END="1185">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-18-0">
+      <extent>
+        <charseq START="613" END="620">a friend</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="620">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-19-0">
+      <extent>
+        <charseq START="729" END="736">a corpse</charseq>
+      </extent>
+      <head>
+        <charseq START="731" END="736">corpse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-20-0">
+      <extent>
+        <charseq START="929" END="937">The woman</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="937">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-21-0">
+      <extent>
+        <charseq START="938" END="947">&apos;s parents</charseq>
+      </extent>
+      <head>
+        <charseq START="941" END="947">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-21-1">
+      <extent>
+        <charseq START="950" END="956">William</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="956">William</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-21-2">
+      <extent>
+        <charseq START="1040" END="1043">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1040" END="1043">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-21-3">
+      <extent>
+        <charseq START="1091" END="1095">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1095">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William">
+        <charseq START="950" END="956">William</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-22-0">
+      <extent>
+        <charseq START="962" END="972">Nancy Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="972">Nancy Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-22-1">
+      <extent>
+        <charseq START="1105" END="1109">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1109">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-22-2">
+      <extent>
+        <charseq START="1130" END="1132">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1130" END="1132">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nancy Scott">
+        <charseq START="962" END="972">Nancy Scott</charseq>
+      </name>
+      <name NAME="Scott">
+        <charseq START="1105" END="1109">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-23-0">
+      <extent>
+        <charseq START="981" END="1000">the decomposing
+body</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1000">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-23-1">
+      <extent>
+        <charseq START="1149" END="1152">body</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1152">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-23-2">
+      <extent>
+        <charseq START="1168" END="1170">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1168" END="1170">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-23-3">
+      <extent>
+        <charseq START="1254" END="1256">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1256">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-23-4">
+      <extent>
+        <charseq START="1283" END="1285">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1283" END="1285">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-24-0">
+      <extent>
+        <charseq START="1005" END="1018">the first baby</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1018">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030616.0715-24-1">
+      <extent>
+        <charseq START="1023" END="1025">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1025">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-25" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-25-0">
+      <extent>
+        <charseq START="1023" END="1032">her closet</charseq>
+      </extent>
+      <head>
+        <charseq START="1027" END="1032">closet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-25-1">
+      <extent>
+        <charseq START="1201" END="1210">the closet</charseq>
+      </extent>
+      <head>
+        <charseq START="1205" END="1210">closet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-25-2">
+      <extent>
+        <charseq START="1269" END="1278">the closet</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1278">closet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-26-0">
+      <extent>
+        <charseq START="1062" END="1071">the
+source</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1071">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-27-0">
+      <extent>
+        <charseq START="1091" END="1101">their house</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1101">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-27-1">
+      <extent>
+        <charseq START="1215" END="1235">the Byrds Creek house</charseq>
+      </extent>
+      <head>
+        <charseq START="1231" END="1235">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-28-0">
+      <extent>
+        <charseq START="1116" END="1128">investigators</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1128">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-29" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-29-0">
+      <extent>
+        <charseq START="1241" END="1249">the trunk</charseq>
+      </extent>
+      <head>
+        <charseq START="1245" END="1249">trunk</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-30" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-30-0">
+      <extent>
+        <charseq START="1254" END="1260">her car</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1260">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-31" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-31-0">
+      <extent>
+        <charseq START="1283" END="1295">her apartment</charseq>
+      </extent>
+      <head>
+        <charseq START="1287" END="1295">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030616.0715-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="1300" END="1314">Richland
+Center</charseq>
+      </extent>
+      <head>
+        <charseq START="1300" END="1314">Richland
+Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richland Center">
+        <charseq START="1300" END="1314">Richland
+Center</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030616.0715-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030616.0715-33-0">
+      <extent>
+        <charseq START="1338" END="1348">The sheriff</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1348">sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030616.0715-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030616.0715-V2-1">
+      <extent>
+        <charseq START="652" END="665">50,000 dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030616.0715-T0" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030616</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T1" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T1-1">
+      <extent>
+        <charseq START="129" END="135">June 16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T2" VAL="2003-06-08">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T2-1">
+      <extent>
+        <charseq START="298" END="303">June 8</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T3" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T3-1">
+      <extent>
+        <charseq START="321" END="326">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T4" VAL="2001-04">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T4-1">
+      <extent>
+        <charseq START="484" END="493">April 2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T5" VAL="2003-01-14">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T5-1">
+      <extent>
+        <charseq START="527" END="536">January
+14</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T6" VAL="2003-06-14">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T6-1">
+      <extent>
+        <charseq START="579" END="586">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T7" VAL="2003-06-02">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T7-1">
+      <extent>
+        <charseq START="622" END="627">June 2</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T8" VAL="2003-01">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T8-1">
+      <extent>
+        <charseq START="773" END="779">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030616.0715-T9" VAL="PT30M">
+    <timex2_mention ID="AFP_ENG_20030616.0715-T9-1">
+      <extent>
+        <charseq START="849" END="858">30
+minutes</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030616.0715-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030616.0715-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030616.0715-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030616.0715-R1-2">
+      <extent>
+        <charseq START="109" END="140">MADISON, Wisconsin, June 16 (AFP</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="109" END="115">MADISON</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="138" END="140">AFP</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030616.0715-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030616.0715-2" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030616.0715-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030616.0715-R2-2">
+      <extent>
+        <charseq START="118" END="140">Wisconsin, June 16 (AFP</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="118" END="126">Wisconsin</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="138" END="140">AFP</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030616.0715-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030616.0715-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030616.0715-14" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030616.0715-R3-1">
+      <extent>
+        <charseq START="432" END="459">Byrds Creek, Richland County</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="432" END="442">Byrds Creek</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="445" END="459">Richland County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030616.0715-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030616.0715-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030616.0715-17" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030616.0715-R4-1">
+      <extent>
+        <charseq START="563" END="576">Abilene, Texas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="563" END="569">Abilene</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030616.0715-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="572" END="576">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

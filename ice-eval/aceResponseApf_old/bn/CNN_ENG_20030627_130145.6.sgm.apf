@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030627_130145.6.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030627_130145.6">
+  <entity ID="CNN_ENG_20030627_130145.6-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030627_130145.6-1-0">
+      <extent>
+        <charseq START="155" END="167">lester maddox</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="167">lester maddox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030627_130145.6-1-1">
+      <extent>
+        <charseq START="189" END="190">he</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="190">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030627_130145.6-1-2">
+      <extent>
+        <charseq START="196" END="209">a
+segrationist</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="209">segrationist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030627_130145.6-1-3">
+      <extent>
+        <charseq START="240" END="241">he</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="241">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lester maddox">
+        <charseq START="155" END="167">lester maddox</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030627_130145.6-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030627_130145.6-2-0">
+      <extent>
+        <charseq START="227" END="238">a restaurant</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="238">restaurant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030627_130145.6-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030627_130145.6-3-0">
+      <extent>
+        <charseq START="289" END="303">maynard jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="303">maynard jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030627_130145.6-3-1">
+      <extent>
+        <charseq START="328" END="330">his</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="330">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030627_130145.6-3-2">
+      <extent>
+        <charseq START="346" END="347">he</charseq>
+      </extent>
+      <head>
+        <charseq START="346" END="347">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030627_130145.6-3-3">
+      <extent>
+        <charseq START="425" END="431">jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="425" END="431">jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="maynard jackson">
+        <charseq START="289" END="303">maynard jackson</charseq>
+      </name>
+      <name NAME="jackson">
+        <charseq START="425" END="431">jackson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030627_130145.6-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030627_130145.6-4-0">
+      <extent>
+        <charseq START="379" END="390">jimmy carter</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="390">jimmy carter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jimmy carter">
+        <charseq START="379" END="390">jimmy carter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030627_130145.6-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030627_130145.6-5-0">
+      <extent>
+        <charseq START="434" END="462">former president bill clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="462">bill clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030627_130145.6-5-1">
+      <extent>
+        <charseq START="441" END="449">president</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="449">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bill clinton">
+        <charseq START="451" END="462">bill clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T0" VAL="2003-06-27">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-27</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T1" VAL="2003-W26">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T1-1">
+      <extent>
+        <charseq START="124" END="132">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T2" VAL="2003-06-27">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T2-1">
+      <extent>
+        <charseq START="145" END="149">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T3" VAL="2003-06-27">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T3-1">
+      <extent>
+        <charseq START="319" END="323">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T4" VAL="2003-06-26">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T4-1">
+      <extent>
+        <charseq START="398" END="406">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030627_130145.6-T5" VAL="2003-06-28">
+    <timex2_mention ID="CNN_ENG_20030627_130145.6-T5-1">
+      <extent>
+        <charseq START="493" END="500">tomorrow</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

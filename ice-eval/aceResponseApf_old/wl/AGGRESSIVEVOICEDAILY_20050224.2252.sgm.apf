@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AGGRESSIVEVOICEDAILY_20050224.2252.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="AGGRESSIVEVOICEDAILY_20050224.2252">
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-1-0">
+      <extent>
+        <charseq START="101" END="105">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="101" END="105">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott">
+        <charseq START="101" END="105">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-2" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-2-0">
+      <extent>
+        <charseq START="176" END="190">assault weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="190">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-3-0">
+      <extent>
+        <charseq START="197" END="208">some lunatic</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="208">lunatic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-4-0">
+      <extent>
+        <charseq START="244" END="261">a Texas courthouse</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="261">courthouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="246" END="250">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="250">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="246" END="250">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-6-0">
+      <extent>
+        <charseq START="265" END="280">A brave civilian</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="280">civilian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20050224.2252-6-1">
+      <extent>
+        <charseq START="328" END="330">him</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="330">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-7" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-7-0">
+      <extent>
+        <charseq START="287" END="305">a concealed weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="305">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-8-0">
+      <extent>
+        <charseq START="355" END="379">David Hernandez Arroyo Sr</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="379">David Hernandez Arroyo Sr</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-8-1">
+      <extent>
+        <charseq START="382" END="392">the scumbag</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="392">scumbag</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20050224.2252-8-2">
+      <extent>
+        <charseq START="466" END="468">his</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="468">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-8-3">
+      <extent>
+        <charseq START="547" END="552">Arroyo</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="552">Arroyo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="David Hernandez Arroyo Sr">
+        <charseq START="355" END="379">David Hernandez Arroyo Sr</charseq>
+      </name>
+      <name NAME="Arroyo">
+        <charseq START="547" END="552">Arroyo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-9-0">
+      <extent>
+        <charseq START="421" END="424">body</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="424">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-9-1">
+      <extent>
+        <charseq START="923" END="926">body</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="926">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-10-0">
+      <extent>
+        <charseq START="466" END="476">his
+ex-wife</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="476">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-11-0">
+      <extent>
+        <charseq START="470" END="471">ex</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="471">ex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-12-0">
+      <extent>
+        <charseq START="485" END="489">child</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="489">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-13-0">
+      <extent>
+        <charseq START="583" END="588">police</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="588">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20050224.2252-13-1">
+      <extent>
+        <charseq START="593" END="594">he</charseq>
+      </extent>
+      <head>
+        <charseq START="593" END="594">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-13-2">
+      <extent>
+        <charseq START="857" END="862">police</charseq>
+      </extent>
+      <head>
+        <charseq START="857" END="862">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-14" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-14-0">
+      <extent>
+        <charseq START="738" END="740">gun</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="740">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-15" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-15-0">
+      <extent>
+        <charseq START="799" END="820">that concealed weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="814" END="820">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-16-0">
+      <extent>
+        <charseq START="829" END="835">holders</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="835">holders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-17-0">
+      <extent>
+        <charseq START="908" END="916">criminals</charseq>
+      </extent>
+      <head>
+        <charseq START="908" END="916">criminals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-18" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-18-0">
+      <extent>
+        <charseq START="990" END="993">guns</charseq>
+      </extent>
+      <head>
+        <charseq START="990" END="993">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-19" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-19-0">
+      <extent>
+        <charseq START="1073" END="1079">the gun</charseq>
+      </extent>
+      <head>
+        <charseq START="1077" END="1079">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-20-0">
+      <extent>
+        <charseq START="1111" END="1113">cop</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1113">cop</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-20-1">
+      <extent>
+        <charseq START="1115" END="1120">killer</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1120">killer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-21-0">
+      <extent>
+        <charseq START="1188" END="1211">the armor-wearing gunner</charseq>
+      </extent>
+      <head>
+        <charseq START="1206" END="1211">gunner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-22-0">
+      <extent>
+        <charseq START="1215" END="1217">God</charseq>
+      </extent>
+      <head>
+        <charseq START="1215" END="1217">God</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-23-0">
+      <extent>
+        <charseq START="1230" END="1240">Mark Wilson</charseq>
+      </extent>
+      <head>
+        <charseq START="1230" END="1240">Mark Wilson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-23-1">
+      <extent>
+        <charseq START="1247" END="1260">a true patriot</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1260">patriot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mark Wilson">
+        <charseq START="1230" END="1240">Mark Wilson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20050224.2252-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20050224.2252-24-0">
+      <extent>
+        <charseq START="1292" END="1313">this despicable maniac</charseq>
+      </extent>
+      <head>
+        <charseq START="1308" END="1313">maniac</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20050224.2252-T0" VAL="2005-02-24T22:52:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20050224.2252-T0-1">
+      <extent>
+        <charseq START="50" END="68">2005-02-24T22:52:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20050224.2252-T1" VAL="2005-02-24T22:52:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20050224.2252-T1-1">
+      <extent>
+        <charseq START="109" END="127">2005-02-24T22:52:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20050224.2252-T2" VAL="P164D">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20050224.2252-T2-1">
+      <extent>
+        <charseq START="130" END="137">164 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20050224.2252-T3" VAL="2005-02-24">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20050224.2252-T3-1">
+      <extent>
+        <charseq START="1271" END="1275">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

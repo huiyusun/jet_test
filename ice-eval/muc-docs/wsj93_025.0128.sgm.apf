@@ -1,0 +1,1034 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_025.0128.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_025.0128">
+  <entity ID="wsj93_025.0128-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="440" END="449">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="449">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-2-0">
+      <extent>
+        <charseq START="631" END="666">the National Association of Realtors</charseq>
+      </extent>
+      <head>
+        <charseq START="635" END="666">National Association of Realtors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-2-1">
+      <extent>
+        <charseq START="1613" END="1624">the Realtors</charseq>
+      </extent>
+      <head>
+        <charseq START="1617" END="1624">Realtors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-2-2">
+      <extent>
+        <charseq START="3605" END="3640">the National Association of Realtors</charseq>
+      </extent>
+      <head>
+        <charseq START="3609" END="3640">National Association of Realtors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="National Association of Realtors">
+        <charseq START="635" END="666">National Association of Realtors</charseq>
+      </name>
+      <name NAME="Realtors">
+        <charseq START="1617" END="1624">Realtors</charseq>
+      </name>
+      <name NAME="National Association of Realtors">
+        <charseq START="3609" END="3640">National Association of Realtors</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-3-0">
+      <extent>
+        <charseq START="745" END="760">Housing analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="760">analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-4-0">
+      <extent>
+        <charseq START="861" END="870">many parts</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="870">parts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="875" END="885">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="885">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="2492" END="2502">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="2496" END="2502">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-6-0">
+      <extent>
+        <charseq START="1012" END="1043">the Mortgage Bankers Association</charseq>
+      </extent>
+      <head>
+        <charseq START="1016" END="1043">Mortgage Bankers Association</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mortgage Bankers Association">
+        <charseq START="1016" END="1043">Mortgage Bankers Association</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-7-0">
+      <extent>
+        <charseq START="1380" END="1386">lenders</charseq>
+      </extent>
+      <head>
+        <charseq START="1380" END="1386">lenders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-8-0">
+      <extent>
+        <charseq START="1391" END="1409">HSH
+Associates Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="1391" END="1409">HSH
+Associates Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-8-1">
+      <extent>
+        <charseq START="1422" END="1451">N.J., mortgage publishing firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1448" END="1451">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="HSH Associates Inc.">
+        <charseq START="1391" END="1409">HSH
+Associates Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="1412" END="1419">a Butler</charseq>
+      </extent>
+      <head>
+        <charseq START="1414" END="1419">Butler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Butler">
+        <charseq START="1414" END="1419">Butler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="1422" END="1425">N.J.</charseq>
+      </extent>
+      <head>
+        <charseq START="1422" END="1425">N.J.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="N.J.">
+        <charseq START="1422" END="1425">N.J.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-11-0">
+      <extent>
+        <charseq START="1482" END="1498">childless couples</charseq>
+      </extent>
+      <head>
+        <charseq START="1492" END="1498">couples</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-12-0">
+      <extent>
+        <charseq START="1504" END="1511">families</charseq>
+      </extent>
+      <head>
+        <charseq START="1504" END="1511">families</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-13-0">
+      <extent>
+        <charseq START="1518" END="1521">kids</charseq>
+      </extent>
+      <head>
+        <charseq START="1518" END="1521">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-14-0">
+      <extent>
+        <charseq START="1583" END="1597">William
+S. Chee</charseq>
+      </extent>
+      <head>
+        <charseq START="1583" END="1597">William
+S. Chee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-14-1">
+      <extent>
+        <charseq START="1600" END="1608">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1600" END="1608">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William S. Chee">
+        <charseq START="1583" END="1597">William
+S. Chee</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-15-0">
+      <extent>
+        <charseq START="1627" END="1637">trade group</charseq>
+      </extent>
+      <head>
+        <charseq START="1633" END="1637">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="1649" END="1658">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1658">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="1649" END="1658">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="1661" END="1664">D.C.</charseq>
+      </extent>
+      <head>
+        <charseq START="1661" END="1664">D.C.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="D.C.">
+        <charseq START="1661" END="1664">D.C.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-18-0">
+      <extent>
+        <charseq START="1671" END="1687">a Honolulu broker</charseq>
+      </extent>
+      <head>
+        <charseq START="1682" END="1687">broker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1673" END="1680">Honolulu</charseq>
+      </extent>
+      <head>
+        <charseq START="1673" END="1680">Honolulu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Honolulu">
+        <charseq START="1673" END="1680">Honolulu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1712" END="1728">trade-up segments</charseq>
+      </extent>
+      <head>
+        <charseq START="1721" END="1728">segments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-21-0">
+      <extent>
+        <charseq START="1760" END="1775">John A. Tuccillo</charseq>
+      </extent>
+      <head>
+        <charseq START="1760" END="1775">John A. Tuccillo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-21-1">
+      <extent>
+        <charseq START="1778" END="1792">chief economist</charseq>
+      </extent>
+      <head>
+        <charseq START="1784" END="1792">economist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-21-2">
+      <extent>
+        <charseq START="1996" END="2007">Mr. Tuccillo</charseq>
+      </extent>
+      <head>
+        <charseq START="2000" END="2007">Tuccillo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-21-3">
+      <extent>
+        <charseq START="1996" END="1998">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1996" END="1998">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John A. Tuccillo">
+        <charseq START="1760" END="1775">John A. Tuccillo</charseq>
+      </name>
+      <name NAME="Tuccillo">
+        <charseq START="2000" END="2007">Tuccillo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-22-0">
+      <extent>
+        <charseq START="1798" END="1812">the trade group</charseq>
+      </extent>
+      <head>
+        <charseq START="1808" END="1812">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-23-0">
+      <extent>
+        <charseq START="1968" END="1992">a strong housing industry</charseq>
+      </extent>
+      <head>
+        <charseq START="1985" END="1992">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-24-0">
+      <extent>
+        <charseq START="2049" END="2063">trade-up buyers</charseq>
+      </extent>
+      <head>
+        <charseq START="2058" END="2063">buyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-25-0">
+      <extent>
+        <charseq START="2088" END="2104">first-time buyers</charseq>
+      </extent>
+      <head>
+        <charseq START="2099" END="2104">buyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-26-0">
+      <extent>
+        <charseq START="2155" END="2173">Richard J. Loughlin</charseq>
+      </extent>
+      <head>
+        <charseq START="2155" END="2173">Richard J. Loughlin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-26-1">
+      <extent>
+        <charseq START="2176" END="2184">president</charseq>
+      </extent>
+      <head>
+        <charseq START="2176" END="2184">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-26-2">
+      <extent>
+        <charseq START="2190" END="2204">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="2196" END="2204">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_025.0128-26-3">
+      <extent>
+        <charseq START="2320" END="2322">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2320" END="2322">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_025.0128-26-4">
+      <extent>
+        <charseq START="2429" END="2430">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2429" END="2430">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_025.0128-26-5">
+      <extent>
+        <charseq START="2442" END="2444">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2442" END="2444">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richard J. Loughlin">
+        <charseq START="2155" END="2173">Richard J. Loughlin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-27-0">
+      <extent>
+        <charseq START="2209" END="2236">Century 21
+Real Estate Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="2209" END="2236">Century 21
+Real Estate Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-27-1">
+      <extent>
+        <charseq START="2251" END="2272">Calif., brokerage unit</charseq>
+      </extent>
+      <head>
+        <charseq START="2269" END="2272">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Century 21 Real Estate Corp.">
+        <charseq START="2209" END="2236">Century 21
+Real Estate Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="2239" END="2248">the Irvine</charseq>
+      </extent>
+      <head>
+        <charseq START="2243" END="2248">Irvine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Irvine">
+        <charseq START="2243" END="2248">Irvine</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="2251" END="2256">Calif.</charseq>
+      </extent>
+      <head>
+        <charseq START="2251" END="2256">Calif.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="3304" END="3313">California</charseq>
+      </extent>
+      <head>
+        <charseq START="3304" END="3313">California</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-29-2" ROLE="GPE">
+      <extent>
+        <charseq START="3410" END="3419">California</charseq>
+      </extent>
+      <head>
+        <charseq START="3410" END="3419">California</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-29-3" ROLE="GPE">
+      <extent>
+        <charseq START="3677" END="3686">California</charseq>
+      </extent>
+      <head>
+        <charseq START="3677" END="3686">California</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calif.">
+        <charseq START="2251" END="2256">Calif.</charseq>
+      </name>
+      <name NAME="California">
+        <charseq START="3304" END="3313">California</charseq>
+      </name>
+      <name NAME="California">
+        <charseq START="3410" END="3419">California</charseq>
+      </name>
+      <name NAME="California">
+        <charseq START="3677" END="3686">California</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-30-0">
+      <extent>
+        <charseq START="2277" END="2307">Metropolitan Life Insurance Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="2277" END="2307">Metropolitan Life Insurance Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Metropolitan Life Insurance Co.">
+        <charseq START="2277" END="2307">Metropolitan Life Insurance Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-31-0">
+      <extent>
+        <charseq START="2320" END="2330">his company</charseq>
+      </extent>
+      <head>
+        <charseq START="2324" END="2330">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-32-0">
+      <extent>
+        <charseq START="2442" END="2452">his brokers</charseq>
+      </extent>
+      <head>
+        <charseq START="2446" END="2452">brokers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-33" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-33-0">
+      <extent>
+        <charseq START="2519" END="2549">hardest-hit Southern
+California</charseq>
+      </extent>
+      <head>
+        <charseq START="2531" END="2549">Southern
+California</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Southern California">
+        <charseq START="2531" END="2549">Southern
+California</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-34-0">
+      <extent>
+        <charseq START="2578" END="2592">Steven Cochrane</charseq>
+      </extent>
+      <head>
+        <charseq START="2578" END="2592">Steven Cochrane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-34-1">
+      <extent>
+        <charseq START="2595" END="2610">senior economist</charseq>
+      </extent>
+      <head>
+        <charseq START="2602" END="2610">economist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_025.0128-34-2">
+      <extent>
+        <charseq START="2731" END="2732">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2731" END="2732">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-34-3">
+      <extent>
+        <charseq START="2938" END="2949">Mr. Cochrane</charseq>
+      </extent>
+      <head>
+        <charseq START="2942" END="2949">Cochrane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-34-4">
+      <extent>
+        <charseq START="2938" END="2940">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2938" END="2940">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steven Cochrane">
+        <charseq START="2578" END="2592">Steven Cochrane</charseq>
+      </name>
+      <name NAME="Cochrane">
+        <charseq START="2942" END="2949">Cochrane</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-35-0">
+      <extent>
+        <charseq START="2615" END="2643">Regional Financial
+Associates</charseq>
+      </extent>
+      <head>
+        <charseq START="2615" END="2643">Regional Financial
+Associates</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-35-1">
+      <extent>
+        <charseq START="2678" END="2681">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="2678" END="2681">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Regional Financial Associates">
+        <charseq START="2615" END="2643">Regional Financial
+Associates</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="2662" END="2664">Pa.</charseq>
+      </extent>
+      <head>
+        <charseq START="2662" END="2664">Pa.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pa.">
+        <charseq START="2662" END="2664">Pa.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-37" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-37-0" ROLE="GPE">
+      <extent>
+        <charseq START="2784" END="2797">North Carolina</charseq>
+      </extent>
+      <head>
+        <charseq START="2784" END="2797">North Carolina</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Carolina">
+        <charseq START="2784" END="2797">North Carolina</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-38" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-38-0">
+      <extent>
+        <charseq START="2811" END="2824">the Gulf Coast</charseq>
+      </extent>
+      <head>
+        <charseq START="2815" END="2824">Gulf Coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gulf Coast">
+        <charseq START="2815" END="2824">Gulf Coast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-39" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-39-0" ROLE="GPE">
+      <extent>
+        <charseq START="2835" END="2839">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="2835" END="2839">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="2835" END="2839">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-40-0" ROLE="GPE">
+      <extent>
+        <charseq START="2856" END="2861">Denver</charseq>
+      </extent>
+      <head>
+        <charseq START="2856" END="2861">Denver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Denver">
+        <charseq START="2856" END="2861">Denver</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-41" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-41-0">
+      <extent>
+        <charseq START="3028" END="3045">The stable Midwest</charseq>
+      </extent>
+      <head>
+        <charseq START="3039" END="3045">Midwest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Midwest">
+        <charseq START="3039" END="3045">Midwest</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-42" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-42-0">
+      <extent>
+        <charseq START="3150" END="3157">the East</charseq>
+      </extent>
+      <head>
+        <charseq START="3154" END="3157">East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="East">
+        <charseq START="3154" END="3157">East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-43" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-43-0">
+      <extent>
+        <charseq START="3249" END="3261">the Northeast</charseq>
+      </extent>
+      <head>
+        <charseq START="3253" END="3261">Northeast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Northeast">
+        <charseq START="3253" END="3261">Northeast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-44" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_025.0128-44-0">
+      <extent>
+        <charseq START="3555" END="3592">the California Association of Realtors</charseq>
+      </extent>
+      <head>
+        <charseq START="3559" END="3592">California Association of Realtors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="California Association of Realtors">
+        <charseq START="3559" END="3592">California Association of Realtors</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-45" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-45-0">
+      <extent>
+        <charseq START="3673" END="3698">the California trade group</charseq>
+      </extent>
+      <head>
+        <charseq START="3694" END="3698">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_025.0128-46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_025.0128-46-0">
+      <extent>
+        <charseq START="3783" END="3801">the mortgage
+banker</charseq>
+      </extent>
+      <head>
+        <charseq START="3796" END="3801">banker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_025.0128-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V2-1">
+      <extent>
+        <charseq START="351" END="354">2.9%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V16" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V16-1">
+      <extent>
+        <charseq START="1100" END="1108">about 61%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V19" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V19-1">
+      <extent>
+        <charseq START="1312" END="1316">7.46%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V20" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V20-1">
+      <extent>
+        <charseq START="1330" END="1334">7.50%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V24" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V24-1">
+      <extent>
+        <charseq START="2358" END="2360">35%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V26" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V26-1">
+      <extent>
+        <charseq START="3121" END="3124">3.3%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_025.0128-V27" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_025.0128-V27-1">
+      <extent>
+        <charseq START="3457" END="3460">7.9%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_025.0128-T0" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T0-1">
+      <extent>
+        <charseq START="359" END="363">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T1" VAL="2015-06">
+    <timex2_mention ID="wsj93_025.0128-T1-1">
+      <extent>
+        <charseq START="393" END="401">last June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T2" VAL="2016-02">
+    <timex2_mention ID="wsj93_025.0128-T2-1">
+      <extent>
+        <charseq START="608" END="615">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T3" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T3-1">
+      <extent>
+        <charseq START="673" END="677">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T4" VAL="2016-02">
+    <timex2_mention ID="wsj93_025.0128-T4-1">
+      <extent>
+        <charseq START="938" END="947">last
+month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T5" VAL="P20Y">
+    <timex2_mention ID="wsj93_025.0128-T5-1">
+      <extent>
+        <charseq START="1261" END="1268">20
+years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T6" VAL="2016-03-25">
+    <timex2_mention ID="wsj93_025.0128-T6-1">
+      <extent>
+        <charseq START="1318" END="1323">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T7" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T7-1">
+      <extent>
+        <charseq START="2365" END="2369">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T8" VAL="2016-02">
+    <timex2_mention ID="wsj93_025.0128-T8-1">
+      <extent>
+        <charseq START="2376" END="2383">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T9" VAL="2016-04">
+    <timex2_mention ID="wsj93_025.0128-T9-1">
+      <extent>
+        <charseq START="2394" END="2398">April</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T10" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_025.0128-T10-1">
+      <extent>
+        <charseq START="2932" END="2934">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T11" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T11-1">
+      <extent>
+        <charseq START="3084" END="3088">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T12" VAL="2016-02">
+    <timex2_mention ID="wsj93_025.0128-T12-1">
+      <extent>
+        <charseq START="3131" END="3138">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T13" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T13-1">
+      <extent>
+        <charseq START="3294" END="3298">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T14" VAL="2016-03">
+    <timex2_mention ID="wsj93_025.0128-T14-1">
+      <extent>
+        <charseq START="3446" END="3450">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_025.0128-T15" VAL="2016-02">
+    <timex2_mention ID="wsj93_025.0128-T15-1">
+      <extent>
+        <charseq START="3532" END="3539">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_025.0128-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj93_025.0128-16" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_025.0128-17" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_025.0128-R1-1">
+      <extent>
+        <charseq START="1649" END="1664">Washington, D.C.</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_025.0128-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1649" END="1658">Washington</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_025.0128-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1661" END="1664">D.C.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

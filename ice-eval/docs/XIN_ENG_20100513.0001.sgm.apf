@@ -1,0 +1,878 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20100513.0001.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20100513.0001">
+  <entity ID="XIN_ENG_20100513.0001-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="103" END="107">Dutch</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="107">Dutch</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="1131" END="1135">Dutch</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1135">Dutch</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1237" END="1241">Dutch</charseq>
+      </extent>
+      <head>
+        <charseq START="1237" END="1241">Dutch</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1677" END="1691">the Netherlands</charseq>
+      </extent>
+      <head>
+        <charseq START="1681" END="1691">Netherlands</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dutch">
+        <charseq START="103" END="107">Dutch</charseq>
+      </name>
+      <name NAME="Dutch">
+        <charseq START="1131" END="1135">Dutch</charseq>
+      </name>
+      <name NAME="Dutch">
+        <charseq START="1237" END="1241">Dutch</charseq>
+      </name>
+      <name NAME="Netherlands">
+        <charseq START="1681" END="1691">Netherlands</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="137" END="142">Libyan</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="142">Libyan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="448" END="453">Libyan</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="453">Libyan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1822" END="1826">Libya</charseq>
+      </extent>
+      <head>
+        <charseq START="1822" END="1826">Libya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Libyan">
+        <charseq START="137" END="142">Libyan</charseq>
+      </name>
+      <name NAME="Libyan">
+        <charseq START="448" END="453">Libyan</charseq>
+      </name>
+      <name NAME="Libya">
+        <charseq START="1822" END="1826">Libya</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-3-0">
+      <extent>
+        <charseq START="168" END="177">103 people</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="177">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-4-0">
+      <extent>
+        <charseq START="222" END="239">a Tripoli hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="239">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-4-1">
+      <extent>
+        <charseq START="816" END="827">the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="827">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="224" END="230">Tripoli</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="230">Tripoli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="350" END="356">Tripoli</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="356">Tripoli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tripoli">
+        <charseq START="224" END="230">Tripoli</charseq>
+      </name>
+      <name NAME="Tripoli">
+        <charseq START="350" END="356">Tripoli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-6-0">
+      <extent>
+        <charseq START="242" END="267">state-run Jana
+news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="267">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-7-0">
+      <extent>
+        <charseq START="252" END="255">Jana</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="255">Jana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-7-1">
+      <extent>
+        <charseq START="435" END="438">Jana</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="438">Jana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-7-2">
+      <extent>
+        <charseq START="835" END="838">Jana</charseq>
+      </extent>
+      <head>
+        <charseq START="835" END="838">Jana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jana">
+        <charseq START="252" END="255">Jana</charseq>
+      </name>
+      <name NAME="Jana">
+        <charseq START="435" END="438">Jana</charseq>
+      </name>
+      <name NAME="Jana">
+        <charseq START="835" END="838">Jana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-8" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-8-0">
+      <extent>
+        <charseq START="281" END="307">The Afriqiyah Airways plane</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="307">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-9-0">
+      <extent>
+        <charseq START="285" END="301">Afriqiyah Airways</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="301">Afriqiyah Airways</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-9-1">
+      <extent>
+        <charseq START="1600" END="1616">Afriqiyah Airways</charseq>
+      </extent>
+      <head>
+        <charseq START="1600" END="1616">Afriqiyah Airways</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Afriqiyah Airways">
+        <charseq START="285" END="301">Afriqiyah Airways</charseq>
+      </name>
+      <name NAME="Afriqiyah Airways">
+        <charseq START="1600" END="1616">Afriqiyah Airways</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-10" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-10-0">
+      <extent>
+        <charseq START="350" END="364">Tripoli
+airport</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="364">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-11-0">
+      <extent>
+        <charseq START="372" END="375">most</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="375">most</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-12-0">
+      <extent>
+        <charseq START="380" END="393">the passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="393">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-13-0">
+      <extent>
+        <charseq START="409" END="413">Dutch</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="413">Dutch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dutch">
+        <charseq START="409" END="413">Dutch</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-14-0">
+      <extent>
+        <charseq START="448" END="491">Libyan Transport Minister Mohammed Ali Zidan</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="491">Mohammed Ali Zidan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-14-1">
+      <extent>
+        <charseq START="465" END="472">Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="472">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammed Ali Zidan">
+        <charseq START="474" END="491">Mohammed Ali Zidan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-15-0">
+      <extent>
+        <charseq START="520" END="528">the child</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="528">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-15-1">
+      <extent>
+        <charseq START="845" END="853">the child</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="853">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-15-2">
+      <extent>
+        <charseq START="941" END="949">The child</charseq>
+      </extent>
+      <head>
+        <charseq START="945" END="949">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-15-3">
+      <extent>
+        <charseq START="1028" END="1029">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1028" END="1029">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-15-4">
+      <extent>
+        <charseq START="1085" END="1086">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1086">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-15-5">
+      <extent>
+        <charseq START="1118" END="1120">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1120">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-15-6">
+      <extent>
+        <charseq START="1307" END="1315">the child</charseq>
+      </extent>
+      <head>
+        <charseq START="1311" END="1315">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-15-7">
+      <extent>
+        <charseq START="1351" END="1359">the child</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1359">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-15-8">
+      <extent>
+        <charseq START="1370" END="1372">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1370" END="1372">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-15-9">
+      <extent>
+        <charseq START="1510" END="1512">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1510" END="1512">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-16-0">
+      <extent>
+        <charseq START="545" END="574">10 -year-old Robben Van Achout</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="574">Robben Van Achout</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-16-1">
+      <extent>
+        <charseq START="579" END="595">a transliteration</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="595">transliteration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-16-2">
+      <extent>
+        <charseq START="671" END="672">he</charseq>
+      </extent>
+      <head>
+        <charseq START="671" END="672">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robben Van Achout">
+        <charseq START="558" END="574">Robben Van Achout</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-17-0">
+      <extent>
+        <charseq START="645" END="654">al-Khadraa</charseq>
+      </extent>
+      <head>
+        <charseq START="645" END="654">al-Khadraa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="al-Khadraa">
+        <charseq START="645" END="654">al-Khadraa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-18-0">
+      <extent>
+        <charseq START="645" END="663">al-Khadraa
+hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="656" END="663">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-19-0">
+      <extent>
+        <charseq START="764" END="782">Dr. Hamida al-Sahli</charseq>
+      </extent>
+      <head>
+        <charseq START="768" END="782">Hamida al-Sahli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-19-1">
+      <extent>
+        <charseq START="764" END="766">Dr.</charseq>
+      </extent>
+      <head>
+        <charseq START="764" END="766">Dr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-19-2">
+      <extent>
+        <charseq START="785" END="788">head</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="788">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamida al-Sahli">
+        <charseq START="768" END="782">Hamida al-Sahli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-20-0">
+      <extent>
+        <charseq START="793" END="811">the child care unit</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="811">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-21-0">
+      <extent>
+        <charseq START="1006" END="1015">the doctor</charseq>
+      </extent>
+      <head>
+        <charseq START="1010" END="1015">doctor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-22-0">
+      <extent>
+        <charseq START="1131" END="1161">Dutch newspaper Babants Dagblad</charseq>
+      </extent>
+      <head>
+        <charseq START="1147" END="1161">Babants Dagblad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-22-1">
+      <extent>
+        <charseq START="1137" END="1145">newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="1137" END="1145">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Babants Dagblad">
+        <charseq START="1147" END="1161">Babants Dagblad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-23-0">
+      <extent>
+        <charseq START="1188" END="1221">the nine-year-old Ruben
+van Assouw</charseq>
+      </extent>
+      <head>
+        <charseq START="1206" END="1221">Ruben
+van Assouw</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ruben van Assouw">
+        <charseq START="1206" END="1221">Ruben
+van Assouw</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1251" END="1257">Tilburg</charseq>
+      </extent>
+      <head>
+        <charseq START="1251" END="1257">Tilburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-24-1" ROLE="GPE">
+      <extent>
+        <charseq START="1228" END="1246">southern Dutch city</charseq>
+      </extent>
+      <head>
+        <charseq START="1243" END="1246">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tilburg">
+        <charseq START="1251" END="1257">Tilburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1318" END="1320">Ann</charseq>
+      </extent>
+      <head>
+        <charseq START="1318" END="1320">Ann</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ann">
+        <charseq START="1318" END="1320">Ann</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-26" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-26-0">
+      <extent>
+        <charseq START="1318" END="1324">Ann van</charseq>
+      </extent>
+      <head>
+        <charseq START="1322" END="1324">van</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-27-0">
+      <extent>
+        <charseq START="1370" END="1387">his father Patrick</charseq>
+      </extent>
+      <head>
+        <charseq START="1381" END="1387">Patrick</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-27-1">
+      <extent>
+        <charseq START="1374" END="1379">father</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1379">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Patrick">
+        <charseq START="1381" END="1387">Patrick</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-28-0">
+      <extent>
+        <charseq START="1394" END="1405">mother Trudy</charseq>
+      </extent>
+      <head>
+        <charseq START="1401" END="1405">Trudy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-28-1">
+      <extent>
+        <charseq START="1394" END="1399">mother</charseq>
+      </extent>
+      <head>
+        <charseq START="1394" END="1399">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Trudy">
+        <charseq START="1401" END="1405">Trudy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-29-0">
+      <extent>
+        <charseq START="1416" END="1427">brother Enzo</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1427">Enzo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-29-1">
+      <extent>
+        <charseq START="1416" END="1422">brother</charseq>
+      </extent>
+      <head>
+        <charseq START="1416" END="1422">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Enzo">
+        <charseq START="1424" END="1427">Enzo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1454" END="1465">South Africa</charseq>
+      </extent>
+      <head>
+        <charseq START="1454" END="1465">South Africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-30-1" ROLE="GPE">
+      <extent>
+        <charseq START="1705" END="1716">South
+Africa</charseq>
+      </extent>
+      <head>
+        <charseq START="1705" END="1716">South
+Africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="South Africa">
+        <charseq START="1454" END="1465">South Africa</charseq>
+      </name>
+      <name NAME="South Africa">
+        <charseq START="1705" END="1716">South
+Africa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-31-0">
+      <extent>
+        <charseq START="1694" END="1698">seven</charseq>
+      </extent>
+      <head>
+        <charseq START="1694" END="1698">seven</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="1728" END="1734">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1728" END="1734">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Britain">
+        <charseq START="1728" END="1734">Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-33-0" ROLE="GPE">
+      <extent>
+        <charseq START="1746" END="1752">Austria</charseq>
+      </extent>
+      <head>
+        <charseq START="1746" END="1752">Austria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Austria">
+        <charseq START="1746" END="1752">Austria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="1764" END="1770">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1764" END="1770">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="1764" END="1770">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="1782" END="1789">Zimbabwe</charseq>
+      </extent>
+      <head>
+        <charseq START="1782" END="1789">Zimbabwe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20100513.0001-35-1" ROLE="GPE">
+      <extent>
+        <charseq START="1792" END="1794">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1792" END="1794">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zimbabwe">
+        <charseq START="1782" END="1789">Zimbabwe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="1801" END="1806">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1801" END="1806">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="1801" END="1806">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-37-0">
+      <extent>
+        <charseq START="1839" END="1851">17 passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="1842" END="1851">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20100513.0001-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20100513.0001-38-0">
+      <extent>
+        <charseq START="1937" END="1943">Libyans</charseq>
+      </extent>
+      <head>
+        <charseq START="1937" END="1943">Libyans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20100513.0001-38-1">
+      <extent>
+        <charseq START="1913" END="1930">the 11-member crew</charseq>
+      </extent>
+      <head>
+        <charseq START="1927" END="1930">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Libyans">
+        <charseq START="1937" END="1943">Libyans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20100513.0001-T0" VAL="2010-05-12">
+    <timex2_mention ID="XIN_ENG_20100513.0001-T0-1">
+      <extent>
+        <charseq START="326" END="334">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100513.0001-T1" VAL="2010-05-12">
+    <timex2_mention ID="XIN_ENG_20100513.0001-T1-1">
+      <extent>
+        <charseq START="496" END="504">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100513.0001-T2" VAL="2010-05-13">
+    <timex2_mention ID="XIN_ENG_20100513.0001-T2-1">
+      <extent>
+        <charseq START="1091" END="1093">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20100513.0001-T3" VAL="2010-05-12">
+    <timex2_mention ID="XIN_ENG_20100513.0001-T3-1">
+      <extent>
+        <charseq START="1621" END="1629">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20100513.0001-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20100513.0001-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20100513.0001-24" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20100513.0001-R1-1">
+      <extent>
+        <charseq START="1188" END="1246">the nine-year-old Ruben
+van Assouw from southern Dutch city</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20100513.0001-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1188" END="1221">the nine-year-old Ruben
+van Assouw</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20100513.0001-24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1228" END="1246">southern Dutch city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

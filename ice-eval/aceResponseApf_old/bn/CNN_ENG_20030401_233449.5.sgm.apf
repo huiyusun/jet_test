@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030401_233449.5.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030401_233449.5">
+  <entity ID="CNN_ENG_20030401_233449.5-1" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-1-0">
+      <extent>
+        <charseq START="67" END="76">an airport</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="76">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-1-1">
+      <extent>
+        <charseq START="113" END="123">the setting</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="123">setting</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030401_233449.5-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="91" END="97">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="97">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030401_233449.5-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="352" END="358">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="358">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="florida">
+        <charseq START="91" END="97">florida</charseq>
+      </name>
+      <name NAME="florida">
+        <charseq START="352" END="358">florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030401_233449.5-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="177" END="184">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="184">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030401_233449.5-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="420" END="426">america</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="426">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="181" END="184">u.s.</charseq>
+      </name>
+      <name NAME="america">
+        <charseq START="420" END="426">america</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-4-0">
+      <extent>
+        <charseq START="207" END="213">the man</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="213">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030401_233449.5-4-1">
+      <extent>
+        <charseq START="256" END="257">he</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="257">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-5-0">
+      <extent>
+        <charseq START="240" END="250">authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="250">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-6-0">
+      <extent>
+        <charseq START="268" END="280">a cuban plane</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="280">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-6-1">
+      <extent>
+        <charseq START="382" END="390">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="390">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-7" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-7-0">
+      <extent>
+        <charseq START="312" END="319">grenades</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="319">grenades</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-8-0">
+      <extent>
+        <charseq START="331" END="340">the
+pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="340">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-9-0">
+      <extent>
+        <charseq START="361" END="372">the hijacker</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="372">hijacker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030401_233449.5-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030401_233449.5-10-0">
+      <extent>
+        <charseq START="449" END="461">a small child</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="461">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030401_233449.5-10-1">
+      <extent>
+        <charseq START="475" END="477">his</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="477">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030401_233449.5-T0" VAL="2003-04-01">
+    <timex2_mention ID="CNN_ENG_20030401_233449.5-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-01</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030401_233449.5-T1" VAL="2003-04-01">
+    <timex2_mention ID="CNN_ENG_20030401_233449.5-T1-1">
+      <extent>
+        <charseq START="100" END="104">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

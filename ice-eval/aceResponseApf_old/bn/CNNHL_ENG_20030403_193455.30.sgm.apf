@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030403_193455.30.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030403_193455.30">
+  <entity ID="CNNHL_ENG_20030403_193455.30-1" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030403_193455.30-1-0">
+      <extent>
+        <charseq START="70" END="97">saddam international airport</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="97">saddam international airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="saddam international airport">
+        <charseq START="70" END="97">saddam international airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-2-0">
+      <extent>
+        <charseq START="125" END="133">witnesses</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="133">witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-2-1">
+      <extent>
+        <charseq START="337" END="345">witnesses</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="345">witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030403_193455.30-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="139" END="143">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="143">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030403_193455.30-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="288" END="292">iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="288" END="292">iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraqi">
+        <charseq START="139" END="143">iraqi</charseq>
+      </name>
+      <name NAME="iraqi">
+        <charseq START="288" END="292">iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-4-0">
+      <extent>
+        <charseq START="139" END="150">iraqi troops</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="150">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="182" END="190">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="190">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-6-0">
+      <extent>
+        <charseq START="182" END="197">coalition troops</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="197">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030403_193455.30-6-1">
+      <extent>
+        <charseq START="206" END="210">their</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="210">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="221" END="231">the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="231">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-8" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-8-0">
+      <extent>
+        <charseq START="232" END="246">&apos;s main airport</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="246">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030403_193455.30-9-0">
+      <extent>
+        <charseq START="251" END="257">reuters</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="257">reuters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="reuters">
+        <charseq START="251" END="257">reuters</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-10-0">
+      <extent>
+        <charseq START="251" END="271">reuters correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="271">correspondent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-11-0">
+      <extent>
+        <charseq START="278" END="283">dozens</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="283">dozens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-12-0">
+      <extent>
+        <charseq START="288" END="302">iraqi civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="302">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-13-0">
+      <extent>
+        <charseq START="308" END="315">soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="315">soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030403_193455.30-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="367" END="370">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="370">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="367" END="370">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030403_193455.30-15" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030403_193455.30-15-0">
+      <extent>
+        <charseq START="367" END="380">u.s. artillery</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="380">artillery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030403_193455.30-T0" VAL="2003-04-03">
+    <timex2_mention ID="CNNHL_ENG_20030403_193455.30-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-04-03</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

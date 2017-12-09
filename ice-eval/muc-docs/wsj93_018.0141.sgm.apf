@@ -1,0 +1,2035 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_018.0141.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_018.0141">
+  <entity ID="wsj93_018.0141-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-1-0">
+      <extent>
+        <charseq START="261" END="275">The elderly man</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="275">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-1-1">
+      <extent>
+        <charseq START="381" END="382">he</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="382">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-1-2">
+      <extent>
+        <charseq START="413" END="415">his</charseq>
+      </extent>
+      <head>
+        <charseq START="413" END="415">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-1-3">
+      <extent>
+        <charseq START="660" END="664">a man</charseq>
+      </extent>
+      <head>
+        <charseq START="662" END="664">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-2-0">
+      <extent>
+        <charseq START="306" END="323">the hillside villa</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="323">villa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-3-0">
+      <extent>
+        <charseq START="508" END="529">two grim
+police guards</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="529">guards</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-4-0">
+      <extent>
+        <charseq START="599" END="627">the former Communist dictator</charseq>
+      </extent>
+      <head>
+        <charseq START="620" END="627">dictator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="610" END="618">Communist</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="618">Communist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1103" END="1111">Communist</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1111">Communist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Communist">
+        <charseq START="610" END="618">Communist</charseq>
+      </name>
+      <name NAME="Communist">
+        <charseq START="1103" END="1111">Communist</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-0">
+      <extent>
+        <charseq START="672" END="684">Todor Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="684">Todor Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-1">
+      <extent>
+        <charseq START="728" END="734">the man</charseq>
+      </extent>
+      <head>
+        <charseq START="732" END="734">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-6-2">
+      <extent>
+        <charseq START="754" END="760">himself</charseq>
+      </extent>
+      <head>
+        <charseq START="754" END="760">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-3">
+      <extent>
+        <charseq START="765" END="780">the third person</charseq>
+      </extent>
+      <head>
+        <charseq START="775" END="780">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-4">
+      <extent>
+        <charseq START="789" END="795">Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="795">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-6-5">
+      <extent>
+        <charseq START="811" END="813">his</charseq>
+      </extent>
+      <head>
+        <charseq START="811" END="813">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-6-6">
+      <extent>
+        <charseq START="878" END="879">he</charseq>
+      </extent>
+      <head>
+        <charseq START="878" END="879">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-7">
+      <extent>
+        <charseq START="1223" END="1233">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="1227" END="1233">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-8">
+      <extent>
+        <charseq START="1223" END="1225">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1223" END="1225">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-9">
+      <extent>
+        <charseq START="1192" END="1220">a Communist Party palace coup</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1220">coup</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-6-10">
+      <extent>
+        <charseq START="1239" END="1241">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1239" END="1241">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-11">
+      <extent>
+        <charseq START="1393" END="1403">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="1397" END="1403">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-12">
+      <extent>
+        <charseq START="1393" END="1395">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1393" END="1395">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-13">
+      <extent>
+        <charseq START="1811" END="1821">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="1815" END="1821">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-14">
+      <extent>
+        <charseq START="1811" END="1813">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1811" END="1813">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-15">
+      <extent>
+        <charseq START="1792" END="1808">a $1 million fine</charseq>
+      </extent>
+      <head>
+        <charseq START="1805" END="1808">fine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-16">
+      <extent>
+        <charseq START="2060" END="2070">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="2064" END="2070">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-17">
+      <extent>
+        <charseq START="2060" END="2062">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2060" END="2062">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-18">
+      <extent>
+        <charseq START="2726" END="2736">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="2730" END="2736">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-19">
+      <extent>
+        <charseq START="2726" END="2728">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2726" END="2728">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-20">
+      <extent>
+        <charseq START="3053" END="3059">Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="3053" END="3059">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-21">
+      <extent>
+        <charseq START="3187" END="3197">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="3191" END="3197">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-22">
+      <extent>
+        <charseq START="3187" END="3189">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="3187" END="3189">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-23">
+      <extent>
+        <charseq START="3625" END="3635">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="3629" END="3635">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-24">
+      <extent>
+        <charseq START="3625" END="3627">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="3625" END="3627">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-25">
+      <extent>
+        <charseq START="3923" END="3933">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="3927" END="3933">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-26">
+      <extent>
+        <charseq START="3923" END="3925">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="3923" END="3925">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-27">
+      <extent>
+        <charseq START="4526" END="4536">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="4530" END="4536">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-28">
+      <extent>
+        <charseq START="4526" END="4528">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="4526" END="4528">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-29">
+      <extent>
+        <charseq START="4754" END="4764">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="4758" END="4764">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-30">
+      <extent>
+        <charseq START="4754" END="4756">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="4754" END="4756">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-31">
+      <extent>
+        <charseq START="5151" END="5157">Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="5151" END="5157">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-32">
+      <extent>
+        <charseq START="5279" END="5289">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="5283" END="5289">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-33">
+      <extent>
+        <charseq START="5279" END="5281">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="5279" END="5281">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-34">
+      <extent>
+        <charseq START="5969" END="5979">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="5973" END="5979">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-35">
+      <extent>
+        <charseq START="5969" END="5971">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="5969" END="5971">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-36">
+      <extent>
+        <charseq START="6334" END="6340">Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="6334" END="6340">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-6-37">
+      <extent>
+        <charseq START="6363" END="6366">&quot; he</charseq>
+      </extent>
+      <head>
+        <charseq START="6365" END="6366">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-6-38">
+      <extent>
+        <charseq START="6433" END="6443">Mr. Zhivkov</charseq>
+      </extent>
+      <head>
+        <charseq START="6437" END="6443">Zhivkov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-6-39">
+      <extent>
+        <charseq START="6433" END="6435">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="6433" END="6435">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Todor Zhivkov">
+        <charseq START="672" END="684">Todor Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="789" END="795">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="1227" END="1233">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="1397" END="1403">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="1815" END="1821">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="2064" END="2070">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="2730" END="2736">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="3053" END="3059">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="3191" END="3197">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="3629" END="3635">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="3927" END="3933">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="4530" END="4536">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="4758" END="4764">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="5151" END="5157">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="5283" END="5289">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="5973" END="5979">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="6334" END="6340">Zhivkov</charseq>
+      </name>
+      <name NAME="Zhivkov">
+        <charseq START="6437" END="6443">Zhivkov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-7-0">
+      <extent>
+        <charseq START="811" END="821">his enemies</charseq>
+      </extent>
+      <head>
+        <charseq START="815" END="821">enemies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-8-0">
+      <extent>
+        <charseq START="827" END="845">political opponents</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="845">opponents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-9-0">
+      <extent>
+        <charseq START="1043" END="1058">Eastern
+Europe&apos;s</charseq>
+      </extent>
+      <head>
+        <charseq START="1043" END="1058">Eastern
+Europe&apos;s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eastern Europe&apos;s">
+        <charseq START="1043" END="1058">Eastern
+Europe&apos;s</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-10-0">
+      <extent>
+        <charseq START="1096" END="1118">feared Communist
+leader</charseq>
+      </extent>
+      <head>
+        <charseq START="1113" END="1118">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-1">
+      <extent>
+        <charseq START="1141" END="1142">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1142">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-2">
+      <extent>
+        <charseq START="1613" END="1614">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1613" END="1614">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-3">
+      <extent>
+        <charseq START="1625" END="1627">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1625" END="1627">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-4">
+      <extent>
+        <charseq START="1750" END="1752">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1750" END="1752">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-5">
+      <extent>
+        <charseq START="2130" END="2131">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2130" END="2131">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-6">
+      <extent>
+        <charseq START="2226" END="2227">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2226" END="2227">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-7">
+      <extent>
+        <charseq START="2299" END="2300">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2299" END="2300">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-8">
+      <extent>
+        <charseq START="2316" END="2317">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2316" END="2317">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-10-9">
+      <extent>
+        <charseq START="2327" END="2342">a virtual pauper</charseq>
+      </extent>
+      <head>
+        <charseq START="2337" END="2342">pauper</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-10">
+      <extent>
+        <charseq START="2389" END="2390">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2389" END="2390">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-11">
+      <extent>
+        <charseq START="2403" END="2405">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2403" END="2405">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-12">
+      <extent>
+        <charseq START="2742" END="2744">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2742" END="2744">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-10-13">
+      <extent>
+        <charseq START="2820" END="2822">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2820" END="2822">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-11-0">
+      <extent>
+        <charseq START="1167" END="1175">reformers</charseq>
+      </extent>
+      <head>
+        <charseq START="1167" END="1175">reformers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-12-0">
+      <extent>
+        <charseq START="1194" END="1208">Communist Party</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1208">Communist Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-12-1">
+      <extent>
+        <charseq START="4820" END="4834">Communist Party</charseq>
+      </extent>
+      <head>
+        <charseq START="4820" END="4834">Communist Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Communist Party">
+        <charseq START="1194" END="1208">Communist Party</charseq>
+      </name>
+      <name NAME="Communist Party">
+        <charseq START="4820" END="4834">Communist Party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-13-0">
+      <extent>
+        <charseq START="1239" END="1249">his
+lackeys</charseq>
+      </extent>
+      <head>
+        <charseq START="1243" END="1249">lackeys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-14-0">
+      <extent>
+        <charseq START="1262" END="1278">the secret police</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1278">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="1284" END="1289">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="1284" END="1289">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Moscow">
+        <charseq START="1284" END="1289">Moscow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="1298" END="1305">Bulgaria</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1305">Bulgaria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-1" ROLE="GPE">
+      <extent>
+        <charseq START="1658" END="1666">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="1658" END="1666">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-2" ROLE="GPE">
+      <extent>
+        <charseq START="2160" END="2167">Bulgaria</charseq>
+      </extent>
+      <head>
+        <charseq START="2160" END="2167">Bulgaria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-3" ROLE="GPE">
+      <extent>
+        <charseq START="2277" END="2286">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="2281" END="2286">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-4" ROLE="GPE">
+      <extent>
+        <charseq START="2540" END="2545">People</charseq>
+      </extent>
+      <head>
+        <charseq START="2540" END="2545">People</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-5" ROLE="GPE">
+      <extent>
+        <charseq START="2654" END="2662">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="2654" END="2662">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-6" ROLE="GPE">
+      <extent>
+        <charseq START="3512" END="3520">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="3512" END="3520">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-7" ROLE="GPE">
+      <extent>
+        <charseq START="4770" END="4778">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="4770" END="4778">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-8" ROLE="GPE">
+      <extent>
+        <charseq START="4915" END="4925">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="4919" END="4925">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-9" ROLE="GPE">
+      <extent>
+        <charseq START="5050" END="5069">The Bulgarian people</charseq>
+      </extent>
+      <head>
+        <charseq START="5064" END="5069">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-10" ROLE="GPE">
+      <extent>
+        <charseq START="5054" END="5062">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="5054" END="5062">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-11" ROLE="GPE">
+      <extent>
+        <charseq START="5217" END="5238">the current government</charseq>
+      </extent>
+      <head>
+        <charseq START="5229" END="5238">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-12" ROLE="GPE">
+      <extent>
+        <charseq START="5500" END="5507">Bulgaria</charseq>
+      </extent>
+      <head>
+        <charseq START="5500" END="5507">Bulgaria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-13" ROLE="GPE">
+      <extent>
+        <charseq START="5620" END="5628">Bulgarian</charseq>
+      </extent>
+      <head>
+        <charseq START="5620" END="5628">Bulgarian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-14" ROLE="GPE">
+      <extent>
+        <charseq START="6109" END="6114">people</charseq>
+      </extent>
+      <head>
+        <charseq START="6109" END="6114">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-16-15" ROLE="GPE">
+      <extent>
+        <charseq START="6293" END="6302">The people</charseq>
+      </extent>
+      <head>
+        <charseq START="6297" END="6302">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-16-16" ROLE="GPE">
+      <extent>
+        <charseq START="6342" END="6345">they</charseq>
+      </extent>
+      <head>
+        <charseq START="6342" END="6345">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-16-17" ROLE="GPE">
+      <extent>
+        <charseq START="6354" END="6361">Zhivkovs</charseq>
+      </extent>
+      <head>
+        <charseq START="6354" END="6361">Zhivkovs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bulgaria">
+        <charseq START="1298" END="1305">Bulgaria</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="1658" END="1666">Bulgarian</charseq>
+      </name>
+      <name NAME="Bulgaria">
+        <charseq START="2160" END="2167">Bulgaria</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="2654" END="2662">Bulgarian</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="3512" END="3520">Bulgarian</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="4770" END="4778">Bulgarian</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="5054" END="5062">Bulgarian</charseq>
+      </name>
+      <name NAME="Bulgaria">
+        <charseq START="5500" END="5507">Bulgaria</charseq>
+      </name>
+      <name NAME="Bulgarian">
+        <charseq START="5620" END="5628">Bulgarian</charseq>
+      </name>
+      <name NAME="Zhivkovs">
+        <charseq START="6354" END="6361">Zhivkovs</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-17-0">
+      <extent>
+        <charseq START="1363" END="1368">Balkan</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1368">Balkan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Balkan">
+        <charseq START="1363" END="1368">Balkan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-18-0">
+      <extent>
+        <charseq START="1529" END="1538">apartments</charseq>
+      </extent>
+      <head>
+        <charseq START="1529" END="1538">apartments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-19-0">
+      <extent>
+        <charseq START="1541" END="1553">holiday homes</charseq>
+      </extent>
+      <head>
+        <charseq START="1549" END="1553">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-20" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-20-0">
+      <extent>
+        <charseq START="1559" END="1562">cars</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1562">cars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-21-0">
+      <extent>
+        <charseq START="1625" END="1641">his granddaughter</charseq>
+      </extent>
+      <head>
+        <charseq START="1629" END="1641">granddaughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-22-0">
+      <extent>
+        <charseq START="1720" END="1736">legal authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1726" END="1736">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-23" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-23-0">
+      <extent>
+        <charseq START="1835" END="1838">many</charseq>
+      </extent>
+      <head>
+        <charseq START="1835" END="1838">many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-24-0">
+      <extent>
+        <charseq START="1840" END="1858">ordinary Bulgarians</charseq>
+      </extent>
+      <head>
+        <charseq START="1849" END="1858">Bulgarians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-24-1">
+      <extent>
+        <charseq START="2776" END="2790">most Bulgarians</charseq>
+      </extent>
+      <head>
+        <charseq START="2781" END="2790">Bulgarians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-24-2">
+      <extent>
+        <charseq START="3205" END="3214">Bulgarians</charseq>
+      </extent>
+      <head>
+        <charseq START="3205" END="3214">Bulgarians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-3">
+      <extent>
+        <charseq START="3357" END="3358">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3357" END="3358">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-4">
+      <extent>
+        <charseq START="3794" END="3795">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3794" END="3795">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-5">
+      <extent>
+        <charseq START="3903" END="3905">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3903" END="3905">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-6">
+      <extent>
+        <charseq START="4081" END="4082">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4081" END="4082">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-7">
+      <extent>
+        <charseq START="4092" END="4093">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4092" END="4093">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-24-8">
+      <extent>
+        <charseq START="4217" END="4218">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4217" END="4218">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-24-9">
+      <extent>
+        <charseq START="5930" END="5939">Bulgarians</charseq>
+      </extent>
+      <head>
+        <charseq START="5930" END="5939">Bulgarians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bulgarians">
+        <charseq START="1849" END="1858">Bulgarians</charseq>
+      </name>
+      <name NAME="Bulgarians">
+        <charseq START="2781" END="2790">Bulgarians</charseq>
+      </name>
+      <name NAME="Bulgarians">
+        <charseq START="3205" END="3214">Bulgarians</charseq>
+      </name>
+      <name NAME="Bulgarians">
+        <charseq START="5930" END="5939">Bulgarians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-25-0">
+      <extent>
+        <charseq START="2179" END="2211">state and party general secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="2203" END="2211">secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="2579" END="2589">Switzerland</charseq>
+      </extent>
+      <head>
+        <charseq START="2579" END="2589">Switzerland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Switzerland">
+        <charseq START="2579" END="2589">Switzerland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="2599" END="2604">Canada</charseq>
+      </extent>
+      <head>
+        <charseq START="2599" END="2604">Canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canada">
+        <charseq START="2599" END="2604">Canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-28" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-28-0">
+      <extent>
+        <charseq START="2692" END="2700">a bicycle</charseq>
+      </extent>
+      <head>
+        <charseq START="2694" END="2700">bicycle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-29-0">
+      <extent>
+        <charseq START="2742" END="2752">his friends</charseq>
+      </extent>
+      <head>
+        <charseq START="2746" END="2752">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-30-0">
+      <extent>
+        <charseq START="2811" END="2815">Seven</charseq>
+      </extent>
+      <head>
+        <charseq START="2811" END="2815">Seven</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-31-0">
+      <extent>
+        <charseq START="2834" END="2852">30
+state residences</charseq>
+      </extent>
+      <head>
+        <charseq START="2843" END="2852">residences</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-32-0">
+      <extent>
+        <charseq START="2871" END="2877">gardens</charseq>
+      </extent>
+      <head>
+        <charseq START="2871" END="2877">gardens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-33-0">
+      <extent>
+        <charseq START="2883" END="2905">helicopter landing
+pads</charseq>
+      </extent>
+      <head>
+        <charseq START="2902" END="2905">pads</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-34-0">
+      <extent>
+        <charseq START="2938" END="2965">heated indoor swimming pools</charseq>
+      </extent>
+      <head>
+        <charseq START="2961" END="2965">pools</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-35-0">
+      <extent>
+        <charseq START="2997" END="3010">tourist hotels</charseq>
+      </extent>
+      <head>
+        <charseq START="3005" END="3010">hotels</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-36-0">
+      <extent>
+        <charseq START="3049" END="3064">the Zhivkov clan</charseq>
+      </extent>
+      <head>
+        <charseq START="3061" END="3064">clan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-37-0">
+      <extent>
+        <charseq START="3086" END="3103">Nedyalka Sandalska</charseq>
+      </extent>
+      <head>
+        <charseq START="3086" END="3103">Nedyalka Sandalska</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-37-1">
+      <extent>
+        <charseq START="3106" END="3119">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="3111" END="3119">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nedyalka Sandalska">
+        <charseq START="3086" END="3103">Nedyalka Sandalska</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-38-0">
+      <extent>
+        <charseq START="3124" END="3146">the state tourist board</charseq>
+      </extent>
+      <head>
+        <charseq START="3142" END="3146">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-39-0">
+      <extent>
+        <charseq START="3161" END="3174">the properties</charseq>
+      </extent>
+      <head>
+        <charseq START="3165" END="3174">properties</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-40" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-40-0">
+      <extent>
+        <charseq START="3222" END="3232">empty shops</charseq>
+      </extent>
+      <head>
+        <charseq START="3228" END="3232">shops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-41" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-41-0">
+      <extent>
+        <charseq START="3262" END="3271">newspapers</charseq>
+      </extent>
+      <head>
+        <charseq START="3262" END="3271">newspapers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-42-0">
+      <extent>
+        <charseq START="3458" END="3480">exiled dissident
+writer</charseq>
+      </extent>
+      <head>
+        <charseq START="3475" END="3480">writer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-43-0">
+      <extent>
+        <charseq START="3482" END="3494">Georgi Markov</charseq>
+      </extent>
+      <head>
+        <charseq START="3482" END="3494">Georgi Markov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-43-1">
+      <extent>
+        <charseq START="3555" END="3557">him</charseq>
+      </extent>
+      <head>
+        <charseq START="3555" END="3557">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Georgi Markov">
+        <charseq START="3482" END="3494">Georgi Markov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-44-0">
+      <extent>
+        <charseq START="3512" END="3542">Bulgarian secret service agents</charseq>
+      </extent>
+      <head>
+        <charseq START="3537" END="3542">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-45" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-45-0">
+      <extent>
+        <charseq START="3598" END="3617">a busy London
+street</charseq>
+      </extent>
+      <head>
+        <charseq START="3612" END="3617">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="3605" END="3610">London</charseq>
+      </extent>
+      <head>
+        <charseq START="3605" END="3610">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="3605" END="3610">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-47-0">
+      <extent>
+        <charseq START="3681" END="3694">a police
+force</charseq>
+      </extent>
+      <head>
+        <charseq START="3690" END="3694">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-48" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-48-0">
+      <extent>
+        <charseq START="3703" END="3723">the Interior Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="3707" END="3723">Interior Ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Interior Ministry">
+        <charseq START="3707" END="3723">Interior Ministry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-49" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-49-0">
+      <extent>
+        <charseq START="3742" END="3748">the CIA</charseq>
+      </extent>
+      <head>
+        <charseq START="3746" END="3748">CIA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CIA">
+        <charseq START="3746" END="3748">CIA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-50-0">
+      <extent>
+        <charseq START="3753" END="3755">KGB</charseq>
+      </extent>
+      <head>
+        <charseq START="3753" END="3755">KGB</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="KGB">
+        <charseq START="3753" END="3755">KGB</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-51-0">
+      <extent>
+        <charseq START="3975" END="3994">the East bloc rulers</charseq>
+      </extent>
+      <head>
+        <charseq START="3989" END="3994">rulers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-51-1">
+      <extent>
+        <charseq START="4030" END="4033">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4030" END="4033">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-52" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-52-0">
+      <extent>
+        <charseq START="3979" END="3987">East bloc</charseq>
+      </extent>
+      <head>
+        <charseq START="3979" END="3987">East bloc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="East bloc">
+        <charseq START="3979" END="3987">East bloc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-53-0">
+      <extent>
+        <charseq START="4109" END="4121">the apparatus</charseq>
+      </extent>
+      <head>
+        <charseq START="4113" END="4121">apparatus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-54-0" ROLE="GPE">
+      <extent>
+        <charseq START="4126" END="4131">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="4126" END="4131">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-54-1" ROLE="GPE">
+      <extent>
+        <charseq START="4471" END="4476">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="4471" END="4476">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-54-2" ROLE="GPE">
+      <extent>
+        <charseq START="5395" END="5400">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="5395" END="5400">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Soviet">
+        <charseq START="4126" END="4131">Soviet</charseq>
+      </name>
+      <name NAME="Soviet">
+        <charseq START="4471" END="4476">Soviet</charseq>
+      </name>
+      <name NAME="Soviet">
+        <charseq START="5395" END="5400">Soviet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-55-0" ROLE="GPE">
+      <extent>
+        <charseq START="4198" END="4205">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="4198" END="4205">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japanese">
+        <charseq START="4198" END="4205">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-56-0">
+      <extent>
+        <charseq START="4248" END="4259">a born idiot</charseq>
+      </extent>
+      <head>
+        <charseq START="4255" END="4259">idiot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-56-1">
+      <extent>
+        <charseq START="4380" END="4382">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4380" END="4382">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-56-2">
+      <extent>
+        <charseq START="4409" END="4410">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4409" END="4410">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-57" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-57-0" ROLE="GPE">
+      <extent>
+        <charseq START="4290" END="4312">the socialist
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="4304" END="4312">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-58-0">
+      <extent>
+        <charseq START="4416" END="4439">approach Leonid Brezhnev</charseq>
+      </extent>
+      <head>
+        <charseq START="4425" END="4439">Leonid Brezhnev</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-58-1">
+      <extent>
+        <charseq START="4416" END="4423">approach</charseq>
+      </extent>
+      <head>
+        <charseq START="4416" END="4423">approach</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Leonid Brezhnev">
+        <charseq START="4425" END="4439">Leonid Brezhnev</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-59-0">
+      <extent>
+        <charseq START="4467" END="4483">the Soviet
+leader</charseq>
+      </extent>
+      <head>
+        <charseq START="4478" END="4483">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-59-1">
+      <extent>
+        <charseq START="4508" END="4510">him</charseq>
+      </extent>
+      <head>
+        <charseq START="4508" END="4510">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-60-0">
+      <extent>
+        <charseq START="4558" END="4574">Mikhail Gorbachev</charseq>
+      </extent>
+      <head>
+        <charseq START="4558" END="4574">Mikhail Gorbachev</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-1">
+      <extent>
+        <charseq START="4664" END="4665">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4664" END="4665">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-2">
+      <extent>
+        <charseq START="4953" END="4954">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4953" END="4954">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-3">
+      <extent>
+        <charseq START="4965" END="4967">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4965" END="4967">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-4">
+      <extent>
+        <charseq START="4985" END="4986">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4985" END="4986">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-5">
+      <extent>
+        <charseq START="5005" END="5007">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5005" END="5007">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-60-6">
+      <extent>
+        <charseq START="5039" END="5041">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5039" END="5041">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mikhail Gorbachev">
+        <charseq START="4558" END="4574">Mikhail Gorbachev</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-61" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-61-0">
+      <extent>
+        <charseq START="5328" END="5346">concentration camps</charseq>
+      </extent>
+      <head>
+        <charseq START="5342" END="5346">camps</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-62" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-62-0">
+      <extent>
+        <charseq START="5420" END="5435">terrorist groups</charseq>
+      </extent>
+      <head>
+        <charseq START="5430" END="5435">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-63-0">
+      <extent>
+        <charseq START="5508" END="5539">&apos;s large ethnic
+Turkish minority</charseq>
+      </extent>
+      <head>
+        <charseq START="5532" END="5539">minority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-64" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-64-0" ROLE="GPE">
+      <extent>
+        <charseq START="5524" END="5530">Turkish</charseq>
+      </extent>
+      <head>
+        <charseq START="5524" END="5530">Turkish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkish">
+        <charseq START="5524" END="5530">Turkish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-65-0">
+      <extent>
+        <charseq START="5588" END="5604">Pope
+John Paul II</charseq>
+      </extent>
+      <head>
+        <charseq START="5593" END="5604">John Paul II</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-1">
+      <extent>
+        <charseq START="5682" END="5683">He</charseq>
+      </extent>
+      <head>
+        <charseq START="5682" END="5683">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-2">
+      <extent>
+        <charseq START="5724" END="5726">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5724" END="5726">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-3">
+      <extent>
+        <charseq START="5735" END="5736">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5735" END="5736">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-4">
+      <extent>
+        <charseq START="5919" END="5921">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5919" END="5921">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-5">
+      <extent>
+        <charseq START="6039" END="6040">he</charseq>
+      </extent>
+      <head>
+        <charseq START="6039" END="6040">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-6">
+      <extent>
+        <charseq START="6123" END="6125">his</charseq>
+      </extent>
+      <head>
+        <charseq START="6123" END="6125">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-7">
+      <extent>
+        <charseq START="6474" END="6476">his</charseq>
+      </extent>
+      <head>
+        <charseq START="6474" END="6476">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-8">
+      <extent>
+        <charseq START="6529" END="6530">he</charseq>
+      </extent>
+      <head>
+        <charseq START="6529" END="6530">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-9">
+      <extent>
+        <charseq START="6556" END="6558">his</charseq>
+      </extent>
+      <head>
+        <charseq START="6556" END="6558">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_018.0141-65-10">
+      <extent>
+        <charseq START="6573" END="6575">his</charseq>
+      </extent>
+      <head>
+        <charseq START="6573" END="6575">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Paul II">
+        <charseq START="5593" END="5604">John Paul II</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-66-0">
+      <extent>
+        <charseq START="5861" END="5877">a chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="5869" END="5877">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-67" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-67-0">
+      <extent>
+        <charseq START="6022" END="6032">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="6026" END="6032">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-68-0">
+      <extent>
+        <charseq START="6139" END="6156">a local
+journalist</charseq>
+      </extent>
+      <head>
+        <charseq START="6147" END="6156">journalist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_018.0141-69-0">
+      <extent>
+        <charseq START="6242" END="6265">Businessman Ludmil Lalov</charseq>
+      </extent>
+      <head>
+        <charseq START="6254" END="6265">Ludmil Lalov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-69-1">
+      <extent>
+        <charseq START="6242" END="6252">Businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="6242" END="6252">Businessman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ludmil Lalov">
+        <charseq START="6254" END="6265">Ludmil Lalov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-70" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-70-0">
+      <extent>
+        <charseq START="6597" END="6607">many people</charseq>
+      </extent>
+      <head>
+        <charseq START="6602" END="6607">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-71-0">
+      <extent>
+        <charseq START="6625" END="6640">my
+granddaughter</charseq>
+      </extent>
+      <head>
+        <charseq START="6628" END="6640">granddaughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_018.0141-72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_018.0141-72-0">
+      <extent>
+        <charseq START="6646" END="6653">the maid</charseq>
+      </extent>
+      <head>
+        <charseq START="6650" END="6653">maid</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_018.0141-V13" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_018.0141-V13-1">
+      <extent>
+        <charseq START="2624" END="2633">one dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_018.0141-T0" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T0-1">
+      <extent>
+        <charseq START="784" END="786">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T1" VAL="P35Y">
+    <timex2_mention ID="wsj93_018.0141-T1-1">
+      <extent>
+        <charseq START="1125" END="1132">35 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T2" VAL="1989">
+    <timex2_mention ID="wsj93_018.0141-T2-1">
+      <extent>
+        <charseq START="1159" END="1162">1989</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T3" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T3-1">
+      <extent>
+        <charseq START="1386" END="1390">Today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T4" VAL="P81Y">
+    <timex2_mention ID="wsj93_018.0141-T4-1">
+      <extent>
+        <charseq START="1406" END="1413">81 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T5" VAL="P7Y">
+    <timex2_mention ID="wsj93_018.0141-T5-1">
+      <extent>
+        <charseq START="1766" END="1776">seven years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T6" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T6-1">
+      <extent>
+        <charseq START="3935" END="3937">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T7" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T7-1">
+      <extent>
+        <charseq START="4486" END="4488">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T8" VAL="1987">
+    <timex2_mention ID="wsj93_018.0141-T8-1">
+      <extent>
+        <charseq START="4691" END="4694">1987</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T9" VAL="1959">
+    <timex2_mention ID="wsj93_018.0141-T9-1">
+      <extent>
+        <charseq START="5353" END="5356">1959</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T10" VAL="1962">
+    <timex2_mention ID="wsj93_018.0141-T10-1">
+      <extent>
+        <charseq START="5361" END="5364">1962</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T11" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T11-1">
+      <extent>
+        <charseq START="6058" END="6062">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T12" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T12-1">
+      <extent>
+        <charseq START="6160" END="6162">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_018.0141-T13" VAL="2016-03-28">
+    <timex2_mention ID="wsj93_018.0141-T13-1">
+      <extent>
+        <charseq START="6313" END="6317">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

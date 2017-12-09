@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030619_125955.10.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030619_125955.10">
+  <entity ID="CNN_ENG_20030619_125955.10-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030619_125955.10-1-0">
+      <extent>
+        <charseq START="100" END="126">the new york stock
+exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="126">new york stock
+exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york stock exchange">
+        <charseq START="104" END="126">new york stock
+exchange</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030619_125955.10-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030619_125955.10-2-0">
+      <extent>
+        <charseq START="243" END="251">investors</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="251">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030619_125955.10-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030619_125955.10-3-0">
+      <extent>
+        <charseq START="460" END="466">general</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="466">general</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030619_125955.10-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030619_125955.10-4-0">
+      <extent>
+        <charseq START="500" END="524">three brokerage
+companies</charseq>
+      </extent>
+      <head>
+        <charseq START="516" END="524">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030619_125955.10-4-1">
+      <extent>
+        <charseq START="530" END="534">their</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="534">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030619_125955.10-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030619_125955.10-5-0">
+      <extent>
+        <charseq START="558" END="568">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="568">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030619_125955.10-6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030619_125955.10-6-0">
+      <extent>
+        <charseq START="589" END="591">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="591">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="589" END="591">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030619_125955.10-V3" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="CNN_ENG_20030619_125955.10-V3-1">
+      <extent>
+        <charseq START="485" END="492">a dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030619_125955.10-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030619_125955.10-V4-1">
+      <extent>
+        <charseq START="582" END="586">0.75%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030619_125955.10-T0" VAL="2003-06-19">
+    <timex2_mention ID="CNN_ENG_20030619_125955.10-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-19</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030619_125955.10-T1" VAL="P3M">
+    <timex2_mention ID="CNN_ENG_20030619_125955.10-T1-1">
+      <extent>
+        <charseq START="188" END="199">three months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030619_125955.10-T2" VAL="2003-06-19">
+    <timex2_mention ID="CNN_ENG_20030619_125955.10-T2-1">
+      <extent>
+        <charseq START="293" END="297">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030619_125955.10-T3" VAL="P17M">
+    <timex2_mention ID="CNN_ENG_20030619_125955.10-T3-1">
+      <extent>
+        <charseq START="367" END="375">17 months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

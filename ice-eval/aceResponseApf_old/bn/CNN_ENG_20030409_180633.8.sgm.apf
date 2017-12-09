@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030409_180633.8.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030409_180633.8">
+  <entity ID="CNN_ENG_20030409_180633.8-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-1-0">
+      <extent>
+        <charseq START="67" END="89">a federal appeals court</charseq>
+      </extent>
+      <head>
+        <charseq START="85" END="89">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-2" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-2-0">
+      <extent>
+        <charseq START="107" END="121">long dirty bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="121">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030409_180633.8-3-0">
+      <extent>
+        <charseq START="131" END="142">jose
+padilla</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="142">jose
+padilla</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030409_180633.8-3-1">
+      <extent>
+        <charseq START="172" END="173">he</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="173">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030409_180633.8-3-2">
+      <extent>
+        <charseq START="223" END="229">padilla</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="229">padilla</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-3-3">
+      <extent>
+        <charseq START="234" END="252">an enemy combattant</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="252">combattant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jose padilla">
+        <charseq START="131" END="142">jose
+padilla</charseq>
+      </name>
+      <name NAME="padilla">
+        <charseq START="223" END="229">padilla</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-4-0">
+      <extent>
+        <charseq START="189" END="197">attorneys</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="197">attorneys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-5-0">
+      <extent>
+        <charseq START="200" END="216">the
+u.s. attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="209" END="216">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030409_180633.8-5-1">
+      <extent>
+        <charseq START="283" END="284">he</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="284">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030409_180633.8-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="204" END="207">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="207">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="204" END="207">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-7" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-7-0">
+      <extent>
+        <charseq START="237" END="241">enemy</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="241">enemy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-8" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-8-0">
+      <extent>
+        <charseq START="321" END="332">a dirty bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="332">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030409_180633.8-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030409_180633.8-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="337" END="348">this
+country</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="348">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030409_180633.8-T0" VAL="2003-04-09">
+    <timex2_mention ID="CNN_ENG_20030409_180633.8-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-04-09</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

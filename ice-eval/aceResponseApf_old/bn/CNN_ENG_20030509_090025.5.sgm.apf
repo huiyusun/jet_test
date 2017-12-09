@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030509_090025.5.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030509_090025.5">
+  <entity ID="CNN_ENG_20030509_090025.5-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-1-0">
+      <extent>
+        <charseq START="69" END="88">former fbi informant</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="88">informant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-0">
+      <extent>
+        <charseq START="76" END="78">fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="78">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-1">
+      <extent>
+        <charseq START="358" END="360">fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="360">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-2">
+      <extent>
+        <charseq START="633" END="635">fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="635">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-3">
+      <extent>
+        <charseq START="967" END="969">fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="969">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-4">
+      <extent>
+        <charseq START="1160" END="1166">the fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1166">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-2-5">
+      <extent>
+        <charseq START="1568" END="1574">the fbi</charseq>
+      </extent>
+      <head>
+        <charseq START="1572" END="1574">fbi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="fbi">
+        <charseq START="76" END="78">fbi</charseq>
+      </name>
+      <name NAME="fbi">
+        <charseq START="358" END="360">fbi</charseq>
+      </name>
+      <name NAME="fbi">
+        <charseq START="633" END="635">fbi</charseq>
+      </name>
+      <name NAME="fbi">
+        <charseq START="967" END="969">fbi</charseq>
+      </name>
+      <name NAME="fbi">
+        <charseq START="1164" END="1166">fbi</charseq>
+      </name>
+      <name NAME="fbi">
+        <charseq START="1572" END="1574">fbi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-3-0">
+      <extent>
+        <charseq START="107" END="120">a double agent</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="120">agent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-4-0">
+      <extent>
+        <charseq START="161" END="173">katrina leung</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="173">katrina leung</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="katrina leung">
+        <charseq START="161" END="173">katrina leung</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-5-0">
+      <extent>
+        <charseq START="217" END="221">spies</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="221">spies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-6-0">
+      <extent>
+        <charseq START="252" END="266">charles
+feldman</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="266">charles
+feldman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="charles feldman">
+        <charseq START="252" END="266">charles
+feldman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="274" END="284">los angeles</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="284">los angeles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="los angeles">
+        <charseq START="274" END="284">los angeles</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="417" END="420">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="420">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="870" END="886">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="886">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="1712" END="1719">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="1716" END="1719">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="417" END="420">u.s.</charseq>
+      </name>
+      <name NAME="united states">
+        <charseq START="874" END="886">united states</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="1716" END="1719">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="422" END="426">china</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="426">china</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-10-0">
+      <extent>
+        <charseq START="453" END="455">spy</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="455">spy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-11-0">
+      <extent>
+        <charseq START="624" END="661">a former fbi counterintelligence
+agent</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="661">agent</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-11-1">
+      <extent>
+        <charseq START="708" END="710">his</charseq>
+      </extent>
+      <head>
+        <charseq START="708" END="710">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-11-2">
+      <extent>
+        <charseq START="756" END="762">herself</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="762">herself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-11-3">
+      <extent>
+        <charseq START="899" END="901">she</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="901">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-11-4">
+      <extent>
+        <charseq START="960" END="962">her</charseq>
+      </extent>
+      <head>
+        <charseq START="960" END="962">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-12-0">
+      <extent>
+        <charseq START="964" END="965">ex</charseq>
+      </extent>
+      <head>
+        <charseq START="964" END="965">ex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-13-0">
+      <extent>
+        <charseq START="980" END="990">james smith</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="990">james smith</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="james smith">
+        <charseq START="980" END="990">james smith</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-14-0">
+      <extent>
+        <charseq START="998" END="1007">&apos;s lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="1001" END="1007">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-15-0">
+      <extent>
+        <charseq START="1052" END="1055">jury</charseq>
+      </extent>
+      <head>
+        <charseq START="1052" END="1055">jury</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-16-0">
+      <extent>
+        <charseq START="1107" END="1112">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1112">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-16-1">
+      <extent>
+        <charseq START="1130" END="1132">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1130" END="1132">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-16-2">
+      <extent>
+        <charseq START="1184" END="1186">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1184" END="1186">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-16-3">
+      <extent>
+        <charseq START="1217" END="1219">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1219">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-16-4">
+      <extent>
+        <charseq START="1227" END="1229">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1227" END="1229">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-16-5">
+      <extent>
+        <charseq START="1344" END="1346">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1346">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-17" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-17-0">
+      <extent>
+        <charseq START="1385" END="1423">every event
+involving local politicians</charseq>
+      </extent>
+      <head>
+        <charseq START="1413" END="1423">politicians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-18-0">
+      <extent>
+        <charseq START="1426" END="1448">sometimes national ones</charseq>
+      </extent>
+      <head>
+        <charseq START="1445" END="1448">ones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-19-0">
+      <extent>
+        <charseq START="1455" END="1484">various
+high-ranking officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1476" END="1484">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1489" END="1510">the chinese government</charseq>
+      </extent>
+      <head>
+        <charseq START="1501" END="1510">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-21-0">
+      <extent>
+        <charseq START="1627" END="1637">the chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="1631" END="1637">chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030509_090025.5-21-1">
+      <extent>
+        <charseq START="1668" END="1670">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1668" END="1670">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030509_090025.5-21-2">
+      <extent>
+        <charseq START="1725" END="1735">the chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="1729" END="1735">chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chinese">
+        <charseq START="1631" END="1637">chinese</charseq>
+      </name>
+      <name NAME="chinese">
+        <charseq START="1729" END="1735">chinese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030509_090025.5-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030509_090025.5-22-0">
+      <extent>
+        <charseq START="1640" END="1658">federal prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="1648" END="1658">prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030509_090025.5-T0" VAL="2003-05-09">
+    <timex2_mention ID="CNN_ENG_20030509_090025.5-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-09</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030509_090025.5-T1" VAL="2003-05-08">
+    <timex2_mention ID="CNN_ENG_20030509_090025.5-T1-1">
+      <extent>
+        <charseq START="557" END="565">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030509_090025.5-T2" VAL="P20Y">
+    <timex2_mention ID="CNN_ENG_20030509_090025.5-T2-1">
+      <extent>
+        <charseq START="1608" END="1615">20 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030509_090025.5-T3" VAL="2003-05-09">
+    <timex2_mention ID="CNN_ENG_20030509_090025.5-T3-1">
+      <extent>
+        <charseq START="1660" END="1662">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030509_090025.5-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030509_090025.5-8" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030509_090025.5-9" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030509_090025.5-R1-2">
+      <extent>
+        <charseq START="417" END="426">u.s./china</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030509_090025.5-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="417" END="420">u.s.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030509_090025.5-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="422" END="426">china</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

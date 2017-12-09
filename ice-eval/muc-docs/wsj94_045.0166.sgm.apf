@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_045.0166.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_045.0166">
+  <entity ID="wsj94_045.0166-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-1-0">
+      <extent>
+        <charseq START="212" END="230">EL PASO ELECTRIC Co</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="230">EL PASO ELECTRIC Co</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-1-1">
+      <extent>
+        <charseq START="234" END="240">El Paso</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="240">El Paso</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="EL PASO ELECTRIC Co">
+        <charseq START="212" END="230">EL PASO ELECTRIC Co</charseq>
+      </name>
+      <name NAME="El Paso">
+        <charseq START="234" END="240">El Paso</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="243" END="247">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="247">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_045.0166-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="334" END="337">They</charseq>
+      </extent>
+      <head>
+        <charseq START="334" END="337">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="344" END="361">William J. Johnson</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="361">William J. Johnson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="378" END="400">a senior vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="400">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="406" END="428">chief
+financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="428">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="243" END="247">Texas</charseq>
+      </name>
+      <name NAME="William J. Johnson">
+        <charseq START="344" END="361">William J. Johnson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-3-0">
+      <extent>
+        <charseq START="253" END="273">Three senior officers</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="273">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-4-0">
+      <extent>
+        <charseq START="312" END="331">this utility company</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="331">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-4-1">
+      <extent>
+        <charseq START="612" END="622">the
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="622">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-5-0">
+      <extent>
+        <charseq START="431" END="449">Ignacio R. Troncoso</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="449">Ignacio R. Troncoso</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-5-1">
+      <extent>
+        <charseq START="479" END="488">operations</charseq>
+      </extent>
+      <head>
+        <charseq START="479" END="488">operations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-5-2">
+      <extent>
+        <charseq START="456" END="476">senior vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="468" END="476">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ignacio R. Troncoso">
+        <charseq START="431" END="449">Ignacio R. Troncoso</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-6-0">
+      <extent>
+        <charseq START="495" END="510">William W. Royer</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="510">William W. Royer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-6-1">
+      <extent>
+        <charseq START="540" END="555">special
+projects</charseq>
+      </extent>
+      <head>
+        <charseq START="548" END="555">projects</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-6-2">
+      <extent>
+        <charseq START="517" END="537">senior vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="537">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William W. Royer">
+        <charseq START="495" END="510">William W. Royer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-7-0">
+      <extent>
+        <charseq START="558" END="576">A company spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="576">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-8-0">
+      <extent>
+        <charseq START="692" END="716">Central &amp; Southwest Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="692" END="716">Central &amp; Southwest Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_045.0166-8-1">
+      <extent>
+        <charseq START="757" END="767">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="767">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Central &amp; Southwest Corp.">
+        <charseq START="692" END="716">Central &amp; Southwest Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_045.0166-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_045.0166-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="721" END="726">Dallas</charseq>
+      </extent>
+      <head>
+        <charseq START="721" END="726">Dallas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dallas">
+        <charseq START="721" END="726">Dallas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_045.0166-T0" VAL="P52Y">
+    <timex2_mention ID="wsj94_045.0166-T0-1">
+      <extent>
+        <charseq START="364" END="371">52 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

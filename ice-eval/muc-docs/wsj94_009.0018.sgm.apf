@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_009.0018.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_009.0018">
+  <entity ID="wsj94_009.0018-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_009.0018-1-0">
+      <extent>
+        <charseq START="189" END="193">Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="193">Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_009.0018-1-1">
+      <extent>
+        <charseq START="200" END="201">it</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="201">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_009.0018-1-2">
+      <extent>
+        <charseq START="245" END="247">its</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="247">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_009.0018-1-3">
+      <extent>
+        <charseq START="257" END="279">Southwestern Life Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="279">Southwestern Life Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_009.0018-1-4">
+      <extent>
+        <charseq START="284" END="286">its</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="286">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_009.0018-1-5">
+      <extent>
+        <charseq START="325" END="343">the holding company</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="343">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Corp.">
+        <charseq START="189" END="193">Corp.</charseq>
+      </name>
+      <name NAME="Southwestern Life Corp.">
+        <charseq START="257" END="279">Southwestern Life Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_009.0018-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_009.0018-2-0">
+      <extent>
+        <charseq START="212" END="223">shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="223">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_009.0018-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_009.0018-3-0">
+      <extent>
+        <charseq START="348" END="390">Dallas-based Southwestern
+Life Insurance Co</charseq>
+      </extent>
+      <head>
+        <charseq START="361" END="390">Southwestern
+Life Insurance Co</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Southwestern Life Insurance Co">
+        <charseq START="361" END="390">Southwestern
+Life Insurance Co</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_009.0018-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_009.0018-4-0">
+      <extent>
+        <charseq START="393" END="398">I.C.H.</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="398">I.C.H.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_009.0018-4-1">
+      <extent>
+        <charseq START="490" END="500">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="500">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_009.0018-4-2">
+      <extent>
+        <charseq START="518" END="520">its</charseq>
+      </extent>
+      <head>
+        <charseq START="518" END="520">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_009.0018-4-3">
+      <extent>
+        <charseq START="586" END="590">their</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="590">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="I.C.H.">
+        <charseq START="393" END="398">I.C.H.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_009.0018-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_009.0018-5-0">
+      <extent>
+        <charseq START="464" END="487">its insurance businesses</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="487">businesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_009.0018-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_009.0018-6-0">
+      <extent>
+        <charseq START="518" END="543">its insurance subsidiaries</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="543">subsidiaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

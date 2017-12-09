@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_040.0329.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_040.0329">
+  <entity ID="wsj94_040.0329-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-1-0">
+      <extent>
+        <charseq START="314" END="340">Attorney General Janet Reno</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="340">Janet Reno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-1-1">
+      <extent>
+        <charseq START="314" END="329">Attorney General</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="329">Attorney General</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-1-2">
+      <extent>
+        <charseq START="622" END="629">Ms. Reno</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="629">Reno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-1-3">
+      <extent>
+        <charseq START="622" END="624">Ms.</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="624">Ms.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Janet Reno">
+        <charseq START="331" END="340">Janet Reno</charseq>
+      </name>
+      <name NAME="Reno">
+        <charseq START="626" END="629">Reno</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-2-0">
+      <extent>
+        <charseq START="383" END="401">the special counsel</charseq>
+      </extent>
+      <head>
+        <charseq START="395" END="401">counsel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-3-0">
+      <extent>
+        <charseq START="440" END="456">President Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="456">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-3-1">
+      <extent>
+        <charseq START="440" END="448">President</charseq>
+      </extent>
+      <head>
+        <charseq START="440" END="448">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Clinton">
+        <charseq START="450" END="456">Clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-4-0">
+      <extent>
+        <charseq START="474" END="500">Whitewater Development
+Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="500">Whitewater Development
+Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Whitewater Development Corp">
+        <charseq START="474" END="500">Whitewater Development
+Corp</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-5-0">
+      <extent>
+        <charseq START="508" END="536">A Justice Department official</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="536">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_040.0329-5-1">
+      <extent>
+        <charseq START="708" END="710">her</charseq>
+      </extent>
+      <head>
+        <charseq START="708" END="710">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_040.0329-5-2">
+      <extent>
+        <charseq START="731" END="733">she</charseq>
+      </extent>
+      <head>
+        <charseq START="731" END="733">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-6-0">
+      <extent>
+        <charseq START="510" END="527">Justice Department</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="527">Justice Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Justice Department">
+        <charseq START="510" END="527">Justice Department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-7-0">
+      <extent>
+        <charseq START="745" END="757">a small group</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="757">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-8-0">
+      <extent>
+        <charseq START="762" END="781">department employees</charseq>
+      </extent>
+      <head>
+        <charseq START="773" END="781">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-9-0">
+      <extent>
+        <charseq START="794" END="831">Deputy Attorney General Philip Heymann</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="831">Philip Heymann</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-9-1">
+      <extent>
+        <charseq START="801" END="816">Attorney General</charseq>
+      </extent>
+      <head>
+        <charseq START="801" END="816">Attorney General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philip Heymann">
+        <charseq START="818" END="831">Philip Heymann</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-10-0">
+      <extent>
+        <charseq START="837" END="873">criminal-division chief Jo Ann Harris</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="873">Jo Ann Harris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-10-1">
+      <extent>
+        <charseq START="855" END="859">chief</charseq>
+      </extent>
+      <head>
+        <charseq START="855" END="859">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jo Ann Harris">
+        <charseq START="861" END="873">Jo Ann Harris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-11-0">
+      <extent>
+        <charseq START="897" END="903">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="897" END="903">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_040.0329-11-1">
+      <extent>
+        <charseq START="920" END="923">they</charseq>
+      </extent>
+      <head>
+        <charseq START="920" END="923">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-12-0">
+      <extent>
+        <charseq START="999" END="1006">Dan Webb</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1006">Dan Webb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-12-1">
+      <extent>
+        <charseq START="1009" END="1030">a former U.S.
+attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1030">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dan Webb">
+        <charseq START="999" END="1006">Dan Webb</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="1018" END="1021">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1021">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="1110" END="1113">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1110" END="1113">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="1018" END="1021">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="1110" END="1113">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0329-14-0">
+      <extent>
+        <charseq START="1040" END="1067">a deputy independent counsel</charseq>
+      </extent>
+      <head>
+        <charseq START="1061" END="1067">counsel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0329-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0329-15-0">
+      <extent>
+        <charseq START="1103" END="1134">former U.S. Attorney Robert Fisk</charseq>
+      </extent>
+      <head>
+        <charseq START="1124" END="1134">Robert Fisk</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert Fisk">
+        <charseq START="1124" END="1134">Robert Fisk</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_040.0329-T0" VAL="2016-03-28">
+    <timex2_mention ID="wsj94_040.0329-T0-1">
+      <extent>
+        <charseq START="581" END="585">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_040.0329-T1" VAL="2016-03-25">
+    <timex2_mention ID="wsj94_040.0329-T1-1">
+      <extent>
+        <charseq START="653" END="658">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_040.0329-T2" VAL="2016-03-27">
+    <timex2_mention ID="wsj94_040.0329-T2-1">
+      <extent>
+        <charseq START="664" END="673">last night</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030416.0581.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030416.0581">
+  <entity ID="APW_ENG_20030416.0581-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="117" END="122">MOSCOW</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="122">MOSCOW</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MOSCOW">
+        <charseq START="117" END="122">MOSCOW</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-2-0">
+      <extent>
+        <charseq START="125" END="126">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="126">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="125" END="126">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-3-0">
+      <extent>
+        <charseq START="130" END="139">The lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="139">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-4-0">
+      <extent>
+        <charseq START="145" END="173">a Russian military journalist</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="173">journalist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-4-1">
+      <extent>
+        <charseq START="274" END="276">his</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="276">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="147" END="153">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="153">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1086" END="1092">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="1086" END="1092">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian">
+        <charseq START="147" END="153">Russian</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="1086" END="1092">Russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-6-0">
+      <extent>
+        <charseq START="274" END="283">his client</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="283">client</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-7-0">
+      <extent>
+        <charseq START="332" END="344">news agencies</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="344">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-0">
+      <extent>
+        <charseq START="357" END="369">Grigory Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="357" END="369">Grigory Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-1">
+      <extent>
+        <charseq START="489" END="490">He</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="490">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-2">
+      <extent>
+        <charseq START="574" END="578">Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="578">Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-3">
+      <extent>
+        <charseq START="593" END="597">Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="593" END="597">Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-4">
+      <extent>
+        <charseq START="761" END="762">he</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="762">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-5">
+      <extent>
+        <charseq START="820" END="821">he</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="821">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-6">
+      <extent>
+        <charseq START="836" END="840">Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="836" END="840">Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-7">
+      <extent>
+        <charseq START="974" END="975">He</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="975">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-8">
+      <extent>
+        <charseq START="992" END="994">his</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="994">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-8-9">
+      <extent>
+        <charseq START="1041" END="1043">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1041" END="1043">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-10">
+      <extent>
+        <charseq START="1198" END="1210">the day Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="1206" END="1210">Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-8-11">
+      <extent>
+        <charseq START="1202" END="1204">day</charseq>
+      </extent>
+      <head>
+        <charseq START="1202" END="1204">day</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-8-12">
+      <extent>
+        <charseq START="1613" END="1617">Pasko</charseq>
+      </extent>
+      <head>
+        <charseq START="1613" END="1617">Pasko</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Grigory Pasko">
+        <charseq START="357" END="369">Grigory Pasko</charseq>
+      </name>
+      <name NAME="Pasko">
+        <charseq START="574" END="578">Pasko</charseq>
+      </name>
+      <name NAME="Pasko">
+        <charseq START="593" END="597">Pasko</charseq>
+      </name>
+      <name NAME="Pasko">
+        <charseq START="836" END="840">Pasko</charseq>
+      </name>
+      <name NAME="Pasko">
+        <charseq START="1206" END="1210">Pasko</charseq>
+      </name>
+      <name NAME="Pasko">
+        <charseq START="1613" END="1617">Pasko</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-9-0">
+      <extent>
+        <charseq START="370" END="391">&apos;s lawyer Genri Reznik</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="391">Genri Reznik</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-9-1">
+      <extent>
+        <charseq START="373" END="378">lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="378">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-9-2">
+      <extent>
+        <charseq START="1158" END="1163">Reznik</charseq>
+      </extent>
+      <head>
+        <charseq START="1158" END="1163">Reznik</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-9-3">
+      <extent>
+        <charseq START="1188" END="1189">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1189">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-9-4">
+      <extent>
+        <charseq START="1295" END="1304">The lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="1299" END="1304">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-9-5">
+      <extent>
+        <charseq START="1388" END="1393">Reznik</charseq>
+      </extent>
+      <head>
+        <charseq START="1388" END="1393">Reznik</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-9-6">
+      <extent>
+        <charseq START="1400" END="1401">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1400" END="1401">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Genri Reznik">
+        <charseq START="380" END="391">Genri Reznik</charseq>
+      </name>
+      <name NAME="Reznik">
+        <charseq START="1158" END="1163">Reznik</charseq>
+      </name>
+      <name NAME="Reznik">
+        <charseq START="1388" END="1393">Reznik</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-10-0">
+      <extent>
+        <charseq START="415" END="435">Russian
+Supreme Court</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="435">Russian
+Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-10-1">
+      <extent>
+        <charseq START="498" END="506">the court</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="506">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030416.0581-10-2">
+      <extent>
+        <charseq START="581" END="584">they</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="584">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-10-3">
+      <extent>
+        <charseq START="739" END="754">A military court</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="754">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-10-4">
+      <extent>
+        <charseq START="1253" END="1269">the Supreme Court</charseq>
+      </extent>
+      <head>
+        <charseq START="1257" END="1269">Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-10-5">
+      <extent>
+        <charseq START="1311" END="1319">the court</charseq>
+      </extent>
+      <head>
+        <charseq START="1315" END="1319">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-10-6">
+      <extent>
+        <charseq START="1440" END="1452">Supreme Court</charseq>
+      </extent>
+      <head>
+        <charseq START="1440" END="1452">Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian Supreme Court">
+        <charseq START="415" END="435">Russian
+Supreme Court</charseq>
+      </name>
+      <name NAME="Supreme Court">
+        <charseq START="1257" END="1269">Supreme Court</charseq>
+      </name>
+      <name NAME="Supreme Court">
+        <charseq START="1440" END="1452">Supreme Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-11-0">
+      <extent>
+        <charseq START="438" END="477">the Interfax and ITAR-Tass news agencies</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="477">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-12" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-12-0">
+      <extent>
+        <charseq START="442" END="449">Interfax</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="449">Interfax</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-12-1">
+      <extent>
+        <charseq START="1285" END="1292">Interfax</charseq>
+      </extent>
+      <head>
+        <charseq START="1285" END="1292">Interfax</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-12-2">
+      <extent>
+        <charseq START="1622" END="1629">Interfax</charseq>
+      </extent>
+      <head>
+        <charseq START="1622" END="1629">Interfax</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Interfax">
+        <charseq START="442" END="449">Interfax</charseq>
+      </name>
+      <name NAME="Interfax">
+        <charseq START="1285" END="1292">Interfax</charseq>
+      </name>
+      <name NAME="Interfax">
+        <charseq START="1622" END="1629">Interfax</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-13-0">
+      <extent>
+        <charseq START="455" END="463">ITAR-Tass</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="463">ITAR-Tass</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ITAR-Tass">
+        <charseq START="455" END="463">ITAR-Tass</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-14-0">
+      <extent>
+        <charseq START="691" END="713">top military commanders</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="713">commanders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="794" END="801">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="794" END="801">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japanese">
+        <charseq START="794" END="801">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-16-0">
+      <extent>
+        <charseq START="794" END="807">Japanese media</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="807">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-17-0">
+      <extent>
+        <charseq START="1014" END="1025">the military</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1025">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-18-0">
+      <extent>
+        <charseq START="1082" END="1097">the Russian navy</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1097">navy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-19" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-19-0">
+      <extent>
+        <charseq START="1148" END="1154">the sea</charseq>
+      </extent>
+      <head>
+        <charseq START="1152" END="1154">sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-20-0">
+      <extent>
+        <charseq START="1236" END="1248">the presidium</charseq>
+      </extent>
+      <head>
+        <charseq START="1240" END="1248">presidium</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-21-0">
+      <extent>
+        <charseq START="1320" END="1336">&apos;s military board</charseq>
+      </extent>
+      <head>
+        <charseq START="1332" END="1336">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030416.0581-22-0">
+      <extent>
+        <charseq START="1440" END="1480">Supreme Court
+Chairman Vyacheslav Lebedev</charseq>
+      </extent>
+      <head>
+        <charseq START="1463" END="1480">Vyacheslav Lebedev</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-22-1">
+      <extent>
+        <charseq START="1454" END="1461">Chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1454" END="1461">Chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vyacheslav Lebedev">
+        <charseq START="1463" END="1480">Vyacheslav Lebedev</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030416.0581-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030416.0581-23-0">
+      <extent>
+        <charseq START="1521" END="1535">military judges</charseq>
+      </extent>
+      <head>
+        <charseq START="1530" END="1535">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030416.0581-T0" VAL="2003-04-16">
+    <timex2_mention ID="APW_ENG_20030416.0581-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030416</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030416.0581-T1" VAL="2003-04-16">
+    <timex2_mention ID="APW_ENG_20030416.0581-T1-1">
+      <extent>
+        <charseq START="212" END="220">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030416.0581-T2" VAL="2003">
+    <timex2_mention ID="APW_ENG_20030416.0581-T2-1">
+      <extent>
+        <charseq START="321" END="329">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030416.0581-T3" VAL="P4Y">
+    <timex2_mention ID="APW_ENG_20030416.0581-T3-1">
+      <extent>
+        <charseq START="616" END="625">four years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030416.0581-T4" VAL="2001-12">
+    <timex2_mention ID="APW_ENG_20030416.0581-T4-1">
+      <extent>
+        <charseq START="640" END="652">December 2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030416.0581-T5" VAL="2003-01">
+    <timex2_mention ID="APW_ENG_20030416.0581-T5-1">
+      <extent>
+        <charseq START="896" END="902">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

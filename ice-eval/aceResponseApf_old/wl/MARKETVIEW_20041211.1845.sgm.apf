@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKETVIEW_20041211.1845.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKETVIEW_20041211.1845">
+  <entity ID="MARKETVIEW_20041211.1845-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-1-0">
+      <extent>
+        <charseq START="103" END="107">Byrne</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="107">Byrne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrne">
+        <charseq START="103" END="107">Byrne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-2-0">
+      <extent>
+        <charseq START="140" END="147">underdog</charseq>
+      </extent>
+      <head>
+        <charseq START="140" END="147">underdog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-3-0">
+      <extent>
+        <charseq START="149" END="155">Netflix</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="155">Netflix</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-3-1">
+      <extent>
+        <charseq START="161" END="163">its</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="163">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-3-2">
+      <extent>
+        <charseq START="441" END="447">Netflix</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="447">Netflix</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-3-3">
+      <extent>
+        <charseq START="2154" END="2160">Netflix</charseq>
+      </extent>
+      <head>
+        <charseq START="2154" END="2160">Netflix</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Netflix">
+        <charseq START="149" END="155">Netflix</charseq>
+      </name>
+      <name NAME="Netflix">
+        <charseq START="441" END="447">Netflix</charseq>
+      </name>
+      <name NAME="Netflix">
+        <charseq START="2154" END="2160">Netflix</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-4-0">
+      <extent>
+        <charseq START="671" END="681">other media</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="681">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-4-1">
+      <extent>
+        <charseq START="1216" END="1220">media</charseq>
+      </extent>
+      <head>
+        <charseq START="1216" END="1220">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-5-0">
+      <extent>
+        <charseq START="872" END="878">general</charseq>
+      </extent>
+      <head>
+        <charseq START="872" END="878">general</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-6-0">
+      <extent>
+        <charseq START="1175" END="1189">cable companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1181" END="1189">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-6-1">
+      <extent>
+        <charseq START="1197" END="1200">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1197" END="1200">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-6-2">
+      <extent>
+        <charseq START="1264" END="1272">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1264" END="1272">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-7-0">
+      <extent>
+        <charseq START="1345" END="1354">Psuedo.com</charseq>
+      </extent>
+      <head>
+        <charseq START="1345" END="1354">Psuedo.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Psuedo.com">
+        <charseq START="1345" END="1354">Psuedo.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-8-0">
+      <extent>
+        <charseq START="1400" END="1412">Broadcast.com</charseq>
+      </extent>
+      <head>
+        <charseq START="1400" END="1412">Broadcast.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Broadcast.com">
+        <charseq START="1400" END="1412">Broadcast.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-9-0">
+      <extent>
+        <charseq START="1446" END="1450">Yahoo</charseq>
+      </extent>
+      <head>
+        <charseq START="1446" END="1450">Yahoo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-9-1">
+      <extent>
+        <charseq START="1457" END="1461">Yahoo</charseq>
+      </extent>
+      <head>
+        <charseq START="1457" END="1461">Yahoo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yahoo">
+        <charseq START="1446" END="1450">Yahoo</charseq>
+      </name>
+      <name NAME="Yahoo">
+        <charseq START="1457" END="1461">Yahoo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-10-0">
+      <extent>
+        <charseq START="1525" END="1530">Anyone</charseq>
+      </extent>
+      <head>
+        <charseq START="1525" END="1530">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-11-0">
+      <extent>
+        <charseq START="1731" END="1736">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1731" END="1736">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-11-1">
+      <extent>
+        <charseq START="2681" END="2686">people</charseq>
+      </extent>
+      <head>
+        <charseq START="2681" END="2686">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-12-0">
+      <extent>
+        <charseq START="1750" END="1774">the traditional bookstore</charseq>
+      </extent>
+      <head>
+        <charseq START="1766" END="1774">bookstore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-13-0">
+      <extent>
+        <charseq START="1882" END="1891">newspapers</charseq>
+      </extent>
+      <head>
+        <charseq START="1882" END="1891">newspapers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-14-0">
+      <extent>
+        <charseq START="2022" END="2039">BarnseandNoble.com</charseq>
+      </extent>
+      <head>
+        <charseq START="2022" END="2039">BarnseandNoble.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BarnseandNoble.com">
+        <charseq START="2022" END="2039">BarnseandNoble.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-15-0">
+      <extent>
+        <charseq START="2056" END="2061">others</charseq>
+      </extent>
+      <head>
+        <charseq START="2056" END="2061">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-15-1">
+      <extent>
+        <charseq START="2131" END="2140">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="2131" END="2140">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-16-0">
+      <extent>
+        <charseq START="2254" END="2261">customer</charseq>
+      </extent>
+      <head>
+        <charseq START="2254" END="2261">customer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-17-0">
+      <extent>
+        <charseq START="2325" END="2343">movie rental
+stores</charseq>
+      </extent>
+      <head>
+        <charseq START="2338" END="2343">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-18-0">
+      <extent>
+        <charseq START="2413" END="2428">the retail store</charseq>
+      </extent>
+      <head>
+        <charseq START="2424" END="2428">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-18-1">
+      <extent>
+        <charseq START="2445" END="2459">the sole medium</charseq>
+      </extent>
+      <head>
+        <charseq START="2454" END="2459">medium</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-19-0">
+      <extent>
+        <charseq START="2544" END="2565">the
+video rental store</charseq>
+      </extent>
+      <head>
+        <charseq START="2561" END="2565">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-19-1">
+      <extent>
+        <charseq START="3143" END="3147">store</charseq>
+      </extent>
+      <head>
+        <charseq START="3143" END="3147">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-20" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-20-0">
+      <extent>
+        <charseq START="2628" END="2633">studio</charseq>
+      </extent>
+      <head>
+        <charseq START="2628" END="2633">studio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-21" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-21-0">
+      <extent>
+        <charseq START="2745" END="2754">and-mortar</charseq>
+      </extent>
+      <head>
+        <charseq START="2749" END="2754">mortar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-22-0">
+      <extent>
+        <charseq START="2756" END="2780">and-dead tree booksellers</charseq>
+      </extent>
+      <head>
+        <charseq START="2770" END="2780">booksellers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-23-0">
+      <extent>
+        <charseq START="2787" END="2802">Barnes and Noble</charseq>
+      </extent>
+      <head>
+        <charseq START="2787" END="2802">Barnes and Noble</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Barnes and Noble">
+        <charseq START="2787" END="2802">Barnes and Noble</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-24-0">
+      <extent>
+        <charseq START="2844" END="2858">Books-A-Million</charseq>
+      </extent>
+      <head>
+        <charseq START="2844" END="2858">Books-A-Million</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Books-A-Million">
+        <charseq START="2844" END="2858">Books-A-Million</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-25" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-25-0">
+      <extent>
+        <charseq START="2874" END="2880">&apos;s
+room</charseq>
+      </extent>
+      <head>
+        <charseq START="2877" END="2880">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-25-1">
+      <extent>
+        <charseq START="2969" END="2972">room</charseq>
+      </extent>
+      <head>
+        <charseq START="2969" END="2972">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-25-2">
+      <extent>
+        <charseq START="3356" END="3359">room</charseq>
+      </extent>
+      <head>
+        <charseq START="3356" END="3359">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-26-0">
+      <extent>
+        <charseq START="2886" END="2898">a Blockbuster</charseq>
+      </extent>
+      <head>
+        <charseq START="2888" END="2898">Blockbuster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Blockbuster">
+        <charseq START="2888" END="2898">Blockbuster</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-27-0">
+      <extent>
+        <charseq START="2913" END="2927">a Movie Gallery</charseq>
+      </extent>
+      <head>
+        <charseq START="2915" END="2927">Movie Gallery</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-27-1">
+      <extent>
+        <charseq START="3757" END="3769">Movie Gallery</charseq>
+      </extent>
+      <head>
+        <charseq START="3757" END="3769">Movie Gallery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Movie Gallery">
+        <charseq START="2915" END="2927">Movie Gallery</charseq>
+      </name>
+      <name NAME="Movie Gallery">
+        <charseq START="3757" END="3769">Movie Gallery</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-28-0">
+      <extent>
+        <charseq START="2937" END="2946">The latter</charseq>
+      </extent>
+      <head>
+        <charseq START="2941" END="2946">latter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="3007" END="3023">rural
+communities</charseq>
+      </extent>
+      <head>
+        <charseq START="3013" END="3023">communities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="3079" END="3082">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3079" END="3082">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-29-2" ROLE="GPE">
+      <extent>
+        <charseq START="3087" END="3104">WalMarting WalMart</charseq>
+      </extent>
+      <head>
+        <charseq START="3098" END="3104">WalMart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-29-3" ROLE="GPE">
+      <extent>
+        <charseq START="3124" END="3130">Walmart</charseq>
+      </extent>
+      <head>
+        <charseq START="3124" END="3130">Walmart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="WalMart">
+        <charseq START="3098" END="3104">WalMart</charseq>
+      </name>
+      <name NAME="Walmart">
+        <charseq START="3124" END="3130">Walmart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-30-0">
+      <extent>
+        <charseq START="3365" END="3385">traditional operators</charseq>
+      </extent>
+      <head>
+        <charseq START="3377" END="3385">operators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20041211.1845-31-0">
+      <extent>
+        <charseq START="3466" END="3480">Hollywood Video</charseq>
+      </extent>
+      <head>
+        <charseq START="3466" END="3480">Hollywood Video</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-31-1">
+      <extent>
+        <charseq START="3501" END="3505">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3501" END="3505">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-31-2">
+      <extent>
+        <charseq START="3662" END="3665">them</charseq>
+      </extent>
+      <head>
+        <charseq START="3662" END="3665">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hollywood Video">
+        <charseq START="3466" END="3480">Hollywood Video</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-32-0">
+      <extent>
+        <charseq START="3494" END="3496">two</charseq>
+      </extent>
+      <head>
+        <charseq START="3494" END="3496">two</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-32-1">
+      <extent>
+        <charseq START="3520" END="3532">a buyout shop</charseq>
+      </extent>
+      <head>
+        <charseq START="3529" END="3532">shop</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-33-0">
+      <extent>
+        <charseq START="3501" END="3517">their competitors</charseq>
+      </extent>
+      <head>
+        <charseq START="3507" END="3517">competitors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20041211.1845-34-0">
+      <extent>
+        <charseq START="3539" END="3541">one</charseq>
+      </extent>
+      <head>
+        <charseq START="3539" END="3541">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-35-0">
+      <extent>
+        <charseq START="3546" END="3565">the savviest raiders</charseq>
+      </extent>
+      <head>
+        <charseq START="3559" END="3565">raiders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-36-0">
+      <extent>
+        <charseq START="3589" END="3599">some people</charseq>
+      </extent>
+      <head>
+        <charseq START="3594" END="3599">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-37-0">
+      <extent>
+        <charseq START="3613" END="3624">these stores</charseq>
+      </extent>
+      <head>
+        <charseq START="3619" END="3624">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20041211.1845-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20041211.1845-38-0">
+      <extent>
+        <charseq START="3793" END="3799">friends</charseq>
+      </extent>
+      <head>
+        <charseq START="3793" END="3799">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="MARKETVIEW_20041211.1845-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20041211.1845-V7-1">
+      <extent>
+        <charseq START="2618" END="2623">45-55%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="MARKETVIEW_20041211.1845-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20041211.1845-V8-1">
+      <extent>
+        <charseq START="3941" END="3943">50%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="MARKETVIEW_20041211.1845-T0" VAL="2004-12-11T18:45:00">
+    <timex2_mention ID="MARKETVIEW_20041211.1845-T0-1">
+      <extent>
+        <charseq START="40" END="58">2004-12-11T18:45:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20041211.1845-T1" VAL="2004-12-11T18:45:00">
+    <timex2_mention ID="MARKETVIEW_20041211.1845-T1-1">
+      <extent>
+        <charseq START="111" END="129">2004-12-11T18:45:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20041211.1845-T2" VAL="1997">
+    <timex2_mention ID="MARKETVIEW_20041211.1845-T2-1">
+      <extent>
+        <charseq START="1609" END="1612">1997</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20041211.1845-T3" VAL="PXY">
+    <timex2_mention ID="MARKETVIEW_20041211.1845-T3-1">
+      <extent>
+        <charseq START="1714" END="1722">for years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="MARKETVIEW_20041211.1845-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="MARKETVIEW_20041211.1845-29" ROLE="Arg-1" />
+    <relation_argument REFID="MARKETVIEW_20041211.1845-29" ROLE="Arg-2" />
+      <relation_mention ID="MARKETVIEW_20041211.1845-R1-2">
+      <extent>
+        <charseq START="3079" END="3104">they&apos;re WalMarting WalMart</charseq>
+      </extent>
+        <relation_mention_argument REFID="MARKETVIEW_20041211.1845-29-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3079" END="3082">they</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="MARKETVIEW_20041211.1845-29-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="3087" END="3104">WalMarting WalMart</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

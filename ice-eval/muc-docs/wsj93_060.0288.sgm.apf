@@ -1,0 +1,825 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_060.0288.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_060.0288">
+  <entity ID="wsj93_060.0288-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-0">
+      <extent>
+        <charseq START="267" END="284">Drug Emporium Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="284">Drug Emporium Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-1">
+      <extent>
+        <charseq START="568" END="580">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="580">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-2">
+      <extent>
+        <charseq START="1381" END="1393">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="1381" END="1393">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-3">
+      <extent>
+        <charseq START="2171" END="2183">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="2171" END="2183">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-4">
+      <extent>
+        <charseq START="2306" END="2318">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="2306" END="2318">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-5">
+      <extent>
+        <charseq START="2500" END="2512">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="2500" END="2512">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-1-6">
+      <extent>
+        <charseq START="2606" END="2618">Drug Emporium</charseq>
+      </extent>
+      <head>
+        <charseq START="2606" END="2618">Drug Emporium</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-1-7">
+      <extent>
+        <charseq START="2623" END="2638">a national chain</charseq>
+      </extent>
+      <head>
+        <charseq START="2634" END="2638">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Drug Emporium Inc.">
+        <charseq START="267" END="284">Drug Emporium Inc.</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="568" END="580">Drug Emporium</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="1381" END="1393">Drug Emporium</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="2171" END="2183">Drug Emporium</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="2306" END="2318">Drug Emporium</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="2500" END="2512">Drug Emporium</charseq>
+      </name>
+      <name NAME="Drug Emporium">
+        <charseq START="2606" END="2618">Drug Emporium</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-2-0">
+      <extent>
+        <charseq START="321" END="334">grocery stores</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="334">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-3-0">
+      <extent>
+        <charseq START="427" END="454">The discount drugstore chain</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="454">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-3-1">
+      <extent>
+        <charseq START="461" END="462">it</charseq>
+      </extent>
+      <head>
+        <charseq START="461" END="462">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-3-2">
+      <extent>
+        <charseq START="1071" END="1079">the chain</charseq>
+      </extent>
+      <head>
+        <charseq START="1075" END="1079">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-3-3">
+      <extent>
+        <charseq START="1572" END="1580">The chain</charseq>
+      </extent>
+      <head>
+        <charseq START="1576" END="1580">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-3-4">
+      <extent>
+        <charseq START="1651" END="1652">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1651" END="1652">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-3-5">
+      <extent>
+        <charseq START="1702" END="1704">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1702" END="1704">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-0">
+      <extent>
+        <charseq START="821" END="845">Vice Chairman Gary Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="835" END="845">Gary Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-1">
+      <extent>
+        <charseq START="821" END="833">Vice Chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="821" END="833">Vice Chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-2">
+      <extent>
+        <charseq START="1055" END="1064">Mr. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1059" END="1064">Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-3">
+      <extent>
+        <charseq START="1055" END="1057">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1057">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-4">
+      <extent>
+        <charseq START="1482" END="1491">Mr. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1486" END="1491">Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-5">
+      <extent>
+        <charseq START="1482" END="1484">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1482" END="1484">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-6">
+      <extent>
+        <charseq START="1775" END="1784">Mr. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1779" END="1784">Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-7">
+      <extent>
+        <charseq START="1775" END="1777">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1775" END="1777">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-8">
+      <extent>
+        <charseq START="1799" END="1810">his son Gary</charseq>
+      </extent>
+      <head>
+        <charseq START="1807" END="1810">Gary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-4-9">
+      <extent>
+        <charseq START="1799" END="1801">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1799" END="1801">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-10">
+      <extent>
+        <charseq START="1785" END="1796">&apos;s successor</charseq>
+      </extent>
+      <head>
+        <charseq START="1788" END="1796">successor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-11">
+      <extent>
+        <charseq START="1803" END="1805">son</charseq>
+      </extent>
+      <head>
+        <charseq START="1803" END="1805">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-12">
+      <extent>
+        <charseq START="1967" END="1986">The elder Mr. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1981" END="1986">Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-13">
+      <extent>
+        <charseq START="1977" END="1979">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1977" END="1979">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-4-14">
+      <extent>
+        <charseq START="2116" END="2133">younger Mr. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="2128" END="2133">Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-4-15">
+      <extent>
+        <charseq START="2124" END="2126">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="2124" END="2126">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gary Wilber">
+        <charseq START="835" END="845">Gary Wilber</charseq>
+      </name>
+      <name NAME="Wilber">
+        <charseq START="1059" END="1064">Wilber</charseq>
+      </name>
+      <name NAME="Wilber">
+        <charseq START="1486" END="1491">Wilber</charseq>
+      </name>
+      <name NAME="Wilber">
+        <charseq START="1779" END="1784">Wilber</charseq>
+      </name>
+      <name NAME="Gary">
+        <charseq START="1807" END="1810">Gary</charseq>
+      </name>
+      <name NAME="Wilber">
+        <charseq START="1981" END="1986">Wilber</charseq>
+      </name>
+      <name NAME="Wilber">
+        <charseq START="2128" END="2133">Wilber</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-5-0">
+      <extent>
+        <charseq START="989" END="999">Gary Dennis</charseq>
+      </extent>
+      <head>
+        <charseq START="989" END="999">Gary Dennis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-5-1">
+      <extent>
+        <charseq START="1002" END="1011">an analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="1005" END="1011">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gary Dennis">
+        <charseq START="989" END="999">Gary Dennis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-6-0">
+      <extent>
+        <charseq START="1016" END="1028">J.C. Bradford</charseq>
+      </extent>
+      <head>
+        <charseq START="1016" END="1028">J.C. Bradford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="J.C. Bradford">
+        <charseq START="1016" END="1028">J.C. Bradford</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="1033" END="1041">Knoxville</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1041">Knoxville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Knoxville">
+        <charseq START="1033" END="1041">Knoxville</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-8-0">
+      <extent>
+        <charseq START="1153" END="1168">three executives</charseq>
+      </extent>
+      <head>
+        <charseq START="1159" END="1168">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-8-1">
+      <extent>
+        <charseq START="1186" END="1190">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1190">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-9-0">
+      <extent>
+        <charseq START="1238" END="1251">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="1243" END="1251">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-10-0">
+      <extent>
+        <charseq START="1283" END="1295">Robert Ramsey</charseq>
+      </extent>
+      <head>
+        <charseq START="1283" END="1295">Robert Ramsey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-10-1">
+      <extent>
+        <charseq START="1298" END="1305">director</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1305">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert Ramsey">
+        <charseq START="1283" END="1295">Robert Ramsey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-11-0">
+      <extent>
+        <charseq START="1325" END="1338">Frank Shanower</charseq>
+      </extent>
+      <head>
+        <charseq START="1325" END="1338">Frank Shanower</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-11-1">
+      <extent>
+        <charseq START="1341" END="1354">vice president</charseq>
+      </extent>
+      <head>
+        <charseq START="1346" END="1354">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Frank Shanower">
+        <charseq START="1325" END="1338">Frank Shanower</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-12-0">
+      <extent>
+        <charseq START="1498" END="1506">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="1502" END="1506">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-12-1">
+      <extent>
+        <charseq START="1540" END="1541">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1540" END="1541">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-13-0">
+      <extent>
+        <charseq START="1664" END="1691">two chief financial officers</charseq>
+      </extent>
+      <head>
+        <charseq START="1684" END="1691">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-14-0">
+      <extent>
+        <charseq START="1745" END="1760">Philip I. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1745" END="1760">Philip I. Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-14-1">
+      <extent>
+        <charseq START="1702" END="1722">its founding chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1715" END="1722">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-14-2">
+      <extent>
+        <charseq START="1844" END="1856">vice chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1849" END="1856">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philip I. Wilber">
+        <charseq START="1745" END="1760">Philip I. Wilber</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-15-0">
+      <extent>
+        <charseq START="1728" END="1742">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1734" END="1742">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-16-0">
+      <extent>
+        <charseq START="1897" END="1930">longtime director David L. Kriegle</charseq>
+      </extent>
+      <head>
+        <charseq START="1915" END="1930">David L. Kriegle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-16-1">
+      <extent>
+        <charseq START="1859" END="1874">The new chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1867" END="1874">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-16-2">
+      <extent>
+        <charseq START="1906" END="1913">director</charseq>
+      </extent>
+      <head>
+        <charseq START="1906" END="1913">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-16-3">
+      <extent>
+        <charseq START="2010" END="2028">a founding chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="2021" END="2028">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="David L. Kriegle">
+        <charseq START="1915" END="1930">David L. Kriegle</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-17-0">
+      <extent>
+        <charseq START="1880" END="1894">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1886" END="1894">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_060.0288-17-1">
+      <extent>
+        <charseq START="1941" END="1943">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1941" END="1943">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-18-0">
+      <extent>
+        <charseq START="2146" END="2154">Investors</charseq>
+      </extent>
+      <head>
+        <charseq START="2146" END="2154">Investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-19-0">
+      <extent>
+        <charseq START="2226" END="2244">rival Phar-Mor Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="2232" END="2244">Phar-Mor Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-19-1">
+      <extent>
+        <charseq START="2226" END="2230">rival</charseq>
+      </extent>
+      <head>
+        <charseq START="2226" END="2230">rival</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Phar-Mor Inc.">
+        <charseq START="2232" END="2244">Phar-Mor Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-20-0">
+      <extent>
+        <charseq START="2353" END="2366">grocery stores</charseq>
+      </extent>
+      <head>
+        <charseq START="2361" END="2366">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-21-0">
+      <extent>
+        <charseq START="2373" END="2398">health and beauty sections</charseq>
+      </extent>
+      <head>
+        <charseq START="2391" END="2398">sections</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-22-0">
+      <extent>
+        <charseq START="2437" END="2455">Wal-Mart Stores Inc</charseq>
+      </extent>
+      <head>
+        <charseq START="2437" END="2455">Wal-Mart Stores Inc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wal-Mart Stores Inc">
+        <charseq START="2437" END="2455">Wal-Mart Stores Inc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-23" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-23-0">
+      <extent>
+        <charseq START="2549" END="2573">Scott &amp; Stringfellow Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="2549" END="2573">Scott &amp; Stringfellow Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott &amp; Stringfellow Inc.">
+        <charseq START="2549" END="2573">Scott &amp; Stringfellow Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_060.0288-24-0">
+      <extent>
+        <charseq START="2549" END="2593">Scott &amp; Stringfellow Inc. analyst Neal Kaplan</charseq>
+      </extent>
+      <head>
+        <charseq START="2583" END="2593">Neal Kaplan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-24-1">
+      <extent>
+        <charseq START="2575" END="2581">analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="2575" END="2581">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Neal Kaplan">
+        <charseq START="2583" END="2593">Neal Kaplan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-25-0">
+      <extent>
+        <charseq START="2643" END="2666">136 company-owned stores</charseq>
+      </extent>
+      <head>
+        <charseq START="2661" END="2666">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_060.0288-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_060.0288-26-0">
+      <extent>
+        <charseq START="2672" END="2691">98 franchised stores</charseq>
+      </extent>
+      <head>
+        <charseq START="2686" END="2691">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_060.0288-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_060.0288-V1-1">
+      <extent>
+        <charseq START="495" END="502">17 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_060.0288-V2-1">
+      <extent>
+        <charseq START="602" END="611">five cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V6" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_060.0288-V6-1">
+      <extent>
+        <charseq START="687" END="690">3.1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_060.0288-V8-1">
+      <extent>
+        <charseq START="741" END="742">4%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V9" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_060.0288-V9-1">
+      <extent>
+        <charseq START="796" END="797">4%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V10" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_060.0288-V10-1">
+      <extent>
+        <charseq START="946" END="948">15%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V19" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_060.0288-V19-1">
+      <extent>
+        <charseq START="1422" END="1423">5%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_060.0288-V35" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_060.0288-V35-1">
+      <extent>
+        <charseq START="2761" END="2770">62.5 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_060.0288-T0" VAL="2016-02">
+    <timex2_mention ID="wsj93_060.0288-T0-1">
+      <extent>
+        <charseq START="1120" END="1129">last month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T1" VAL="2016-03">
+    <timex2_mention ID="wsj93_060.0288-T1-1">
+      <extent>
+        <charseq START="1555" END="1564">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T2" VAL="PXY">
+    <timex2_mention ID="wsj93_060.0288-T2-1">
+      <extent>
+        <charseq START="1614" END="1625">recent years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T3" VAL="P18M">
+    <timex2_mention ID="wsj93_060.0288-T3-1">
+      <extent>
+        <charseq START="1640" END="1648">18 months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T4" VAL="2016-W12">
+    <timex2_mention ID="wsj93_060.0288-T4-1">
+      <extent>
+        <charseq START="1951" END="1959">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T5" VAL="2016-03">
+    <timex2_mention ID="wsj93_060.0288-T5-1">
+      <extent>
+        <charseq START="2100" END="2109">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T6" VAL="2015">
+    <timex2_mention ID="wsj93_060.0288-T6-1">
+      <extent>
+        <charseq START="2282" END="2290">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_060.0288-T7" VAL="2016-03-27">
+    <timex2_mention ID="wsj93_060.0288-T7-1">
+      <extent>
+        <charseq START="2731" END="2739">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

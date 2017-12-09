@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_054.0062.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_054.0062">
+  <entity ID="wsj93_054.0062-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_054.0062-1-0">
+      <extent>
+        <charseq START="208" END="226">PNC Financial Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="226">PNC Financial Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_054.0062-1-1">
+      <extent>
+        <charseq START="236" END="238">its</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="238">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="PNC Financial Corp.">
+        <charseq START="208" END="226">PNC Financial Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_054.0062-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_054.0062-2-0">
+      <extent>
+        <charseq START="248" END="261">PNC Bank
+Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="248" END="261">PNC Bank
+Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_054.0062-2-1">
+      <extent>
+        <charseq START="292" END="294">its</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="294">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_054.0062-2-2">
+      <extent>
+        <charseq START="320" END="327">PNC
+Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="327">PNC
+Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="PNC Bank Corp.">
+        <charseq START="248" END="261">PNC Bank
+Corp.</charseq>
+      </name>
+      <name NAME="PNC Bank">
+        <charseq START="320" END="327">PNC
+Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_054.0062-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_054.0062-3-0">
+      <extent>
+        <charseq START="292" END="315">its various subsidiaries</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="315">subsidiaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_054.0062-T0" VAL="P10Y">
+    <timex2_mention ID="wsj93_054.0062-T0-1">
+      <extent>
+        <charseq START="364" END="371">10 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="LTW_ENG_20090806.0093.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="LTW_ENG_20090806.0093">
+  <entity ID="LTW_ENG_20090806.0093-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="LTW_ENG_20090806.0093-1-0">
+      <extent>
+        <charseq START="44" END="50">Heloise</charseq>
+      </extent>
+      <head>
+        <charseq START="44" END="50">Heloise</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="LTW_ENG_20090806.0093-1-1">
+      <extent>
+        <charseq START="61" END="63">her</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="63">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Heloise">
+        <charseq START="44" END="50">Heloise</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="LTW_ENG_20090806.0093-2" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="LTW_ENG_20090806.0093-2-0">
+      <extent>
+        <charseq START="61" END="77">her old dorm room</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="77">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="LTW_ENG_20090806.0093-3" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="LTW_ENG_20090806.0093-3-0">
+      <extent>
+        <charseq START="82" END="103">Texas State University</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="103">Texas State University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas State University">
+        <charseq START="82" END="103">Texas State University</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="LTW_ENG_20090806.0093-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="LTW_ENG_20090806.0093-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="117">San Marcos</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="117">San Marcos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Marcos">
+        <charseq START="108" END="117">San Marcos</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="LTW_ENG_20090806.0093-T0" VAL="2009-08-05">
+    <timex2_mention ID="LTW_ENG_20090806.0093-T0-1">
+      <extent>
+        <charseq START="213" END="222">2009/08/05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

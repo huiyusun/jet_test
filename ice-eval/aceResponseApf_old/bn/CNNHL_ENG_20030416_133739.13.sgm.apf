@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030416_133739.13.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030416_133739.13">
+  <entity ID="CNNHL_ENG_20030416_133739.13-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-1-0">
+      <extent>
+        <charseq START="111" END="120">carrie lee</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="120">carrie lee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-1-1">
+      <extent>
+        <charseq START="135" END="140">carrie</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="140">carrie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="carrie lee">
+        <charseq START="111" END="120">carrie lee</charseq>
+      </name>
+      <name NAME="carrie">
+        <charseq START="135" END="140">carrie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="125" END="132">new
+york</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="132">new
+york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="125" END="132">new
+york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-3-0">
+      <extent>
+        <charseq START="158" END="162">renay</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="162">renay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="renay">
+        <charseq START="158" END="162">renay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-4-0">
+      <extent>
+        <charseq START="180" END="197">negative
+territory</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="197">territory</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-5-0">
+      <extent>
+        <charseq START="343" END="357">all the regions</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="357">regions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-6-0">
+      <extent>
+        <charseq START="485" END="489">intel</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="489">intel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="intel">
+        <charseq START="485" END="489">intel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-7-0">
+      <extent>
+        <charseq START="495" END="503">microsoft</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="503">microsoft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="microsoft">
+        <charseq START="495" END="503">microsoft</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-8-0">
+      <extent>
+        <charseq START="710" END="714">motor</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="714">motor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-9-0">
+      <extent>
+        <charseq START="831" END="838">motorola</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="838">motorola</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="motorola">
+        <charseq START="831" END="838">motorola</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="844" END="848">texas</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="848">texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="texas">
+        <charseq START="844" END="848">texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-11" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-11-0">
+      <extent>
+        <charseq START="870" END="883">the chips base</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="883">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-12-0">
+      <extent>
+        <charseq START="1020" END="1040">the flight attendants</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1040">attendants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-12-1">
+      <extent>
+        <charseq START="1144" END="1164">the flight attendants</charseq>
+      </extent>
+      <head>
+        <charseq START="1155" END="1164">attendants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-13-0">
+      <extent>
+        <charseq START="1093" END="1124">the pilots union and
+ground crew</charseq>
+      </extent>
+      <head>
+        <charseq START="1121" END="1124">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-14-0">
+      <extent>
+        <charseq START="1097" END="1102">pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1102">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-15-0">
+      <extent>
+        <charseq START="1104" END="1108">union</charseq>
+      </extent>
+      <head>
+        <charseq START="1104" END="1108">union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030416_133739.13-16-0">
+      <extent>
+        <charseq START="1303" END="1305">amr</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1305">amr</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="amr">
+        <charseq START="1303" END="1305">amr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-17-0">
+      <extent>
+        <charseq START="1341" END="1349">investors</charseq>
+      </extent>
+      <head>
+        <charseq START="1341" END="1349">investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030416_133739.13-17-1">
+      <extent>
+        <charseq START="1363" END="1366">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1366">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030416_133739.13-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030416_133739.13-18-0">
+      <extent>
+        <charseq START="1448" END="1451">guys</charseq>
+      </extent>
+      <head>
+        <charseq START="1448" END="1451">guys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNNHL_ENG_20030416_133739.13-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030416_133739.13-V2-1">
+      <extent>
+        <charseq START="263" END="266">6.1%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNNHL_ENG_20030416_133739.13-V7" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030416_133739.13-V7-1">
+      <extent>
+        <charseq START="936" END="938">20%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNNHL_ENG_20030416_133739.13-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030416_133739.13-V8-1">
+      <extent>
+        <charseq START="971" END="973">15%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNNHL_ENG_20030416_133739.13-V9" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030416_133739.13-V9-1">
+      <extent>
+        <charseq START="1004" END="1017">another sen.8%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNNHL_ENG_20030416_133739.13-V10" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNNHL_ENG_20030416_133739.13-V10-1">
+      <extent>
+        <charseq START="1380" END="1384">16.8%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T0" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-04-16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T1" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T1-1">
+      <extent>
+        <charseq START="75" END="77">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T2" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T2-1">
+      <extent>
+        <charseq START="388" END="392">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T3" VAL="2003">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T3-1">
+      <extent>
+        <charseq START="675" END="678">2003</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T4" VAL="3000">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T4-1">
+      <extent>
+        <charseq START="740" END="744">3,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T5" VAL="2003-04-15">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T5-1">
+      <extent>
+        <charseq START="975" END="983">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T6" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T6-1">
+      <extent>
+        <charseq START="986" END="990">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T7" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T7-1">
+      <extent>
+        <charseq START="1058" END="1062">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T8" VAL="2003-04-15">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T8-1">
+      <extent>
+        <charseq START="1133" END="1141">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030416_133739.13-T9" VAL="2003-04-16">
+    <timex2_mention ID="CNNHL_ENG_20030416_133739.13-T9-1">
+      <extent>
+        <charseq START="1257" END="1261">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_015.0175.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_015.0175">
+  <entity ID="wsj94_015.0175-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-1-0">
+      <extent>
+        <charseq START="198" END="206">Sandoz AG</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="206">Sandoz AG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-1-1">
+      <extent>
+        <charseq START="573" END="578">Sandoz</charseq>
+      </extent>
+      <head>
+        <charseq START="573" END="578">Sandoz</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_015.0175-1-2">
+      <extent>
+        <charseq START="590" END="592">its</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="592">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-1-3">
+      <extent>
+        <charseq START="806" END="811">Sandoz</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="811">Sandoz</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-1-4">
+      <extent>
+        <charseq START="898" END="908">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="902" END="908">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sandoz AG">
+        <charseq START="198" END="206">Sandoz AG</charseq>
+      </name>
+      <name NAME="Sandoz">
+        <charseq START="573" END="578">Sandoz</charseq>
+      </name>
+      <name NAME="Sandoz">
+        <charseq START="806" END="811">Sandoz</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="280" END="284">Swiss</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="284">Swiss</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="496" END="500">Swiss</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="500">Swiss</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Swiss">
+        <charseq START="280" END="284">Swiss</charseq>
+      </name>
+      <name NAME="Swiss">
+        <charseq START="496" END="500">Swiss</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-3-0">
+      <extent>
+        <charseq START="299" END="318">pharmaceutical group</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="318">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-4-0">
+      <extent>
+        <charseq START="335" END="351">Rolf W. Schweizer</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="351">Rolf W. Schweizer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-4-1">
+      <extent>
+        <charseq START="1046" END="1074">the 63-year-old Mr. Schweizer</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1074">Schweizer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-4-2">
+      <extent>
+        <charseq START="1062" END="1064">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1062" END="1064">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rolf W. Schweizer">
+        <charseq START="335" END="351">Rolf W. Schweizer</charseq>
+      </name>
+      <name NAME="Schweizer">
+        <charseq START="1066" END="1074">Schweizer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-5-0">
+      <extent>
+        <charseq START="335" END="375">Rolf W. Schweizer chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="375">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-6-0">
+      <extent>
+        <charseq START="392" END="399">analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="399">analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="590" END="606">its share capital</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="606">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-8-0">
+      <extent>
+        <charseq START="984" END="1019">the
+chemicals-and-environment sector</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1019">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-9-0">
+      <extent>
+        <charseq START="1079" END="1093">chief
+executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1093">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_015.0175-9-1">
+      <extent>
+        <charseq START="1116" END="1117">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1117">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-10-0">
+      <extent>
+        <charseq START="1132" END="1141">Marc Moret</charseq>
+      </extent>
+      <head>
+        <charseq START="1132" END="1141">Marc Moret</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-10-1">
+      <extent>
+        <charseq START="1287" END="1295">Mr. Moret</charseq>
+      </extent>
+      <head>
+        <charseq START="1291" END="1295">Moret</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-10-2">
+      <extent>
+        <charseq START="1287" END="1289">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1287" END="1289">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-10-3">
+      <extent>
+        <charseq START="1327" END="1335">Mr. Moret</charseq>
+      </extent>
+      <head>
+        <charseq START="1331" END="1335">Moret</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-10-4">
+      <extent>
+        <charseq START="1327" END="1329">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1327" END="1329">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marc Moret">
+        <charseq START="1132" END="1141">Marc Moret</charseq>
+      </name>
+      <name NAME="Moret">
+        <charseq START="1291" END="1295">Moret</charseq>
+      </name>
+      <name NAME="Moret">
+        <charseq START="1331" END="1335">Moret</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-11-0">
+      <extent>
+        <charseq START="1157" END="1168">the chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1161" END="1168">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_015.0175-11-1">
+      <extent>
+        <charseq START="1354" END="1361">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1354" END="1361">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_015.0175-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_015.0175-12-0">
+      <extent>
+        <charseq START="1206" END="1223">Daniel C.
+Wagniere</charseq>
+      </extent>
+      <head>
+        <charseq START="1206" END="1223">Daniel C.
+Wagniere</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Daniel C. Wagniere">
+        <charseq START="1206" END="1223">Daniel C.
+Wagniere</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj94_015.0175-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj94_015.0175-V2-1">
+      <extent>
+        <charseq START="486" END="488">23%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj94_015.0175-T0" VAL="1993">
+    <timex2_mention ID="wsj94_015.0175-T0-1">
+      <extent>
+        <charseq START="232" END="235">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_015.0175-T1" VAL="1993">
+    <timex2_mention ID="wsj94_015.0175-T1-1">
+      <extent>
+        <charseq START="853" END="856">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_015.0175-T2" VAL="2015-03-28">
+    <timex2_mention ID="wsj94_015.0175-T2-1">
+      <extent>
+        <charseq START="882" END="895">a year earlier</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_015.0175-T3" VAL="2015">
+    <timex2_mention ID="wsj94_015.0175-T3-1">
+      <extent>
+        <charseq START="1261" END="1269">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

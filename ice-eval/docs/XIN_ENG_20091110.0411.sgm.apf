@@ -1,0 +1,963 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20091110.0411.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20091110.0411">
+  <entity ID="XIN_ENG_20091110.0411-1" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-1-0">
+      <extent>
+        <charseq START="137" END="151">southwest China</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="151">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-1-1">
+      <extent>
+        <charseq START="275" END="289">southwest China</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="289">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-1-2">
+      <extent>
+        <charseq START="580" END="592">central China</charseq>
+      </extent>
+      <head>
+        <charseq START="588" END="592">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0411-1-3">
+      <extent>
+        <charseq START="661" END="663">its</charseq>
+      </extent>
+      <head>
+        <charseq START="661" END="663">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-1-4">
+      <extent>
+        <charseq START="909" END="913">China</charseq>
+      </extent>
+      <head>
+        <charseq START="909" END="913">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-1-5">
+      <extent>
+        <charseq START="1068" END="1078">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1072" END="1078">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="285" END="289">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="588" END="592">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="909" END="913">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="152" END="176">&apos;s Chongqing
+Municipality</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="176">Chongqing
+Municipality</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="1234" END="1255">Chongqing
+Municipality</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1255">Chongqing
+Municipality</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="2626" END="2641">the municipality</charseq>
+      </extent>
+      <head>
+        <charseq START="2630" END="2641">municipality</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chongqing Municipality">
+        <charseq START="155" END="176">Chongqing
+Municipality</charseq>
+      </name>
+      <name NAME="Chongqing Municipality">
+        <charseq START="1234" END="1255">Chongqing
+Municipality</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-3-0">
+      <extent>
+        <charseq START="249" END="259">crime gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="259">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="290" END="308">&apos;s Guizhou Province</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="308">Guizhou Province</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Guizhou Province">
+        <charseq START="293" END="308">Guizhou Province</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0411-5-0">
+      <extent>
+        <charseq START="345" END="354">the public</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="354">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-6-0">
+      <extent>
+        <charseq START="404" END="433">its public security
+department</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="433">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="438" END="444">Guizhou</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="444">Guizhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Guizhou">
+        <charseq START="438" END="444">Guizhou</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-8-0">
+      <extent>
+        <charseq START="438" END="451">Guizhou police</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="451">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-8-1">
+      <extent>
+        <charseq START="551" END="556">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="556">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="561" END="574">Hunan Province</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="574">Hunan Province</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hunan Province">
+        <charseq START="561" END="574">Hunan Province</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-10-0">
+      <extent>
+        <charseq START="631" END="656">three major criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="656">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="661" END="671">its Xiangxi</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="671">Xiangxi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xiangxi">
+        <charseq START="665" END="671">Xiangxi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="704" END="708">Hunan</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="708">Hunan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hunan">
+        <charseq START="704" END="708">Hunan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-13-0">
+      <extent>
+        <charseq START="711" END="722">73 officials</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="722">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-13-1">
+      <extent>
+        <charseq START="780" END="798">gang-related crimes</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="798">crimes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="803" END="817">Other provinces</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="817">provinces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="827" END="831">Gansu</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="831">Gansu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gansu">
+        <charseq START="827" END="831">Gansu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="837" END="841">Anhui</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="841">Anhui</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anhui">
+        <charseq START="837" END="841">Anhui</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-17-0">
+      <extent>
+        <charseq START="884" END="904">organized crime gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="900" END="904">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-18-0">
+      <extent>
+        <charseq START="914" END="922">&apos;s police</charseq>
+      </extent>
+      <head>
+        <charseq START="917" END="922">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-19-0">
+      <extent>
+        <charseq START="962" END="975">criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="975">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-20-0">
+      <extent>
+        <charseq START="1086" END="1116">more than 13,000 criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="1112" END="1116">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-21-0">
+      <extent>
+        <charseq START="1132" END="1153">at least 89,000
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1153">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0411-21-1">
+      <extent>
+        <charseq START="1627" END="1629">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1627" END="1629">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-21-2">
+      <extent>
+        <charseq START="2254" END="2259">people</charseq>
+      </extent>
+      <head>
+        <charseq START="2254" END="2259">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-22-0">
+      <extent>
+        <charseq START="1186" END="1201">police officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1193" END="1201">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-23-0">
+      <extent>
+        <charseq START="1221" END="1229">criminals</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1229">criminals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1322" END="1330">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="1322" END="1330">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-1" ROLE="GPE">
+      <extent>
+        <charseq START="1504" END="1512">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="1504" END="1512">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-2" ROLE="GPE">
+      <extent>
+        <charseq START="2123" END="2131">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="2123" END="2131">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-3" ROLE="GPE">
+      <extent>
+        <charseq START="2496" END="2504">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="2496" END="2504">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-4" ROLE="GPE">
+      <extent>
+        <charseq START="2543" END="2551">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="2543" END="2551">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-24-5" ROLE="GPE">
+      <extent>
+        <charseq START="2830" END="2838">Chongqing</charseq>
+      </extent>
+      <head>
+        <charseq START="2830" END="2838">Chongqing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chongqing">
+        <charseq START="1322" END="1330">Chongqing</charseq>
+      </name>
+      <name NAME="Chongqing">
+        <charseq START="1504" END="1512">Chongqing</charseq>
+      </name>
+      <name NAME="Chongqing">
+        <charseq START="2123" END="2131">Chongqing</charseq>
+      </name>
+      <name NAME="Chongqing">
+        <charseq START="2496" END="2504">Chongqing</charseq>
+      </name>
+      <name NAME="Chongqing">
+        <charseq START="2543" END="2551">Chongqing</charseq>
+      </name>
+      <name NAME="Chongqing">
+        <charseq START="2830" END="2838">Chongqing</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-25-0">
+      <extent>
+        <charseq START="1322" END="1348">Chongqing Mayor Wang Hongju</charseq>
+      </extent>
+      <head>
+        <charseq START="1338" END="1348">Wang Hongju</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-25-1">
+      <extent>
+        <charseq START="1332" END="1336">Mayor</charseq>
+      </extent>
+      <head>
+        <charseq START="1332" END="1336">Mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wang Hongju">
+        <charseq START="1338" END="1348">Wang Hongju</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-26-0">
+      <extent>
+        <charseq START="1374" END="1412">at least 200 local
+judicatory officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1404" END="1412">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-26-1">
+      <extent>
+        <charseq START="2307" END="2315">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2307" END="2315">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-26-2">
+      <extent>
+        <charseq START="2363" END="2371">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2363" END="2371">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-27-0">
+      <extent>
+        <charseq START="1467" END="1475">Wen Qiang</charseq>
+      </extent>
+      <head>
+        <charseq START="1467" END="1475">Wen Qiang</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-27-1">
+      <extent>
+        <charseq START="1478" END="1499">former deputy director</charseq>
+      </extent>
+      <head>
+        <charseq START="1492" END="1499">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-27-2">
+      <extent>
+        <charseq START="1639" END="1641">Wen</charseq>
+      </extent>
+      <head>
+        <charseq START="1639" END="1641">Wen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-27-3">
+      <extent>
+        <charseq START="1940" END="1942">Wen</charseq>
+      </extent>
+      <head>
+        <charseq START="1940" END="1942">Wen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Wen Qiang">
+        <charseq START="1467" END="1475">Wen Qiang</charseq>
+      </name>
+      <name NAME="Wen">
+        <charseq START="1639" END="1641">Wen</charseq>
+      </name>
+      <name NAME="Wen">
+        <charseq START="1940" END="1942">Wen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-28-0">
+      <extent>
+        <charseq START="1513" END="1541">&apos;s public security department</charseq>
+      </extent>
+      <head>
+        <charseq START="1532" END="1541">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-29" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-29-0">
+      <extent>
+        <charseq START="1571" END="1584">criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="1580" END="1584">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-30" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-30-0">
+      <extent>
+        <charseq START="1804" END="1811">firearms</charseq>
+      </extent>
+      <head>
+        <charseq START="1804" END="1811">firearms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-31-0">
+      <extent>
+        <charseq START="1855" END="1862">official</charseq>
+      </extent>
+      <head>
+        <charseq START="1855" END="1862">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-32-0">
+      <extent>
+        <charseq START="1897" END="1901">women</charseq>
+      </extent>
+      <head>
+        <charseq START="1897" END="1901">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-33-0">
+      <extent>
+        <charseq START="1943" END="1980">&apos;s sister-in-law, organized crime boss</charseq>
+      </extent>
+      <head>
+        <charseq START="1977" END="1980">boss</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-34-0">
+      <extent>
+        <charseq START="1982" END="1992">Xie Caiping</charseq>
+      </extent>
+      <head>
+        <charseq START="1982" END="1992">Xie Caiping</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-34-1">
+      <extent>
+        <charseq START="2073" END="2075">Xie</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2075">Xie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-34-2">
+      <extent>
+        <charseq START="2341" END="2343">Xie</charseq>
+      </extent>
+      <head>
+        <charseq START="2341" END="2343">Xie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xie Caiping">
+        <charseq START="1982" END="1992">Xie Caiping</charseq>
+      </name>
+      <name NAME="Xie">
+        <charseq START="2073" END="2075">Xie</charseq>
+      </name>
+      <name NAME="Xie">
+        <charseq START="2341" END="2343">Xie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-35-0">
+      <extent>
+        <charseq START="2104" END="2117">the underworld</charseq>
+      </extent>
+      <head>
+        <charseq START="2108" END="2117">underworld</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-36" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-36-0">
+      <extent>
+        <charseq START="2174" END="2196">a criminal organization</charseq>
+      </extent>
+      <head>
+        <charseq START="2185" END="2196">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-37-0">
+      <extent>
+        <charseq START="2320" END="2336">Another 21 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2331" END="2336">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-38-0">
+      <extent>
+        <charseq START="2404" END="2410">members</charseq>
+      </extent>
+      <head>
+        <charseq START="2404" END="2410">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-39-0">
+      <extent>
+        <charseq START="2683" END="2702">more than 320 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2697" END="2702">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-40-0">
+      <extent>
+        <charseq START="2735" END="2761">At least 52 local officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2753" END="2761">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-41" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-41-0">
+      <extent>
+        <charseq START="2812" END="2825">criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="2821" END="2825">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-42-0">
+      <extent>
+        <charseq START="2843" END="2855">Zhou Yongkang</charseq>
+      </extent>
+      <head>
+        <charseq START="2843" END="2855">Zhou Yongkang</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-42-1">
+      <extent>
+        <charseq START="2858" END="2863">member</charseq>
+      </extent>
+      <head>
+        <charseq START="2858" END="2863">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0411-42-2">
+      <extent>
+        <charseq START="3056" END="3059">Zhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3056" END="3059">Zhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zhou Yongkang">
+        <charseq START="2843" END="2855">Zhou Yongkang</charseq>
+      </name>
+      <name NAME="Zhou">
+        <charseq START="3056" END="3059">Zhou</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-43" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-43-0">
+      <extent>
+        <charseq START="3022" END="3035">criminal gangs</charseq>
+      </extent>
+      <head>
+        <charseq START="3031" END="3035">gangs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20091110.0411-44" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0411-44-0">
+      <extent>
+        <charseq START="3097" END="3108">any official</charseq>
+      </extent>
+      <head>
+        <charseq START="3101" END="3108">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20091110.0411-T0" VAL="2009-11-09">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T0-1">
+      <extent>
+        <charseq START="267" END="272">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T1" VAL="P20D">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T1-1">
+      <extent>
+        <charseq START="503" END="509">20 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T2" VAL="2009-10">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T2-1">
+      <extent>
+        <charseq START="537" END="546">last month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T3" VAL="2009">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T3-1">
+      <extent>
+        <charseq START="684" END="692">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T4" VAL="2006">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T4-1">
+      <extent>
+        <charseq START="980" END="983">2006</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T5" VAL="2009-09">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T5-1">
+      <extent>
+        <charseq START="992" END="1000">September</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T6" VAL="2009-06">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T6-1">
+      <extent>
+        <charseq START="1273" END="1276">June</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T7" VAL="2009-11-08">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T7-1">
+      <extent>
+        <charseq START="1362" END="1367">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T8" VAL="2009-11">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T8-1">
+      <extent>
+        <charseq START="1668" END="1677">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T9" VAL="P18Y">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T9-1">
+      <extent>
+        <charseq START="2012" END="2019">18 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T10" VAL="2009-W45">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T10-1">
+      <extent>
+        <charseq START="2060" END="2068">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T11" VAL="P13Y">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T11-1">
+      <extent>
+        <charseq START="2455" END="2462">13 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20091110.0411-T12" VAL="2009-10">
+    <timex2_mention ID="XIN_ENG_20091110.0411-T12-1">
+      <extent>
+        <charseq START="2975" END="2981">October</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20091110.0411-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20091110.0411-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20091110.0411-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20091110.0411-R1-1">
+      <extent>
+        <charseq START="551" END="574">Police in Hunan Province</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20091110.0411-8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="551" END="556">Police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20091110.0411-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="561" END="574">Hunan Province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20091110.0411-R2" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20091110.0411-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20091110.0411-2" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20091110.0411-R2-1">
+      <extent>
+        <charseq START="1221" END="1255">criminals in Chongqing
+Municipality</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20091110.0411-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1221" END="1229">criminals</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20091110.0411-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1234" END="1255">Chongqing
+Municipality</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AGGRESSIVEVOICEDAILY_20041226.1712.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="AGGRESSIVEVOICEDAILY_20041226.1712">
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-1-0">
+      <extent>
+        <charseq START="88" END="92">Scott</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="92">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Scott">
+        <charseq START="88" END="92">Scott</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-0">
+      <extent>
+        <charseq START="117" END="130">Peyton Manning</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="130">Peyton Manning</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-1">
+      <extent>
+        <charseq START="283" END="289">Manning</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="289">Manning</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-2">
+      <extent>
+        <charseq START="322" END="323">he</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="323">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-3">
+      <extent>
+        <charseq START="398" END="399">he</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="399">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-4">
+      <extent>
+        <charseq START="474" END="480">Manning</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="480">Manning</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-2-5">
+      <extent>
+        <charseq START="485" END="493">all class</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="493">class</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Peyton Manning">
+        <charseq START="117" END="130">Peyton Manning</charseq>
+      </name>
+      <name NAME="Manning">
+        <charseq START="283" END="289">Manning</charseq>
+      </name>
+      <name NAME="Manning">
+        <charseq START="474" END="480">Manning</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-3-0">
+      <extent>
+        <charseq START="138" END="147">Dan Marino</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="147">Dan Marino</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-3-1">
+      <extent>
+        <charseq START="545" END="550">Marino</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="550">Marino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dan Marino">
+        <charseq START="138" END="147">Dan Marino</charseq>
+      </name>
+      <name NAME="Marino">
+        <charseq START="545" END="550">Marino</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-4-0">
+      <extent>
+        <charseq START="197" END="218">the San Diego Chargers</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="218">San Diego Chargers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Diego Chargers">
+        <charseq START="201" END="218">San Diego Chargers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-5-0">
+      <extent>
+        <charseq START="372" END="391">the Baltimore Ravens</charseq>
+      </extent>
+      <head>
+        <charseq START="376" END="391">Baltimore Ravens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baltimore Ravens">
+        <charseq START="376" END="391">Baltimore Ravens</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-6-0">
+      <extent>
+        <charseq START="510" END="530">the best quarterbacks</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="530">quarterbacks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-0">
+      <extent>
+        <charseq START="612" END="619">Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="612" END="619">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-1">
+      <extent>
+        <charseq START="633" END="644">Reggie White</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="644">Reggie White</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-2">
+      <extent>
+        <charseq START="684" END="686">his</charseq>
+      </extent>
+      <head>
+        <charseq START="684" END="686">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-3">
+      <extent>
+        <charseq START="711" END="715">White</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="715">White</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-4">
+      <extent>
+        <charseq START="787" END="788">He</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="788">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-7-5">
+      <extent>
+        <charseq START="916" END="920">White</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="920">White</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Reggie White">
+        <charseq START="633" END="644">Reggie White</charseq>
+      </name>
+      <name NAME="White">
+        <charseq START="711" END="715">White</charseq>
+      </name>
+      <name NAME="White">
+        <charseq START="916" END="920">White</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-8-0">
+      <extent>
+        <charseq START="684" END="691">his home</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="691">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="749" END="760">Philadelphia</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="760">Philadelphia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philadelphia">
+        <charseq START="749" END="760">Philadelphia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-10" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-10-0">
+      <extent>
+        <charseq START="763" END="771">Green Bay</charseq>
+      </extent>
+      <head>
+        <charseq START="763" END="771">Green Bay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Green Bay">
+        <charseq START="763" END="771">Green Bay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="777" END="784">Carolina</charseq>
+      </extent>
+      <head>
+        <charseq START="777" END="784">Carolina</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Carolina">
+        <charseq START="777" END="784">Carolina</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-12-0">
+      <extent>
+        <charseq START="823" END="829">the NFL</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="829">NFL</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-12-1">
+      <extent>
+        <charseq START="833" END="847">all-time leader</charseq>
+      </extent>
+      <head>
+        <charseq START="842" END="847">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NFL">
+        <charseq START="827" END="829">NFL</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-13-0">
+      <extent>
+        <charseq START="868" END="875">The mark</charseq>
+      </extent>
+      <head>
+        <charseq START="872" END="875">mark</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AGGRESSIVEVOICEDAILY_20041226.1712-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AGGRESSIVEVOICEDAILY_20041226.1712-14-0">
+      <extent>
+        <charseq START="902" END="912">Bruce Smith</charseq>
+      </extent>
+      <head>
+        <charseq START="902" END="912">Bruce Smith</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bruce Smith">
+        <charseq START="902" END="912">Bruce Smith</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T0" VAL="2004-12-26T17:12:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T0-1">
+      <extent>
+        <charseq START="50" END="68">2004-12-26T17:12:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T1" VAL="2004-12-26T17:12:00">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T1-1">
+      <extent>
+        <charseq START="96" END="114">2004-12-26T17:12:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T2" VAL="2004-12-26">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T2-1">
+      <extent>
+        <charseq START="175" END="179">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T3" VAL="2004-W51">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T3-1">
+      <extent>
+        <charseq START="312" END="320">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T4" VAL="1984">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T4-1">
+      <extent>
+        <charseq START="578" END="581">1984</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T5" VAL="P15Y">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T5-1">
+      <extent>
+        <charseq START="735" END="742">15 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AGGRESSIVEVOICEDAILY_20041226.1712-T6" VAL="2000">
+    <timex2_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-T6-1">
+      <extent>
+        <charseq START="808" END="811">2000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

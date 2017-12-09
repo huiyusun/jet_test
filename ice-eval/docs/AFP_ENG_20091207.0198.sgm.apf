@@ -1,0 +1,993 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20091207.0198.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20091207.0198">
+  <entity ID="AFP_ENG_20091207.0198-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-1-0">
+      <extent>
+        <charseq START="92" END="101">The mother</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="101">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-1-1">
+      <extent>
+        <charseq START="146" END="148">she</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="148">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-1-2">
+      <extent>
+        <charseq START="159" END="161">her</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="161">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-1-3">
+      <extent>
+        <charseq START="197" END="199">her</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="199">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="106" END="107">US</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="107">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="591" END="592">US</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="592">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="106" END="107">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="591" END="592">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-0">
+      <extent>
+        <charseq START="106" END="127">US student Amanda Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="127">Amanda Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-3-1">
+      <extent>
+        <charseq START="109" END="115">student</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="115">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-3-2">
+      <extent>
+        <charseq START="213" END="227">the young woman</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="227">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-3">
+      <extent>
+        <charseq START="279" END="281">her</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="281">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-4">
+      <extent>
+        <charseq START="393" END="396">Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="396">Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-5">
+      <extent>
+        <charseq START="760" END="765">Amanda</charseq>
+      </extent>
+      <head>
+        <charseq START="760" END="765">Amanda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-6">
+      <extent>
+        <charseq START="786" END="788">her</charseq>
+      </extent>
+      <head>
+        <charseq START="786" END="788">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-7">
+      <extent>
+        <charseq START="794" END="796">she</charseq>
+      </extent>
+      <head>
+        <charseq START="794" END="796">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-8">
+      <extent>
+        <charseq START="851" END="854">Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="851" END="854">Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-3-9">
+      <extent>
+        <charseq START="1021" END="1035">the young woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1035">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-10">
+      <extent>
+        <charseq START="1287" END="1292">Amanda</charseq>
+      </extent>
+      <head>
+        <charseq START="1287" END="1292">Amanda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-11">
+      <extent>
+        <charseq START="1295" END="1297">She</charseq>
+      </extent>
+      <head>
+        <charseq START="1295" END="1297">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-12">
+      <extent>
+        <charseq START="1303" END="1305">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1305">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-13">
+      <extent>
+        <charseq START="1321" END="1323">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1321" END="1323">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-14">
+      <extent>
+        <charseq START="1443" END="1446">Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1446">Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-15">
+      <extent>
+        <charseq START="1721" END="1724">Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="1721" END="1724">Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-16">
+      <extent>
+        <charseq START="2073" END="2076">Knox</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2076">Knox</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-3-17">
+      <extent>
+        <charseq START="2163" END="2168">Amanda</charseq>
+      </extent>
+      <head>
+        <charseq START="2163" END="2168">Amanda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-3-18">
+      <extent>
+        <charseq START="2172" END="2174">her</charseq>
+      </extent>
+      <head>
+        <charseq START="2172" END="2174">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Amanda Knox">
+        <charseq START="117" END="127">Amanda Knox</charseq>
+      </name>
+      <name NAME="Knox">
+        <charseq START="393" END="396">Knox</charseq>
+      </name>
+      <name NAME="Amanda">
+        <charseq START="760" END="765">Amanda</charseq>
+      </name>
+      <name NAME="Knox">
+        <charseq START="851" END="854">Knox</charseq>
+      </name>
+      <name NAME="Amanda">
+        <charseq START="1287" END="1292">Amanda</charseq>
+      </name>
+      <name NAME="Knox">
+        <charseq START="1443" END="1446">Knox</charseq>
+      </name>
+      <name NAME="Knox">
+        <charseq START="1721" END="1724">Knox</charseq>
+      </name>
+      <name NAME="Knox">
+        <charseq START="2073" END="2076">Knox</charseq>
+      </name>
+      <name NAME="Amanda">
+        <charseq START="2163" END="2168">Amanda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-4-0">
+      <extent>
+        <charseq START="159" END="170">her daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="170">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="283" END="289">British</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="289">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="462" END="468">British</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="468">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="283" END="289">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="462" END="468">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="304" END="308">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="308">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="434" END="440">Italian</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="440">Italian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="2234" END="2238">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="2234" END="2238">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="2241" END="2242">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2241" END="2242">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="2246" END="2262">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="2250" END="2262">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="2265" END="2266">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2265" END="2266">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italy">
+        <charseq START="304" END="308">Italy</charseq>
+      </name>
+      <name NAME="Italian">
+        <charseq START="434" END="440">Italian</charseq>
+      </name>
+      <name NAME="Italy">
+        <charseq START="2234" END="2238">Italy</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="2250" END="2262">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-0">
+      <extent>
+        <charseq START="313" END="323">Edda Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="323">Edda Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-7-1">
+      <extent>
+        <charseq START="343" END="345">her</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="345">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-2">
+      <extent>
+        <charseq START="558" END="563">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="563">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-3">
+      <extent>
+        <charseq START="685" END="690">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="685" END="690">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-7-4">
+      <extent>
+        <charseq START="697" END="699">she</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="699">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-7-5">
+      <extent>
+        <charseq START="706" END="708">her</charseq>
+      </extent>
+      <head>
+        <charseq START="706" END="708">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-6">
+      <extent>
+        <charseq START="821" END="826">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="821" END="826">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-7">
+      <extent>
+        <charseq START="1134" END="1139">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1139">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-8">
+      <extent>
+        <charseq START="1255" END="1260">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="1255" END="1260">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-9">
+      <extent>
+        <charseq START="1342" END="1360">an
+emotional Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1360">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-10">
+      <extent>
+        <charseq START="1428" END="1433">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="1428" END="1433">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-7-11">
+      <extent>
+        <charseq START="2373" END="2378">Mellas</charseq>
+      </extent>
+      <head>
+        <charseq START="2373" END="2378">Mellas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Edda Mellas">
+        <charseq START="313" END="323">Edda Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="558" END="563">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="685" END="690">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="821" END="826">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="1134" END="1139">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="1255" END="1260">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="1355" END="1360">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="1428" END="1433">Mellas</charseq>
+      </name>
+      <name NAME="Mellas">
+        <charseq START="2373" END="2378">Mellas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-8-0">
+      <extent>
+        <charseq START="343" END="361">her jailed daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="361">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-9-0">
+      <extent>
+        <charseq START="415" END="424">two judges</charseq>
+      </extent>
+      <head>
+        <charseq START="419" END="424">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-10-0">
+      <extent>
+        <charseq START="430" END="447">six Italian jurors</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="447">jurors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-11-0">
+      <extent>
+        <charseq START="462" END="502">British
+exchange student Meredith Kercher</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="502">Meredith Kercher</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-11-1">
+      <extent>
+        <charseq START="479" END="485">student</charseq>
+      </extent>
+      <head>
+        <charseq START="479" END="485">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-11-2">
+      <extent>
+        <charseq START="1639" END="1645">Kercher</charseq>
+      </extent>
+      <head>
+        <charseq START="1639" END="1645">Kercher</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-11-3">
+      <extent>
+        <charseq START="1976" END="1982">Kercher</charseq>
+      </extent>
+      <head>
+        <charseq START="1976" END="1982">Kercher</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-11-4">
+      <extent>
+        <charseq START="2032" END="2034">her</charseq>
+      </extent>
+      <head>
+        <charseq START="2032" END="2034">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Meredith Kercher">
+        <charseq START="487" END="502">Meredith Kercher</charseq>
+      </name>
+      <name NAME="Kercher">
+        <charseq START="1639" END="1645">Kercher</charseq>
+      </name>
+      <name NAME="Kercher">
+        <charseq START="1976" END="1982">Kercher</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-12-0">
+      <extent>
+        <charseq START="519" END="537">the two young women</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="537">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="549" END="555">Perugia</charseq>
+      </extent>
+      <head>
+        <charseq START="549" END="555">Perugia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="998" END="1004">Perugia</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1004">Perugia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Perugia">
+        <charseq START="549" END="555">Perugia</charseq>
+      </name>
+      <name NAME="Perugia">
+        <charseq START="998" END="1004">Perugia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-14-0">
+      <extent>
+        <charseq START="706" END="729">her 22-year-old daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="729">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-15-0">
+      <extent>
+        <charseq START="833" END="835">ABC</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="835">ABC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ABC">
+        <charseq START="833" END="835">ABC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-16-0">
+      <extent>
+        <charseq START="855" END="863">&apos;s family</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="863">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-16-1">
+      <extent>
+        <charseq START="2077" END="2085">&apos;s family</charseq>
+      </extent>
+      <head>
+        <charseq START="2080" END="2085">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-17-0">
+      <extent>
+        <charseq START="925" END="931">Italian</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="931">Italian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-17-1">
+      <extent>
+        <charseq START="934" END="937">they</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="937">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italian">
+        <charseq START="925" END="931">Italian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-18-0">
+      <extent>
+        <charseq START="984" END="989">others</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="989">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-19" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-19-0">
+      <extent>
+        <charseq START="994" END="1014">the Perugia
+courtroom</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1014">courtroom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-20-0">
+      <extent>
+        <charseq START="1090" END="1101">the audience</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1101">audience</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-21-0">
+      <extent>
+        <charseq START="1115" END="1124">the public</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1124">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-22-0">
+      <extent>
+        <charseq START="1182" END="1193">other people</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1193">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-23-0">
+      <extent>
+        <charseq START="1211" END="1225">the public area</charseq>
+      </extent>
+      <head>
+        <charseq START="1222" END="1225">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-24-0">
+      <extent>
+        <charseq START="1380" END="1383">Some</charseq>
+      </extent>
+      <head>
+        <charseq START="1380" END="1383">Some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-25-0">
+      <extent>
+        <charseq START="1388" END="1398">the lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="1392" END="1398">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-26-0">
+      <extent>
+        <charseq START="1487" END="1490">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1490">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-27-0">
+      <extent>
+        <charseq START="1496" END="1526">co-defendant Raffaele
+Sollecito</charseq>
+      </extent>
+      <head>
+        <charseq START="1509" END="1526">Raffaele
+Sollecito</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-27-1">
+      <extent>
+        <charseq START="1529" END="1531">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1529" END="1531">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-27-2">
+      <extent>
+        <charseq START="1529" END="1545">her new boyfriend</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1545">boyfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-27-3">
+      <extent>
+        <charseq START="1727" END="1735">Sollecito</charseq>
+      </extent>
+      <head>
+        <charseq START="1727" END="1735">Sollecito</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Raffaele Sollecito">
+        <charseq START="1509" END="1526">Raffaele
+Sollecito</charseq>
+      </name>
+      <name NAME="Sollecito">
+        <charseq START="1727" END="1735">Sollecito</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-28-0">
+      <extent>
+        <charseq START="1659" END="1669">Prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="1659" END="1669">Prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-29-0">
+      <extent>
+        <charseq START="1757" END="1766">Rudy Guede</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1766">Rudy Guede</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-29-1">
+      <extent>
+        <charseq START="1741" END="1754">a third person</charseq>
+      </extent>
+      <head>
+        <charseq START="1749" END="1754">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rudy Guede">
+        <charseq START="1757" END="1766">Rudy Guede</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20091207.0198-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1771" END="1781">Ivory Coast</charseq>
+      </extent>
+      <head>
+        <charseq START="1771" END="1781">Ivory Coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ivory Coast">
+        <charseq START="1771" END="1781">Ivory Coast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-31-0">
+      <extent>
+        <charseq START="1908" END="1929">the three young people</charseq>
+      </extent>
+      <head>
+        <charseq START="1924" END="1929">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-32-0">
+      <extent>
+        <charseq START="2172" END="2181">her mother</charseq>
+      </extent>
+      <head>
+        <charseq START="2176" END="2181">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-33" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-33-0">
+      <extent>
+        <charseq START="2201" END="2209">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="2205" END="2209">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20091207.0198-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20091207.0198-34-0">
+      <extent>
+        <charseq START="2284" END="2304">truly innocent people</charseq>
+      </extent>
+      <head>
+        <charseq START="2299" END="2304">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20091207.0198-34-1">
+      <extent>
+        <charseq START="2356" END="2358">She</charseq>
+      </extent>
+      <head>
+        <charseq START="2356" END="2358">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20091207.0198-T0" VAL="2009-12-07">
+    <timex2_mention ID="AFP_ENG_20091207.0198-T0-1">
+      <extent>
+        <charseq START="134" END="139">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20091207.0198-T1" VAL="2009-W49">
+    <timex2_mention ID="AFP_ENG_20091207.0198-T1-1">
+      <extent>
+        <charseq START="1462" END="1470">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20091207.0198-T2" VAL="P26Y">
+    <timex2_mention ID="AFP_ENG_20091207.0198-T2-1">
+      <extent>
+        <charseq START="1475" END="1482">26 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20091207.0198-T3" VAL="2007">
+    <timex2_mention ID="AFP_ENG_20091207.0198-T3-1">
+      <extent>
+        <charseq START="1573" END="1585">two years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20091207.0198-T4" VAL="P25Y">
+    <timex2_mention ID="AFP_ENG_20091207.0198-T4-1">
+      <extent>
+        <charseq START="1611" END="1618">25 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20091207.0198-R1" TYPE="RESIDE">
+    <relation_argument REFID="AFP_ENG_20091207.0198-29" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20091207.0198-30" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20091207.0198-R1-1">
+      <extent>
+        <charseq START="1757" END="1781">Rudy Guede of Ivory Coast</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20091207.0198-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1757" END="1766">Rudy Guede</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20091207.0198-30-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1771" END="1781">Ivory Coast</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

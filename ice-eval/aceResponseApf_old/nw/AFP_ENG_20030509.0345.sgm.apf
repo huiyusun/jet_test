@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030509.0345.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030509.0345">
+  <entity ID="AFP_ENG_20030509.0345-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="119" END="124">LONDON</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="124">LONDON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-1-1" ROLE="LOC">
+      <extent>
+        <charseq START="134" END="136">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="136">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1124" END="1129">London</charseq>
+      </extent>
+      <head>
+        <charseq START="1124" END="1129">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1153" END="1155">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1155">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LONDON">
+        <charseq START="119" END="124">LONDON</charseq>
+      </name>
+      <name NAME="AFP">
+        <charseq START="134" END="136">AFP</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="1124" END="1129">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-2-0">
+      <extent>
+        <charseq START="140" END="184">A ground-breaking British budget cinema chain</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="184">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-2-1">
+      <extent>
+        <charseq START="260" END="261">it</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="261">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="158" END="164">British</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="164">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="1248" END="1254">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1254">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="1459" END="1465">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1459" END="1465">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1649" END="1650">UK</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1650">UK</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="158" END="164">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1248" END="1254">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1459" END="1465">British</charseq>
+      </name>
+      <name NAME="UK">
+        <charseq START="1649" END="1650">UK</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-4-0">
+      <extent>
+        <charseq START="173" END="178">cinema</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="178">cinema</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-5-0">
+      <extent>
+        <charseq START="198" END="208">the founder</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="208">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-5-1">
+      <extent>
+        <charseq START="960" END="962">him</charseq>
+      </extent>
+      <head>
+        <charseq START="960" END="962">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-6-0">
+      <extent>
+        <charseq START="213" END="236">low-cost airline easyJet</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="236">easyJet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-6-1">
+      <extent>
+        <charseq START="222" END="228">airline</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="228">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-6-2">
+      <extent>
+        <charseq START="810" END="816">easyJet</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="816">easyJet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="easyJet">
+        <charseq START="230" END="236">easyJet</charseq>
+      </name>
+      <name NAME="easyJet">
+        <charseq START="810" END="816">easyJet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-7-0">
+      <extent>
+        <charseq START="389" END="409">its no-frills cinemas</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="409">cinemas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-8-0">
+      <extent>
+        <charseq START="505" END="521">film distributors</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="521">distributors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-8-1">
+      <extent>
+        <charseq START="601" END="612">distributors</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="612">distributors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-9-0">
+      <extent>
+        <charseq START="740" END="754">the film majors</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="754">majors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-10-0">
+      <extent>
+        <charseq START="758" END="796">EasyCinema founder Stelios Haji-Ioannou</charseq>
+      </extent>
+      <head>
+        <charseq START="777" END="796">Stelios Haji-Ioannou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-10-1">
+      <extent>
+        <charseq START="769" END="775">founder</charseq>
+      </extent>
+      <head>
+        <charseq START="769" END="775">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-10-2">
+      <extent>
+        <charseq START="1506" END="1517">Haji-Ioannou</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1517">Haji-Ioannou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-10-3">
+      <extent>
+        <charseq START="1529" END="1535">himself</charseq>
+      </extent>
+      <head>
+        <charseq START="1529" END="1535">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-10-4">
+      <extent>
+        <charseq START="1580" END="1582">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1580" END="1582">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-10-5">
+      <extent>
+        <charseq START="1738" END="1739">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1739">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stelios Haji-Ioannou">
+        <charseq START="777" END="796">Stelios Haji-Ioannou</charseq>
+      </name>
+      <name NAME="Haji-Ioannou">
+        <charseq START="1506" END="1517">Haji-Ioannou</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-11-0">
+      <extent>
+        <charseq START="847" END="852">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="847" END="852">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Europe">
+        <charseq START="847" END="852">Europe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-12-0">
+      <extent>
+        <charseq START="853" END="877">&apos;s biggest budget airline</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="877">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-13-0">
+      <extent>
+        <charseq START="919" END="940">the distribution firms</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="940">firms</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-13-1">
+      <extent>
+        <charseq START="949" END="952">they</charseq>
+      </extent>
+      <head>
+        <charseq START="949" END="952">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-14" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-14-0">
+      <extent>
+        <charseq START="1076" END="1090">&apos;s first outlet</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1090">outlet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-15-0">
+      <extent>
+        <charseq START="1095" END="1107">Milton Keynes</charseq>
+      </extent>
+      <head>
+        <charseq START="1095" END="1107">Milton Keynes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Milton Keynes">
+        <charseq START="1095" END="1107">Milton Keynes</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-16-0">
+      <extent>
+        <charseq START="1183" END="1190">the firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1187" END="1190">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030509.0345-16-1">
+      <extent>
+        <charseq START="1217" END="1218">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1218">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-17-0">
+      <extent>
+        <charseq START="1244" END="1258">the British arm</charseq>
+      </extent>
+      <head>
+        <charseq START="1256" END="1258">arm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1263" END="1268">French</charseq>
+      </extent>
+      <head>
+        <charseq START="1263" END="1268">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="French">
+        <charseq START="1263" END="1268">French</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-19-0">
+      <extent>
+        <charseq START="1263" END="1281">French distributors</charseq>
+      </extent>
+      <head>
+        <charseq START="1270" END="1281">distributors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1334" END="1342">Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="1334" END="1342">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hollywood">
+        <charseq START="1334" END="1342">Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1408" END="1409">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1408" END="1409">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="1408" END="1409">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-22-0">
+      <extent>
+        <charseq START="1596" END="1613">other distributors</charseq>
+      </extent>
+      <head>
+        <charseq START="1602" END="1613">distributors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-23-0">
+      <extent>
+        <charseq START="1645" END="1663">six UK distributors</charseq>
+      </extent>
+      <head>
+        <charseq START="1652" END="1663">distributors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-24-0">
+      <extent>
+        <charseq START="1767" END="1776">my lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="1770" END="1776">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030509.0345-25-0">
+      <extent>
+        <charseq START="1805" END="1830">the Office
+of Fair Trading</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1830">Office
+of Fair Trading</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Office of Fair Trading">
+        <charseq START="1809" END="1830">Office
+of Fair Trading</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-26-0">
+      <extent>
+        <charseq START="1880" END="1889">the public</charseq>
+      </extent>
+      <head>
+        <charseq START="1884" END="1889">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-27-0">
+      <extent>
+        <charseq START="1946" END="1964">traditional cinemas</charseq>
+      </extent>
+      <head>
+        <charseq START="1958" END="1964">cinemas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-27-1">
+      <extent>
+        <charseq START="2130" END="2136">cinemas</charseq>
+      </extent>
+      <head>
+        <charseq START="2130" END="2136">cinemas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-28-0">
+      <extent>
+        <charseq START="2165" END="2172">skeleton</charseq>
+      </extent>
+      <head>
+        <charseq START="2165" END="2172">skeleton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030509.0345-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030509.0345-29-0">
+      <extent>
+        <charseq START="2165" END="2178">skeleton staff</charseq>
+      </extent>
+      <head>
+        <charseq START="2174" END="2178">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030509.0345-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030509.0345-V1-1">
+      <extent>
+        <charseq START="438" END="447">0.28 euros</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030509.0345-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030509.0345-V2-1">
+      <extent>
+        <charseq START="450" END="461">0.32 dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030509.0345-V4" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="AFP_ENG_20030509.0345-V4-1">
+      <extent>
+        <charseq START="1678" END="1697">more
+than 90 percent</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030509.0345-T0" VAL="2003-05-09">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030509</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030509.0345-T1" VAL="2003-05-09">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T1-1">
+      <extent>
+        <charseq START="127" END="131">May 9</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030509.0345-T2" VAL="2003-05-09">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T2-1">
+      <extent>
+        <charseq START="248" END="253">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030509.0345-T3" VAL="1995">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T3-1">
+      <extent>
+        <charseq START="821" END="824">1995</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030509.0345-T4" VAL="2003-05-23">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T4-1">
+      <extent>
+        <charseq START="1166" END="1171">May 23</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030509.0345-T5" VAL="2003-05-09">
+    <timex2_mention ID="AFP_ENG_20030509.0345-T5-1">
+      <extent>
+        <charseq START="1205" END="1210">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030509.0345-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="AFP_ENG_20030509.0345-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030509.0345-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030509.0345-R1-2">
+      <extent>
+        <charseq START="119" END="136">LONDON, May 9 (AFP</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030509.0345-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="119" END="124">LONDON</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030509.0345-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="134" END="136">AFP</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

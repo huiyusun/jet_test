@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_021.0167.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_021.0167">
+  <entity ID="wsj94_021.0167-1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-1-0">
+      <extent>
+        <charseq START="239" END="267">Madison Group Associates Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="267">Madison Group Associates Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-1-1">
+      <extent>
+        <charseq START="274" END="276">its</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="276">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-1-2">
+      <extent>
+        <charseq START="372" END="382">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="376" END="382">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-1-3">
+      <extent>
+        <charseq START="473" END="475">its</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="475">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-1-4">
+      <extent>
+        <charseq START="661" END="671">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="671">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-1-5">
+      <extent>
+        <charseq START="730" END="736">Madison</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="736">Madison</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-1-6">
+      <extent>
+        <charseq START="859" END="869">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="869">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-1-7">
+      <extent>
+        <charseq START="1237" END="1243">Madison</charseq>
+      </extent>
+      <head>
+        <charseq START="1237" END="1243">Madison</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Madison Group Associates Inc.">
+        <charseq START="239" END="267">Madison Group Associates Inc.</charseq>
+      </name>
+      <name NAME="Madison">
+        <charseq START="730" END="736">Madison</charseq>
+      </name>
+      <name NAME="Madison">
+        <charseq START="1237" END="1243">Madison</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-2-0">
+      <extent>
+        <charseq START="274" END="282">its
+board</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="282">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-3-0">
+      <extent>
+        <charseq START="294" END="306">Kenneth Lucas</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="306">Kenneth Lucas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-3-1">
+      <extent>
+        <charseq START="309" END="317">president</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="317">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-3-2">
+      <extent>
+        <charseq START="489" END="497">Mr. Lucas</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="497">Lucas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-3-3">
+      <extent>
+        <charseq START="489" END="491">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="491">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-3-4">
+      <extent>
+        <charseq START="506" END="520">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="520">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-3-5">
+      <extent>
+        <charseq START="692" END="700">Mr. Lucas</charseq>
+      </extent>
+      <head>
+        <charseq START="696" END="700">Lucas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-3-6">
+      <extent>
+        <charseq START="692" END="694">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="692" END="694">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kenneth Lucas">
+        <charseq START="294" END="306">Kenneth Lucas</charseq>
+      </name>
+      <name NAME="Lucas">
+        <charseq START="493" END="497">Lucas</charseq>
+      </name>
+      <name NAME="Lucas">
+        <charseq START="696" END="700">Lucas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-4-0">
+      <extent>
+        <charseq START="327" END="343">Dean J. Trantalis</charseq>
+      </extent>
+      <head>
+        <charseq START="327" END="343">Dean J. Trantalis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dean J. Trantalis">
+        <charseq START="327" END="343">Dean J. Trantalis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-5-0">
+      <extent>
+        <charseq START="348" END="364">interim president</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="364">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-6-0">
+      <extent>
+        <charseq START="415" END="427">Roland Breton</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="427">Roland Breton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-6-1">
+      <extent>
+        <charseq START="394" END="410">two new directors</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="410">directors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Roland Breton">
+        <charseq START="415" END="427">Roland Breton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-7-0">
+      <extent>
+        <charseq START="433" END="446">Steve Gibboney</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="446">Steve Gibboney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steve Gibboney">
+        <charseq START="433" END="446">Steve Gibboney</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-8-0">
+      <extent>
+        <charseq START="473" END="481">its board</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="481">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-9-0">
+      <extent>
+        <charseq START="574" END="589">William T. Craig</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="589">William T. Craig</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-9-1">
+      <extent>
+        <charseq START="605" END="607">his</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="607">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-9-2">
+      <extent>
+        <charseq START="723" END="724">he</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="724">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William T. Craig">
+        <charseq START="574" END="589">William T. Craig</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-10-0">
+      <extent>
+        <charseq START="616" END="625">a
+director</charseq>
+      </extent>
+      <head>
+        <charseq START="618" END="625">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-11-0">
+      <extent>
+        <charseq START="631" END="653">chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="653">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-12-0">
+      <extent>
+        <charseq START="730" END="747">Madison executives</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="747">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-13-0">
+      <extent>
+        <charseq START="913" END="950">the Securities and Exchange Commission</charseq>
+      </extent>
+      <head>
+        <charseq START="917" END="950">Securities and Exchange Commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-13-1">
+      <extent>
+        <charseq START="1008" END="1018">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1018">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_021.0167-13-2">
+      <extent>
+        <charseq START="1051" END="1057">the SEC</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1057">SEC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-13-3">
+      <extent>
+        <charseq START="1079" END="1089">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1083" END="1089">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-13-4">
+      <extent>
+        <charseq START="1098" END="1100">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1098" END="1100">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Securities and Exchange Commission">
+        <charseq START="917" END="950">Securities and Exchange Commission</charseq>
+      </name>
+      <name NAME="SEC">
+        <charseq START="1055" END="1057">SEC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-14-0">
+      <extent>
+        <charseq START="962" END="980">several individuals</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="980">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-14-1">
+      <extent>
+        <charseq START="988" END="992">their</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="992">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj94_021.0167-15-0">
+      <extent>
+        <charseq START="1021" END="1023">One</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1023">One</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-16-0">
+      <extent>
+        <charseq START="1028" END="1044">those individuals</charseq>
+      </extent>
+      <head>
+        <charseq START="1034" END="1044">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-17-0">
+      <extent>
+        <charseq START="1147" END="1161">video libraries</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1161">libraries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-18-0">
+      <extent>
+        <charseq START="1205" END="1217">an accountant</charseq>
+      </extent>
+      <head>
+        <charseq START="1208" END="1217">accountant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-19-0">
+      <extent>
+        <charseq START="1262" END="1286">an independent specialist</charseq>
+      </extent>
+      <head>
+        <charseq START="1277" END="1286">specialist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_021.0167-20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_021.0167-20-0">
+      <extent>
+        <charseq START="1309" END="1327">the
+video libraries</charseq>
+      </extent>
+      <head>
+        <charseq START="1319" END="1327">libraries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_021.0167-T0" VAL="2016-01">
+    <timex2_mention ID="wsj94_021.0167-T0-1">
+      <extent>
+        <charseq START="553" END="566">two months ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_021.0167-T1" VAL="PXM">
+    <timex2_mention ID="wsj94_021.0167-T1-1">
+      <extent>
+        <charseq START="874" END="886">recent months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

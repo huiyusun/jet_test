@@ -1,0 +1,735 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_CF_20030305.1900.06-2.sgm" SOURCE="broadcast conversation" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_CF_20030305.1900.06-2">
+  <entity ID="CNN_CF_20030305.1900.06-2-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-1-0">
+      <extent>
+        <charseq START="196" END="211">CHRISTINA WRIGHT</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="211">CHRISTINA WRIGHT</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CHRISTINA WRIGHT">
+        <charseq START="196" END="211">CHRISTINA WRIGHT</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="257" END="267">Minneapolis</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="267">Minneapolis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Minneapolis">
+        <charseq START="257" END="267">Minneapolis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="270" END="278">Minnesota</charseq>
+      </extent>
+      <head>
+        <charseq START="270" END="278">Minnesota</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Minnesota">
+        <charseq START="270" END="278">Minnesota</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="335" END="338">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="338">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="335" END="338">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="379" END="408">other Middle Eastern countries</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="408">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-6" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="385" END="398">Middle Eastern</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="398">Middle Eastern</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle Eastern">
+        <charseq START="385" END="398">Middle Eastern</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-7-0">
+      <extent>
+        <charseq START="439" END="455">harbor terrorists</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="455">terrorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="466" END="470">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="470">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syria">
+        <charseq START="466" END="470">Syria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="476" END="479">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="479">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iran">
+        <charseq START="476" END="479">Iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-10-0">
+      <extent>
+        <charseq START="485" END="491">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="491">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-10-1">
+      <extent>
+        <charseq START="1024" END="1030">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1024" END="1030">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-10-2">
+      <extent>
+        <charseq START="1300" END="1306">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1300" END="1306">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-10-3">
+      <extent>
+        <charseq START="1587" END="1593">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1593">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-10-4">
+      <extent>
+        <charseq START="1829" END="1835">CARLSON</charseq>
+      </extent>
+      <head>
+        <charseq START="1829" END="1835">CARLSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CARLSON">
+        <charseq START="485" END="491">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1024" END="1030">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1300" END="1306">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1587" END="1593">CARLSON</charseq>
+      </name>
+      <name NAME="CARLSON">
+        <charseq START="1829" END="1835">CARLSON</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-11-0">
+      <extent>
+        <charseq START="573" END="589">the entire region</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="589">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-11-1">
+      <extent>
+        <charseq START="611" END="620">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="620">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-11-2">
+      <extent>
+        <charseq START="852" END="861">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="861">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-12-0">
+      <extent>
+        <charseq START="654" END="659">people</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="659">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-13-0">
+      <extent>
+        <charseq START="678" END="686">Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="678" END="686">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Americans">
+        <charseq START="678" END="686">Americans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="703" END="709">America</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="709">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="America">
+        <charseq START="703" END="709">America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-15-0">
+      <extent>
+        <charseq START="759" END="764">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="764">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-15-1">
+      <extent>
+        <charseq START="1525" END="1530">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="1525" END="1530">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-15-2">
+      <extent>
+        <charseq START="1636" END="1641">BEGALA</charseq>
+      </extent>
+      <head>
+        <charseq START="1636" END="1641">BEGALA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BEGALA">
+        <charseq START="759" END="764">BEGALA</charseq>
+      </name>
+      <name NAME="BEGALA">
+        <charseq START="1525" END="1530">BEGALA</charseq>
+      </name>
+      <name NAME="BEGALA">
+        <charseq START="1636" END="1641">BEGALA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-16-0">
+      <extent>
+        <charseq START="767" END="779">Our president</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="779">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.06-2-16-1">
+      <extent>
+        <charseq START="870" END="871">he</charseq>
+      </extent>
+      <head>
+        <charseq START="870" END="871">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.06-2-16-2">
+      <extent>
+        <charseq START="896" END="897">he</charseq>
+      </extent>
+      <head>
+        <charseq START="896" END="897">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-17-0">
+      <extent>
+        <charseq START="951" END="975">this very unstable
+region</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="975">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-18-0">
+      <extent>
+        <charseq START="1063" END="1068">FABIAN</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1068">FABIAN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-18-1">
+      <extent>
+        <charseq START="1079" END="1084">Fabian</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1084">Fabian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="FABIAN">
+        <charseq START="1063" END="1068">FABIAN</charseq>
+      </name>
+      <name NAME="Fabian">
+        <charseq START="1079" END="1084">Fabian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1091" END="1094">Bonn</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1094">Bonn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bonn">
+        <charseq START="1091" END="1094">Bonn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1097" END="1103">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1103">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1183" END="1189">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1183" END="1189">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="1421" END="1427">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="1421" END="1427">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.06-2-20-3" ROLE="GPE">
+      <extent>
+        <charseq START="1461" END="1470">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1470">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_CF_20030305.1900.06-2-20-4" ROLE="GPE">
+      <extent>
+        <charseq START="1491" END="1495">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1491" END="1495">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="1097" END="1103">Germany</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="1183" END="1189">Germany</charseq>
+      </name>
+      <name NAME="Germany">
+        <charseq START="1421" END="1427">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1151" END="1155">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="1151" END="1155">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paris">
+        <charseq START="1151" END="1155">Paris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1164" END="1169">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1169">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-22-1" ROLE="GPE">
+      <extent>
+        <charseq START="1410" END="1415">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1410" END="1415">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="1164" END="1169">France</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="1410" END="1415">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1172" END="1177">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1177">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="1172" END="1177">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1347" END="1367">18 European countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1359" END="1367">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1350" END="1357">European</charseq>
+      </extent>
+      <head>
+        <charseq START="1350" END="1357">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European">
+        <charseq START="1350" END="1357">European</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-26-0">
+      <extent>
+        <charseq START="1475" END="1486">the minority</charseq>
+      </extent>
+      <head>
+        <charseq START="1479" END="1486">minority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-27" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1491" END="1509">their own continent</charseq>
+      </extent>
+      <head>
+        <charseq START="1501" END="1509">continent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="1538" END="1550">Great Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1538" END="1550">Great Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-28-1" ROLE="GPE">
+      <extent>
+        <charseq START="1618" END="1630">Great Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1630">Great Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-28-2" ROLE="GPE">
+      <extent>
+        <charseq START="1736" END="1748">Great Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1736" END="1748">Great Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Great Britain">
+        <charseq START="1538" END="1550">Great Britain</charseq>
+      </name>
+      <name NAME="Great Britain">
+        <charseq START="1618" END="1630">Great Britain</charseq>
+      </name>
+      <name NAME="Great Britain">
+        <charseq START="1736" END="1748">Great Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1564" END="1581">The only country..</charseq>
+      </extent>
+      <head>
+        <charseq START="1573" END="1581">country..</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-30" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_CF_20030305.1900.06-2-30-0">
+      <extent>
+        <charseq START="1680" END="1683">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="1680" END="1683">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.N.">
+        <charseq START="1680" END="1683">U.N.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_CF_20030305.1900.06-2-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_CF_20030305.1900.06-2-31-0">
+      <extent>
+        <charseq START="1695" END="1700">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1695" END="1700">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_CF_20030305.1900.06-2-T0" VAL="2003-03-05T19:00:00">
+    <timex2_mention ID="CNN_CF_20030305.1900.06-2-T0-1">
+      <extent>
+        <charseq START="38" END="56">2003-03-05T19:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_CF_20030305.1900.06-2-T1" VAL="2003-03-05">
+    <timex2_mention ID="CNN_CF_20030305.1900.06-2-T1-1">
+      <extent>
+        <charseq START="1132" END="1136">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_CF_20030305.1900.06-2-T2" VAL="2003-03-06">
+    <timex2_mention ID="CNN_CF_20030305.1900.06-2-T2-1">
+      <extent>
+        <charseq START="1888" END="1895">tomorrow</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_CF_20030305.1900.06-2-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-2" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-3" ROLE="Arg-2" />
+      <relation_mention ID="CNN_CF_20030305.1900.06-2-R1-1">
+      <extent>
+        <charseq START="257" END="278">Minneapolis, Minnesota</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="257" END="267">Minneapolis</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="270" END="278">Minnesota</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_CF_20030305.1900.06-2-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-6" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-5" ROLE="Arg-2" />
+      <relation_mention ID="CNN_CF_20030305.1900.06-2-R2-1">
+      <extent>
+        <charseq START="379" END="408">other Middle Eastern countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="385" END="398">Middle Eastern</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="379" END="408">other Middle Eastern countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_CF_20030305.1900.06-2-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-19" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-20" ROLE="Arg-2" />
+      <relation_mention ID="CNN_CF_20030305.1900.06-2-R3-1">
+      <extent>
+        <charseq START="1091" END="1103">Bonn, Germany</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1091" END="1094">Bonn</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1097" END="1103">Germany</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_CF_20030305.1900.06-2-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-25" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-24" ROLE="Arg-2" />
+      <relation_mention ID="CNN_CF_20030305.1900.06-2-R4-1">
+      <extent>
+        <charseq START="1347" END="1367">18 European countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1350" END="1357">European</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1347" END="1367">18 European countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="CNN_CF_20030305.1900.06-2-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-20" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_CF_20030305.1900.06-2-27" ROLE="Arg-2" />
+      <relation_mention ID="CNN_CF_20030305.1900.06-2-R5-1">
+      <extent>
+        <charseq START="1491" END="1509">their own continent</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-20-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1491" END="1495">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_CF_20030305.1900.06-2-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1491" END="1509">their own continent</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

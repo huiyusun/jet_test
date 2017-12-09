@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20090818.0120.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20090818.0120">
+  <entity ID="XIN_ENG_20090818.0120-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="107" END="128">The British government</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="128">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="111" END="117">British</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="117">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-2-1" ROLE="LOC">
+      <extent>
+        <charseq START="352" END="361">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="361">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="903" END="908">people</charseq>
+      </extent>
+      <head>
+        <charseq START="903" END="908">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1645" END="1662">the United Kingdom</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1662">United Kingdom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1953" END="1974">the British government</charseq>
+      </extent>
+      <head>
+        <charseq START="1965" END="1974">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1957" END="1963">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1957" END="1963">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="2186" END="2204">the U.K. government</charseq>
+      </extent>
+      <head>
+        <charseq START="2195" END="2204">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="2190" END="2193">U.K.</charseq>
+      </extent>
+      <head>
+        <charseq START="2190" END="2193">U.K.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="111" END="117">British</charseq>
+      </name>
+      <name NAME="United Kingdom">
+        <charseq START="1649" END="1662">United Kingdom</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1957" END="1963">British</charseq>
+      </name>
+      <name NAME="U.K.">
+        <charseq START="2190" END="2193">U.K.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-3-0">
+      <extent>
+        <charseq START="170" END="180">aid workers</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="180">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="185" END="192">Mindanao</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="192">Mindanao</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="627" END="634">Mindanao</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="634">Mindanao</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="639" END="647">&quot;Mindanao</charseq>
+      </extent>
+      <head>
+        <charseq START="640" END="647">Mindanao</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="657" END="671">a priority area</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="671">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="709" END="711">its</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="711">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="2353" END="2360">Mindanao</charseq>
+      </extent>
+      <head>
+        <charseq START="2353" END="2360">Mindanao</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mindanao">
+        <charseq START="185" END="192">Mindanao</charseq>
+      </name>
+      <name NAME="Mindanao">
+        <charseq START="627" END="634">Mindanao</charseq>
+      </name>
+      <name NAME="Mindanao">
+        <charseq START="640" END="647">Mindanao</charseq>
+      </name>
+      <name NAME="Mindanao">
+        <charseq START="2353" END="2360">Mindanao</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-5-0" ROLE="LOC">
+      <extent>
+        <charseq START="211" END="223">the provinces</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="223">provinces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-6-0" ROLE="LOC">
+      <extent>
+        <charseq START="228" END="236">Zamboanga</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="236">Zamboanga</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zamboanga">
+        <charseq START="228" END="236">Zamboanga</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-7-0" ROLE="LOC">
+      <extent>
+        <charseq START="239" END="242">Sulu</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="242">Sulu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sulu">
+        <charseq START="239" END="242">Sulu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-8-0">
+      <extent>
+        <charseq START="366" END="390">these conflict-torn areas</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="390">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-8-1">
+      <extent>
+        <charseq START="272" END="284">an atmosphere</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="284">atmosphere</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-8-2">
+      <extent>
+        <charseq START="913" END="917">areas</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="917">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-8-3">
+      <extent>
+        <charseq START="937" END="941">their</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="941">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-8-4">
+      <extent>
+        <charseq START="2037" END="2041">areas</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2041">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-9-0">
+      <extent>
+        <charseq START="432" END="442">the embassy</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="442">embassy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-10-0">
+      <extent>
+        <charseq START="456" END="467">Chris Wright</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="467">Chris Wright</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-10-1">
+      <extent>
+        <charseq START="470" END="473">head</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="473">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-10-2">
+      <extent>
+        <charseq START="1046" END="1051">Wright</charseq>
+      </extent>
+      <head>
+        <charseq START="1046" END="1051">Wright</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-10-3">
+      <extent>
+        <charseq START="2364" END="2369">Wright</charseq>
+      </extent>
+      <head>
+        <charseq START="2364" END="2369">Wright</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chris Wright">
+        <charseq START="456" END="467">Chris Wright</charseq>
+      </name>
+      <name NAME="Wright">
+        <charseq START="1046" END="1051">Wright</charseq>
+      </name>
+      <name NAME="Wright">
+        <charseq START="2364" END="2369">Wright</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-11" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-11-0">
+      <extent>
+        <charseq START="499" END="517">the British Embassy</charseq>
+      </extent>
+      <head>
+        <charseq START="503" END="517">British Embassy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Embassy">
+        <charseq START="503" END="517">British Embassy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-12-0">
+      <extent>
+        <charseq START="543" END="553">aid workers</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="553">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-13-0">
+      <extent>
+        <charseq START="607" END="622">lawless elements</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="622">elements</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-14-0">
+      <extent>
+        <charseq START="762" END="765">Most</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="765">Most</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-15-0">
+      <extent>
+        <charseq START="770" END="780">the workers</charseq>
+      </extent>
+      <head>
+        <charseq START="774" END="780">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-1">
+      <extent>
+        <charseq START="980" END="983">they</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="983">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-2">
+      <extent>
+        <charseq START="1002" END="1005">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1005">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-3">
+      <extent>
+        <charseq START="1012" END="1016">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1016">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-15-4">
+      <extent>
+        <charseq START="1090" END="1128">Abu Sayyaf gunmen snatched ICRC workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1128">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-15-5">
+      <extent>
+        <charseq START="1672" END="1715">this week Philippine and foreign aid
+workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1709" END="1715">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-15-6">
+      <extent>
+        <charseq START="1883" END="1901">development workers</charseq>
+      </extent>
+      <head>
+        <charseq START="1895" END="1901">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-7">
+      <extent>
+        <charseq START="1914" END="1923">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="1914" END="1923">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-15-8">
+      <extent>
+        <charseq START="2266" END="2276">aid workers</charseq>
+      </extent>
+      <head>
+        <charseq START="2270" END="2276">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-9">
+      <extent>
+        <charseq START="2283" END="2292">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="2283" END="2292">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-15-10">
+      <extent>
+        <charseq START="2305" END="2308">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2305" END="2308">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-16-0">
+      <extent>
+        <charseq START="880" END="893">their families</charseq>
+      </extent>
+      <head>
+        <charseq START="886" END="893">families</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-17-0">
+      <extent>
+        <charseq START="1090" END="1099">Abu Sayyaf</charseq>
+      </extent>
+      <head>
+        <charseq START="1090" END="1099">Abu Sayyaf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-17-1">
+      <extent>
+        <charseq START="1328" END="1341">The Abu Sayyaf</charseq>
+      </extent>
+      <head>
+        <charseq START="1332" END="1341">Abu Sayyaf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-17-2">
+      <extent>
+        <charseq START="2141" END="2161">the same organization</charseq>
+      </extent>
+      <head>
+        <charseq START="2150" END="2161">organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abu Sayyaf">
+        <charseq START="1090" END="1099">Abu Sayyaf</charseq>
+      </name>
+      <name NAME="Abu Sayyaf">
+        <charseq START="1332" END="1341">Abu Sayyaf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-18-0">
+      <extent>
+        <charseq START="1117" END="1120">ICRC</charseq>
+      </extent>
+      <head>
+        <charseq START="1117" END="1120">ICRC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ICRC">
+        <charseq START="1117" END="1120">ICRC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-19-0">
+      <extent>
+        <charseq START="1130" END="1142">Eugenio Vagni</charseq>
+      </extent>
+      <head>
+        <charseq START="1130" END="1142">Eugenio Vagni</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eugenio Vagni">
+        <charseq START="1130" END="1142">Eugenio Vagni</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1147" END="1151">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="1147" END="1151">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1420" END="1438">the U.S. government</charseq>
+      </extent>
+      <head>
+        <charseq START="1429" END="1438">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="1546" END="1556">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1550" END="1556">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italy">
+        <charseq START="1147" END="1151">Italy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-21-0">
+      <extent>
+        <charseq START="1154" END="1167">Andreas Notter</charseq>
+      </extent>
+      <head>
+        <charseq START="1154" END="1167">Andreas Notter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Andreas Notter">
+        <charseq START="1154" END="1167">Andreas Notter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1172" END="1182">Switzerland</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1182">Switzerland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Switzerland">
+        <charseq START="1172" END="1182">Switzerland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-23-0">
+      <extent>
+        <charseq START="1188" END="1212">Filipina Mary Jean Lacaba</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1212">Filipina Mary Jean Lacaba</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Filipina Mary Jean Lacaba">
+        <charseq START="1188" END="1212">Filipina Mary Jean Lacaba</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1264" END="1267">Jolo</charseq>
+      </extent>
+      <head>
+        <charseq START="1264" END="1267">Jolo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jolo">
+        <charseq START="1264" END="1267">Jolo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-25-0">
+      <extent>
+        <charseq START="1381" END="1411">the Al- Qaeda terrorist
+network</charseq>
+      </extent>
+      <head>
+        <charseq START="1405" END="1411">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-26" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-26-0">
+      <extent>
+        <charseq START="1385" END="1393">Al- Qaeda</charseq>
+      </extent>
+      <head>
+        <charseq START="1385" END="1393">Al- Qaeda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Al- Qaeda">
+        <charseq START="1385" END="1393">Al- Qaeda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1424" END="1427">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1427">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="1424" END="1427">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-28-0">
+      <extent>
+        <charseq START="1479" END="1487">The
+group</charseq>
+      </extent>
+      <head>
+        <charseq START="1483" END="1487">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-29-0">
+      <extent>
+        <charseq START="1579" END="1599">kidnapping foreigners</charseq>
+      </extent>
+      <head>
+        <charseq START="1590" END="1599">foreigners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-30-0">
+      <extent>
+        <charseq START="1632" END="1638">Experts</charseq>
+      </extent>
+      <head>
+        <charseq START="1632" END="1638">Experts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1682" END="1691">Philippine</charseq>
+      </extent>
+      <head>
+        <charseq START="1682" END="1691">Philippine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-31-1" ROLE="GPE">
+      <extent>
+        <charseq START="1772" END="1786">the Philippines</charseq>
+      </extent>
+      <head>
+        <charseq START="1776" END="1786">Philippines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philippine">
+        <charseq START="1682" END="1691">Philippine</charseq>
+      </name>
+      <name NAME="Philippines">
+        <charseq START="1776" END="1786">Philippines</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-32-0">
+      <extent>
+        <charseq START="1789" END="1799">John Walker</charseq>
+      </extent>
+      <head>
+        <charseq START="1789" END="1799">John Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-32-1">
+      <extent>
+        <charseq START="1802" END="1804">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1802" END="1804">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Walker">
+        <charseq START="1789" END="1799">John Walker</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-33-0">
+      <extent>
+        <charseq START="1809" END="1820">the trainers</charseq>
+      </extent>
+      <head>
+        <charseq START="1813" END="1820">trainers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20090818.0120-33-1">
+      <extent>
+        <charseq START="2013" END="2017">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2013" END="2017">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-34-0">
+      <extent>
+        <charseq START="1851" END="1873">susceptible
+individuals</charseq>
+      </extent>
+      <head>
+        <charseq START="1863" END="1873">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="2168" END="2181">trains members</charseq>
+      </extent>
+      <head>
+        <charseq START="2175" END="2181">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="2224" END="2227">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2224" END="2227">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="2224" END="2227">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-37-0" ROLE="GPE">
+      <extent>
+        <charseq START="2233" END="2243">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="2233" END="2243">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-37-1" ROLE="GPE">
+      <extent>
+        <charseq START="2339" END="2348">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="2343" END="2348">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Afghanistan">
+        <charseq START="2233" END="2243">Afghanistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20090818.0120-38-0" ROLE="GPE">
+      <extent>
+        <charseq START="2387" END="2400">Zamboanga City</charseq>
+      </extent>
+      <head>
+        <charseq START="2387" END="2400">Zamboanga City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zamboanga City">
+        <charseq START="2387" END="2400">Zamboanga City</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-39-0">
+      <extent>
+        <charseq START="2472" END="2493">different institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="2482" END="2493">institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-40-0">
+      <extent>
+        <charseq START="2499" END="2517">government agencies</charseq>
+      </extent>
+      <head>
+        <charseq START="2510" END="2517">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20090818.0120-41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20090818.0120-41-0">
+      <extent>
+        <charseq START="2659" END="2664">others</charseq>
+      </extent>
+      <head>
+        <charseq START="2659" END="2664">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20090818.0120-T0" VAL="2009-08-18">
+    <timex2_mention ID="XIN_ENG_20090818.0120-T0-1">
+      <extent>
+        <charseq START="135" END="141">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20090818.0120-T1" VAL="2009-08-18">
+    <timex2_mention ID="XIN_ENG_20090818.0120-T1-1">
+      <extent>
+        <charseq START="447" END="453">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20090818.0120-T2" VAL="2009-W34">
+    <timex2_mention ID="XIN_ENG_20090818.0120-T2-1">
+      <extent>
+        <charseq START="1672" END="1680">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20090818.0120-R1" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20090818.0120-13" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20090818.0120-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20090818.0120-R1-1">
+      <extent>
+        <charseq START="607" END="634">lawless elements in
+Mindanao</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="607" END="622">lawless elements</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="627" END="634">Mindanao</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20090818.0120-R2" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20090818.0120-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20090818.0120-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20090818.0120-R2-1">
+      <extent>
+        <charseq START="1130" END="1151">Eugenio Vagni of Italy</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1130" END="1142">Eugenio Vagni</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1147" END="1151">Italy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20090818.0120-R3" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20090818.0120-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20090818.0120-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20090818.0120-R3-1">
+      <extent>
+        <charseq START="1154" END="1182">Andreas Notter of Switzerland</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1154" END="1167">Andreas Notter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1172" END="1182">Switzerland</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20090818.0120-R4" TYPE="RESIDE">
+    <relation_argument REFID="XIN_ENG_20090818.0120-30" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20090818.0120-2" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20090818.0120-R4-1">
+      <extent>
+        <charseq START="1632" END="1662">Experts from the United Kingdom</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1632" END="1638">Experts</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20090818.0120-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1645" END="1662">the United Kingdom</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

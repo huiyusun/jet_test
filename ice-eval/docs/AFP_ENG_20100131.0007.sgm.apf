@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20100131.0007.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20100131.0007">
+  <entity ID="AFP_ENG_20100131.0007-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="115" END="116">US</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="116">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="932" END="937">The US</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="937">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1099" END="1100">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1099" END="1100">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="115" END="116">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="936" END="937">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1099" END="1100">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-2-0">
+      <extent>
+        <charseq START="148" END="165">nine other members</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="165">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="185" END="189">Haiti</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="189">Haiti</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="239" END="249">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="249">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="613" END="619">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="613" END="619">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1010" END="1016">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="1010" END="1016">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1367" END="1373">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="1367" END="1373">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="1412" END="1418">Haitian</charseq>
+      </extent>
+      <head>
+        <charseq START="1412" END="1418">Haitian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-3-6" ROLE="GPE">
+      <extent>
+        <charseq START="1511" END="1515">Haiti</charseq>
+      </extent>
+      <head>
+        <charseq START="1511" END="1515">Haiti</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-3-7" ROLE="GPE">
+      <extent>
+        <charseq START="1559" END="1569">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1563" END="1569">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-3-8" ROLE="GPE">
+      <extent>
+        <charseq START="1715" END="1725">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1719" END="1725">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Haiti">
+        <charseq START="185" END="189">Haiti</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="613" END="619">Haitian</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="1010" END="1016">Haitian</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="1367" END="1373">Haitian</charseq>
+      </name>
+      <name NAME="Haitian">
+        <charseq START="1412" END="1418">Haitian</charseq>
+      </name>
+      <name NAME="Haiti">
+        <charseq START="1511" END="1515">Haiti</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-4-0">
+      <extent>
+        <charseq START="220" END="230">33 children</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="230">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-5-0">
+      <extent>
+        <charseq START="269" END="277">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="277">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-5-1">
+      <extent>
+        <charseq START="957" END="965">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="961" END="965">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-5-2">
+      <extent>
+        <charseq START="1326" END="1334">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1334">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-6-0">
+      <extent>
+        <charseq START="351" END="362">the children</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="362">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-6-1">
+      <extent>
+        <charseq START="634" END="645">the children</charseq>
+      </extent>
+      <head>
+        <charseq START="638" END="645">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-6-2">
+      <extent>
+        <charseq START="789" END="796">children</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="796">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-6-3">
+      <extent>
+        <charseq START="831" END="834">them</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="834">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-7-0">
+      <extent>
+        <charseq START="392" END="403">Laura Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="403">Laura Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-7-1">
+      <extent>
+        <charseq START="406" END="409">head</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="409">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-7-2">
+      <extent>
+        <charseq START="559" END="561">she</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="561">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-7-3">
+      <extent>
+        <charseq START="571" END="573">her</charseq>
+      </extent>
+      <head>
+        <charseq START="571" END="573">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-7-4">
+      <extent>
+        <charseq START="838" END="843">Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="838" END="843">Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-7-5">
+      <extent>
+        <charseq START="1233" END="1238">Silsby</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1238">Silsby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Laura Silsby">
+        <charseq START="392" END="403">Laura Silsby</charseq>
+      </name>
+      <name NAME="Silsby">
+        <charseq START="838" END="843">Silsby</charseq>
+      </name>
+      <name NAME="Silsby">
+        <charseq START="1233" END="1238">Silsby</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="417" END="421">Idaho</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="421">Idaho</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Idaho">
+        <charseq START="417" END="421">Idaho</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-9-0">
+      <extent>
+        <charseq START="444" END="469">New Life Children&apos;s Refuge</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="469">New Life Children&apos;s Refuge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New Life Children&apos;s Refuge">
+        <charseq START="444" END="469">New Life Children&apos;s Refuge</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-10-0">
+      <extent>
+        <charseq START="477" END="479">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="479">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="477" END="479">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-11-0">
+      <extent>
+        <charseq START="518" END="524">parents</charseq>
+      </extent>
+      <head>
+        <charseq START="518" END="524">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-12-0">
+      <extent>
+        <charseq START="593" END="604">The director</charseq>
+      </extent>
+      <head>
+        <charseq START="597" END="604">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-13-0">
+      <extent>
+        <charseq START="609" END="626">the Haitian center</charseq>
+      </extent>
+      <head>
+        <charseq START="621" END="626">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-14-0">
+      <extent>
+        <charseq START="702" END="705">most</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="705">most</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-15-0">
+      <extent>
+        <charseq START="710" END="723">the youngsters</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="723">youngsters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-15-1">
+      <extent>
+        <charseq START="732" END="736">their</charseq>
+      </extent>
+      <head>
+        <charseq START="732" END="736">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-16-0">
+      <extent>
+        <charseq START="732" END="744">their parents</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="744">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-17-0">
+      <extent>
+        <charseq START="855" END="883">the police detention facility</charseq>
+      </extent>
+      <head>
+        <charseq START="876" END="883">facility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="890" END="905">Port-au-Prince&apos;s</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="905">Port-au-Prince&apos;s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Port-au-Prince&apos;s">
+        <charseq START="890" END="905">Port-au-Prince&apos;s</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-19" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-19-0">
+      <extent>
+        <charseq START="890" END="927">Port-au-Prince&apos;s international
+airport</charseq>
+      </extent>
+      <head>
+        <charseq START="921" END="927">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-20-0">
+      <extent>
+        <charseq START="1050" END="1055">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="1050" END="1055">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-21-0">
+      <extent>
+        <charseq START="1066" END="1077">the five men</charseq>
+      </extent>
+      <head>
+        <charseq START="1075" END="1077">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-22-0">
+      <extent>
+        <charseq START="1083" END="1092">five women</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1092">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-23-0">
+      <extent>
+        <charseq START="1128" END="1135">Haitians</charseq>
+      </extent>
+      <head>
+        <charseq START="1128" END="1135">Haitians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-23-1">
+      <extent>
+        <charseq START="1141" END="1144">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1144">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20100131.0007-23-2">
+      <extent>
+        <charseq START="1305" END="1307">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1305" END="1307">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Haitians">
+        <charseq START="1128" END="1135">Haitians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20100131.0007-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1182" END="1199">Dominican Republic</charseq>
+      </extent>
+      <head>
+        <charseq START="1182" END="1199">Dominican Republic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dominican Republic">
+        <charseq START="1182" END="1199">Dominican Republic</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-25-0">
+      <extent>
+        <charseq START="1206" END="1216">33
+children</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1216">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-25-1">
+      <extent>
+        <charseq START="1576" END="1583">children</charseq>
+      </extent>
+      <head>
+        <charseq START="1576" END="1583">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-26-0">
+      <extent>
+        <charseq START="1412" END="1428">Haitian officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1420" END="1428">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-27-0">
+      <extent>
+        <charseq START="1453" END="1469">child traffickers</charseq>
+      </extent>
+      <head>
+        <charseq START="1459" END="1469">traffickers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-28-0">
+      <extent>
+        <charseq START="1643" END="1670">legitimate adoption agencies</charseq>
+      </extent>
+      <head>
+        <charseq START="1663" END="1670">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20100131.0007-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20100131.0007-29-0">
+      <extent>
+        <charseq START="1779" END="1791">their parents</charseq>
+      </extent>
+      <head>
+        <charseq START="1785" END="1791">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20100131.0007-T0" VAL="2010-01-31">
+    <timex2_mention ID="AFP_ENG_20100131.0007-T0-1">
+      <extent>
+        <charseq START="257" END="262">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20100131.0007-T1" VAL="2010-01-31">
+    <timex2_mention ID="AFP_ENG_20100131.0007-T1-1">
+      <extent>
+        <charseq START="680" END="685">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20100131.0007-T2" VAL="2010-01-29">
+    <timex2_mention ID="AFP_ENG_20100131.0007-T2-1">
+      <extent>
+        <charseq START="1223" END="1228">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20100131.0007-T3" VAL="PXD">
+    <timex2_mention ID="AFP_ENG_20100131.0007-T3-1">
+      <extent>
+        <charseq START="1397" END="1407">coming days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20100131.0007-T4" VAL="2010-01-12">
+    <timex2_mention ID="AFP_ENG_20100131.0007-T4-1">
+      <extent>
+        <charseq START="1527" END="1536">January 12</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20100131.0007-R1" TYPE="RESIDE">
+    <relation_argument REFID="AFP_ENG_20100131.0007-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20100131.0007-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20100131.0007-R1-1">
+      <extent>
+        <charseq START="406" END="421">head of an Idaho</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20100131.0007-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="406" END="409">head</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20100131.0007-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="417" END="421">Idaho</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

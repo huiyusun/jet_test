@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKETVIEW_20050212.1607.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKETVIEW_20050212.1607">
+  <entity ID="MARKETVIEW_20050212.1607-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-1-0">
+      <extent>
+        <charseq START="123" END="127">Byrne</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="127">Byrne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrne">
+        <charseq START="123" END="127">Byrne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050212.1607-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-2-0">
+      <extent>
+        <charseq START="187" END="201">the Blockbuster</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="201">Blockbuster</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-2-1">
+      <extent>
+        <charseq START="358" END="368">Blockbuster</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="368">Blockbuster</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-2-2">
+      <extent>
+        <charseq START="530" END="540">Blockbuster</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="540">Blockbuster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Blockbuster">
+        <charseq START="191" END="201">Blockbuster</charseq>
+      </name>
+      <name NAME="Blockbuster">
+        <charseq START="358" END="368">Blockbuster</charseq>
+      </name>
+      <name NAME="Blockbuster">
+        <charseq START="530" END="540">Blockbuster</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050212.1607-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="205" END="213">Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="213">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="399" END="407">Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="407">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="485" END="493">Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="493">Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hollywood">
+        <charseq START="205" END="213">Hollywood</charseq>
+      </name>
+      <name NAME="Hollywood">
+        <charseq START="399" END="407">Hollywood</charseq>
+      </name>
+      <name NAME="Hollywood">
+        <charseq START="485" END="493">Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050212.1607-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050212.1607-4-0">
+      <extent>
+        <charseq START="278" END="280">one</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="280">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-4-1">
+      <extent>
+        <charseq START="310" END="322">Movie Gallery</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="322">Movie Gallery</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-4-2">
+      <extent>
+        <charseq START="448" END="460">Movie Gallery</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="460">Movie Gallery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Movie Gallery">
+        <charseq START="310" END="322">Movie Gallery</charseq>
+      </name>
+      <name NAME="Movie Gallery">
+        <charseq START="448" END="460">Movie Gallery</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050212.1607-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050212.1607-5-0">
+      <extent>
+        <charseq START="293" END="307">&apos;s participants</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="307">participants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050212.1607-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050212.1607-6-0">
+      <extent>
+        <charseq START="613" END="621">Allegheny</charseq>
+      </extent>
+      <head>
+        <charseq START="613" END="621">Allegheny</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Allegheny">
+        <charseq START="613" END="621">Allegheny</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="MARKETVIEW_20050212.1607-T0" VAL="2005-02-12T16:07:00">
+    <timex2_mention ID="MARKETVIEW_20050212.1607-T0-1">
+      <extent>
+        <charseq START="40" END="58">2005-02-12T16:07:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20050212.1607-T1" VAL="2005-02-12T16:07:00">
+    <timex2_mention ID="MARKETVIEW_20050212.1607-T1-1">
+      <extent>
+        <charseq START="131" END="149">2005-02-12T16:07:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

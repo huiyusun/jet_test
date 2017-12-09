@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_IP_20030405.1600.00-3.sgm" SOURCE="broadcast conversation" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_IP_20030405.1600.00-3">
+  <entity ID="CNN_IP_20030405.1600.00-3-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-1-0">
+      <extent>
+        <charseq START="120" END="133">JULIET BREMNER</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="133">JULIET BREMNER</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-1-1">
+      <extent>
+        <charseq START="1026" END="1032">BREMNER</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1032">BREMNER</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-1-2">
+      <extent>
+        <charseq START="1404" END="1410">BREMNER</charseq>
+      </extent>
+      <head>
+        <charseq START="1404" END="1410">BREMNER</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-1-3">
+      <extent>
+        <charseq START="1986" END="1992">BREMNER</charseq>
+      </extent>
+      <head>
+        <charseq START="1986" END="1992">BREMNER</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-1-4">
+      <extent>
+        <charseq START="2236" END="2249">Juliet Bremner</charseq>
+      </extent>
+      <head>
+        <charseq START="2236" END="2249">Juliet Bremner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="JULIET BREMNER">
+        <charseq START="120" END="133">JULIET BREMNER</charseq>
+      </name>
+      <name NAME="BREMNER">
+        <charseq START="1026" END="1032">BREMNER</charseq>
+      </name>
+      <name NAME="BREMNER">
+        <charseq START="1404" END="1410">BREMNER</charseq>
+      </name>
+      <name NAME="BREMNER">
+        <charseq START="1986" END="1992">BREMNER</charseq>
+      </name>
+      <name NAME="Juliet Bremner">
+        <charseq START="2236" END="2249">Juliet Bremner</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-2-0">
+      <extent>
+        <charseq START="136" END="143">ITV NEWS</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="143">ITV NEWS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ITV NEWS">
+        <charseq START="136" END="143">ITV NEWS</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="174" END="177">city</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="177">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="188" END="192">Basra</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="192">Basra</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="823" END="827">Basra</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="827">Basra</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="834" END="837">they</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="837">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="852" END="855">them</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="855">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="863" END="866">they</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="866">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="901" END="902">it</charseq>
+      </extent>
+      <head>
+        <charseq START="901" END="902">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-4-6" ROLE="GPE">
+      <extent>
+        <charseq START="2254" END="2258">Basra</charseq>
+      </extent>
+      <head>
+        <charseq START="2254" END="2258">Basra</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Basra">
+        <charseq START="188" END="192">Basra</charseq>
+      </name>
+      <name NAME="Basra">
+        <charseq START="823" END="827">Basra</charseq>
+      </name>
+      <name NAME="Basra">
+        <charseq START="2254" END="2258">Basra</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-5-0">
+      <extent>
+        <charseq START="195" END="208">Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="208">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-5-1">
+      <extent>
+        <charseq START="214" END="216">his</charseq>
+      </extent>
+      <head>
+        <charseq START="214" END="216">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-5-2">
+      <extent>
+        <charseq START="441" END="446">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="446">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-5-3">
+      <extent>
+        <charseq START="452" END="454">his</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="454">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="195" END="208">Saddam Hussein</charseq>
+      </name>
+      <name NAME="Saddam">
+        <charseq START="441" END="446">Saddam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-6-0">
+      <extent>
+        <charseq START="214" END="225">his henchmen</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="225">henchmen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-7-0">
+      <extent>
+        <charseq START="250" END="267">this southern port</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="267">port</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="274" END="284">the British</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="284">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="278" END="284">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-9-0">
+      <extent>
+        <charseq START="328" END="335">Soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="335">Soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-9-1">
+      <extent>
+        <charseq START="405" END="408">they</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="408">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-10-0">
+      <extent>
+        <charseq START="359" END="368">the regime</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="368">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-10-1">
+      <extent>
+        <charseq START="378" END="379">it</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="379">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-10-2">
+      <extent>
+        <charseq START="2448" END="2463">the Iraqi regime</charseq>
+      </extent>
+      <head>
+        <charseq START="2458" END="2463">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="416" END="419">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="416" END="419">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="422" END="425">they</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="425">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-11-2" ROLE="GPE">
+      <extent>
+        <charseq START="1462" END="1466">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1466">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-11-3" ROLE="GPE">
+      <extent>
+        <charseq START="2364" END="2376">southern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2373" END="2376">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-11-4" ROLE="GPE">
+      <extent>
+        <charseq START="2452" END="2456">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="2452" END="2456">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="416" END="419">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1462" END="1466">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2373" END="2376">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="2452" END="2456">Iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-12-0">
+      <extent>
+        <charseq START="452" END="467">his Ba&apos;ath Party</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="467">Ba&apos;ath Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-12-1">
+      <extent>
+        <charseq START="1079" END="1090">Ba&apos;ath Party</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1090">Ba&apos;ath Party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-12-2">
+      <extent>
+        <charseq START="1413" END="1421">The party</charseq>
+      </extent>
+      <head>
+        <charseq START="1417" END="1421">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ba&apos;ath Party">
+        <charseq START="456" END="467">Ba&apos;ath Party</charseq>
+      </name>
+      <name NAME="Ba&apos;ath Party">
+        <charseq START="1079" END="1090">Ba&apos;ath Party</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-13-0">
+      <extent>
+        <charseq START="554" END="568">the Desert Rats</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="568">Desert Rats</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Desert Rats">
+        <charseq START="558" END="568">Desert Rats</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-14-0">
+      <extent>
+        <charseq START="597" END="607">Checkpoints</charseq>
+      </extent>
+      <head>
+        <charseq START="597" END="607">Checkpoints</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-15-0">
+      <extent>
+        <charseq START="629" END="633">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="633">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqi">
+        <charseq START="629" END="633">Iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-16" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-16-0">
+      <extent>
+        <charseq START="701" END="711">the mortars</charseq>
+      </extent>
+      <head>
+        <charseq START="705" END="711">mortars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-17" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-17-0">
+      <extent>
+        <charseq START="717" END="723">rockets</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="723">rockets</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_IP_20030405.1600.00-3-17-1">
+      <extent>
+        <charseq START="754" END="757">they</charseq>
+      </extent>
+      <head>
+        <charseq START="754" END="757">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-18-0">
+      <extent>
+        <charseq START="728" END="747">the
+Fedayeen militia</charseq>
+      </extent>
+      <head>
+        <charseq START="741" END="747">militia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-18-1">
+      <extent>
+        <charseq START="1106" END="1121">Fedayeen militia</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1121">militia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-19-0">
+      <extent>
+        <charseq START="732" END="739">Fedayeen</charseq>
+      </extent>
+      <head>
+        <charseq START="732" END="739">Fedayeen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-19-1">
+      <extent>
+        <charseq START="1106" END="1113">Fedayeen</charseq>
+      </extent>
+      <head>
+        <charseq START="1106" END="1113">Fedayeen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fedayeen">
+        <charseq START="732" END="739">Fedayeen</charseq>
+      </name>
+      <name NAME="Fedayeen">
+        <charseq START="1106" END="1113">Fedayeen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-20-0">
+      <extent>
+        <charseq START="809" END="818">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="813" END="818">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="959" END="978">a dubious population</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="978">population</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-22-0">
+      <extent>
+        <charseq START="984" END="1000">UNIDENTIFIED MALE</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="1000">UNIDENTIFIED MALE</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-22-1">
+      <extent>
+        <charseq START="1356" END="1372">UNIDENTIFIED MALE</charseq>
+      </extent>
+      <head>
+        <charseq START="1356" END="1372">UNIDENTIFIED MALE</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-22-2">
+      <extent>
+        <charseq START="1727" END="1743">UNIDENTIFIED MALE</charseq>
+      </extent>
+      <head>
+        <charseq START="1727" END="1743">UNIDENTIFIED MALE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UNIDENTIFIED MALE">
+        <charseq START="984" END="1000">UNIDENTIFIED MALE</charseq>
+      </name>
+      <name NAME="UNIDENTIFIED MALE">
+        <charseq START="1356" END="1372">UNIDENTIFIED MALE</charseq>
+      </name>
+      <name NAME="UNIDENTIFIED MALE">
+        <charseq START="1727" END="1743">UNIDENTIFIED MALE</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-23-0">
+      <extent>
+        <charseq START="1066" END="1074">the homes</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1074">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-24-0">
+      <extent>
+        <charseq START="1079" END="1100">Ba&apos;ath Party officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1092" END="1100">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-25-0">
+      <extent>
+        <charseq START="1134" END="1136">men</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1136">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-26-0">
+      <extent>
+        <charseq START="1153" END="1158">locals</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1158">locals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-27-0">
+      <extent>
+        <charseq START="1176" END="1179">army</charseq>
+      </extent>
+      <head>
+        <charseq START="1176" END="1179">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="1480" END="1500">two
+small communities</charseq>
+      </extent>
+      <head>
+        <charseq START="1490" END="1500">communities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-29-0">
+      <extent>
+        <charseq START="1516" END="1534">more than 70 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1529" END="1534">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1676" END="1682">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1676" END="1682">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-30-1" ROLE="GPE">
+      <extent>
+        <charseq START="2055" END="2061">British</charseq>
+      </extent>
+      <head>
+        <charseq START="2055" END="2061">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-30-2" ROLE="GPE">
+      <extent>
+        <charseq START="2346" END="2352">British</charseq>
+      </extent>
+      <head>
+        <charseq START="2346" END="2352">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="1676" END="1682">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="2055" END="2061">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="2346" END="2352">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-31-0">
+      <extent>
+        <charseq START="1757" END="1760">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1757" END="1760">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-32-0">
+      <extent>
+        <charseq START="1879" END="1884">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1879" END="1884">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-33-0">
+      <extent>
+        <charseq START="1897" END="1908">their houses</charseq>
+      </extent>
+      <head>
+        <charseq START="1903" END="1908">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-34-0">
+      <extent>
+        <charseq START="1933" END="1944">those people</charseq>
+      </extent>
+      <head>
+        <charseq START="1939" END="1944">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-35-0">
+      <extent>
+        <charseq START="2280" END="2287">WOODRUFF</charseq>
+      </extent>
+      <head>
+        <charseq START="2280" END="2287">WOODRUFF</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="WOODRUFF">
+        <charseq START="2280" END="2287">WOODRUFF</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-36-0">
+      <extent>
+        <charseq START="2335" END="2359">some other British troops</charseq>
+      </extent>
+      <head>
+        <charseq START="2354" END="2359">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_IP_20030405.1600.00-3-37-0">
+      <extent>
+        <charseq START="2412" END="2417">morgue</charseq>
+      </extent>
+      <head>
+        <charseq START="2412" END="2417">morgue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_IP_20030405.1600.00-3-38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_IP_20030405.1600.00-3-38-0" ROLE="GPE">
+      <extent>
+        <charseq START="2514" END="2520">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="2514" END="2520">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baghdad">
+        <charseq START="2514" END="2520">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_IP_20030405.1600.00-3-T0" VAL="2003-04-05T16:00:00">
+    <timex2_mention ID="CNN_IP_20030405.1600.00-3-T0-1">
+      <extent>
+        <charseq START="38" END="56">2003-04-05T16:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_IP_20030405.1600.00-3-T1" VAL="2003-04-05">
+    <timex2_mention ID="CNN_IP_20030405.1600.00-3-T1-1">
+      <extent>
+        <charseq START="2494" END="2498">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

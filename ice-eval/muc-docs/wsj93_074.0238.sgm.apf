@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_074.0238.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_074.0238">
+  <entity ID="wsj93_074.0238-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_074.0238-1-0">
+      <extent>
+        <charseq START="245" END="255">Pricor Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="255">Pricor Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_074.0238-1-1">
+      <extent>
+        <charseq START="283" END="293">the
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="293">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_074.0238-1-2">
+      <extent>
+        <charseq START="349" END="359">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="353" END="359">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pricor Inc.">
+        <charseq START="245" END="255">Pricor Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_074.0238-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_074.0238-2-0">
+      <extent>
+        <charseq START="256" END="263">&apos;s board</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="263">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_074.0238-3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_074.0238-3-0">
+      <extent>
+        <charseq START="305" END="341">Children&apos;s Comprehensive Services Inc</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="341">Children&apos;s Comprehensive Services Inc</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Children&apos;s Comprehensive Services Inc">
+        <charseq START="305" END="341">Children&apos;s Comprehensive Services Inc</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

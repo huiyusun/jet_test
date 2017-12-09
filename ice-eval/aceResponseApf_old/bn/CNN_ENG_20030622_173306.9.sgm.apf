@@ -1,0 +1,756 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030622_173306.9.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030622_173306.9">
+  <entity ID="CNN_ENG_20030622_173306.9-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-1-0">
+      <extent>
+        <charseq START="67" END="74">the nasa</charseq>
+      </extent>
+      <head>
+        <charseq START="71" END="74">nasa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-1-1">
+      <extent>
+        <charseq START="411" END="414">nasa</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="414">nasa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="nasa">
+        <charseq START="71" END="74">nasa</charseq>
+      </name>
+      <name NAME="nasa">
+        <charseq START="411" END="414">nasa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-2-0">
+      <extent>
+        <charseq START="80" END="104">the european space agency</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="104">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="84" END="91">european</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="91">european</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="european">
+        <charseq START="84" END="91">european</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-4" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-0">
+      <extent>
+        <charseq START="130" END="133">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="133">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-1">
+      <extent>
+        <charseq START="229" END="232">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="232">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-2">
+      <extent>
+        <charseq START="609" END="612">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="609" END="612">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-3">
+      <extent>
+        <charseq START="660" END="663">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="663">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030622_173306.9-4-4">
+      <extent>
+        <charseq START="714" END="715">it</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="715">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-5">
+      <extent>
+        <charseq START="981" END="984">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="984">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-6">
+      <extent>
+        <charseq START="1902" END="1905">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="1902" END="1905">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-7">
+      <extent>
+        <charseq START="2132" END="2135">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2132" END="2135">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-8">
+      <extent>
+        <charseq START="2331" END="2334">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2331" END="2334">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-4-9">
+      <extent>
+        <charseq START="2339" END="2352">carbon
+dioxide</charseq>
+      </extent>
+      <head>
+        <charseq START="2346" END="2352">dioxide</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-10">
+      <extent>
+        <charseq START="2863" END="2866">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2863" END="2866">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-11">
+      <extent>
+        <charseq START="2897" END="2900">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2897" END="2900">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-12">
+      <extent>
+        <charseq START="2973" END="2976">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="2973" END="2976">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-4-13">
+      <extent>
+        <charseq START="3278" END="3281">mars</charseq>
+      </extent>
+      <head>
+        <charseq START="3278" END="3281">mars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="mars">
+        <charseq START="130" END="133">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="229" END="232">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="609" END="612">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="660" END="663">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="981" END="984">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="1902" END="1905">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="2132" END="2135">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="2331" END="2334">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="2863" END="2866">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="2897" END="2900">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="2973" END="2976">mars</charseq>
+      </name>
+      <name NAME="mars">
+        <charseq START="3278" END="3281">mars</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-5" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-5-0">
+      <extent>
+        <charseq START="154" END="159">rovers</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="159">rovers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-6-0">
+      <extent>
+        <charseq START="182" END="195">the
+red planet</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="195">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-7-0">
+      <extent>
+        <charseq START="253" END="258">humans</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="258">humans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-8-0">
+      <extent>
+        <charseq START="441" END="463">the contributing editor</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="463">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-9-0">
+      <extent>
+        <charseq START="483" END="486">jeff</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="486">jeff</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-9-1">
+      <extent>
+        <charseq START="3178" END="3191">jeff rothfeder</charseq>
+      </extent>
+      <head>
+        <charseq START="3178" END="3191">jeff rothfeder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jeff">
+        <charseq START="483" END="486">jeff</charseq>
+      </name>
+      <name NAME="jeff rothfeder">
+        <charseq START="3178" END="3191">jeff rothfeder</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-10-0">
+      <extent>
+        <charseq START="551" END="558">the moon</charseq>
+      </extent>
+      <head>
+        <charseq START="555" END="558">moon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-10-1">
+      <extent>
+        <charseq START="1131" END="1138">the moon</charseq>
+      </extent>
+      <head>
+        <charseq START="1135" END="1138">moon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="moon">
+        <charseq START="555" END="558">moon</charseq>
+      </name>
+      <name NAME="moon">
+        <charseq START="1135" END="1138">moon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-11-0">
+      <extent>
+        <charseq START="1003" END="1008">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1008">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-11-1">
+      <extent>
+        <charseq START="3492" END="3497">people</charseq>
+      </extent>
+      <head>
+        <charseq START="3492" END="3497">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-12" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-12-0">
+      <extent>
+        <charseq START="1013" END="1017">earth</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1017">earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-12-1">
+      <extent>
+        <charseq START="1603" END="1607">earth</charseq>
+      </extent>
+      <head>
+        <charseq START="1603" END="1607">earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-12-2">
+      <extent>
+        <charseq START="1869" END="1877">the earth</charseq>
+      </extent>
+      <head>
+        <charseq START="1873" END="1877">earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="earth">
+        <charseq START="1013" END="1017">earth</charseq>
+      </name>
+      <name NAME="earth">
+        <charseq START="1603" END="1607">earth</charseq>
+      </name>
+      <name NAME="earth">
+        <charseq START="1873" END="1877">earth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-13-0">
+      <extent>
+        <charseq START="1205" END="1214">astronauts</charseq>
+      </extent>
+      <head>
+        <charseq START="1205" END="1214">astronauts</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-13-1">
+      <extent>
+        <charseq START="2849" END="2858">astronauts</charseq>
+      </extent>
+      <head>
+        <charseq START="2849" END="2858">astronauts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-14-0">
+      <extent>
+        <charseq START="1323" END="1335">hamper humans</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1335">humans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-14-1">
+      <extent>
+        <charseq START="1484" END="1489">humans</charseq>
+      </extent>
+      <head>
+        <charseq START="1484" END="1489">humans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-14-2">
+      <extent>
+        <charseq START="2754" END="2759">humans</charseq>
+      </extent>
+      <head>
+        <charseq START="2754" END="2759">humans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-15" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-15-0">
+      <extent>
+        <charseq START="1445" END="1454">spacecraft</charseq>
+      </extent>
+      <head>
+        <charseq START="1445" END="1454">spacecraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-16" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-16-0">
+      <extent>
+        <charseq START="1561" END="1574">the spacecraft</charseq>
+      </extent>
+      <head>
+        <charseq START="1565" END="1574">spacecraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-16-1">
+      <extent>
+        <charseq START="1790" END="1803">the spacecraft</charseq>
+      </extent>
+      <head>
+        <charseq START="1794" END="1803">spacecraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-17" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-17-0">
+      <extent>
+        <charseq START="1727" END="1740">a good shuttle</charseq>
+      </extent>
+      <head>
+        <charseq START="1734" END="1740">shuttle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-18-0">
+      <extent>
+        <charseq START="2302" END="2311">the planet</charseq>
+      </extent>
+      <head>
+        <charseq START="2306" END="2311">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-18-1">
+      <extent>
+        <charseq START="2518" END="2527">the
+planet</charseq>
+      </extent>
+      <head>
+        <charseq START="2522" END="2527">planet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030622_173306.9-18-2">
+      <extent>
+        <charseq START="2529" END="2534">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="2529" END="2534">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-19-0">
+      <extent>
+        <charseq START="2916" END="2923">the body</charseq>
+      </extent>
+      <head>
+        <charseq START="2920" END="2923">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-19-1">
+      <extent>
+        <charseq START="2979" END="2986">the body</charseq>
+      </extent>
+      <head>
+        <charseq START="2983" END="2986">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-20-0">
+      <extent>
+        <charseq START="3142" END="3151">old people</charseq>
+      </extent>
+      <head>
+        <charseq START="3146" END="3151">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-21" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-21-0">
+      <extent>
+        <charseq START="3414" END="3420">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="3414" END="3420">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="3425" END="3435">an anniston</charseq>
+      </extent>
+      <head>
+        <charseq START="3428" END="3435">anniston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="anniston">
+        <charseq START="3428" END="3435">anniston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="3438" END="3444">alabama</charseq>
+      </extent>
+      <head>
+        <charseq START="3438" END="3444">alabama</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-23-1" ROLE="GPE">
+      <extent>
+        <charseq START="3447" END="3463">military facility</charseq>
+      </extent>
+      <head>
+        <charseq START="3456" END="3463">facility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="alabama">
+        <charseq START="3438" END="3444">alabama</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="3601" END="3607">america</charseq>
+      </extent>
+      <head>
+        <charseq START="3601" END="3607">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="america">
+        <charseq START="3601" END="3607">america</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030622_173306.9-25-0">
+      <extent>
+        <charseq START="3646" END="3652">&quot;people</charseq>
+      </extent>
+      <head>
+        <charseq START="3647" END="3652">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-25-1">
+      <extent>
+        <charseq START="3677" END="3689">harrison ford</charseq>
+      </extent>
+      <head>
+        <charseq START="3677" END="3689">harrison ford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="harrison ford">
+        <charseq START="3677" END="3689">harrison ford</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-26-0">
+      <extent>
+        <charseq START="3695" END="3706">harry
+potter</charseq>
+      </extent>
+      <head>
+        <charseq START="3695" END="3706">harry
+potter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="harry potter">
+        <charseq START="3695" END="3706">harry
+potter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-27-0">
+      <extent>
+        <charseq START="3726" END="3728">cnn</charseq>
+      </extent>
+      <head>
+        <charseq START="3726" END="3728">cnn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cnn">
+        <charseq START="3726" END="3728">cnn</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030622_173306.9-28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030622_173306.9-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="3747" END="3753">baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="3747" END="3753">baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="baghdad">
+        <charseq START="3747" END="3753">baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030622_173306.9-V9" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="CNN_ENG_20030622_173306.9-V9-1">
+      <extent>
+        <charseq START="2834" END="2834">%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T0" VAL="2003-06-22">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-22</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T1" VAL="2003-06">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T1-1">
+      <extent>
+        <charseq START="135" END="144">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T2" VAL="1973">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T2-1">
+      <extent>
+        <charseq START="522" END="533">30 years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T3" VAL="P3Y">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T3-1">
+      <extent>
+        <charseq START="817" END="827">three years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T4" VAL="2003-06-22">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T4-1">
+      <extent>
+        <charseq START="1151" END="1153">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T5" VAL="P250D">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T5-1">
+      <extent>
+        <charseq START="1161" END="1168">250 days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T6" VAL="P3Y">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T6-1">
+      <extent>
+        <charseq START="2230" END="2240">three years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T7" VAL="2003-06-22">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T7-1">
+      <extent>
+        <charseq START="2565" END="2567">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T8" VAL="2003-W26">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T8-1">
+      <extent>
+        <charseq START="3347" END="3355">next
+week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030622_173306.9-T9" VAL="2003-W26">
+    <timex2_mention ID="CNN_ENG_20030622_173306.9-T9-1">
+      <extent>
+        <charseq START="3544" END="3552">next week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNN_ENG_20030622_173306.9-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNN_ENG_20030622_173306.9-23" ROLE="Arg-1" />
+    <relation_argument REFID="CNN_ENG_20030622_173306.9-23" ROLE="Arg-2" />
+      <relation_mention ID="CNN_ENG_20030622_173306.9-R1-2">
+      <extent>
+        <charseq START="3438" END="3463">alabama, military facility</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNN_ENG_20030622_173306.9-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3438" END="3444">alabama</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNN_ENG_20030622_173306.9-23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3447" END="3463">military facility</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

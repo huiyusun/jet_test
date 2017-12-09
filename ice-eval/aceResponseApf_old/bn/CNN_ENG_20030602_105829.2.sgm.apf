@@ -1,0 +1,880 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030602_105829.2.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030602_105829.2">
+  <entity ID="CNN_ENG_20030602_105829.2-1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-1-0">
+      <extent>
+        <charseq START="170" END="182">5,000 sailors</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="182">sailors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-2-0">
+      <extent>
+        <charseq START="188" END="194">marines</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="194">marines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-3-0">
+      <extent>
+        <charseq START="200" END="206">friends</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="206">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-4-0">
+      <extent>
+        <charseq START="212" END="217">family</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="217">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-4-1">
+      <extent>
+        <charseq START="763" END="768">family</charseq>
+      </extent>
+      <head>
+        <charseq START="763" END="768">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="222" END="234">the san diego</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="234">san diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="362" END="370">san diego</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="370">san diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="563" END="566">they</charseq>
+      </extent>
+      <head>
+        <charseq START="563" END="566">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="604" END="612">san diego</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="612">san diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-5-4" ROLE="GPE">
+      <extent>
+        <charseq START="615" END="616">it</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="616">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-5-5" ROLE="GPE">
+      <extent>
+        <charseq START="3084" END="3092">san diego</charseq>
+      </extent>
+      <head>
+        <charseq START="3084" END="3092">san diego</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="san diego">
+        <charseq START="226" END="234">san diego</charseq>
+      </name>
+      <name NAME="san diego">
+        <charseq START="362" END="370">san diego</charseq>
+      </name>
+      <name NAME="san diego">
+        <charseq START="604" END="612">san diego</charseq>
+      </name>
+      <name NAME="san diego">
+        <charseq START="3084" END="3092">san diego</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="237" END="246">california</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="246">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="california">
+        <charseq START="237" END="246">california</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-7-0">
+      <extent>
+        <charseq START="237" END="251">california area</charseq>
+      </extent>
+      <head>
+        <charseq START="248" END="251">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-8-0">
+      <extent>
+        <charseq START="265" END="269">giant</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="269">giant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="271" END="274">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="274">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="271" END="274">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-10" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-10-0">
+      <extent>
+        <charseq START="276" END="282">carrier</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="282">carrier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="336" END="339">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="339">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="336" END="339">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-12-0">
+      <extent>
+        <charseq START="342" END="354">frank buckley</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="354">frank buckley</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-12-1">
+      <extent>
+        <charseq START="450" END="454">frank</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="454">frank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-12-2">
+      <extent>
+        <charseq START="3309" END="3313">frank</charseq>
+      </extent>
+      <head>
+        <charseq START="3309" END="3313">frank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="frank buckley">
+        <charseq START="342" END="354">frank buckley</charseq>
+      </name>
+      <name NAME="frank">
+        <charseq START="450" END="454">frank</charseq>
+      </name>
+      <name NAME="frank">
+        <charseq START="3309" END="3313">frank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-13-0">
+      <extent>
+        <charseq START="709" END="716">families</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="716">families</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-14-0">
+      <extent>
+        <charseq START="727" END="737">these folks</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="737">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-14-1">
+      <extent>
+        <charseq START="757" END="761">their</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="761">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-14-2">
+      <extent>
+        <charseq START="1067" END="1077">those folks</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1077">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-14-3">
+      <extent>
+        <charseq START="3008" END="3016">the folks</charseq>
+      </extent>
+      <head>
+        <charseq START="3012" END="3016">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-15-0">
+      <extent>
+        <charseq START="757" END="776">their family members</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="776">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-16" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-16-0">
+      <extent>
+        <charseq START="828" END="843">the persian gulf</charseq>
+      </extent>
+      <head>
+        <charseq START="832" END="843">persian gulf</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="persian gulf">
+        <charseq START="832" END="843">persian gulf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-17-0">
+      <extent>
+        <charseq START="902" END="911">many folks</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="911">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-18-0">
+      <extent>
+        <charseq START="925" END="933">lima pier</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="933">lima pier</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-18-1">
+      <extent>
+        <charseq START="3071" END="3079">lima pier</charseq>
+      </extent>
+      <head>
+        <charseq START="3071" END="3079">lima pier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="lima pier">
+        <charseq START="925" END="933">lima pier</charseq>
+      </name>
+      <name NAME="lima pier">
+        <charseq START="3071" END="3079">lima pier</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-19-0">
+      <extent>
+        <charseq START="953" END="970">some 15,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="965" END="970">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-19-1">
+      <extent>
+        <charseq START="1029" END="1038">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1038">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-20-0">
+      <extent>
+        <charseq START="1162" END="1173">the new dads</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1173">dads</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-21-0">
+      <extent>
+        <charseq START="1192" END="1194">one</charseq>
+      </extent>
+      <head>
+        <charseq START="1192" END="1194">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-22-0">
+      <extent>
+        <charseq START="1199" END="1209">the
+winners</charseq>
+      </extent>
+      <head>
+        <charseq START="1203" END="1209">winners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-23-0">
+      <extent>
+        <charseq START="1246" END="1250">tammy</charseq>
+      </extent>
+      <head>
+        <charseq START="1246" END="1250">tammy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tammy">
+        <charseq START="1246" END="1250">tammy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-24-0">
+      <extent>
+        <charseq START="1253" END="1264">your
+husband</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1264">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-24-1">
+      <extent>
+        <charseq START="1269" END="1273">david</charseq>
+      </extent>
+      <head>
+        <charseq START="1269" END="1273">david</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-24-2">
+      <extent>
+        <charseq START="2897" END="2901">david</charseq>
+      </extent>
+      <head>
+        <charseq START="2897" END="2901">david</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-24-3">
+      <extent>
+        <charseq START="2910" END="2914">david</charseq>
+      </extent>
+      <head>
+        <charseq START="2910" END="2914">david</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="david">
+        <charseq START="1269" END="1273">david</charseq>
+      </name>
+      <name NAME="david">
+        <charseq START="2897" END="2901">david</charseq>
+      </name>
+      <name NAME="david">
+        <charseq START="2910" END="2914">david</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-25-0">
+      <extent>
+        <charseq START="1284" END="1295">little alisa</charseq>
+      </extent>
+      <head>
+        <charseq START="1291" END="1295">alisa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-25-1">
+      <extent>
+        <charseq START="1303" END="1305">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1305">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-25-2">
+      <extent>
+        <charseq START="1506" END="1508">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1508">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-25-3">
+      <extent>
+        <charseq START="1543" END="1545">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1543" END="1545">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-25-4">
+      <extent>
+        <charseq START="1552" END="1554">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1552" END="1554">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="alisa">
+        <charseq START="1291" END="1295">alisa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-26-0">
+      <extent>
+        <charseq START="1552" END="1560">her daddy</charseq>
+      </extent>
+      <head>
+        <charseq START="1556" END="1560">daddy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-26-1">
+      <extent>
+        <charseq START="1600" END="1602">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1600" END="1602">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-26-2">
+      <extent>
+        <charseq START="2070" END="2072">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2070" END="2072">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-27-0">
+      <extent>
+        <charseq START="1795" END="1801">viewers</charseq>
+      </extent>
+      <head>
+        <charseq START="1795" END="1801">viewers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-28" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-28-0">
+      <extent>
+        <charseq START="2077" END="2083">my arms</charseq>
+      </extent>
+      <head>
+        <charseq START="2080" END="2083">arms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-29-0">
+      <extent>
+        <charseq START="2171" END="2182">106 new dads</charseq>
+      </extent>
+      <head>
+        <charseq START="2179" END="2182">dads</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-29-1">
+      <extent>
+        <charseq START="2195" END="2198">them</charseq>
+      </extent>
+      <head>
+        <charseq START="2195" END="2198">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-30-0">
+      <extent>
+        <charseq START="2203" END="2209">the dad</charseq>
+      </extent>
+      <head>
+        <charseq START="2207" END="2209">dad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-31-0">
+      <extent>
+        <charseq START="2222" END="2239">this beautiful boy</charseq>
+      </extent>
+      <head>
+        <charseq START="2237" END="2239">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-31-1">
+      <extent>
+        <charseq START="2346" END="2370">this little beautiful boy</charseq>
+      </extent>
+      <head>
+        <charseq START="2368" END="2370">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-31-2">
+      <extent>
+        <charseq START="2428" END="2429">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2428" END="2429">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-32-0">
+      <extent>
+        <charseq START="2278" END="2284">trebian</charseq>
+      </extent>
+      <head>
+        <charseq START="2278" END="2284">trebian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="trebian">
+        <charseq START="2278" END="2284">trebian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-33-0">
+      <extent>
+        <charseq START="2287" END="2289">mom</charseq>
+      </extent>
+      <head>
+        <charseq START="2287" END="2289">mom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-33-1">
+      <extent>
+        <charseq START="2294" END="2300">felicia</charseq>
+      </extent>
+      <head>
+        <charseq START="2294" END="2300">felicia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="felicia">
+        <charseq START="2294" END="2300">felicia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-34-0">
+      <extent>
+        <charseq START="2303" END="2308">typhus</charseq>
+      </extent>
+      <head>
+        <charseq START="2303" END="2308">typhus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-34-1">
+      <extent>
+        <charseq START="2313" END="2323">the
+new dad</charseq>
+      </extent>
+      <head>
+        <charseq START="2321" END="2323">dad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030602_105829.2-34-2">
+      <extent>
+        <charseq START="2921" END="2926">typhus</charseq>
+      </extent>
+      <head>
+        <charseq START="2921" END="2926">typhus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="typhus">
+        <charseq START="2303" END="2308">typhus</charseq>
+      </name>
+      <name NAME="typhus">
+        <charseq START="2921" END="2926">typhus</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-35-0">
+      <extent>
+        <charseq START="2511" END="2514">guys</charseq>
+      </extent>
+      <head>
+        <charseq START="2511" END="2514">guys</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-1">
+      <extent>
+        <charseq START="2559" END="2560">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2559" END="2560">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-2">
+      <extent>
+        <charseq START="2594" END="2595">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2594" END="2595">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-3">
+      <extent>
+        <charseq START="2635" END="2636">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2635" END="2636">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-4">
+      <extent>
+        <charseq START="2680" END="2681">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2680" END="2681">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-5">
+      <extent>
+        <charseq START="2697" END="2699">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2697" END="2699">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-6">
+      <extent>
+        <charseq START="2753" END="2754">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2753" END="2754">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-7">
+      <extent>
+        <charseq START="2793" END="2794">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2793" END="2794">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030602_105829.2-35-8">
+      <extent>
+        <charseq START="2838" END="2839">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2838" END="2839">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-36-0">
+      <extent>
+        <charseq START="3154" END="3157">kids</charseq>
+      </extent>
+      <head>
+        <charseq START="3154" END="3157">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-37-0">
+      <extent>
+        <charseq START="3179" END="3193">that little kid</charseq>
+      </extent>
+      <head>
+        <charseq START="3191" END="3193">kid</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-38-0">
+      <extent>
+        <charseq START="3282" END="3292">many babies</charseq>
+      </extent>
+      <head>
+        <charseq START="3287" END="3292">babies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030602_105829.2-39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030602_105829.2-39-0">
+      <extent>
+        <charseq START="3322" END="3332">many babies</charseq>
+      </extent>
+      <head>
+        <charseq START="3327" END="3332">babies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T0" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-06-02</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T1" VAL="5000">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T1-1">
+      <extent>
+        <charseq START="170" END="174">5,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T2" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T2-1">
+      <extent>
+        <charseq START="301" END="303">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T3" VAL="2003-06-02">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T3-1">
+      <extent>
+        <charseq START="385" END="387">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T4" VAL="P7M">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T4-1">
+      <extent>
+        <charseq START="782" END="793">seven months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T5" VAL="P4Y">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T5-1">
+      <extent>
+        <charseq START="1310" END="1316">4 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030602_105829.2-T6" VAL="P2D">
+    <timex2_mention ID="CNN_ENG_20030602_105829.2-T6-1">
+      <extent>
+        <charseq START="2381" END="2388">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

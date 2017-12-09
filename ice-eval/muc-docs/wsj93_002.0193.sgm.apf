@@ -1,0 +1,452 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_002.0193.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_002.0193">
+  <entity ID="wsj93_002.0193-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="231" END="240">The nation</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="240">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-2-0">
+      <extent>
+        <charseq START="241" END="278">&apos;s two major marketing research rivals</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="278">rivals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-3-0">
+      <extent>
+        <charseq START="329" END="344">A.C. Nielsen Co.</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="344">A.C. Nielsen Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="A.C. Nielsen Co.">
+        <charseq START="329" END="344">A.C. Nielsen Co.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-4-0">
+      <extent>
+        <charseq START="351" END="364">George Garrick</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="364">George Garrick</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-4-1">
+      <extent>
+        <charseq START="381" END="389">president</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="389">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_002.0193-4-2">
+      <extent>
+        <charseq START="595" END="596">He</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="596">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George Garrick">
+        <charseq START="351" END="364">George Garrick</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-5-0">
+      <extent>
+        <charseq START="394" END="419">Information Resources Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="419">Information Resources Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-5-1">
+      <extent>
+        <charseq START="667" END="687">Information Resources</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="687">Information Resources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Information Resources Inc.">
+        <charseq START="394" END="419">Information Resources Inc.</charseq>
+      </name>
+      <name NAME="Information Resources">
+        <charseq START="667" END="687">Information Resources</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="423" END="428">London</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="428">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="423" END="428">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-7-0">
+      <extent>
+        <charseq START="436" END="464">European Information
+Services</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="464">European Information
+Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European Information Services">
+        <charseq START="436" END="464">European Information
+Services</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-8-0">
+      <extent>
+        <charseq START="489" END="525">president and chief operating
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="525">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-9-0">
+      <extent>
+        <charseq START="530" END="559">Nielsen Marketing Research USA</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="559">Nielsen Marketing Research USA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-9-1">
+      <extent>
+        <charseq START="562" END="567">a unit</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="567">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nielsen Marketing Research USA">
+        <charseq START="530" END="559">Nielsen Marketing Research USA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-10-0">
+      <extent>
+        <charseq START="572" END="592">Dun &amp;
+Bradstreet Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="592">Dun &amp;
+Bradstreet Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dun &amp; Bradstreet Corp">
+        <charseq START="572" END="592">Dun &amp;
+Bradstreet Corp</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-11-0">
+      <extent>
+        <charseq START="607" END="622">John H. Costello</charseq>
+      </extent>
+      <head>
+        <charseq START="607" END="622">John H. Costello</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John H. Costello">
+        <charseq START="607" END="622">John H. Costello</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-12-0">
+      <extent>
+        <charseq START="744" END="756">Magid Abraham</charseq>
+      </extent>
+      <head>
+        <charseq START="744" END="756">Magid Abraham</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-12-1">
+      <extent>
+        <charseq START="699" END="713">a new president</charseq>
+      </extent>
+      <head>
+        <charseq START="705" END="713">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-12-2">
+      <extent>
+        <charseq START="789" END="814">information services group</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="814">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-12-3">
+      <extent>
+        <charseq START="772" END="786">group
+president</charseq>
+      </extent>
+      <head>
+        <charseq START="778" END="786">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-12-4">
+      <extent>
+        <charseq START="817" END="827">Dr. Abraham</charseq>
+      </extent>
+      <head>
+        <charseq START="821" END="827">Abraham</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-12-5">
+      <extent>
+        <charseq START="817" END="819">Dr.</charseq>
+      </extent>
+      <head>
+        <charseq START="817" END="819">Dr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-12-6">
+      <extent>
+        <charseq START="904" END="912">president</charseq>
+      </extent>
+      <head>
+        <charseq START="904" END="912">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Magid Abraham">
+        <charseq START="744" END="756">Magid Abraham</charseq>
+      </name>
+      <name NAME="Abraham">
+        <charseq START="821" END="827">Abraham</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-13-0">
+      <extent>
+        <charseq START="719" END="741">chief operating officer</charseq>
+      </extent>
+      <head>
+        <charseq START="735" END="741">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-14-0">
+      <extent>
+        <charseq START="854" END="862">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="862">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-15-0">
+      <extent>
+        <charseq START="884" END="899">James G. Andress</charseq>
+      </extent>
+      <head>
+        <charseq START="884" END="899">James G. Andress</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_002.0193-15-1">
+      <extent>
+        <charseq START="915" END="925">Mr. Andress</charseq>
+      </extent>
+      <head>
+        <charseq START="919" END="925">Andress</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-15-2">
+      <extent>
+        <charseq START="915" END="917">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="917">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="James G. Andress">
+        <charseq START="884" END="899">James G. Andress</charseq>
+      </name>
+      <name NAME="Andress">
+        <charseq START="919" END="925">Andress</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="wsj93_002.0193-16-0">
+      <extent>
+        <charseq START="940" END="942">one</charseq>
+      </extent>
+      <head>
+        <charseq START="940" END="942">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-17-0">
+      <extent>
+        <charseq START="947" END="963">two vice chairmen</charseq>
+      </extent>
+      <head>
+        <charseq START="956" END="963">chairmen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_002.0193-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_002.0193-18-0">
+      <extent>
+        <charseq START="977" END="1002">co-chief executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="996" END="1002">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj93_002.0193-T0" VAL="2016-03-27">
+    <timex2_mention ID="wsj93_002.0193-T0-1">
+      <extent>
+        <charseq START="313" END="321">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_002.0193-T1" VAL="P40Y">
+    <timex2_mention ID="wsj93_002.0193-T1-1">
+      <extent>
+        <charseq START="367" END="374">40 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_002.0193-T2" VAL="2016-03">
+    <timex2_mention ID="wsj93_002.0193-T2-1">
+      <extent>
+        <charseq START="641" END="645">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_002.0193-T3" VAL="2016-03-27">
+    <timex2_mention ID="wsj93_002.0193-T3-1">
+      <extent>
+        <charseq START="864" END="872">yesterday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj93_002.0193-R1" TYPE="RESIDE">
+    <relation_argument REFID="wsj93_002.0193-4" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_002.0193-6" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_002.0193-R1-1">
+      <extent>
+        <charseq START="381" END="428">president of
+Information Resources Inc.&apos;s London</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_002.0193-4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="381" END="389">president</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_002.0193-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="423" END="428">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj93_002.0193-R2" TYPE="SUCCEED">
+    <relation_argument REFID="wsj93_002.0193-4" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_002.0193-11" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_002.0193-R2-1">
+      <extent>
+        <charseq START="595" END="622">He succeeds John H. Costello</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_002.0193-4-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="595" END="596">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_002.0193-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="607" END="622">John H. Costello</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj93_002.0193-R3" TYPE="SUCCEED">
+    <relation_argument REFID="wsj93_002.0193-12" ROLE="Arg-1" />
+    <relation_argument REFID="wsj93_002.0193-15" ROLE="Arg-2" />
+      <relation_mention ID="wsj93_002.0193-R3-1">
+      <extent>
+        <charseq START="817" END="899">Dr. Abraham, who also was
+elected to the board yesterday, succeeds James G. Andress</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj93_002.0193-12-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="817" END="827">Dr. Abraham</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj93_002.0193-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="884" END="899">James G. Andress</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

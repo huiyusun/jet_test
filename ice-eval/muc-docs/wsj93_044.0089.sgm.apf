@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_044.0089.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_044.0089">
+  <entity ID="wsj93_044.0089-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-1-0">
+      <extent>
+        <charseq START="210" END="230">Advanced Medical Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="230">Advanced Medical Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_044.0089-1-1">
+      <extent>
+        <charseq START="272" END="273">it</charseq>
+      </extent>
+      <head>
+        <charseq START="272" END="273">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-2">
+      <extent>
+        <charseq START="461" END="471">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="471">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-1-3">
+      <extent>
+        <charseq START="784" END="799">Advanced Medical</charseq>
+      </extent>
+      <head>
+        <charseq START="784" END="799">Advanced Medical</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-4">
+      <extent>
+        <charseq START="859" END="869">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="869">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-1-5">
+      <extent>
+        <charseq START="997" END="1012">Advanced Medical</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1012">Advanced Medical</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-6">
+      <extent>
+        <charseq START="1129" END="1139">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1133" END="1139">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-7">
+      <extent>
+        <charseq START="1296" END="1316">a predecessor company</charseq>
+      </extent>
+      <head>
+        <charseq START="1310" END="1316">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-1-8">
+      <extent>
+        <charseq START="1321" END="1336">Advanced Medical</charseq>
+      </extent>
+      <head>
+        <charseq START="1321" END="1336">Advanced Medical</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-9">
+      <extent>
+        <charseq START="1339" END="1349">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1343" END="1349">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-1-10">
+      <extent>
+        <charseq START="1362" END="1377">Advanced Medical</charseq>
+      </extent>
+      <head>
+        <charseq START="1362" END="1377">Advanced Medical</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_044.0089-1-11">
+      <extent>
+        <charseq START="1384" END="1385">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1384" END="1385">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_044.0089-1-12">
+      <extent>
+        <charseq START="1403" END="1405">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1403" END="1405">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-13">
+      <extent>
+        <charseq START="1464" END="1474">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="1468" END="1474">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-1-14">
+      <extent>
+        <charseq START="1561" END="1571">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="1565" END="1571">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_044.0089-1-15">
+      <extent>
+        <charseq START="1578" END="1580">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1578" END="1580">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Advanced Medical Inc.">
+        <charseq START="210" END="230">Advanced Medical Inc.</charseq>
+      </name>
+      <name NAME="Advanced Medical">
+        <charseq START="784" END="799">Advanced Medical</charseq>
+      </name>
+      <name NAME="Advanced Medical">
+        <charseq START="997" END="1012">Advanced Medical</charseq>
+      </name>
+      <name NAME="Advanced Medical">
+        <charseq START="1321" END="1336">Advanced Medical</charseq>
+      </name>
+      <name NAME="Advanced Medical">
+        <charseq START="1362" END="1377">Advanced Medical</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-2-0">
+      <extent>
+        <charseq START="253" END="264">top
+officers</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="264">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-3-0">
+      <extent>
+        <charseq START="501" END="510">IMED Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="501" END="510">IMED Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-3-1">
+      <extent>
+        <charseq START="480" END="498">main operating unit</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="498">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-3-2">
+      <extent>
+        <charseq START="516" END="531">a major
+producer</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="531">producer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="IMED Corp.">
+        <charseq START="501" END="510">IMED Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-4-0">
+      <extent>
+        <charseq START="572" END="582">Henry Green</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="582">Henry Green</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-4-1">
+      <extent>
+        <charseq START="806" END="814">Mr. Green</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="814">Green</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-4-2">
+      <extent>
+        <charseq START="806" END="808">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="808">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-4-3">
+      <extent>
+        <charseq START="872" END="880">Mr. Green</charseq>
+      </extent>
+      <head>
+        <charseq START="876" END="880">Green</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-4-4">
+      <extent>
+        <charseq START="872" END="874">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="872" END="874">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Henry Green">
+        <charseq START="572" END="582">Henry Green</charseq>
+      </name>
+      <name NAME="Green">
+        <charseq START="810" END="814">Green</charseq>
+      </name>
+      <name NAME="Green">
+        <charseq START="876" END="880">Green</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-5-0">
+      <extent>
+        <charseq START="593" END="601">president</charseq>
+      </extent>
+      <head>
+        <charseq START="593" END="601">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-6-0">
+      <extent>
+        <charseq START="607" END="629">chief operating officer</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="629">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-7-0">
+      <extent>
+        <charseq START="691" END="711">Stanley S. Anders III</charseq>
+      </extent>
+      <head>
+        <charseq START="691" END="711">Stanley S. Anders III</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stanley S. Anders III">
+        <charseq START="691" END="711">Stanley S. Anders III</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-8-0">
+      <extent>
+        <charseq START="754" END="776">chief financial officer</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="776">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-9-0">
+      <extent>
+        <charseq START="828" END="837">a director</charseq>
+      </extent>
+      <head>
+        <charseq START="830" END="837">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_044.0089-9-1">
+      <extent>
+        <charseq START="887" END="888">he</charseq>
+      </extent>
+      <head>
+        <charseq START="887" END="888">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-10-0">
+      <extent>
+        <charseq START="843" END="854">a
+consultant</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="854">consultant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-11-0">
+      <extent>
+        <charseq START="982" END="989">the unit</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="989">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-12-0">
+      <extent>
+        <charseq START="1024" END="1040">Jeffry M. Picower</charseq>
+      </extent>
+      <head>
+        <charseq START="1024" END="1040">Jeffry M. Picower</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-12-1">
+      <extent>
+        <charseq START="1153" END="1163">Mr. Picower</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1163">Picower</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-12-2">
+      <extent>
+        <charseq START="1153" END="1155">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1155">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jeffry M. Picower">
+        <charseq START="1024" END="1040">Jeffry M. Picower</charseq>
+      </name>
+      <name NAME="Picower">
+        <charseq START="1157" END="1163">Picower</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-13-0">
+      <extent>
+        <charseq START="1057" END="1065">the
+board</charseq>
+      </extent>
+      <head>
+        <charseq START="1061" END="1065">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-14-0">
+      <extent>
+        <charseq START="1077" END="1089">a co-chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1082" END="1089">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-14-1">
+      <extent>
+        <charseq START="1173" END="1180">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1173" END="1180">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-15-0">
+      <extent>
+        <charseq START="1096" END="1113">Richard D. Propper</charseq>
+      </extent>
+      <head>
+        <charseq START="1096" END="1113">Richard D. Propper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richard D. Propper">
+        <charseq START="1096" END="1113">Richard D. Propper</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-16-0">
+      <extent>
+        <charseq START="1140" END="1150">&apos;s chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1150">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_044.0089-17-0">
+      <extent>
+        <charseq START="1186" END="1208">chief
+executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="1202" END="1208">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_044.0089-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_044.0089-18-0">
+      <extent>
+        <charseq START="1213" END="1244">Monroe Systems for Business Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="1213" END="1244">Monroe Systems for Business Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Monroe Systems for Business Inc.">
+        <charseq START="1213" END="1244">Monroe Systems for Business Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_044.0089-V15" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_044.0089-V15-1">
+      <extent>
+        <charseq START="1616" END="1629">about 14
+cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_044.0089-V16" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="wsj93_044.0089-V16-1">
+      <extent>
+        <charseq START="1705" END="1712">12 cents</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_044.0089-V18" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_044.0089-V18-1">
+      <extent>
+        <charseq START="1817" END="1819">13%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_044.0089-T0" VAL="1988">
+    <timex2_mention ID="wsj93_044.0089-T0-1">
+      <extent>
+        <charseq START="1277" END="1280">1988</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_044.0089-T1" VAL="1989">
+    <timex2_mention ID="wsj93_044.0089-T1-1">
+      <extent>
+        <charseq START="1286" END="1289">1989</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_044.0089-T2" VAL="2015">
+    <timex2_mention ID="wsj93_044.0089-T2-1">
+      <extent>
+        <charseq START="1545" END="1553">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_044.0089-T3" VAL="1991">
+    <timex2_mention ID="wsj93_044.0089-T3-1">
+      <extent>
+        <charseq START="1660" END="1663">1991</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

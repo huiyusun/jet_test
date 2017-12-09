@@ -1,0 +1,534 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030305_170125.1.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030305_170125.1">
+  <entity ID="CNN_ENG_20030305_170125.1-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-1-0" ROLE="GPE">
+      <extent>
+        <charseq START="123" END="132">washington</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="132">washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="washington">
+        <charseq START="123" END="132">washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="145">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="145">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="264" END="270">america</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="270">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="648" END="655">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="655">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030305_170125.1-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="675" END="679">their</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="679">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="781" END="797">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="797">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="142" END="145">u.s.</charseq>
+      </name>
+      <name NAME="america">
+        <charseq START="264" END="270">america</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="652" END="655">u.s.</charseq>
+      </name>
+      <name NAME="united states">
+        <charseq START="785" END="797">united states</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-3-0">
+      <extent>
+        <charseq START="186" END="191">&apos;s men</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="191">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-4-0">
+      <extent>
+        <charseq START="271" END="285">&apos;s top
+diplomat</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="285">diplomat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-5-0">
+      <extent>
+        <charseq START="314" END="331">secretary of state</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="331">secretary of state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-5-1">
+      <extent>
+        <charseq START="1124" END="1141">secretary of state</charseq>
+      </extent>
+      <head>
+        <charseq START="1124" END="1141">secretary of state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-6-0">
+      <extent>
+        <charseq START="333" END="344">colin powell</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="344">colin powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="colin powell">
+        <charseq START="333" END="344">colin powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-7-0">
+      <extent>
+        <charseq START="357" END="368">a prosecutor</charseq>
+      </extent>
+      <head>
+        <charseq START="359" END="368">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="384" END="387">iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="387">iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iraq">
+        <charseq START="384" END="387">iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-9-0">
+      <extent>
+        <charseq START="409" END="420">the
+pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="413" END="420">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-9-1">
+      <extent>
+        <charseq START="1034" END="1045">the pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="1038" END="1045">pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-10-0">
+      <extent>
+        <charseq START="423" END="442">the military leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="442">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-11-0">
+      <extent>
+        <charseq START="453" END="458">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="458">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030305_170125.1-11-1">
+      <extent>
+        <charseq START="497" END="500">they</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="500">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-12-0">
+      <extent>
+        <charseq START="520" END="528">president</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="528">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="576" END="581">france</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="581">france</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="france">
+        <charseq START="576" END="581">france</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="584" END="590">germany</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="590">germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="germany">
+        <charseq START="584" END="590">germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="596" END="601">russia</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="601">russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="russia">
+        <charseq START="596" END="601">russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-16-0">
+      <extent>
+        <charseq START="709" END="718">protestors</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="718">protestors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="725" END="733">australia</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="733">australia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="australia">
+        <charseq START="725" END="733">australia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="738" END="742">egypt</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="742">egypt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="egypt">
+        <charseq START="738" END="742">egypt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-19" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-19-0">
+      <extent>
+        <charseq START="747" END="756">university</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="756">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-20-0">
+      <extent>
+        <charseq START="747" END="765">university
+students</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="765">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-21-0">
+      <extent>
+        <charseq START="882" END="899">cardinal pio
+laghi</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="899">pio
+laghi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-21-1">
+      <extent>
+        <charseq START="882" END="889">cardinal</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="889">cardinal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-21-2">
+      <extent>
+        <charseq START="902" END="919">the man dismatched</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="919">dismatched</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="pio laghi">
+        <charseq START="891" END="899">pio
+laghi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-22-0">
+      <extent>
+        <charseq START="906" END="908">man</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="908">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-23-0">
+      <extent>
+        <charseq START="924" END="940">pope john paul ii</charseq>
+      </extent>
+      <head>
+        <charseq START="924" END="940">pope john paul ii</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="pope john paul ii">
+        <charseq START="924" END="940">pope john paul ii</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-24-0">
+      <extent>
+        <charseq START="954" END="967">president
+bush</charseq>
+      </extent>
+      <head>
+        <charseq START="964" END="967">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-24-1">
+      <extent>
+        <charseq START="954" END="962">president</charseq>
+      </extent>
+      <head>
+        <charseq START="954" END="962">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-24-2">
+      <extent>
+        <charseq START="1106" END="1114">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1106" END="1114">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="964" END="967">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-25-0">
+      <extent>
+        <charseq START="1014" END="1031">the united nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1031">united nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united nations">
+        <charseq START="1018" END="1031">united nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-26-0">
+      <extent>
+        <charseq START="1051" END="1065">the white house</charseq>
+      </extent>
+      <head>
+        <charseq START="1061" END="1065">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030305_170125.1-27-0">
+      <extent>
+        <charseq START="1055" END="1059">white</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1059">white</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030305_170125.1-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-28-0">
+      <extent>
+        <charseq START="1077" END="1087">chris burns</charseq>
+      </extent>
+      <head>
+        <charseq START="1077" END="1087">chris burns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030305_170125.1-28-1">
+      <extent>
+        <charseq START="1187" END="1191">chris</charseq>
+      </extent>
+      <head>
+        <charseq START="1187" END="1191">chris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="chris burns">
+        <charseq START="1077" END="1087">chris burns</charseq>
+      </name>
+      <name NAME="chris">
+        <charseq START="1187" END="1191">chris</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030305_170125.1-T0" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030305_170125.1-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-03-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030305_170125.1-T1" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030305_170125.1-T1-1">
+      <extent>
+        <charseq START="259" END="261">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030305_170125.1-T2" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030305_170125.1-T2-1">
+      <extent>
+        <charseq START="485" END="487">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030305_170125.1-T3" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030305_170125.1-T3-1">
+      <extent>
+        <charseq START="569" END="573">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030305_170125.1-T4" VAL="2003-03-05">
+    <timex2_mention ID="CNN_ENG_20030305_170125.1-T4-1">
+      <extent>
+        <charseq START="833" END="837">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

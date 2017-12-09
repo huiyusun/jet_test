@@ -1,0 +1,1217 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="rec.travel.europe_20050101.1800.sgm" SOURCE="usenet" TYPE="text" AUTHOR="NYU">
+<document DOCID="rec.travel.europe_20050101.1800">
+  <entity ID="rec.travel.europe_20050101.1800-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-1-0">
+      <extent>
+        <charseq START="100" END="104">ohaya</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="104">ohaya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ohaya">
+        <charseq START="100" END="104">ohaya</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-2-0" ROLE="GPE">
+      <extent>
+        <charseq START="203" END="212">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="212">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="203" END="212">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-3-0">
+      <extent>
+        <charseq START="386" END="392">my wife</charseq>
+      </extent>
+      <head>
+        <charseq START="389" END="392">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-4" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-4-0">
+      <extent>
+        <charseq START="436" END="443">Heathrow</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="443">Heathrow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-4-1">
+      <extent>
+        <charseq START="4961" END="4968">Heathrow</charseq>
+      </extent>
+      <head>
+        <charseq START="4961" END="4968">Heathrow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Heathrow">
+        <charseq START="436" END="443">Heathrow</charseq>
+      </name>
+      <name NAME="Heathrow">
+        <charseq START="4961" END="4968">Heathrow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-5" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-5-0">
+      <extent>
+        <charseq START="467" END="477">the airport</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="477">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-5-1">
+      <extent>
+        <charseq START="5131" END="5141">the airport</charseq>
+      </extent>
+      <head>
+        <charseq START="5135" END="5141">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-6-0">
+      <extent>
+        <charseq START="505" END="512">Barclays</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="512">Barclays</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Barclays">
+        <charseq START="505" END="512">Barclays</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-7-0">
+      <extent>
+        <charseq START="531" END="546">the arrival area</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="546">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-8-0">
+      <extent>
+        <charseq START="552" END="555">many</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="555">many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-9-0">
+      <extent>
+        <charseq START="596" END="599">bank</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="599">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-10" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-10-0">
+      <extent>
+        <charseq START="706" END="720">the underground</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="720">underground</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-0">
+      <extent>
+        <charseq START="837" END="845">the hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="841" END="845">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-1">
+      <extent>
+        <charseq START="899" END="907">The hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="903" END="907">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-2">
+      <extent>
+        <charseq START="1141" END="1145">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1145">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-3">
+      <extent>
+        <charseq START="1345" END="1353">the hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1353">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-4">
+      <extent>
+        <charseq START="4991" END="4995">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="4991" END="4995">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-5">
+      <extent>
+        <charseq START="5231" END="5239">the hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="5235" END="5239">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-11-6">
+      <extent>
+        <charseq START="5321" END="5329">the hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="5325" END="5329">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-11-7">
+      <extent>
+        <charseq START="5370" END="5371">it</charseq>
+      </extent>
+      <head>
+        <charseq START="5370" END="5371">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-12-0">
+      <extent>
+        <charseq START="874" END="895">the final tube station</charseq>
+      </extent>
+      <head>
+        <charseq START="889" END="895">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-13" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-13-0">
+      <extent>
+        <charseq START="1137" END="1150">the hotel room</charseq>
+      </extent>
+      <head>
+        <charseq START="1147" END="1150">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-14-0">
+      <extent>
+        <charseq START="1153" END="1159">my wife</charseq>
+      </extent>
+      <head>
+        <charseq START="1156" END="1159">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-14-1">
+      <extent>
+        <charseq START="1175" END="1184">everything</charseq>
+      </extent>
+      <head>
+        <charseq START="1175" END="1184">everything</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-15-0">
+      <extent>
+        <charseq START="1207" END="1212">person</charseq>
+      </extent>
+      <head>
+        <charseq START="1207" END="1212">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-16" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-16-0">
+      <extent>
+        <charseq START="1330" END="1340">restaurants</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1340">restaurants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-17-0">
+      <extent>
+        <charseq START="1386" END="1394">newsagent</charseq>
+      </extent>
+      <head>
+        <charseq START="1386" END="1394">newsagent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-18-0">
+      <extent>
+        <charseq START="1510" END="1514">Pepsi</charseq>
+      </extent>
+      <head>
+        <charseq START="1510" END="1514">Pepsi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pepsi">
+        <charseq START="1510" END="1514">Pepsi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-19-0">
+      <extent>
+        <charseq START="1587" END="1598">a restaurant</charseq>
+      </extent>
+      <head>
+        <charseq START="1589" END="1598">restaurant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-20-0">
+      <extent>
+        <charseq START="1599" END="1602">/pub</charseq>
+      </extent>
+      <head>
+        <charseq START="1600" END="1602">pub</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-21-0">
+      <extent>
+        <charseq START="1674" END="1682">the woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1678" END="1682">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-21-1">
+      <extent>
+        <charseq START="1790" END="1792">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1790" END="1792">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-22-0">
+      <extent>
+        <charseq START="1808" END="1812">a pub</charseq>
+      </extent>
+      <head>
+        <charseq START="1810" END="1812">pub</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-23-0">
+      <extent>
+        <charseq START="1842" END="1849">the bar&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="1846" END="1848">bar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-24-0">
+      <extent>
+        <charseq START="1894" END="1903">other
+pubs</charseq>
+      </extent>
+      <head>
+        <charseq START="1900" END="1903">pubs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-25-0">
+      <extent>
+        <charseq START="2025" END="2031">my wife</charseq>
+      </extent>
+      <head>
+        <charseq START="2028" END="2031">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-26" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-26-0">
+      <extent>
+        <charseq START="2148" END="2155">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="2152" END="2155">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-27-0">
+      <extent>
+        <charseq START="2164" END="2195">the Victoria underground
+station</charseq>
+      </extent>
+      <head>
+        <charseq START="2189" END="2195">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-27-1">
+      <extent>
+        <charseq START="2353" END="2375">the underground station</charseq>
+      </extent>
+      <head>
+        <charseq START="2369" END="2375">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="2168" END="2175">Victoria</charseq>
+      </extent>
+      <head>
+        <charseq START="2168" END="2175">Victoria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-28-1" ROLE="GPE">
+      <extent>
+        <charseq START="3119" END="3126">Victoria</charseq>
+      </extent>
+      <head>
+        <charseq START="3119" END="3126">Victoria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Victoria">
+        <charseq START="2168" END="2175">Victoria</charseq>
+      </name>
+      <name NAME="Victoria">
+        <charseq START="3119" END="3126">Victoria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-29-0">
+      <extent>
+        <charseq START="2285" END="2301">a local Sainsbury</charseq>
+      </extent>
+      <head>
+        <charseq START="2293" END="2301">Sainsbury</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sainsbury">
+        <charseq START="2293" END="2301">Sainsbury</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-30-0">
+      <extent>
+        <charseq START="2312" END="2330">a small
+supermarket</charseq>
+      </extent>
+      <head>
+        <charseq START="2320" END="2330">supermarket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-31-0">
+      <extent>
+        <charseq START="2467" END="2485">the local foodstore</charseq>
+      </extent>
+      <head>
+        <charseq START="2477" END="2485">foodstore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-32" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-32-0">
+      <extent>
+        <charseq START="3046" END="3048">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="3046" END="3048">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-32-1">
+      <extent>
+        <charseq START="3952" END="3954">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="3952" END="3954">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-32-2">
+      <extent>
+        <charseq START="4178" END="4180">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="4178" END="4180">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-33-0">
+      <extent>
+        <charseq START="3056" END="3065">Evan Evans</charseq>
+      </extent>
+      <head>
+        <charseq START="3056" END="3065">Evan Evans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Evan Evans">
+        <charseq START="3056" END="3065">Evan Evans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-34-0">
+      <extent>
+        <charseq START="3143" END="3168">the Victoria Coach
+Station</charseq>
+      </extent>
+      <head>
+        <charseq START="3147" END="3168">Victoria Coach
+Station</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-34-1">
+      <extent>
+        <charseq START="3171" END="3172">it</charseq>
+      </extent>
+      <head>
+        <charseq START="3171" END="3172">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Victoria Coach Station">
+        <charseq START="3147" END="3168">Victoria Coach
+Station</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-35" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-35-0">
+      <extent>
+        <charseq START="3261" END="3264">part</charseq>
+      </extent>
+      <head>
+        <charseq START="3261" END="3264">part</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="3269" END="3276">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="3273" END="3276">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-37-0" ROLE="GPE">
+      <extent>
+        <charseq START="3344" END="3354">Westminster</charseq>
+      </extent>
+      <head>
+        <charseq START="3344" END="3354">Westminster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Westminster">
+        <charseq START="3344" END="3354">Westminster</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-38-0">
+      <extent>
+        <charseq START="3396" END="3401">people</charseq>
+      </extent>
+      <head>
+        <charseq START="3396" END="3401">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-39-0">
+      <extent>
+        <charseq START="3465" END="3475">another pub</charseq>
+      </extent>
+      <head>
+        <charseq START="3473" END="3475">pub</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-40-0">
+      <extent>
+        <charseq START="3482" END="3497">Trafalgar Square</charseq>
+      </extent>
+      <head>
+        <charseq START="3482" END="3497">Trafalgar Square</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Trafalgar Square">
+        <charseq START="3482" END="3497">Trafalgar Square</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-41-0">
+      <extent>
+        <charseq START="3528" END="3541">the tour guide</charseq>
+      </extent>
+      <head>
+        <charseq START="3537" END="3541">guide</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-42-0">
+      <extent>
+        <charseq START="3615" END="3624">&quot;grand dad</charseq>
+      </extent>
+      <head>
+        <charseq START="3622" END="3624">dad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-42-1">
+      <extent>
+        <charseq START="3631" END="3632">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3631" END="3632">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-42-2">
+      <extent>
+        <charseq START="3638" END="3640">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3638" END="3640">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-43" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-43-0">
+      <extent>
+        <charseq START="3720" END="3722">one</charseq>
+      </extent>
+      <head>
+        <charseq START="3720" END="3722">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-44" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-44-0">
+      <extent>
+        <charseq START="3727" END="3749">the Thames cruise boats</charseq>
+      </extent>
+      <head>
+        <charseq START="3745" END="3749">boats</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-45-0">
+      <extent>
+        <charseq START="3731" END="3736">Thames</charseq>
+      </extent>
+      <head>
+        <charseq START="3731" END="3736">Thames</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Thames">
+        <charseq START="3731" END="3736">Thames</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-46" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-46-0">
+      <extent>
+        <charseq START="3787" END="3793">deck...</charseq>
+      </extent>
+      <head>
+        <charseq START="3787" END="3793">deck...</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-47-0">
+      <extent>
+        <charseq START="3878" END="3884">my wife</charseq>
+      </extent>
+      <head>
+        <charseq START="3881" END="3884">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-48-0">
+      <extent>
+        <charseq START="4363" END="4376">the live guide</charseq>
+      </extent>
+      <head>
+        <charseq START="4372" END="4376">guide</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-49-0">
+      <extent>
+        <charseq START="4425" END="4432">the ones</charseq>
+      </extent>
+      <head>
+        <charseq START="4429" END="4432">ones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-50" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-50-0">
+      <extent>
+        <charseq START="4523" END="4534">the top deck</charseq>
+      </extent>
+      <head>
+        <charseq START="4531" END="4534">deck</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-50-1">
+      <extent>
+        <charseq START="4706" END="4709">deck</charseq>
+      </extent>
+      <head>
+        <charseq START="4706" END="4709">deck</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-50-2">
+      <extent>
+        <charseq START="4716" END="4717">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4716" END="4717">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-51-0">
+      <extent>
+        <charseq START="4905" END="4911">my wife</charseq>
+      </extent>
+      <head>
+        <charseq START="4908" END="4911">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-52-0">
+      <extent>
+        <charseq START="4987" END="5006">the hotel conceierge</charseq>
+      </extent>
+      <head>
+        <charseq START="4997" END="5006">conceierge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-52-1">
+      <extent>
+        <charseq START="5067" END="5068">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5067" END="5068">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-52-2">
+      <extent>
+        <charseq START="5091" END="5092">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5091" END="5092">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-53" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-53-0">
+      <extent>
+        <charseq START="5033" END="5046">an airport bus</charseq>
+      </extent>
+      <head>
+        <charseq START="5044" END="5046">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-54" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-54-0">
+      <extent>
+        <charseq START="5036" END="5042">airport</charseq>
+      </extent>
+      <head>
+        <charseq START="5036" END="5042">airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-55" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-55-0">
+      <extent>
+        <charseq START="5117" END="5119">car</charseq>
+      </extent>
+      <head>
+        <charseq START="5117" END="5119">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-56" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-56-0">
+      <extent>
+        <charseq START="5244" END="5246">LHR</charseq>
+      </extent>
+      <head>
+        <charseq START="5244" END="5246">LHR</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-56-1">
+      <extent>
+        <charseq START="5314" END="5316">LHR</charseq>
+      </extent>
+      <head>
+        <charseq START="5314" END="5316">LHR</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LHR">
+        <charseq START="5244" END="5246">LHR</charseq>
+      </name>
+      <name NAME="LHR">
+        <charseq START="5314" END="5316">LHR</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-57" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-57-0">
+      <extent>
+        <charseq START="5244" END="5257">LHR Terminal 3</charseq>
+      </extent>
+      <head>
+        <charseq START="5248" END="5257">Terminal 3</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Terminal 3">
+        <charseq START="5248" END="5257">Terminal 3</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-58-0">
+      <extent>
+        <charseq START="5342" END="5354">the concierge</charseq>
+      </extent>
+      <head>
+        <charseq START="5346" END="5354">concierge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-59-0">
+      <extent>
+        <charseq START="5404" END="5413">the driver</charseq>
+      </extent>
+      <head>
+        <charseq START="5408" END="5413">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-60" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-60-0">
+      <extent>
+        <charseq START="5515" END="5525">the
+suburbs</charseq>
+      </extent>
+      <head>
+        <charseq START="5519" END="5525">suburbs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-61-0">
+      <extent>
+        <charseq START="5651" END="5659">Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="5651" END="5659">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-61-1">
+      <extent>
+        <charseq START="6052" END="6064">the Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="6056" END="6064">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Americans">
+        <charseq START="5651" END="5659">Americans</charseq>
+      </name>
+      <name NAME="Americans">
+        <charseq START="6056" END="6064">Americans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-62" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-62-0">
+      <extent>
+        <charseq START="5820" END="5826">Harrods</charseq>
+      </extent>
+      <head>
+        <charseq START="5820" END="5826">Harrods</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-62-1">
+      <extent>
+        <charseq START="6441" END="6447">Harrods</charseq>
+      </extent>
+      <head>
+        <charseq START="6441" END="6447">Harrods</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-62-2">
+      <extent>
+        <charseq START="6452" END="6458">Harrods</charseq>
+      </extent>
+      <head>
+        <charseq START="6452" END="6458">Harrods</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Harrods">
+        <charseq START="5820" END="5826">Harrods</charseq>
+      </name>
+      <name NAME="Harrods">
+        <charseq START="6441" END="6447">Harrods</charseq>
+      </name>
+      <name NAME="Harrods">
+        <charseq START="6452" END="6458">Harrods</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-63-0">
+      <extent>
+        <charseq START="5842" END="5856">two little kids</charseq>
+      </extent>
+      <head>
+        <charseq START="5853" END="5856">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-64-0">
+      <extent>
+        <charseq START="5945" END="5963">Deep Frayed Morgues</charseq>
+      </extent>
+      <head>
+        <charseq START="5945" END="5963">Deep Frayed Morgues</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-64-1">
+      <extent>
+        <charseq START="6724" END="6726">DFM</charseq>
+      </extent>
+      <head>
+        <charseq START="6724" END="6726">DFM</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Deep Frayed Morgues">
+        <charseq START="5945" END="5963">Deep Frayed Morgues</charseq>
+      </name>
+      <name NAME="DFM">
+        <charseq START="6724" END="6726">DFM</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-65-0">
+      <extent>
+        <charseq START="6078" END="6093">Angus Steakhouse</charseq>
+      </extent>
+      <head>
+        <charseq START="6078" END="6093">Angus Steakhouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-65-1">
+      <extent>
+        <charseq START="6158" END="6161">them</charseq>
+      </extent>
+      <head>
+        <charseq START="6158" END="6161">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="rec.travel.europe_20050101.1800-65-2">
+      <extent>
+        <charseq START="6164" END="6167">They</charseq>
+      </extent>
+      <head>
+        <charseq START="6164" END="6167">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-65-3">
+      <extent>
+        <charseq START="6177" END="6183">British</charseq>
+      </extent>
+      <head>
+        <charseq START="6177" END="6183">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Angus Steakhouse">
+        <charseq START="6078" END="6093">Angus Steakhouse</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="6177" END="6183">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-66" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-66-0">
+      <extent>
+        <charseq START="6221" END="6223">Pub</charseq>
+      </extent>
+      <head>
+        <charseq START="6221" END="6223">Pub</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-67" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-67-0" ROLE="GPE">
+      <extent>
+        <charseq START="6255" END="6260">the UK</charseq>
+      </extent>
+      <head>
+        <charseq START="6259" END="6260">UK</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UK">
+        <charseq START="6259" END="6260">UK</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-68" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="rec.travel.europe_20050101.1800-68-0" ROLE="GPE">
+      <extent>
+        <charseq START="6279" END="6284">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="6279" END="6284">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Europe">
+        <charseq START="6279" END="6284">Europe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-69" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-69-0" ROLE="GPE">
+      <extent>
+        <charseq START="6293" END="6302">The cities</charseq>
+      </extent>
+      <head>
+        <charseq START="6297" END="6302">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-70" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-70-0">
+      <extent>
+        <charseq START="6472" END="6482">most people</charseq>
+      </extent>
+      <head>
+        <charseq START="6477" END="6482">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="rec.travel.europe_20050101.1800-71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="rec.travel.europe_20050101.1800-71-0">
+      <extent>
+        <charseq START="6702" END="6708">tourist</charseq>
+      </extent>
+      <head>
+        <charseq START="6702" END="6708">tourist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="rec.travel.europe_20050101.1800-T0" VAL="2005-01-01T18:00:00">
+    <timex2_mention ID="rec.travel.europe_20050101.1800-T0-1">
+      <extent>
+        <charseq START="47" END="65">2005-01-01T18:00:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="rec.travel.europe_20050101.1800-T1" VAL="2005-01-01T18:00:00-0500">
+    <timex2_mention ID="rec.travel.europe_20050101.1800-T1-1">
+      <extent>
+        <charseq START="108" END="138">Sat, 01 Jan 2005 18:00:00 -0500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="rec.travel.europe_20050101.1800-T2" VAL="2004-12-27">
+    <timex2_mention ID="rec.travel.europe_20050101.1800-T2-1">
+      <extent>
+        <charseq START="448" END="453">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="rec.travel.europe_20050101.1800-T3" VAL="2005-01-02T10:41:54Z">
+    <timex2_mention ID="rec.travel.europe_20050101.1800-T3-1">
+      <extent>
+        <charseq START="5967" END="5995">Sun, 02 Jan 2005 10:41:54 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030429_220618.15.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030429_220618.15">
+  <entity ID="CNNHL_ENG_20030429_220618.15-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030429_220618.15-1-0">
+      <extent>
+        <charseq START="70" END="83">president bush</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="83">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-1-1">
+      <extent>
+        <charseq START="70" END="78">president</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="78">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-1-2">
+      <extent>
+        <charseq START="252" END="260">president</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="260">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="80" END="83">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030429_220618.15-2-0">
+      <extent>
+        <charseq START="96" END="103">congress</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="103">congress</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="congress">
+        <charseq START="96" END="103">congress</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-3-0">
+      <extent>
+        <charseq START="171" END="175">white</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="175">white</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-4-0">
+      <extent>
+        <charseq START="177" END="181">house</charseq>
+      </extent>
+      <head>
+        <charseq START="177" END="181">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-5-0">
+      <extent>
+        <charseq START="196" END="209">aids
+activists</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="209">activists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-6-0">
+      <extent>
+        <charseq START="215" END="223">lawmakers</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="223">lawmakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-7" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-7-0">
+      <extent>
+        <charseq START="237" END="245">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="245">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030429_220618.15-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030429_220618.15-8-0">
+      <extent>
+        <charseq START="332" END="356">at least
+2 million people</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="356">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030429_220618.15-T0" VAL="2003-04-29">
+    <timex2_mention ID="CNNHL_ENG_20030429_220618.15-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-04-29</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

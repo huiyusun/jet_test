@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj94_040.0225.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj94_040.0225">
+  <entity ID="wsj94_040.0225-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-1-0">
+      <extent>
+        <charseq START="343" END="350">AB Volvo</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="350">AB Volvo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-1-1">
+      <extent>
+        <charseq START="735" END="739">Volvo</charseq>
+      </extent>
+      <head>
+        <charseq START="735" END="739">Volvo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-1-2">
+      <extent>
+        <charseq START="922" END="926">Volvo</charseq>
+      </extent>
+      <head>
+        <charseq START="922" END="926">Volvo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-1-3">
+      <extent>
+        <charseq START="986" END="990">Volvo</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="990">Volvo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AB Volvo">
+        <charseq START="343" END="350">AB Volvo</charseq>
+      </name>
+      <name NAME="Volvo">
+        <charseq START="735" END="739">Volvo</charseq>
+      </name>
+      <name NAME="Volvo">
+        <charseq START="922" END="926">Volvo</charseq>
+      </name>
+      <name NAME="Volvo">
+        <charseq START="986" END="990">Volvo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="355" END="364">Gothenburg</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="364">Gothenburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gothenburg">
+        <charseq START="355" END="364">Gothenburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="367" END="372">Sweden</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="372">Sweden</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-3-1" ROLE="LOC">
+      <extent>
+        <charseq START="418" END="424">Swedish</charseq>
+      </extent>
+      <head>
+        <charseq START="418" END="424">Swedish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="591" END="596">Sweden</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="596">Sweden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sweden">
+        <charseq START="367" END="372">Sweden</charseq>
+      </name>
+      <name NAME="Swedish">
+        <charseq START="418" END="424">Swedish</charseq>
+      </name>
+      <name NAME="Sweden">
+        <charseq START="591" END="596">Sweden</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-4-0">
+      <extent>
+        <charseq START="383" END="400">Bert-Olof Svanholm</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="400">Bert-Olof Svanholm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-4-1">
+      <extent>
+        <charseq START="483" END="494">Mr. Svanholm</charseq>
+      </extent>
+      <head>
+        <charseq START="487" END="494">Svanholm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-4-2">
+      <extent>
+        <charseq START="483" END="485">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="485">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-4-3">
+      <extent>
+        <charseq START="499" END="507">president</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="507">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_040.0225-4-4">
+      <extent>
+        <charseq START="638" END="639">He</charseq>
+      </extent>
+      <head>
+        <charseq START="638" END="639">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-4-5">
+      <extent>
+        <charseq START="838" END="849">Mr. Svanholm</charseq>
+      </extent>
+      <head>
+        <charseq START="842" END="849">Svanholm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-4-6">
+      <extent>
+        <charseq START="838" END="840">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="838" END="840">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bert-Olof Svanholm">
+        <charseq START="383" END="400">Bert-Olof Svanholm</charseq>
+      </name>
+      <name NAME="Svanholm">
+        <charseq START="487" END="494">Svanholm</charseq>
+      </name>
+      <name NAME="Svanholm">
+        <charseq START="842" END="849">Svanholm</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-5-0">
+      <extent>
+        <charseq START="383" END="409">Bert-Olof Svanholm chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="409">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-6-0">
+      <extent>
+        <charseq START="414" END="441">the Swedish
+automotive group</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="441">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-7-0">
+      <extent>
+        <charseq START="512" END="537">ABB Asea Brown Boveri Ltd.</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="537">ABB Asea Brown Boveri Ltd.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-7-1">
+      <extent>
+        <charseq START="540" END="561">an
+engineering concern</charseq>
+      </extent>
+      <head>
+        <charseq START="555" END="561">concern</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-7-2">
+      <extent>
+        <charseq START="854" END="874">ABB Asea Brown Boveri</charseq>
+      </extent>
+      <head>
+        <charseq START="854" END="874">ABB Asea Brown Boveri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ABB Asea Brown Boveri Ltd.">
+        <charseq START="512" END="537">ABB Asea Brown Boveri Ltd.</charseq>
+      </name>
+      <name NAME="ABB Asea Brown Boveri">
+        <charseq START="854" END="874">ABB Asea Brown Boveri</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-8-0">
+      <extent>
+        <charseq START="580" END="586">Asea AB</charseq>
+      </extent>
+      <head>
+        <charseq START="580" END="586">Asea AB</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asea AB">
+        <charseq START="580" END="586">Asea AB</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-9-0">
+      <extent>
+        <charseq START="602" END="620">BBC Brown
+Boveri AG</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="620">BBC Brown
+Boveri AG</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BBC Brown Boveri AG">
+        <charseq START="602" END="620">BBC Brown
+Boveri AG</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="625" END="635">Switzerland</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="635">Switzerland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Switzerland">
+        <charseq START="625" END="635">Switzerland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-11-0">
+      <extent>
+        <charseq START="650" END="669">Pehr G. Gyllenhammar</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="669">Pehr G. Gyllenhammar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj94_040.0225-11-1">
+      <extent>
+        <charseq START="1047" END="1048">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1048">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pehr G. Gyllenhammar">
+        <charseq START="650" END="669">Pehr G. Gyllenhammar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="776" END="781">French</charseq>
+      </extent>
+      <head>
+        <charseq START="776" END="781">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="French">
+        <charseq START="776" END="781">French</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-13-0">
+      <extent>
+        <charseq START="776" END="800">French partner Renault SA</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="800">Renault SA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-13-1">
+      <extent>
+        <charseq START="783" END="789">partner</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="789">partner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-13-2">
+      <extent>
+        <charseq START="1024" END="1030">Renault</charseq>
+      </extent>
+      <head>
+        <charseq START="1024" END="1030">Renault</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Renault SA">
+        <charseq START="791" END="800">Renault SA</charseq>
+      </name>
+      <name NAME="Renault">
+        <charseq START="1024" END="1030">Renault</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-14-0">
+      <extent>
+        <charseq START="908" END="919">shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="908" END="919">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-15-0">
+      <extent>
+        <charseq START="922" END="948">Volvo President Soeren
+Gyll</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="948">Soeren
+Gyll</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj94_040.0225-15-1">
+      <extent>
+        <charseq START="928" END="936">President</charseq>
+      </extent>
+      <head>
+        <charseq START="928" END="936">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Soeren Gyll">
+        <charseq START="938" END="948">Soeren
+Gyll</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="1161" END="1165">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1161" END="1165">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="1161" END="1165">Japan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-17" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-17-0">
+      <extent>
+        <charseq START="1168" END="1181">Southeast Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="1168" END="1181">Southeast Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Southeast Asia">
+        <charseq START="1168" END="1181">Southeast Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj94_040.0225-18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj94_040.0225-18-0">
+      <extent>
+        <charseq START="1187" END="1199">North America</charseq>
+      </extent>
+      <head>
+        <charseq START="1187" END="1199">North America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North America">
+        <charseq START="1187" END="1199">North America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="wsj94_040.0225-T0" VAL="2015-12">
+    <timex2_mention ID="wsj94_040.0225-T0-1">
+      <extent>
+        <charseq START="688" END="695">December</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_040.0225-T1" VAL="1993">
+    <timex2_mention ID="wsj94_040.0225-T1-1">
+      <extent>
+        <charseq START="1060" END="1063">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj94_040.0225-T2" VAL="1986">
+    <timex2_mention ID="wsj94_040.0225-T2-1">
+      <extent>
+        <charseq START="1129" END="1132">1986</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="wsj94_040.0225-R1" TYPE="REGIONOF">
+    <relation_argument REFID="wsj94_040.0225-2" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_040.0225-3" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_040.0225-R1-1">
+      <extent>
+        <charseq START="355" END="372">Gothenburg,
+Sweden</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_040.0225-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="355" END="364">Gothenburg</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_040.0225-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="367" END="372">Sweden</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="wsj94_040.0225-R2" TYPE="SUCCEED">
+    <relation_argument REFID="wsj94_040.0225-4" ROLE="Arg-1" />
+    <relation_argument REFID="wsj94_040.0225-11" ROLE="Arg-2" />
+      <relation_mention ID="wsj94_040.0225-R2-1">
+      <extent>
+        <charseq START="638" END="669">He succeeds Pehr G. Gyllenhammar</charseq>
+      </extent>
+        <relation_mention_argument REFID="wsj94_040.0225-4-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="638" END="639">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="wsj94_040.0225-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="650" END="669">Pehr G. Gyllenhammar</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

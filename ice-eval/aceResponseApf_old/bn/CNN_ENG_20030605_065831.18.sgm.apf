@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030605_065831.18.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030605_065831.18">
+  <entity ID="CNN_ENG_20030605_065831.18-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-1-0">
+      <extent>
+        <charseq START="68" END="81">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="81">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-1-1">
+      <extent>
+        <charseq START="118" END="134">the news big time</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="134">time</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-1-2">
+      <extent>
+        <charseq START="143" END="145">she</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="145">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-1-3">
+      <extent>
+        <charseq START="179" END="192">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="192">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-1-4">
+      <extent>
+        <charseq START="1127" END="1140">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="1127" END="1140">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-1-5">
+      <extent>
+        <charseq START="1218" END="1220">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1220">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-1-6">
+      <extent>
+        <charseq START="1279" END="1281">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1281">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="martha stewart">
+        <charseq START="68" END="81">martha stewart</charseq>
+      </name>
+      <name NAME="martha stewart">
+        <charseq START="179" END="192">martha stewart</charseq>
+      </name>
+      <name NAME="martha stewart">
+        <charseq START="1127" END="1140">martha stewart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-2-0">
+      <extent>
+        <charseq START="159" END="166">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="166">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-2-1">
+      <extent>
+        <charseq START="675" END="682">chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="682">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-3-0">
+      <extent>
+        <charseq START="213" END="223">the company</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="223">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-4-0">
+      <extent>
+        <charseq START="312" END="333">the justice department</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="333">justice department</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-4-1">
+      <extent>
+        <charseq START="413" END="416">they</charseq>
+      </extent>
+      <head>
+        <charseq START="413" END="416">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="justice department">
+        <charseq START="316" END="333">justice department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-5-0">
+      <extent>
+        <charseq START="348" END="354">insider</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="354">insider</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-5-1">
+      <extent>
+        <charseq START="502" END="504">her</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="504">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-6-0">
+      <extent>
+        <charseq START="575" END="579">enron</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="579">enron</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="enron">
+        <charseq START="575" END="579">enron</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-7-0">
+      <extent>
+        <charseq START="612" END="617">people</charseq>
+      </extent>
+      <head>
+        <charseq START="612" END="617">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-8-0">
+      <extent>
+        <charseq START="657" END="665">kenny lay</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="665">kenny lay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kenny lay">
+        <charseq START="657" END="665">kenny lay</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-9-0">
+      <extent>
+        <charseq START="688" END="696">president</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="696">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-10-0">
+      <extent>
+        <charseq START="699" END="702">both</charseq>
+      </extent>
+      <head>
+        <charseq START="699" END="702">both</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-10-1">
+      <extent>
+        <charseq START="707" END="718">that company</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="718">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-11-0">
+      <extent>
+        <charseq START="739" END="765">the chief financial
+officer</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="765">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-11-1">
+      <extent>
+        <charseq START="779" END="781">one</charseq>
+      </extent>
+      <head>
+        <charseq START="779" END="781">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-12-0">
+      <extent>
+        <charseq START="806" END="813">worldcom</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="813">worldcom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="worldcom">
+        <charseq START="806" END="813">worldcom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-13-0">
+      <extent>
+        <charseq START="829" END="841">80,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="836" END="841">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="897" END="913">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="901" END="913">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="united states">
+        <charseq START="901" END="913">united states</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-15-0">
+      <extent>
+        <charseq START="916" END="927">bernie evers</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="927">bernie evers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-15-1">
+      <extent>
+        <charseq START="939" END="941">his</charseq>
+      </extent>
+      <head>
+        <charseq START="939" END="941">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-15-2">
+      <extent>
+        <charseq START="1063" END="1064">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1064">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030605_065831.18-15-3">
+      <extent>
+        <charseq START="1103" END="1105">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1105">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bernie evers">
+        <charseq START="916" END="927">bernie evers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-16-0">
+      <extent>
+        <charseq START="993" END="996">tyco</charseq>
+      </extent>
+      <head>
+        <charseq START="993" END="996">tyco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="tyco">
+        <charseq START="993" END="996">tyco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-17-0">
+      <extent>
+        <charseq START="1008" END="1033">president dennis kozlowski</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1033">dennis kozlowski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-17-1">
+      <extent>
+        <charseq START="1008" END="1016">president</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1016">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="dennis kozlowski">
+        <charseq START="1018" END="1033">dennis kozlowski</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-18-0">
+      <extent>
+        <charseq START="1085" END="1098">martha vinyard</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1098">martha vinyard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="martha vinyard">
+        <charseq START="1085" END="1098">martha vinyard</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-19" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-19-0">
+      <extent>
+        <charseq START="1103" END="1111">his
+yacht</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1111">yacht</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-20-0">
+      <extent>
+        <charseq START="1155" END="1170">the neighborhood</charseq>
+      </extent>
+      <head>
+        <charseq START="1159" END="1170">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030605_065831.18-21-0">
+      <extent>
+        <charseq START="1349" END="1358">am@cnn.com</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1358">am@cnn.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="am@cnn.com">
+        <charseq START="1349" END="1358">am@cnn.com</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-22-0">
+      <extent>
+        <charseq START="1643" END="1658">a powerful woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1654" END="1658">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030605_065831.18-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030605_065831.18-23-0">
+      <extent>
+        <charseq START="1664" END="1676">the
+celebrity</charseq>
+      </extent>
+      <head>
+        <charseq START="1668" END="1676">celebrity</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNN_ENG_20030605_065831.18-V16" TYPE="Contact-Info" SUBTYPE="E-Mail">
+    <value_mention ID="CNN_ENG_20030605_065831.18-V16-1">
+      <extent>
+        <charseq START="1349" END="1358">am@cnn.com</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="CNN_ENG_20030605_065831.18-V17" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="CNN_ENG_20030605_065831.18-V17-1">
+      <extent>
+        <charseq START="1507" END="1523">a billion
+dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNN_ENG_20030605_065831.18-T0" VAL="2003-06-05">
+    <timex2_mention ID="CNN_ENG_20030605_065831.18-T0-1">
+      <extent>
+        <charseq START="44" END="53">2003-06-05</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030605_065831.18-T1" VAL="4000">
+    <timex2_mention ID="CNN_ENG_20030605_065831.18-T1-1">
+      <extent>
+        <charseq START="468" END="472">4,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

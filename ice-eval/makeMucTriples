@@ -1,0 +1,2 @@
+\rm responseTriples
+java -cp .:$JET_HOME/jet-all.jar AceJet.ApfToTriples muc-docs/ muc-docList sgm sgm.apf x > muc-rawTriples

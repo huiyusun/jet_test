@@ -1,0 +1,938 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="alt.politics_20050124.0640.sgm" SOURCE="usenet" TYPE="text" AUTHOR="NYU">
+<document DOCID="alt.politics_20050124.0640">
+  <entity ID="alt.politics_20050124.0640-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-1-0">
+      <extent>
+        <charseq START="146" END="146">J</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="146">J</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="J">
+        <charseq START="146" END="146">J</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-2-0">
+      <extent>
+        <charseq START="184" END="187">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="187">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-2-1">
+      <extent>
+        <charseq START="293" END="296">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="296">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-2-2">
+      <extent>
+        <charseq START="1216" END="1219">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1216" END="1219">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bush">
+        <charseq START="184" END="187">Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="293" END="296">Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="1216" END="1219">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-3-0">
+      <extent>
+        <charseq START="184" END="202">Bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="202">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-4" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-4-0">
+      <extent>
+        <charseq START="242" END="259">biological weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="259">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-5-0">
+      <extent>
+        <charseq START="289" END="311">the Bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="311">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="353" END="359">America</charseq>
+      </extent>
+      <head>
+        <charseq START="353" END="359">America</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="447" END="452">the US</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="452">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="America">
+        <charseq START="353" END="359">America</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="451" END="452">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-7" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-7-0">
+      <extent>
+        <charseq START="378" END="382">world</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="382">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-8" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-8-0">
+      <extent>
+        <charseq START="410" END="427">biological weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="427">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-9" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-9-0">
+      <extent>
+        <charseq START="476" END="491">chemical weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="491">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-9-1">
+      <extent>
+        <charseq START="1106" END="1112">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1106" END="1112">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-10" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-10-0">
+      <extent>
+        <charseq START="506" END="519">blister agents</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="519">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-11" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-11-0">
+      <extent>
+        <charseq START="522" END="532">riot agents</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="532">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-12" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-12-0">
+      <extent>
+        <charseq START="539" END="562">the dreaded nerve agents</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="562">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-13-0">
+      <extent>
+        <charseq START="568" END="588">these eight locations</charseq>
+      </extent>
+      <head>
+        <charseq START="580" END="588">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-14" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-14-0">
+      <extent>
+        <charseq START="616" END="624">artillery</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="624">artillery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-15" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-15-0">
+      <extent>
+        <charseq START="616" END="631">artillery rounds</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="631">rounds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-16" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-16-0">
+      <extent>
+        <charseq START="634" END="638">bombs</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="638">bombs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-17" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-17-0">
+      <extent>
+        <charseq START="645" END="651">rockets</charseq>
+      </extent>
+      <head>
+        <charseq START="645" END="651">rockets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-18-0">
+      <extent>
+        <charseq START="682" END="687">bunker</charseq>
+      </extent>
+      <head>
+        <charseq START="682" END="687">bunker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-19" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-19-0">
+      <extent>
+        <charseq START="762" END="778">Storage locations</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="778">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-20-0">
+      <extent>
+        <charseq START="792" END="810">Anniston Army Depot</charseq>
+      </extent>
+      <head>
+        <charseq START="792" END="810">Anniston Army Depot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anniston Army Depot">
+        <charseq START="792" END="810">Anniston Army Depot</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="813" END="820">Anniston</charseq>
+      </extent>
+      <head>
+        <charseq START="813" END="820">Anniston</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-21-1" ROLE="GPE">
+      <extent>
+        <charseq START="1025" END="1032">Anniston</charseq>
+      </extent>
+      <head>
+        <charseq START="1025" END="1032">Anniston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anniston">
+        <charseq START="813" END="820">Anniston</charseq>
+      </name>
+      <name NAME="Anniston">
+        <charseq START="1025" END="1032">Anniston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="823" END="824">AL</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="824">AL</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AL">
+        <charseq START="823" END="824">AL</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-23-0">
+      <extent>
+        <charseq START="829" END="850">Rocky Mountain Arsenal</charseq>
+      </extent>
+      <head>
+        <charseq START="829" END="850">Rocky Mountain Arsenal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rocky Mountain Arsenal">
+        <charseq START="829" END="850">Rocky Mountain Arsenal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="853" END="858">Pueblo</charseq>
+      </extent>
+      <head>
+        <charseq START="853" END="858">Pueblo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pueblo">
+        <charseq START="853" END="858">Pueblo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-25-0">
+      <extent>
+        <charseq START="867" END="886">Bluegrass Army Depot</charseq>
+      </extent>
+      <head>
+        <charseq START="867" END="886">Bluegrass Army Depot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bluegrass Army Depot">
+        <charseq START="867" END="886">Bluegrass Army Depot</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="889" END="897">Lexington</charseq>
+      </extent>
+      <head>
+        <charseq START="889" END="897">Lexington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lexington">
+        <charseq START="889" END="897">Lexington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="900" END="901">KY</charseq>
+      </extent>
+      <head>
+        <charseq START="900" END="901">KY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="KY">
+        <charseq START="900" END="901">KY</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-28-0">
+      <extent>
+        <charseq START="906" END="929">Aberdeen Proving Grounds</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="929">Aberdeen Proving Grounds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aberdeen Proving Grounds">
+        <charseq START="906" END="929">Aberdeen Proving Grounds</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="932" END="933">MD</charseq>
+      </extent>
+      <head>
+        <charseq START="932" END="933">MD</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="1641" END="1646">M. D.&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="1641" END="1645">M. D.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MD">
+        <charseq START="932" END="933">MD</charseq>
+      </name>
+      <name NAME="M. D.">
+        <charseq START="1641" END="1645">M. D.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-30-0">
+      <extent>
+        <charseq START="938" END="954">Toelle Army Depot</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="954">Toelle Army Depot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Toelle Army Depot">
+        <charseq START="938" END="954">Toelle Army Depot</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="957" END="962">Toelle</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="962">Toelle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-31-1" ROLE="GPE">
+      <extent>
+        <charseq START="1439" END="1444">Toelle</charseq>
+      </extent>
+      <head>
+        <charseq START="1439" END="1444">Toelle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Toelle">
+        <charseq START="957" END="962">Toelle</charseq>
+      </name>
+      <name NAME="Toelle">
+        <charseq START="1439" END="1444">Toelle</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-32-0" ROLE="GPE">
+      <extent>
+        <charseq START="965" END="966">UT</charseq>
+      </extent>
+      <head>
+        <charseq START="965" END="966">UT</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-32-1" ROLE="GPE">
+      <extent>
+        <charseq START="987" END="990">them</charseq>
+      </extent>
+      <head>
+        <charseq START="987" END="990">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="UT">
+        <charseq START="965" END="966">UT</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-33-0">
+      <extent>
+        <charseq START="969" END="982">the granddaddy</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="982">granddaddy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-34" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-34-0">
+      <extent>
+        <charseq START="1040" END="1058">the Dept of Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1058">Dept of Defense</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dept of Defense">
+        <charseq START="1044" END="1058">Dept of Defense</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-35-0">
+      <extent>
+        <charseq START="1158" END="1179">destruction facilities</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1179">facilities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-36" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-36-0">
+      <extent>
+        <charseq START="1188" END="1202">other locations</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1202">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-37" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-37-0">
+      <extent>
+        <charseq START="1212" END="1225">the Bush junta</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1225">junta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-37-1">
+      <extent>
+        <charseq START="1244" END="1246">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1244" END="1246">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-38" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-38-0">
+      <extent>
+        <charseq START="1370" END="1385">chemical weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1379" END="1385">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-39-0">
+      <extent>
+        <charseq START="1447" END="1457">Contractors</charseq>
+      </extent>
+      <head>
+        <charseq START="1447" END="1457">Contractors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-40-0">
+      <extent>
+        <charseq START="1460" END="1466">Bechtel</charseq>
+      </extent>
+      <head>
+        <charseq START="1460" END="1466">Bechtel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-40-1">
+      <extent>
+        <charseq START="1472" END="1490">the main contractor</charseq>
+      </extent>
+      <head>
+        <charseq START="1481" END="1490">contractor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-40-2">
+      <extent>
+        <charseq START="1567" END="1571">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1567" END="1571">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bechtel">
+        <charseq START="1460" END="1466">Bechtel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-41-0">
+      <extent>
+        <charseq START="1567" END="1578">their people</charseq>
+      </extent>
+      <head>
+        <charseq START="1573" END="1578">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-42-0" ROLE="GPE">
+      <extent>
+        <charseq START="1675" END="1680">nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1675" END="1680">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-43" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-43-0">
+      <extent>
+        <charseq START="1685" END="1693">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1689" END="1693">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-44" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-44-0">
+      <extent>
+        <charseq START="1700" END="1711">the most WMD</charseq>
+      </extent>
+      <head>
+        <charseq START="1709" END="1711">WMD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="1726" END="1737">neither Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1734" END="1737">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-45-1" ROLE="GPE">
+      <extent>
+        <charseq START="1820" END="1823">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1820" END="1823">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="1734" END="1737">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="1740" END="1743">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1740" END="1743">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iran">
+        <charseq START="1740" END="1743">Iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-47-0" ROLE="GPE">
+      <extent>
+        <charseq START="1750" END="1760">North Korea</charseq>
+      </extent>
+      <head>
+        <charseq START="1750" END="1760">North Korea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North Korea">
+        <charseq START="1750" END="1760">North Korea</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-48" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-48-0" ROLE="GPE">
+      <extent>
+        <charseq START="1765" END="1768">none</charseq>
+      </extent>
+      <head>
+        <charseq START="1765" END="1768">none</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="alt.politics_20050124.0640-49-0" ROLE="GPE">
+      <extent>
+        <charseq START="1785" END="1798">Axis
+of Evil.&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="1785" END="1797">Axis
+of Evil.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Axis of Evil.">
+        <charseq START="1785" END="1797">Axis
+of Evil.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="alt.politics_20050124.0640-50" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="alt.politics_20050124.0640-50-0">
+      <extent>
+        <charseq START="1849" END="1861">these weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1855" END="1861">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-50-1">
+      <extent>
+        <charseq START="1871" END="1874">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1871" END="1874">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="alt.politics_20050124.0640-50-2">
+      <extent>
+        <charseq START="1888" END="1891">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1888" END="1891">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="alt.politics_20050124.0640-T0" VAL="2005-01-24T06:40:00">
+    <timex2_mention ID="alt.politics_20050124.0640-T0-1">
+      <extent>
+        <charseq START="42" END="60">2005-01-24T06:40:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="alt.politics_20050124.0640-T1" VAL="2005-01-24T05:40:37-0600">
+    <timex2_mention ID="alt.politics_20050124.0640-T1-1">
+      <extent>
+        <charseq START="150" END="180">Mon, 24 Jan 2005 05:40:37 -0600</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="alt.politics_20050124.0640-T2" VAL="2005-01-24">
+    <timex2_mention ID="alt.politics_20050124.0640-T2-1">
+      <extent>
+        <charseq START="1208" END="1210">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="alt.politics_20050124.0640-T3" VAL="2006">
+    <timex2_mention ID="alt.politics_20050124.0640-T3-1">
+      <extent>
+        <charseq START="1288" END="1291">2006</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="alt.politics_20050124.0640-T4" VAL="2005-01-24">
+    <timex2_mention ID="alt.politics_20050124.0640-T4-1">
+      <extent>
+        <charseq START="1391" END="1393">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="alt.politics_20050124.0640-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="alt.politics_20050124.0640-21" ROLE="Arg-1" />
+    <relation_argument REFID="alt.politics_20050124.0640-24" ROLE="Arg-2" />
+      <relation_mention ID="alt.politics_20050124.0640-R1-1">
+      <extent>
+        <charseq START="813" END="858">Anniston, AL
+-- Rocky Mountain Arsenal, Pueblo</charseq>
+      </extent>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="813" END="820">Anniston</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="853" END="858">Pueblo</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="alt.politics_20050124.0640-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="alt.politics_20050124.0640-31" ROLE="Arg-1" />
+    <relation_argument REFID="alt.politics_20050124.0640-32" ROLE="Arg-2" />
+      <relation_mention ID="alt.politics_20050124.0640-R2-1">
+      <extent>
+        <charseq START="957" END="966">Toelle, UT</charseq>
+      </extent>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="957" END="962">Toelle</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-32-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="965" END="966">UT</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="alt.politics_20050124.0640-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="alt.politics_20050124.0640-45" ROLE="Arg-1" />
+    <relation_argument REFID="alt.politics_20050124.0640-46" ROLE="Arg-2" />
+      <relation_mention ID="alt.politics_20050124.0640-R3-1">
+      <extent>
+        <charseq START="1726" END="1743">neither Iraq, Iran</charseq>
+      </extent>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1726" END="1737">neither Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-46-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1740" END="1743">Iran</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="alt.politics_20050124.0640-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="alt.politics_20050124.0640-45" ROLE="Arg-1" />
+    <relation_argument REFID="alt.politics_20050124.0640-48" ROLE="Arg-2" />
+      <relation_mention ID="alt.politics_20050124.0640-R4-1">
+      <extent>
+        <charseq START="1726" END="1768">neither Iraq, Iran, nor North Korea -- none</charseq>
+      </extent>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1726" END="1737">neither Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-48-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1765" END="1768">none</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="alt.politics_20050124.0640-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="alt.politics_20050124.0640-48" ROLE="Arg-1" />
+    <relation_argument REFID="alt.politics_20050124.0640-49" ROLE="Arg-2" />
+      <relation_mention ID="alt.politics_20050124.0640-R5-2">
+      <extent>
+        <charseq START="1765" END="1798">none of the famous &quot;Axis
+of Evil.&quot;</charseq>
+      </extent>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1765" END="1768">none</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="alt.politics_20050124.0640-49-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1785" END="1798">Axis
+of Evil.&quot;</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

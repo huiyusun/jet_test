@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_009.0010.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_009.0010">
+  <entity ID="wsj93_009.0010-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_009.0010-1-0">
+      <extent>
+        <charseq START="178" END="205">North American Philips Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="205">North American Philips Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_009.0010-1-1">
+      <extent>
+        <charseq START="215" END="217">its</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="217">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North American Philips Corp.">
+        <charseq START="178" END="205">North American Philips Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_009.0010-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_009.0010-2-0">
+      <extent>
+        <charseq START="227" END="264">Philips Electronics North America Corp</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="264">Philips Electronics North America Corp</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_009.0010-2-1">
+      <extent>
+        <charseq START="541" END="559">Philips Electronics</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="559">Philips Electronics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philips Electronics North America Corp">
+        <charseq START="227" END="264">Philips Electronics North America Corp</charseq>
+      </name>
+      <name NAME="Philips Electronics">
+        <charseq START="541" END="559">Philips Electronics</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_009.0010-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_009.0010-3-0">
+      <extent>
+        <charseq START="285" END="290">a unit</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="290">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_009.0010-3-1">
+      <extent>
+        <charseq START="272" END="282">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="282">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_009.0010-4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_009.0010-4-0">
+      <extent>
+        <charseq START="295" END="335">Philips Electronics NV of the Netherlands</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="335">Philips Electronics NV of the Netherlands</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philips Electronics NV of the Netherlands">
+        <charseq START="295" END="335">Philips Electronics NV of the Netherlands</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_009.0010-5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_009.0010-5-0">
+      <extent>
+        <charseq START="444" END="456">North America</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="456">North America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North America">
+        <charseq START="444" END="456">North America</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_009.0010-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_009.0010-6-0">
+      <extent>
+        <charseq START="516" END="533">its parent
+company</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="533">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

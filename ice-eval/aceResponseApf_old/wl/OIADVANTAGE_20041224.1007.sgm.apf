@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="OIADVANTAGE_20041224.1007.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="OIADVANTAGE_20041224.1007">
+  <entity ID="OIADVANTAGE_20041224.1007-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-1-0">
+      <extent>
+        <charseq START="122" END="127">John A</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="127">John A</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John A">
+        <charseq START="122" END="127">John A</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-2" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-2-0">
+      <extent>
+        <charseq START="203" END="220">the business
+world</charseq>
+      </extent>
+      <head>
+        <charseq START="216" END="220">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="261" END="266">Boston</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="266">Boston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boston">
+        <charseq START="261" END="266">Boston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-4-0">
+      <extent>
+        <charseq START="295" END="299">panel</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="299">panel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-5" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-5-0">
+      <extent>
+        <charseq START="359" END="381">Harvard Business School</charseq>
+      </extent>
+      <head>
+        <charseq START="359" END="381">Harvard Business School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Harvard Business School">
+        <charseq START="359" END="381">Harvard Business School</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-6-0">
+      <extent>
+        <charseq START="417" END="427">a new group</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="427">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-7-0">
+      <extent>
+        <charseq START="436" END="468">Students for Responsible Business</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="468">Students for Responsible Business</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-7-1">
+      <extent>
+        <charseq START="859" END="891">Students for Responsible Business</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="891">Students for Responsible Business</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-7-2">
+      <extent>
+        <charseq START="961" END="965">their</charseq>
+      </extent>
+      <head>
+        <charseq START="961" END="965">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Students for Responsible Business">
+        <charseq START="436" END="468">Students for Responsible Business</charseq>
+      </name>
+      <name NAME="Students for Responsible Business">
+        <charseq START="859" END="891">Students for Responsible Business</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-8-0">
+      <extent>
+        <charseq START="522" END="548">slightly naive MBA students</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="548">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-9" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-9-0">
+      <extent>
+        <charseq START="568" END="580">a
+packed room</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="580">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-9-1">
+      <extent>
+        <charseq START="742" END="750">that room</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="750">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-10-0">
+      <extent>
+        <charseq START="612" END="627">driven idealists</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="627">idealists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-0">
+      <extent>
+        <charseq START="630" END="643">These
+students</charseq>
+      </extent>
+      <head>
+        <charseq START="636" END="643">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-1">
+      <extent>
+        <charseq START="1396" END="1409">These students</charseq>
+      </extent>
+      <head>
+        <charseq START="1402" END="1409">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-2">
+      <extent>
+        <charseq START="1995" END="2006">the students</charseq>
+      </extent>
+      <head>
+        <charseq START="1999" END="2006">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-3">
+      <extent>
+        <charseq START="2053" END="2064">MBA students</charseq>
+      </extent>
+      <head>
+        <charseq START="2057" END="2064">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-4">
+      <extent>
+        <charseq START="2191" END="2198">students</charseq>
+      </extent>
+      <head>
+        <charseq START="2191" END="2198">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-11-5">
+      <extent>
+        <charseq START="2656" END="2669">these students</charseq>
+      </extent>
+      <head>
+        <charseq START="2662" END="2669">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-12-0">
+      <extent>
+        <charseq START="698" END="705">a driver</charseq>
+      </extent>
+      <head>
+        <charseq START="700" END="705">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-13-0">
+      <extent>
+        <charseq START="804" END="832">these future business leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="826" END="832">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-14" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-14-0">
+      <extent>
+        <charseq START="992" END="1034">University of Texas McCombs Business School</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="1034">University of Texas McCombs Business School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="University of Texas McCombs Business School">
+        <charseq START="992" END="1034">University of Texas McCombs Business School</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-15-0">
+      <extent>
+        <charseq START="1080" END="1091">MBA students</charseq>
+      </extent>
+      <head>
+        <charseq START="1084" END="1091">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-16-0">
+      <extent>
+        <charseq START="1097" END="1102">alumni</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1102">alumni</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-17-0">
+      <extent>
+        <charseq START="1105" END="1128">Approximately 900 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1123" END="1128">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-18-0">
+      <extent>
+        <charseq START="1336" END="1345">the forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1340" END="1345">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-19" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-19-0">
+      <extent>
+        <charseq START="1385" END="1393">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1389" END="1393">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-19-1">
+      <extent>
+        <charseq START="1469" END="1478">this world</charseq>
+      </extent>
+      <head>
+        <charseq START="1474" END="1478">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-19-2">
+      <extent>
+        <charseq START="2685" END="2693">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="2689" END="2693">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-20" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-20-0">
+      <extent>
+        <charseq START="1482" END="1506">Recently business schools</charseq>
+      </extent>
+      <head>
+        <charseq START="1500" END="1506">schools</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-20-1">
+      <extent>
+        <charseq START="1522" END="1526">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1522" END="1526">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-21-0">
+      <extent>
+        <charseq START="1563" END="1571">graduates</charseq>
+      </extent>
+      <head>
+        <charseq START="1563" END="1571">graduates</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-21-1">
+      <extent>
+        <charseq START="1604" END="1608">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1604" END="1608">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-22" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-22-0">
+      <extent>
+        <charseq START="1729" END="1744">business schools</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1744">schools</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-23-0">
+      <extent>
+        <charseq START="1769" END="1779">the faculty</charseq>
+      </extent>
+      <head>
+        <charseq START="1773" END="1779">faculty</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-24-0">
+      <extent>
+        <charseq START="1785" END="1794">the alumni</charseq>
+      </extent>
+      <head>
+        <charseq START="1789" END="1794">alumni</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-25-0">
+      <extent>
+        <charseq START="1800" END="1817">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1804" END="1817">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-26" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-26-0">
+      <extent>
+        <charseq START="1824" END="1835">these groups</charseq>
+      </extent>
+      <head>
+        <charseq START="1830" END="1835">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-27" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-27-0">
+      <extent>
+        <charseq START="2028" END="2043">business schools</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2043">schools</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-27-1">
+      <extent>
+        <charseq START="2127" END="2130">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2127" END="2130">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-27-2">
+      <extent>
+        <charseq START="2137" END="2140">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2137" END="2140">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-27-3">
+      <extent>
+        <charseq START="2167" END="2171">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2167" END="2171">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-28" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-28-0">
+      <extent>
+        <charseq START="2167" END="2178">their school</charseq>
+      </extent>
+      <head>
+        <charseq START="2173" END="2178">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-29" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-29-0">
+      <extent>
+        <charseq START="2203" END="2218">business schools</charseq>
+      </extent>
+      <head>
+        <charseq START="2212" END="2218">schools</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-30-0">
+      <extent>
+        <charseq START="2320" END="2332">support group</charseq>
+      </extent>
+      <head>
+        <charseq START="2328" END="2332">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-31-0">
+      <extent>
+        <charseq START="2338" END="2357">social entrepreneurs</charseq>
+      </extent>
+      <head>
+        <charseq START="2345" END="2357">entrepreneurs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-32-0">
+      <extent>
+        <charseq START="2369" END="2376">speakers</charseq>
+      </extent>
+      <head>
+        <charseq START="2369" END="2376">speakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-33-0">
+      <extent>
+        <charseq START="2381" END="2386">campus</charseq>
+      </extent>
+      <head>
+        <charseq START="2381" END="2386">campus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-34-0">
+      <extent>
+        <charseq START="2738" END="2747">Adam Smith</charseq>
+      </extent>
+      <head>
+        <charseq START="2738" END="2747">Adam Smith</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-34-1">
+      <extent>
+        <charseq START="2860" END="2862">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2860" END="2862">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="OIADVANTAGE_20041224.1007-34-2">
+      <extent>
+        <charseq START="2894" END="2895">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2894" END="2895">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Adam Smith">
+        <charseq START="2738" END="2747">Adam Smith</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-35-0">
+      <extent>
+        <charseq START="2933" END="2946">a
+good citizen</charseq>
+      </extent>
+      <head>
+        <charseq START="2940" END="2946">citizen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-36-0">
+      <extent>
+        <charseq START="2952" END="2958">steward</charseq>
+      </extent>
+      <head>
+        <charseq START="2952" END="2958">steward</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-37-0">
+      <extent>
+        <charseq START="3025" END="3040">business leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="3034" END="3040">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="OIADVANTAGE_20041224.1007-38-0">
+      <extent>
+        <charseq START="3077" END="3082">center</charseq>
+      </extent>
+      <head>
+        <charseq START="3077" END="3082">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="OIADVANTAGE_20041224.1007-39" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="OIADVANTAGE_20041224.1007-39-0">
+      <extent>
+        <charseq START="3333" END="3347">Aspen Institute</charseq>
+      </extent>
+      <head>
+        <charseq START="3333" END="3347">Aspen Institute</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aspen Institute">
+        <charseq START="3333" END="3347">Aspen Institute</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T0" VAL="2004-12-24T10:07:00">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T0-1">
+      <extent>
+        <charseq START="41" END="59">2004-12-24T10:07:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T1" VAL="2004-12-24T10:07:00">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T1-1">
+      <extent>
+        <charseq START="131" END="149">2004-12-24T10:07:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T2" VAL="1994">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T2-1">
+      <extent>
+        <charseq START="227" END="230">1994</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T3" VAL="P10Y">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T3-1">
+      <extent>
+        <charseq START="849" END="856">10 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T4" VAL="2004-12-24">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T4-1">
+      <extent>
+        <charseq START="896" END="898">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T5" VAL="2004">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T5-1">
+      <extent>
+        <charseq START="923" END="926">2004</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T6" VAL="9000">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T6-1">
+      <extent>
+        <charseq START="1074" END="1078">9,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T7" VAL="2004">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T7-1">
+      <extent>
+        <charseq START="1143" END="1146">2004</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T8" VAL="2004-12-24">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T8-1">
+      <extent>
+        <charseq START="2187" END="2189">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="OIADVANTAGE_20041224.1007-T9" VAL="P10Y">
+    <timex2_mention ID="OIADVANTAGE_20041224.1007-T9-1">
+      <extent>
+        <charseq START="2605" END="2612">10 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

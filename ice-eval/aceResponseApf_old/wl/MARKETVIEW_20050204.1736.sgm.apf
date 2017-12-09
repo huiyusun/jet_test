@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MARKETVIEW_20050204.1736.sgm" SOURCE="weblog" TYPE="text" AUTHOR="NYU">
+<document DOCID="MARKETVIEW_20050204.1736">
+  <entity ID="MARKETVIEW_20050204.1736-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-1-0">
+      <extent>
+        <charseq START="96" END="100">Byrne</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="100">Byrne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Byrne">
+        <charseq START="96" END="100">Byrne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-2-0">
+      <extent>
+        <charseq START="205" END="210">NASDAQ</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="210">NASDAQ</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-2-1">
+      <extent>
+        <charseq START="739" END="748">the
+NASDAQ</charseq>
+      </extent>
+      <head>
+        <charseq START="743" END="748">NASDAQ</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-2-2">
+      <extent>
+        <charseq START="763" END="767">their</charseq>
+      </extent>
+      <head>
+        <charseq START="763" END="767">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-2-3">
+      <extent>
+        <charseq START="1157" END="1166">The
+NASDAQ</charseq>
+      </extent>
+      <head>
+        <charseq START="1161" END="1166">NASDAQ</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-2-4">
+      <extent>
+        <charseq START="1178" END="1179">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1178" END="1179">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NASDAQ">
+        <charseq START="205" END="210">NASDAQ</charseq>
+      </name>
+      <name NAME="NASDAQ">
+        <charseq START="743" END="748">NASDAQ</charseq>
+      </name>
+      <name NAME="NASDAQ">
+        <charseq START="1161" END="1166">NASDAQ</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-3-0">
+      <extent>
+        <charseq START="284" END="310">the New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="288" END="310">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-3-1">
+      <extent>
+        <charseq START="532" END="543">The
+exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="536" END="543">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-3-2">
+      <extent>
+        <charseq START="557" END="558">it</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="558">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-3-3">
+      <extent>
+        <charseq START="602" END="609">exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="609">exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-3-4">
+      <extent>
+        <charseq START="1575" END="1578">NYSE</charseq>
+      </extent>
+      <head>
+        <charseq START="1575" END="1578">NYSE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York Stock Exchange">
+        <charseq START="288" END="310">New York Stock Exchange</charseq>
+      </name>
+      <name NAME="NYSE">
+        <charseq START="1575" END="1578">NYSE</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-4-0">
+      <extent>
+        <charseq START="336" END="354">a for-profit entity</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="354">entity</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-5-0">
+      <extent>
+        <charseq START="572" END="586">the real owners</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="586">owners</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-5-1">
+      <extent>
+        <charseq START="839" END="842">they</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="842">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-5-2">
+      <extent>
+        <charseq START="873" END="877">their</charseq>
+      </extent>
+      <head>
+        <charseq START="873" END="877">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-6-0">
+      <extent>
+        <charseq START="591" END="597">holders</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="597">holders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-7-0">
+      <extent>
+        <charseq START="804" END="812">companies</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="812">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-8-0">
+      <extent>
+        <charseq START="1064" END="1087">more efficient
+companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1087">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-9-0">
+      <extent>
+        <charseq START="1294" END="1307">a salt company</charseq>
+      </extent>
+      <head>
+        <charseq START="1301" END="1307">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-10-0">
+      <extent>
+        <charseq START="1313" END="1319">muckdog</charseq>
+      </extent>
+      <head>
+        <charseq START="1313" END="1319">muckdog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="muckdog">
+        <charseq START="1313" END="1319">muckdog</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="MARKETVIEW_20050204.1736-11-0">
+      <extent>
+        <charseq START="1666" END="1676">Sears-Kmart</charseq>
+      </extent>
+      <head>
+        <charseq START="1666" END="1676">Sears-Kmart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sears-Kmart">
+        <charseq START="1666" END="1676">Sears-Kmart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-12-0">
+      <extent>
+        <charseq START="1721" END="1732">Those stores</charseq>
+      </extent>
+      <head>
+        <charseq START="1727" END="1732">stores</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="MARKETVIEW_20050204.1736-12-1">
+      <extent>
+        <charseq START="1753" END="1756">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1753" END="1756">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-13-0">
+      <extent>
+        <charseq START="1798" END="1810">the buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="1802" END="1810">buildings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-14-0">
+      <extent>
+        <charseq START="1843" END="1851">strippers</charseq>
+      </extent>
+      <head>
+        <charseq START="1843" END="1851">strippers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="MARKETVIEW_20050204.1736-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="MARKETVIEW_20050204.1736-15-0">
+      <extent>
+        <charseq START="1857" END="1864">cashiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1857" END="1864">cashiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="MARKETVIEW_20050204.1736-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050204.1736-V1-1">
+      <extent>
+        <charseq START="259" END="264">10.46%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="MARKETVIEW_20050204.1736-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="MARKETVIEW_20050204.1736-V3-1">
+      <extent>
+        <charseq START="652" END="654">40%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="MARKETVIEW_20050204.1736-T0" VAL="2005-02-04T17:36:00">
+    <timex2_mention ID="MARKETVIEW_20050204.1736-T0-1">
+      <extent>
+        <charseq START="40" END="58">2005-02-04T17:36:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20050204.1736-T1" VAL="2005-02-04T17:36:00">
+    <timex2_mention ID="MARKETVIEW_20050204.1736-T1-1">
+      <extent>
+        <charseq START="104" END="122">2005-02-04T17:36:00</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="MARKETVIEW_20050204.1736-T2" VAL="2005-02-04">
+    <timex2_mention ID="MARKETVIEW_20050204.1736-T2-1">
+      <extent>
+        <charseq START="377" END="379">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030513_220910.32.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030513_220910.32">
+  <entity ID="CNNHL_ENG_20030513_220910.32-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-1-0">
+      <extent>
+        <charseq START="103" END="106">king</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="106">king</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-1-1">
+      <extent>
+        <charseq START="143" END="146">king</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="146">king</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030513_220910.32-2-0">
+      <extent>
+        <charseq START="161" END="175">michael jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="175">michael jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030513_220910.32-2-1">
+      <extent>
+        <charseq START="257" END="258">he</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="258">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030513_220910.32-2-2">
+      <extent>
+        <charseq START="264" END="266">him</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="266">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030513_220910.32-2-3">
+      <extent>
+        <charseq START="278" END="279">he</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="279">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030513_220910.32-2-4">
+      <extent>
+        <charseq START="437" END="439">him</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="439">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030513_220910.32-2-5">
+      <extent>
+        <charseq START="528" END="529">he</charseq>
+      </extent>
+      <head>
+        <charseq START="528" END="529">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="michael jackson">
+        <charseq START="161" END="175">michael jackson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-3-0">
+      <extent>
+        <charseq START="213" END="230">the parent company</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="230">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030513_220910.32-4-0">
+      <extent>
+        <charseq START="235" END="248">motown records</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="248">motown records</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="motown records">
+        <charseq START="235" END="248">motown records</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-5" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030513_220910.32-5-0">
+      <extent>
+        <charseq START="299" END="310">jackson five</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="310">jackson five</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030513_220910.32-5-1">
+      <extent>
+        <charseq START="397" END="408">jackson five</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="408">jackson five</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030513_220910.32-5-2">
+      <extent>
+        <charseq START="460" END="466">jackson</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="466">jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="jackson five">
+        <charseq START="299" END="310">jackson five</charseq>
+      </name>
+      <name NAME="jackson five">
+        <charseq START="397" END="408">jackson five</charseq>
+      </name>
+      <name NAME="jackson">
+        <charseq START="460" END="466">jackson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-6" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-6-0">
+      <extent>
+        <charseq START="491" END="500">courtrooms</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="500">courtrooms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-7-0">
+      <extent>
+        <charseq START="546" END="561">an
+auction house</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="561">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030513_220910.32-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030513_220910.32-8-0">
+      <extent>
+        <charseq START="587" END="604">a concert promoter</charseq>
+      </extent>
+      <head>
+        <charseq START="597" END="604">promoter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="CNNHL_ENG_20030513_220910.32-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="CNNHL_ENG_20030513_220910.32-V1-1">
+      <extent>
+        <charseq START="442" END="456">a single dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="CNNHL_ENG_20030513_220910.32-T0" VAL="2003-05-13">
+    <timex2_mention ID="CNNHL_ENG_20030513_220910.32-T0-1">
+      <extent>
+        <charseq START="46" END="55">2003-05-13</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030513_220910.32-T1" VAL="2003-05-13">
+    <timex2_mention ID="CNNHL_ENG_20030513_220910.32-T1-1">
+      <extent>
+        <charseq START="116" END="118">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030513_220910.32-T2" VAL="PXM">
+    <timex2_mention ID="CNNHL_ENG_20030513_220910.32-T2-1">
+      <extent>
+        <charseq START="513" END="525">recent months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

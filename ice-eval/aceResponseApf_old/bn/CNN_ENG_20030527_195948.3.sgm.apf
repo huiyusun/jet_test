@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNN_ENG_20030527_195948.3.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNN_ENG_20030527_195948.3">
+  <entity ID="CNN_ENG_20030527_195948.3-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-1-0">
+      <extent>
+        <charseq START="149" END="158">an airline</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="158">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="173" END="180">new york</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="180">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="new york">
+        <charseq START="173" END="180">new york</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-3" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-3-0">
+      <extent>
+        <charseq START="181" END="198">&apos;s kennedy airport</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="198">kennedy airport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kennedy airport">
+        <charseq START="184" END="198">kennedy airport</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-4-0">
+      <extent>
+        <charseq START="267" END="276">265
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="276">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-5-0">
+      <extent>
+        <charseq START="360" END="369">the pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="369">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-5-1">
+      <extent>
+        <charseq START="697" END="706">the pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="706">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030527_195948.3-5-2">
+      <extent>
+        <charseq START="739" END="743">their</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="743">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-5-3">
+      <extent>
+        <charseq START="844" END="849">pilots</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="849">pilots</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-6-0">
+      <extent>
+        <charseq START="387" END="395">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="395">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-6-1">
+      <extent>
+        <charseq START="711" END="720">that plane</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="720">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-6-2">
+      <extent>
+        <charseq START="793" END="801">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="797" END="801">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-7-0">
+      <extent>
+        <charseq START="402" END="408">the
+jet</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="408">jet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-8-0">
+      <extent>
+        <charseq START="432" END="437">airbus</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="437">airbus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNN_ENG_20030527_195948.3-8-1">
+      <extent>
+        <charseq START="462" END="463">it</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="463">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-8-2">
+      <extent>
+        <charseq START="519" END="524">airbus</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="524">airbus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="airbus">
+        <charseq START="432" END="437">airbus</charseq>
+      </name>
+      <name NAME="airbus">
+        <charseq START="519" END="524">airbus</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-9-0">
+      <extent>
+        <charseq START="507" END="513">critics</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="513">critics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-10-0">
+      <extent>
+        <charseq START="619" END="635">american airlines</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="635">american airlines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="american airlines">
+        <charseq START="619" END="635">american airlines</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="680" END="685">boston</charseq>
+      </extent>
+      <head>
+        <charseq START="680" END="685">boston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="boston">
+        <charseq START="680" END="685">boston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="690" END="694">miami</charseq>
+      </extent>
+      <head>
+        <charseq START="690" END="694">miami</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="miami">
+        <charseq START="690" END="694">miami</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNN_ENG_20030527_195948.3-13-0">
+      <extent>
+        <charseq START="910" END="919">passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="919">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-14-0">
+      <extent>
+        <charseq START="922" END="936">melanie joyceon</charseq>
+      </extent>
+      <head>
+        <charseq START="922" END="936">melanie joyceon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="melanie joyceon">
+        <charseq START="922" END="936">melanie joyceon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNN_ENG_20030527_195948.3-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNN_ENG_20030527_195948.3-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="952" END="957">dallas</charseq>
+      </extent>
+      <head>
+        <charseq START="952" END="957">dallas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="dallas">
+        <charseq START="952" END="957">dallas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNN_ENG_20030527_195948.3-T0" VAL="2003-05-27">
+    <timex2_mention ID="CNN_ENG_20030527_195948.3-T0-1">
+      <extent>
+        <charseq START="43" END="52">2003-05-27</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030527_195948.3-T1" VAL="2001">
+    <timex2_mention ID="CNN_ENG_20030527_195948.3-T1-1">
+      <extent>
+        <charseq START="299" END="302">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030527_195948.3-T2" VAL="1997">
+    <timex2_mention ID="CNN_ENG_20030527_195948.3-T2-1">
+      <extent>
+        <charseq START="600" END="603">1997</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNN_ENG_20030527_195948.3-T3" VAL="1998">
+    <timex2_mention ID="CNN_ENG_20030527_195948.3-T3-1">
+      <extent>
+        <charseq START="1019" END="1032">five years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

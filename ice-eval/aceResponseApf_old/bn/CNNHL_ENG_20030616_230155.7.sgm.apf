@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="CNNHL_ENG_20030616_230155.7.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="NYU">
+<document DOCID="CNNHL_ENG_20030616_230155.7">
+  <entity ID="CNNHL_ENG_20030616_230155.7-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-1-0">
+      <extent>
+        <charseq START="69" END="91">the bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="78" END="91">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-1-1">
+      <extent>
+        <charseq START="307" END="329">the bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="329">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-2-0">
+      <extent>
+        <charseq START="73" END="76">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="73" END="76">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-2-1">
+      <extent>
+        <charseq START="311" END="314">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="314">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="bush">
+        <charseq START="73" END="76">bush</charseq>
+      </name>
+      <name NAME="bush">
+        <charseq START="311" END="314">bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-3-0" ROLE="LOC">
+      <extent>
+        <charseq START="153" END="156">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="156">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="276" END="282">iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="282">iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="445" END="448">iran</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="448">iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="iran">
+        <charseq START="153" END="156">iran</charseq>
+      </name>
+      <name NAME="iranian">
+        <charseq START="276" END="282">iranian</charseq>
+      </name>
+      <name NAME="iran">
+        <charseq START="445" END="448">iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-4-0">
+      <extent>
+        <charseq START="175" END="184">protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="184">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-5-0">
+      <extent>
+        <charseq START="210" END="215">police</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="215">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-6-0">
+      <extent>
+        <charseq START="221" END="227">backers</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="227">backers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-7-0">
+      <extent>
+        <charseq START="232" END="250">the clerical regime</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="250">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="272" END="293">the
+iranian government</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="293">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-9-0">
+      <extent>
+        <charseq START="364" END="377">the protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="377">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="CNNHL_ENG_20030616_230155.7-10-0">
+      <extent>
+        <charseq START="380" END="409">the state department spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="409">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030616_230155.7-10-1">
+      <extent>
+        <charseq START="506" END="507">he</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="507">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-11-0">
+      <extent>
+        <charseq START="384" END="399">state department</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="399">state department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="state department">
+        <charseq START="384" END="399">state department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="CNNHL_ENG_20030616_230155.7-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="492" END="499">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="499">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="CNNHL_ENG_20030616_230155.7-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="518" END="519">it</charseq>
+      </extent>
+      <head>
+        <charseq START="518" END="519">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="CNNHL_ENG_20030616_230155.7-12-2" ROLE="GPE">
+      <extent>
+        <charseq START="533" END="536">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="536">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="u.s.">
+        <charseq START="496" END="499">u.s.</charseq>
+      </name>
+      <name NAME="u.s.">
+        <charseq START="533" END="536">u.s.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="CNNHL_ENG_20030616_230155.7-T0" VAL="2003-06-16">
+    <timex2_mention ID="CNNHL_ENG_20030616_230155.7-T0-1">
+      <extent>
+        <charseq START="45" END="54">2003-06-16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="CNNHL_ENG_20030616_230155.7-T1" VAL="2003-06-16">
+    <timex2_mention ID="CNNHL_ENG_20030616_230155.7-T1-1">
+      <extent>
+        <charseq START="170" END="172">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="CNNHL_ENG_20030616_230155.7-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="CNNHL_ENG_20030616_230155.7-3" ROLE="Arg-1" />
+    <relation_argument REFID="CNNHL_ENG_20030616_230155.7-8" ROLE="Arg-2" />
+      <relation_mention ID="CNNHL_ENG_20030616_230155.7-R1-1">
+      <extent>
+        <charseq START="272" END="293">the
+iranian government</charseq>
+      </extent>
+        <relation_mention_argument REFID="CNNHL_ENG_20030616_230155.7-3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="276" END="282">iranian</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="CNNHL_ENG_20030616_230155.7-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="272" END="293">the
+iranian government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+</document>
+</source_file>

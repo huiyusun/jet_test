@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="wsj93_134.0042.sgm" SOURCE="text" TYPE="text" AUTHOR="NYU">
+<document DOCID="wsj93_134.0042">
+  <entity ID="wsj93_134.0042-1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-1-0">
+      <extent>
+        <charseq START="228" END="251">the mutual fund industry</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="251">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-2-0">
+      <extent>
+        <charseq START="271" END="298">mutual fund chief executives</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="298">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-3-0">
+      <extent>
+        <charseq START="329" END="367">13 public fund company chief executives</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="367">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="402" END="409">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="409">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="402" END="409">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-5-0">
+      <extent>
+        <charseq START="402" END="432">New York newsletter Fund Action</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="432">Fund Action</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-5-1">
+      <extent>
+        <charseq START="411" END="420">newsletter</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="420">newsletter</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-5-2">
+      <extent>
+        <charseq START="1419" END="1429">Fund Action</charseq>
+      </extent>
+      <head>
+        <charseq START="1419" END="1429">Fund Action</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fund Action">
+        <charseq START="422" END="432">Fund Action</charseq>
+      </name>
+      <name NAME="Fund Action">
+        <charseq START="1419" END="1429">Fund Action</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-6-0">
+      <extent>
+        <charseq START="446" END="461">the median chief</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="461">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-7-0">
+      <extent>
+        <charseq START="542" END="552">John Nuveen</charseq>
+      </extent>
+      <head>
+        <charseq START="542" END="552">John Nuveen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-7-1">
+      <extent>
+        <charseq START="665" END="670">Nuveen</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="670">Nuveen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-7-2">
+      <extent>
+        <charseq START="725" END="729">their</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="729">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Nuveen">
+        <charseq START="542" END="552">John Nuveen</charseq>
+      </name>
+      <name NAME="Nuveen">
+        <charseq START="665" END="670">Nuveen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-8-0">
+      <extent>
+        <charseq START="542" END="571">John Nuveen CEO Richard Franke</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="571">Richard Franke</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-8-1">
+      <extent>
+        <charseq START="1443" END="1452">Mr.
+Franke</charseq>
+      </extent>
+      <head>
+        <charseq START="1447" END="1452">Franke</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-8-2">
+      <extent>
+        <charseq START="1443" END="1445">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1445">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richard Franke">
+        <charseq START="558" END="571">Richard Franke</charseq>
+      </name>
+      <name NAME="Franke">
+        <charseq START="1447" END="1452">Franke</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-9-0">
+      <extent>
+        <charseq START="744" END="758">Bassett Winmill</charseq>
+      </extent>
+      <head>
+        <charseq START="744" END="758">Bassett Winmill</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-9-1">
+      <extent>
+        <charseq START="761" END="775">chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="767" END="775">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-9-2">
+      <extent>
+        <charseq START="803" END="805">his</charseq>
+      </extent>
+      <head>
+        <charseq START="803" END="805">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-9-3">
+      <extent>
+        <charseq START="842" END="852">Mr. Winmill</charseq>
+      </extent>
+      <head>
+        <charseq START="846" END="852">Winmill</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-9-4">
+      <extent>
+        <charseq START="842" END="844">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="842" END="844">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bassett Winmill">
+        <charseq START="744" END="758">Bassett Winmill</charseq>
+      </name>
+      <name NAME="Winmill">
+        <charseq START="846" END="852">Winmill</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-10-0">
+      <extent>
+        <charseq START="780" END="796">Bull &amp; Bear Group</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="796">Bull &amp; Bear Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bull &amp; Bear Group">
+        <charseq START="780" END="796">Bull &amp; Bear Group</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-11-0">
+      <extent>
+        <charseq START="858" END="888">the lowest-paid chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="888">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-11-1">
+      <extent>
+        <charseq START="1205" END="1207">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1205" END="1207">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-11-2">
+      <extent>
+        <charseq START="1367" END="1410">the fourth
+highest-paid fund chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1402" END="1410">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-11-3">
+      <extent>
+        <charseq START="1596" END="1598">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1596" END="1598">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-12-0">
+      <extent>
+        <charseq START="910" END="933">One fund chief executive</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="933">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-12-1">
+      <extent>
+        <charseq START="962" END="971">John Bogle</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="971">John Bogle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-12-2">
+      <extent>
+        <charseq START="974" END="977">head</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="977">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-12-3">
+      <extent>
+        <charseq START="1131" END="1139">Mr. Bogle</charseq>
+      </extent>
+      <head>
+        <charseq START="1135" END="1139">Bogle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-12-4">
+      <extent>
+        <charseq START="1131" END="1133">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1133">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-12-5">
+      <extent>
+        <charseq START="1354" END="1362">Mr. Bogle</charseq>
+      </extent>
+      <head>
+        <charseq START="1358" END="1362">Bogle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-12-6">
+      <extent>
+        <charseq START="1354" END="1356">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="1354" END="1356">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Bogle">
+        <charseq START="962" END="971">John Bogle</charseq>
+      </name>
+      <name NAME="Bogle">
+        <charseq START="1135" END="1139">Bogle</charseq>
+      </name>
+      <name NAME="Bogle">
+        <charseq START="1358" END="1362">Bogle</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-13-0">
+      <extent>
+        <charseq START="982" END="995">Vanguard Group</charseq>
+      </extent>
+      <head>
+        <charseq START="982" END="995">Vanguard Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-13-1">
+      <extent>
+        <charseq START="1006" END="1040">&apos;s second-largest mutual fund group</charseq>
+      </extent>
+      <head>
+        <charseq START="1036" END="1040">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-13-2">
+      <extent>
+        <charseq START="1046" END="1051">a firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1048" END="1051">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-13-3">
+      <extent>
+        <charseq START="1082" END="1084">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1082" END="1084">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vanguard Group">
+        <charseq START="982" END="995">Vanguard Group</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="998" END="1005">the U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1005">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="1002" END="1005">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-15-0">
+      <extent>
+        <charseq START="1062" END="1077">the shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1077">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-16-0">
+      <extent>
+        <charseq START="1172" END="1182">Mutual Fund</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1182">Mutual Fund</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mutual Fund">
+        <charseq START="1172" END="1182">Mutual Fund</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-17-0">
+      <extent>
+        <charseq START="1267" END="1284">Vanguard Investors</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1284">Vanguard Investors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="wsj93_134.0042-17-1">
+      <extent>
+        <charseq START="1296" END="1297">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1296" END="1297">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vanguard Investors">
+        <charseq START="1267" END="1284">Vanguard Investors</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-18-0">
+      <extent>
+        <charseq START="1455" END="1467">Dave Williams</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1467">Dave Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dave Williams">
+        <charseq START="1455" END="1467">Dave Williams</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-19-0">
+      <extent>
+        <charseq START="1472" END="1498">Alliance Capital Management</charseq>
+      </extent>
+      <head>
+        <charseq START="1472" END="1498">Alliance Capital Management</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alliance Capital Management">
+        <charseq START="1472" END="1498">Alliance Capital Management</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-20-0">
+      <extent>
+        <charseq START="1517" END="1528">Howard Stein</charseq>
+      </extent>
+      <head>
+        <charseq START="1517" END="1528">Howard Stein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Howard Stein">
+        <charseq START="1517" END="1528">Howard Stein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-21-0">
+      <extent>
+        <charseq START="1533" END="1545">Dreyfus Corp.</charseq>
+      </extent>
+      <head>
+        <charseq START="1533" END="1545">Dreyfus Corp.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Dreyfus Corp.">
+        <charseq START="1533" END="1545">Dreyfus Corp.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-22-0">
+      <extent>
+        <charseq START="1621" END="1638">Lawrence J. Lasser</charseq>
+      </extent>
+      <head>
+        <charseq START="1621" END="1638">Lawrence J. Lasser</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-22-1">
+      <extent>
+        <charseq START="1663" END="1674">a subsidiary</charseq>
+      </extent>
+      <head>
+        <charseq START="1665" END="1674">subsidiary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lawrence J. Lasser">
+        <charseq START="1621" END="1638">Lawrence J. Lasser</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-23-0">
+      <extent>
+        <charseq START="1643" END="1660">Putnam Investments</charseq>
+      </extent>
+      <head>
+        <charseq START="1643" END="1660">Putnam Investments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Putnam Investments">
+        <charseq START="1643" END="1660">Putnam Investments</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-24-0">
+      <extent>
+        <charseq START="1679" END="1694">Marsh &amp; McLennan</charseq>
+      </extent>
+      <head>
+        <charseq START="1679" END="1694">Marsh &amp; McLennan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marsh &amp; McLennan">
+        <charseq START="1679" END="1694">Marsh &amp; McLennan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-25-0">
+      <extent>
+        <charseq START="1737" END="1768">most fund group chief executives</charseq>
+      </extent>
+      <head>
+        <charseq START="1759" END="1768">executives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-26-0">
+      <extent>
+        <charseq START="1783" END="1803">Edward C. Johnson III</charseq>
+      </extent>
+      <head>
+        <charseq START="1783" END="1803">Edward C. Johnson III</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-26-1">
+      <extent>
+        <charseq START="1806" END="1809">head</charseq>
+      </extent>
+      <head>
+        <charseq START="1806" END="1809">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Edward C. Johnson III">
+        <charseq START="1783" END="1803">Edward C. Johnson III</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1814" END="1819">Boston</charseq>
+      </extent>
+      <head>
+        <charseq START="1814" END="1819">Boston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boston">
+        <charseq START="1814" END="1819">Boston</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="wsj93_134.0042-28-0">
+      <extent>
+        <charseq START="1814" END="1851">Boston fund giant Fidelity
+Investments</charseq>
+      </extent>
+      <head>
+        <charseq START="1832" END="1851">Fidelity
+Investments</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-28-1">
+      <extent>
+        <charseq START="1826" END="1830">giant</charseq>
+      </extent>
+      <head>
+        <charseq START="1826" END="1830">giant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Fidelity Investments">
+        <charseq START="1832" END="1851">Fidelity
+Investments</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-29-0">
+      <extent>
+        <charseq START="1880" END="1888">the firms</charseq>
+      </extent>
+      <head>
+        <charseq START="1884" END="1888">firms</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-29-1">
+      <extent>
+        <charseq START="1930" END="1940">other firms</charseq>
+      </extent>
+      <head>
+        <charseq START="1936" END="1940">firms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="wsj93_134.0042-30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="wsj93_134.0042-30-0">
+      <extent>
+        <charseq START="1914" END="1925">subsidiaries</charseq>
+      </extent>
+      <head>
+        <charseq START="1914" END="1925">subsidiaries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="wsj93_134.0042-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_134.0042-V5-1">
+      <extent>
+        <charseq START="479" END="481">23%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="wsj93_134.0042-V8" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="wsj93_134.0042-V8-1">
+      <extent>
+        <charseq START="825" END="826">6%</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="wsj93_134.0042-T0" VAL="2015">
+    <timex2_mention ID="wsj93_134.0042-T0-1">
+      <extent>
+        <charseq START="684" END="692">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_134.0042-T1" VAL="1992">
+    <timex2_mention ID="wsj93_134.0042-T1-1">
+      <extent>
+        <charseq START="1143" END="1146">1992</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="wsj93_134.0042-T2" VAL="2016-03">
+    <timex2_mention ID="wsj93_134.0042-T2-1">
+      <extent>
+        <charseq START="1165" END="1169">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+</document>
+</source_file>

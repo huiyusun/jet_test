@@ -1,0 +1,62 @@
+Original:
+ weights.put("replace", 0.5);
+        weights.put("insert", 0.25);
+        weights.put("delete", 1.0);
+        labelWeights.put("nsubj-1", 1.5);
+        labelWeights.put("dobj-1", 1.5);
+        labelWeights.put("nsubj", 1.0);
+        labelWeights.put("dobj", 0.5);
+        labelWeights.put("prep", 0.2);
+        labelWeights.put("prep-1", 0.2);
+
+Mod 2:
+weights.put("replace", 0.5);
+		weights.put("insert", 0.25);
+		weights.put("delete", 1.0);
+
+		// dependency count >= 1000
+		labelWeights.put("pobj", 1.7);
+		labelWeights.put("prep", 1.6);
+		labelWeights.put("nsubj-1", 1.5);
+		labelWeights.put("appos", 1.4);
+		labelWeights.put("nn-1", 1.3);
+		labelWeights.put("dobj", 1.2);
+		labelWeights.put("poss-1", 1.1);
+		labelWeights.put("nn", 1.0);
+		labelWeights.put("nsubj", 1.0);
+		labelWeights.put("pobj-1", 1.0);
+		labelWeights.put("prep-1", 1.0);
+
+		// 500 <= dependency count < 1000
+		labelWeights.put("poss", 0.9);
+		labelWeights.put("amod-1", 0.8);
+		labelWeights.put("dobj-1", 0.8);
+		labelWeights.put("amod", 0.8);
+		labelWeights.put("cop", 0.7);
+
+		// 100 <= dependency count < 500
+		labelWeights.put("ccomp", 0.5);
+		labelWeights.put("ccomp-1", 0.5);
+		labelWeights.put("postloc", 0.5);
+		labelWeights.put("dep", 0.4);
+		labelWeights.put("xcomp", 0.4);
+		labelWeights.put("parataxis", 0.4);
+		labelWeights.put("advmod", 0.3);
+		labelWeights.put("tmod", 0.3);
+		labelWeights.put("advmod-1", 0.3);
+		labelWeights.put("iobj", 0.2);
+		labelWeights.put("infmod", 0.2);
+
+		// 50 <= dependency count < 100
+		labelWeights.put("appos-1", 0.1);
+		labelWeights.put("agent", 0.1);
+		labelWeights.put("objcomp", 0.1);
+		labelWeights.put("cop-1", 0.1);
+		labelWeights.put("pcomp", 0.1);
+		labelWeights.put("vch", 0.1);
+		labelWeights.put("tmod-1", 0.1);
+		labelWeights.put("purpcl", 0.1);
+
+		// depedency count < 50
+		labelWeights.put("iobj-1", 0.05);
+		labelWeights.put("agent-1", 0.05);

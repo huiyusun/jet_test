@@ -17,7 +17,7 @@ public class SeparateRelationTypes {
 			input = new BufferedReader(new FileReader(inputFile));
 
 			output = new BufferedWriter(
-					new FileWriter("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracleLDP_ORG-AFF.neg"));
+					new FileWriter("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracle_ORG-AFF"));
 
 			HashSet<String> relationsSet = new HashSet<String>();
 
@@ -43,6 +43,6 @@ public class SeparateRelationTypes {
 	public static void main(String[] args) {
 		// "/Users/nuist/documents/NlpResearch/AL-patterns/art/itr1"
 		// "/Users/nuist/documents/workspaceNLP/jet_master/data/ldpRelationModel"
-		Clean("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracleLDP.neg");
+		Clean("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracle");
 	}
 }

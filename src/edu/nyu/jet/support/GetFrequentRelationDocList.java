@@ -17,9 +17,9 @@ public class GetFrequentRelationDocList {
 
 		try {
 			input = new BufferedReader(
-					new FileReader("/Users/nuist/documents/NlpResearch/ice-eval/allRelationDoc_frequent_PER-SOC"));
+					new FileReader("/Users/nuist/documents/NlpResearch/ice-eval/allRelationDoc_frequent_GEN-AFF"));
 			input1 = new BufferedReader(new FileReader("/Users/nuist/jetx/data/ACE/2005/allSgmList_all.txt"));
-			output = new BufferedWriter(new FileWriter("/Users/nuist/jetx/data/ACE/2005/allSgmList_frequent_PER-SOC"));
+			output = new BufferedWriter(new FileWriter("/Users/nuist/jetx/data/ACE/2005/allSgmList_frequent_GEN-AFF"));
 
 			HashMap<String, String> docList = new HashMap<String, String>();
 

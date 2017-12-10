@@ -157,6 +157,7 @@ public class Ace {
 		if (JetTest.getConfig("Ace.PerfectEntities") != null) {
 			perfectMentions = true;
 			perfectEntities = true;
+			logger.info("Using perfect mentions and entities.");
 		}
 		// set ACE mode for reference resolution
 		Resolve.ACE = true;
@@ -197,7 +198,7 @@ public class Ace {
 		String relationDepPathFile = JetTest.getConfigFile("Ace.RelationDepPaths.fileName");
 		String relationDepPathPosFile = relationDepPathFile + ".pos"; // +ve patterns
 		String relationDepPathNegFile = relationDepPathFile + ".neg"; // -ve patterns
-		String embeddingFile = "/Users/nuist/documents/NlpResearch/WordEmbeddings/glove/glove.6B.300d.txt";
+		String embeddingFile = JetTest.getConfigFile("Ace.DepEmbeddings.fileName");
 
 		// load candidate patterns
 		if (relationDepPathFile != null) {
@@ -205,7 +206,7 @@ public class Ace {
 		}
 
 		// load positive and negative patterns and load word embedding
-		if (relationDepPathPosFile != null && relationDepPathNegFile != null) {
+		if (relationDepPathPosFile != null && relationDepPathNegFile != null && embeddingFile != null) {
 			DepPathRelationTagger.loadPosAndNegModel(relationDepPathPosFile, relationDepPathNegFile, embeddingFile);
 		}
 
@@ -314,6 +315,7 @@ public class Ace {
 			// ".entities.apf.xml"; //<< for rdreval
 			AceDocument keyDoc = new AceDocument(textFile, keyFile);
 			PerfectAce.buildEntityMentionMap(doc, keyDoc);
+			// PerfectAce.createPerfectNames(doc, keyDoc);
 			JetTest.nameTagger = new PerfectNameTagger(keyDoc, realNameTagger);
 		}
 
@@ -576,6 +578,19 @@ public class Ace {
 	 * create an AceEntity from <CODE>entity</CODE>. If the entity is not a valid EDT type, nothing is written.
 	 */
 
+	public enum Name {
+		NAM, NAME
+	}
+
+	public static boolean contains(String test) {
+		for (Name c : Name.values()) {
+			if (c.name().equals(test)) {
+				return true;
+			}
+		}
+		return false;
+	}
+
 	private static AceEntity buildEntity(Annotation entity, int ientity, Document doc, String docId, String docText) {
 		Vector mentions = (Vector) entity.get("mentions");
 		Annotation firstMention = (Annotation) mentions.get(0);
@@ -610,7 +625,9 @@ public class Ace {
 			AceEntityMention aceMention = buildMention(mention, head, mentionID, aceType, doc, docText);
 			aceEntity.addMention(aceMention);
 			LearnRelations.addMention(aceMention);
-			boolean isNameMention = aceMention.type == "NAME";
+
+			boolean isNameMention = contains(aceMention.type); // enum for spelling of name types: NAME or NAME
+
 			if (isNameMention) {
 				aceEntity.addName(new AceEntityName(head.span(), docText));
 			}

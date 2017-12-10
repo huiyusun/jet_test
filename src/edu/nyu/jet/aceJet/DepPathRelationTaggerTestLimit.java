@@ -39,7 +39,6 @@ public class DepPathRelationTaggerTestLimit {
 	static List<String> negModel = null; // negative LDPs
 
 	static String normalOutcome = null; // relation type of positive LDPs without inverse args
-	static Set<String> normalArgs = null;
 
 	/**
 	 * relation 'decoder': identifies the relations in document 'doc' (from file name 'currentDoc') and adds them as
@@ -58,14 +57,14 @@ public class DepPathRelationTaggerTestLimit {
 		AceMention[] ray = aceDoc.allMentionsList.toArray(new AceMention[0]);
 		Arrays.sort(ray);
 		for (int i = 0; i < ray.length - 1; i++) {
-			for (int j = 1; i + j < ray.length; j++) {
+			for (int j = 1; j < WINDOW && i + j < ray.length; j++) {
 				AceMention m1 = ray[i];
 				AceMention m2 = ray[i + j];
 				// if two mentions co-refer, they can't be in a relation
 				// if (!canBeRelated(m1, m2)) continue;
 				// if two mentions are not in the same sentence, they can't be in a relation
-				// if (!sentences.inSameSentence(m1.getJetHead().start(), m2.getJetHead().start()))
-				// continue;
+				if (!sentences.inSameSentence(m1.getJetHead().start(), m2.getJetHead().start()))
+					continue;
 
 				// System.out.println("AceMention: " + m1.getType() + " " + m2.getType());
 
@@ -113,83 +112,16 @@ public class DepPathRelationTaggerTestLimit {
 				model.put(pattern, new ArrayList<String>());
 			model.get(pattern).add(outcome);
 			n++;
+
+			if (!outcome.contains("-1")) { // used to check if a similarity matched pattern has normal args
+				normalOutcome = outcome; // relation type of positive patterns
+			}
 		}
 		System.out.println("Loaded " + n + " dependency paths.");
 	}
 
 	// load positive and negative patterns for nearest neighbor matching
-	static void loadPosAndNegModel(String posModelFile, String negModelFile) throws IOException {
-		posModel = new ArrayList<String>();
-		negModel = new ArrayList<String>();
-
-		normalArgs = new TreeSet<String>();
-
-		BufferedReader posReader = new BufferedReader(new FileReader(posModelFile)); // for posModel
-		BufferedReader negReader = new BufferedReader(new FileReader(negModelFile)); // for negModel
-
-		String line, negLine;
-		int n = 0, m = 0;
-		int lineNo = 0, negLineNo = 0;
-
-		while ((line = posReader.readLine()) != null) {
-			lineNo++;
-			if (line.startsWith("#"))
-				continue;
-			String[] fields = line.split("=");
-			if (fields.length < 2) {
-				loadError(lineNo, line, "missing =");
-				continue;
-			}
-			if (fields.length > 2) {
-				loadError(lineNo, line, "extra =");
-				continue;
-			}
-
-			String pattern = fields[0].trim();
-			String outcome = fields[1].trim();
-
-			if (!AnchoredPath.valid(pattern)) {
-				loadError(lineNo, line, "invalid path");
-				continue;
-			}
-
-			posModel.add(pattern);
-			n++;
-
-			if (!outcome.contains("-1")) { // used to check if a similarity matched pattern has normal args
-				normalArgs.add(pattern.split("--")[0] + " " + pattern.split("--")[2]);
-				normalOutcome = outcome; // relation type of positive patterns
-			}
-		}
-
-		System.out.println("Normal Args: " + normalArgs);
-
-		while ((negLine = negReader.readLine()) != null) {
-			negLineNo++;
-			if (negLine.startsWith("#"))
-				continue;
-			String[] fields = negLine.split("=");
-			if (fields.length < 2) {
-				loadError(negLineNo, negLine, "missing =");
-				continue;
-			}
-			if (fields.length > 2) {
-				loadError(negLineNo, negLine, "extra =");
-				continue;
-			}
-
-			String pattern = fields[0].trim();
-
-			if (!AnchoredPath.valid(pattern)) {
-				loadError(negLineNo, negLine, "invalid path");
-				continue;
-			}
-
-			negModel.add(pattern);
-			m++;
-		}
-
-		System.out.println("Loaded " + n + " posigve paths" + " and " + m + " negtative paths.");
+	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
 	}
 
 	private static void loadError(int lineNo, String line, String message) {

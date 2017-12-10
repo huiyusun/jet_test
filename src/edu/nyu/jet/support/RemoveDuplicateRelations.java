@@ -17,7 +17,7 @@ public class RemoveDuplicateRelations {
       input = new BufferedReader(new FileReader(inputFile));
 
       output = new BufferedWriter(new FileWriter(
-    		  "/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracle_distinct"));
+    		  "/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracleLDP_distinct.neg"));
 
       HashSet<String> relationsSet = new HashSet<String>();
 
@@ -41,6 +41,6 @@ public class RemoveDuplicateRelations {
   public static void main(String[] args) {
 	  //"/Users/nuist/documents/NlpResearch/AL-patterns/art/itr1"
 	  //"/Users/nuist/documents/workspaceNLP/jet_master/data/ldpRelationModel"
-    Clean("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracle");
+    Clean("/Users/nuist/documents/workspaceNLP/jet_master/data/relationOracleLDP.neg");
   }
 }

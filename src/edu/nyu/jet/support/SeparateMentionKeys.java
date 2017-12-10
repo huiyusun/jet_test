@@ -16,10 +16,10 @@ public class SeparateMentionKeys {
 			input = new BufferedReader(new FileReader(inputFile));
 
 			output = new BufferedWriter(new FileWriter(
-					"/Users/nuist/documents/NlpResearch/ice-eval/aceMentionsKey_PART-WHOLE"));
+					"/Users/nuist/documents/NlpResearch/ice-eval/aceMentionsKey_Near"));
 
 			while ((inputLine = input.readLine()) != null) {
-				if (inputLine.contains(":PART-WHOLE:")) {
+				if (inputLine.contains(":Near:")) {
 					output.write(inputLine + "\n");
 				}
 			}
@@ -32,6 +32,6 @@ public class SeparateMentionKeys {
 	}
 
 	public static void main(String[] args) {
-		Separate("/Users/nuist/documents/NlpResearch/ice-eval/aceMentionsKey_all");
+		Separate("/Users/nuist/documents/NlpResearch/ice-eval/aceMentionsKey_all_subtype");
 	}
 }

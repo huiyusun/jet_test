@@ -96,56 +96,60 @@ public class PathRelationExtractor {
 		String arg2Type = context[2];
 		String fullDepPath = arg1Type + "--" + depPath + "--" + arg2Type;
 		MatcherPath matcherPath = new MatcherPath(fullDepPath);
-
-		MatcherPath posRule = null;
-		double totalPosScore = 0;
-		double totalNegScore = 0;
-		int posCount = 0, negCount = 0;
+		double minScore = 1;
+		double minNegScore = 1;
+		MatcherPath minRule = null;
 
 		// System.out.println("candidate path: " + fullDepPath);
 
 		for (MatcherPath rule : ruleTable) { // positive paths
-			if (rule.toString().replace(rule.getRelationType(), "").equals(matcherPath.toString())) { // exact match
-				// System.out.println("found exact match");
-				return rule.getRelationType();
-			}
+			// System.out.println("positive path: " + rule);
 
-			if (rule.arg1Type.equals(matcherPath.arg1Type) && rule.arg2Type.equals(matcherPath.arg2Type)) {
-				double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length();
-				totalPosScore += score;
-				posCount++;
-				posRule = rule;
+			double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length(); // normalized by the length of the path
+			if (score < minScore) {
+				minScore = score;
+				minRule = rule;
 			}
 		}
 
-		for (MatcherPath rule : negTable) { // negative paths
-			if (rule.arg1Type.equals(matcherPath.arg1Type) && rule.arg2Type.equals(matcherPath.arg2Type)) {
+		MatcherPath minNegRule = null;
+
+		if (minScore < minThreshold) {
+			for (MatcherPath rule : negTable) { // negative paths
+				if (!rule.getRelationType().equals(minRule.getRelationType())) {
+					// continue; // e.g. ORG-AFF vs ORG-AFF-1 should be allowed, but not ORG-AFF vs GEN-AFF
+				}
+
+				// System.out.println("negative path: " + rule);
+
 				double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length();
-				totalNegScore += score;
-				negCount++;
+				if (score < minNegScore) {
+					minNegScore = score;
+					minNegRule = rule;
+				}
 			}
+		} else {
+			return null;
 		}
 
-		// calculate average scores
-		double posScore = posCount == 0 ? 0 : totalPosScore / posCount;
-		double negScore = negCount == 0 ? 0 : totalNegScore / negCount;
-
-		if (posRule != null && posScore <= negScore * negDiscount) {
-			System.err.println("[ACCEPT] Pos Score:" + posScore);
-			System.err.println("[ACCEPT] Neg Score:" + negScore * negDiscount);
+		if (minScore < minThreshold && minScore < minNegScore * negDiscount) {
+			System.err.println("[ACCEPT] Pos Score:" + minScore);
+			System.err.println("[ACCEPT] Neg Score:" + minNegScore * negDiscount);
+			System.err.println("[ACCEPT] Pos Rule:" + minRule);
+			System.err.println("[ACCEPT] Neg Rule:" + minNegRule);
 			System.err.println("[ACCEPT] Current:" + matcherPath);
-			System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + posRule.getRelationType());
+			System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + minRule.getRelationType());
 
-			return posRule.getRelationType();
+			return minRule.getRelationType();
 		}
-
-		if (posRule != null && posScore > negScore * negDiscount) {
-			System.err.println("[REJECT] Pos Score:" + posScore);
-			System.err.println("[REJECT] Neg Score:" + posScore * negDiscount);
+		if (minScore > minNegScore * negDiscount) {
+			System.err.println("[REJECT] Pos Score:" + minScore);
+			System.err.println("[REJECT] Neg Score:" + minNegScore * negDiscount);
+			System.err.println("[REJECT] Pos Rule:" + minRule);
+			System.err.println("[REJECT] Neg Rule:" + minNegRule);
 			System.err.println("[REJECT] Current:" + matcherPath);
-			System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + posRule.getRelationType());
+			System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + minRule.getRelationType());
 		}
-
 		return null;
 	}
 }

@@ -105,6 +105,11 @@ public class PathRelationExtractorTotalScore {
 		// System.out.println("candidate path: " + fullDepPath);
 
 		for (MatcherPath rule : ruleTable) { // positive paths
+			if (rule.toString().replace(rule.getRelationType(), "").equals(matcherPath.toString())) { // exact match
+				// System.out.println("found exact match");
+				return rule.getRelationType();
+			}
+
 			if (rule.arg1Type.equals(matcherPath.arg1Type) && rule.arg2Type.equals(matcherPath.arg2Type)) {
 				double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length();
 				totalPosScore += score;
@@ -114,10 +119,6 @@ public class PathRelationExtractorTotalScore {
 		}
 
 		for (MatcherPath rule : negTable) { // negative paths
-			if (negCount >= posCount) {
-				continue; // ensure no more neg patterns than pos patterns
-			}
-
 			if (rule.arg1Type.equals(matcherPath.arg1Type) && rule.arg2Type.equals(matcherPath.arg2Type)) {
 				double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length();
 				totalNegScore += score;
@@ -125,18 +126,22 @@ public class PathRelationExtractorTotalScore {
 			}
 		}
 
-		if (posRule != null && totalPosScore <= totalNegScore * negDiscount) {
-			System.err.println("[ACCEPT] Pos Score:" + totalPosScore);
-			System.err.println("[ACCEPT] Neg Score:" + totalNegScore * negDiscount);
+		// calculate average scores
+		double posScore = posCount == 0 ? 0 : totalPosScore / posCount;
+		double negScore = negCount == 0 ? 0 : totalNegScore / negCount;
+
+		if (posRule != null && posScore <= negScore * negDiscount) {
+			System.err.println("[ACCEPT] Pos Score:" + posScore);
+			System.err.println("[ACCEPT] Neg Score:" + negScore * negDiscount);
 			System.err.println("[ACCEPT] Current:" + matcherPath);
 			System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + posRule.getRelationType());
 
 			return posRule.getRelationType();
 		}
 
-		if (posRule != null && totalPosScore > totalNegScore * negDiscount) {
-			System.err.println("[REJECT] Pos Score:" + totalPosScore);
-			System.err.println("[REJECT] Neg Score:" + totalPosScore * negDiscount);
+		if (posRule != null && posScore > negScore * negDiscount) {
+			System.err.println("[REJECT] Pos Score:" + posScore);
+			System.err.println("[REJECT] Neg Score:" + posScore * negDiscount);
 			System.err.println("[REJECT] Current:" + matcherPath);
 			System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + posRule.getRelationType());
 		}

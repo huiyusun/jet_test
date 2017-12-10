@@ -13,7 +13,7 @@ import edu.nyu.jet.tipster.*;
  * N1:R:N2.
  */
 
-public class APFtoTriples {
+public class APFtoTriplesRealMentions {
 
 	/**
 	 * converts ACE relations in an APF file into triples. Takes an array of 6 arguments:
@@ -74,8 +74,7 @@ public class APFtoTriples {
 	 * @return a list of relation triples
 	 */
 
-	// makeTriples
-	public static List<String> makeTriples1(Document doc, AceDocument aceDoc) {
+	public static List<String> makeTriples(Document doc, AceDocument aceDoc) {
 		List<String> triples = new ArrayList<String>();
 		for (AceRelation r : aceDoc.relations) {
 			AceEventArgumentValue arg1 = r.arg1;
@@ -91,57 +90,7 @@ public class APFtoTriples {
 		return triples;
 	}
 
-	// makeTriplesPerfect: write triple separated by '=' if an argument has multiple names. This is later resolved by
-	// the Scorer: ScoreAceTriples.java
-	public static List<String> makeTriples(Document doc, AceDocument aceDoc) {
-		List<String> triples = new ArrayList<String>();
-		for (AceRelation r : aceDoc.relations) {
-			List<AceEntityName> arg1Names = ((AceEntity) r.arg1).names;
-			List<AceEntityName> arg2Names = ((AceEntity) r.arg2).names;
-
-			int size1 = arg1Names.size();
-			int size2 = arg2Names.size();
-
-			if (size1 == 0 || size2 == 0)
-				continue;
-
-			if (size1 > 1 && size2 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
-				String triple3 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple4 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
-
-				triples.add(triple1 + "=" + triple2 + "=" + triple3 + "=" + triple4);
-			} else if (size1 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-
-				triples.add(triple1 + "=" + triple2);
-			} else if (size2 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
-
-				triples.add(triple1 + "=" + triple2);
-			} else { // both size1 = 1 and size2 = 1
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-
-				triples.add(triple1);
-			}
-		}
-		return triples;
-	}
-
-	// makeTriplesTests
-	public static List<String> makeTriplesTests(Document doc, AceDocument aceDoc) {
+	public static List<String> makeTriples1(Document doc, AceDocument aceDoc) {
 		List<String> triples = new ArrayList<String>();
 		int count = 0;
 

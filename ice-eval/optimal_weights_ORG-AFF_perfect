@@ -1,0 +1,1213 @@
+ORG-AFF | frequent docs (17) | patterns_v1 | weights
+negDiscount = 0.9 | minThreshold = 0.5 | k = 3
+[TUNING] replace:0.20	insert:0.20	delete:0.20	f1: 0.5706214904785156
+[TUNING] replace:0.20	insert:0.20	delete:0.40	f1: 0.6029850840568542
+[TUNING] replace:0.20	insert:0.20	delete:0.60	f1: 0.5804597735404968
+[TUNING] replace:0.20	insert:0.20	delete:0.80	f1: 0.5862069129943848
+[TUNING] replace:0.20	insert:0.20	delete:1.00	f1: 0.5828571319580078
+[TUNING] replace:0.20	insert:0.20	delete:1.20	f1: 0.5811966061592102
+[TUNING] replace:0.20	insert:0.20	delete:1.40	f1: 0.5811966061592102
+[TUNING] replace:0.20	insert:0.20	delete:1.60	f1: 0.5811966061592102
+[TUNING] replace:0.20	insert:0.20	delete:1.80	f1: 0.5811966061592102
+[TUNING] replace:0.20	insert:0.20	delete:2.00	f1: 0.5811966061592102
+[TUNING] replace:0.20	insert:0.40	delete:0.20	f1: 0.5633803009986877
+[TUNING] replace:0.20	insert:0.40	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.20	insert:0.40	delete:0.60	f1: 0.5875371098518372
+[TUNING] replace:0.20	insert:0.40	delete:0.80	f1: 0.5892857313156128
+[TUNING] replace:0.20	insert:0.40	delete:1.00	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.40	delete:1.20	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.40	delete:1.40	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.40	delete:1.60	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.40	delete:1.80	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.40	delete:2.00	f1: 0.5840708017349243
+[TUNING] replace:0.20	insert:0.60	delete:0.20	f1: 0.5641025900840759
+[TUNING] replace:0.20	insert:0.60	delete:0.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:0.60	delete:0.60	f1: 0.5868263244628906
+[TUNING] replace:0.20	insert:0.60	delete:0.80	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:1.00	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:1.20	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:1.40	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:1.60	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:1.80	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.60	delete:2.00	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.80	delete:0.20	f1: 0.573913037776947
+[TUNING] replace:0.20	insert:0.80	delete:0.40	f1: 0.6030769944190979
+[TUNING] replace:0.20	insert:0.80	delete:0.60	f1: 0.5903614163398743
+[TUNING] replace:0.20	insert:0.80	delete:0.80	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:0.80	delete:1.00	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:0.80	delete:1.20	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:0.80	delete:1.40	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:0.80	delete:1.60	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:0.80	delete:1.80	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:0.80	delete:2.00	f1: 0.6012269854545593
+[TUNING] replace:0.20	insert:1.00	delete:0.20	f1: 0.5755813717842102
+[TUNING] replace:0.20	insert:1.00	delete:0.40	f1: 0.6049382090568542
+[TUNING] replace:0.20	insert:1.00	delete:0.60	f1: 0.5921449661254883
+[TUNING] replace:0.20	insert:1.00	delete:0.80	f1: 0.5957446694374084
+[TUNING] replace:0.20	insert:1.00	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.00	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.00	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.00	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.00	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.00	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:0.20	f1: 0.5772594809532166
+[TUNING] replace:0.20	insert:1.20	delete:0.40	f1: 0.6068111062049866
+[TUNING] replace:0.20	insert:1.20	delete:0.60	f1: 0.5939393639564514
+[TUNING] replace:0.20	insert:1.20	delete:0.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.20	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:0.20	f1: 0.5755813717842102
+[TUNING] replace:0.20	insert:1.40	delete:0.40	f1: 0.6068111062049866
+[TUNING] replace:0.20	insert:1.40	delete:0.60	f1: 0.5939393639564514
+[TUNING] replace:0.20	insert:1.40	delete:0.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.40	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:0.20	f1: 0.5755813717842102
+[TUNING] replace:0.20	insert:1.60	delete:0.40	f1: 0.6068111062049866
+[TUNING] replace:0.20	insert:1.60	delete:0.60	f1: 0.5939393639564514
+[TUNING] replace:0.20	insert:1.60	delete:0.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.60	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:0.20	f1: 0.5755813717842102
+[TUNING] replace:0.20	insert:1.80	delete:0.40	f1: 0.6068111062049866
+[TUNING] replace:0.20	insert:1.80	delete:0.60	f1: 0.5939393639564514
+[TUNING] replace:0.20	insert:1.80	delete:0.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:1.80	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:0.20	f1: 0.5755813717842102
+[TUNING] replace:0.20	insert:2.00	delete:0.40	f1: 0.6068111062049866
+[TUNING] replace:0.20	insert:2.00	delete:0.60	f1: 0.5939393639564514
+[TUNING] replace:0.20	insert:2.00	delete:0.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:1.00	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:1.20	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:1.40	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:1.60	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:1.80	f1: 0.5975609421730042
+[TUNING] replace:0.20	insert:2.00	delete:2.00	f1: 0.5975609421730042
+[TUNING] replace:0.40	insert:0.20	delete:0.20	f1: 0.6111111044883728
+[TUNING] replace:0.40	insert:0.20	delete:0.40	f1: 0.5892857313156128
+[TUNING] replace:0.40	insert:0.20	delete:0.60	f1: 0.6012269854545593
+[TUNING] replace:0.40	insert:0.20	delete:0.80	f1: 0.6068111062049866
+[TUNING] replace:0.40	insert:0.20	delete:1.00	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.20	delete:1.20	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.20	delete:1.40	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.20	delete:1.60	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.20	delete:1.80	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.20	delete:2.00	f1: 0.60550457239151
+[TUNING] replace:0.40	insert:0.40	delete:0.20	f1: 0.6130030751228333
+[TUNING] replace:0.40	insert:0.40	delete:0.40	f1: 0.6006006002426147
+[TUNING] replace:0.40	insert:0.40	delete:0.60	f1: 0.6352201104164124
+[TUNING] replace:0.40	insert:0.40	delete:0.80	f1: 0.6352201104164124
+[TUNING] replace:0.40	insert:0.40	delete:1.00	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.40	delete:1.20	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.40	delete:1.40	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.40	delete:1.60	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.40	delete:1.80	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.40	delete:2.00	f1: 0.6332288980484009
+[TUNING] replace:0.40	insert:0.60	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:0.60	delete:0.40	f1: 0.5963855385780334
+[TUNING] replace:0.40	insert:0.60	delete:0.60	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.60	delete:1.00	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:1.20	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:1.40	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:1.60	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:1.80	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.60	delete:2.00	f1: 0.6242038011550903
+[TUNING] replace:0.40	insert:0.80	delete:0.20	f1: 0.5975609421730042
+[TUNING] replace:0.40	insert:0.80	delete:0.40	f1: 0.5999999642372131
+[TUNING] replace:0.40	insert:0.80	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:0.80	delete:0.80	f1: 0.6302250623703003
+[TUNING] replace:0.40	insert:0.80	delete:1.00	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.80	delete:1.20	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.80	delete:1.40	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.80	delete:1.60	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.80	delete:1.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:0.80	delete:2.00	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.00	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:1.00	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:1.00	delete:0.60	f1: 0.6182965040206909
+[TUNING] replace:0.40	insert:1.00	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.00	delete:1.00	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.00	delete:1.20	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.00	delete:1.40	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.00	delete:1.60	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.00	delete:1.80	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.00	delete:2.00	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:1.20	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:1.20	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:1.20	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.20	delete:1.00	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:1.20	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:1.40	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:1.60	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:1.80	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.20	delete:2.00	f1: 0.6222221851348877
+[TUNING] replace:0.40	insert:1.40	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:1.40	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:1.40	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:1.40	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.40	delete:1.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.40	delete:1.20	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.40	delete:1.40	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.40	delete:1.60	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.40	delete:1.80	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.40	delete:2.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:1.60	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:1.60	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:1.60	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.60	delete:1.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:1.20	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:1.40	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:1.60	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:1.80	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.60	delete:2.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:1.80	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:1.80	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:1.80	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:1.80	delete:1.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:1.20	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:1.40	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:1.60	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:1.80	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:1.80	delete:2.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:0.20	f1: 0.5993884205818176
+[TUNING] replace:0.40	insert:2.00	delete:0.40	f1: 0.5981873273849487
+[TUNING] replace:0.40	insert:2.00	delete:0.60	f1: 0.6163522005081177
+[TUNING] replace:0.40	insert:2.00	delete:0.80	f1: 0.6261980533599854
+[TUNING] replace:0.40	insert:2.00	delete:1.00	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:1.20	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:1.40	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:1.60	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:1.80	f1: 0.6202531456947327
+[TUNING] replace:0.40	insert:2.00	delete:2.00	f1: 0.6202531456947327
+[TUNING] replace:0.60	insert:0.20	delete:0.20	f1: 0.6073619723320007
+[TUNING] replace:0.60	insert:0.20	delete:0.40	f1: 0.6352201104164124
+[TUNING] replace:0.60	insert:0.20	delete:0.60	f1: 0.6451612710952759
+[TUNING] replace:0.60	insert:0.20	delete:0.80	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:0.20	delete:1.00	f1: 0.6490066647529602
+[TUNING] replace:0.60	insert:0.20	delete:1.20	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.20	delete:1.40	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.20	delete:1.60	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.20	delete:1.80	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.20	delete:2.00	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.40	delete:0.20	f1: 0.6399999856948853
+[TUNING] replace:0.60	insert:0.40	delete:0.40	f1: 0.6644295454025269
+[TUNING] replace:0.60	insert:0.40	delete:0.60	f1: 0.6599326729774475
+[TUNING] replace:0.60	insert:0.40	delete:0.80	f1: 0.6881720423698425
+[TUNING] replace:0.60	insert:0.40	delete:1.00	f1: 0.6760563254356384
+[TUNING] replace:0.60	insert:0.40	delete:1.20	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.40	delete:1.40	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.40	delete:1.60	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.40	delete:1.80	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.40	delete:2.00	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.60	delete:0.20	f1: 0.6447368264198303
+[TUNING] replace:0.60	insert:0.60	delete:0.40	f1: 0.6534652709960938
+[TUNING] replace:0.60	insert:0.60	delete:0.60	f1: 0.6510066986083984
+[TUNING] replace:0.60	insert:0.60	delete:0.80	f1: 0.6784452795982361
+[TUNING] replace:0.60	insert:0.60	delete:1.00	f1: 0.6975088715553284
+[TUNING] replace:0.60	insert:0.60	delete:1.20	f1: 0.699999988079071
+[TUNING] replace:0.60	insert:0.60	delete:1.40	f1: 0.699999988079071
+[TUNING] replace:0.60	insert:0.60	delete:1.60	f1: 0.699999988079071
+[TUNING] replace:0.60	insert:0.60	delete:1.80	f1: 0.699999988079071
+[TUNING] replace:0.60	insert:0.60	delete:2.00	f1: 0.699999988079071
+[TUNING] replace:0.60	insert:0.80	delete:0.20	f1: 0.644518256187439
+[TUNING] replace:0.60	insert:0.80	delete:0.40	f1: 0.6511628031730652
+[TUNING] replace:0.60	insert:0.80	delete:0.60	f1: 0.6486486196517944
+[TUNING] replace:0.60	insert:0.80	delete:0.80	f1: 0.6761565804481506
+[TUNING] replace:0.60	insert:0.80	delete:1.00	f1: 0.6859205961227417
+[TUNING] replace:0.60	insert:0.80	delete:1.20	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:0.80	delete:1.40	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:0.80	delete:1.60	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:0.80	delete:1.80	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:0.80	delete:2.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.00	delete:0.20	f1: 0.644518256187439
+[TUNING] replace:0.60	insert:1.00	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:1.00	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:1.00	delete:0.80	f1: 0.6761565804481506
+[TUNING] replace:0.60	insert:1.00	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.00	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.00	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.00	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.00	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.00	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.20	delete:0.20	f1: 0.6423841714859009
+[TUNING] replace:0.60	insert:1.20	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:1.20	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:1.20	delete:0.80	f1: 0.6785714030265808
+[TUNING] replace:0.60	insert:1.20	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.20	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.20	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.20	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.20	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.20	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.40	delete:0.20	f1: 0.6423841714859009
+[TUNING] replace:0.60	insert:1.40	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:1.40	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:1.40	delete:0.80	f1: 0.6785714030265808
+[TUNING] replace:0.60	insert:1.40	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.40	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.40	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.40	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.40	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.40	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.60	delete:0.20	f1: 0.6423841714859009
+[TUNING] replace:0.60	insert:1.60	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:1.60	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:1.60	delete:0.80	f1: 0.6785714030265808
+[TUNING] replace:0.60	insert:1.60	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.60	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.60	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.60	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.60	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.60	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.80	delete:0.20	f1: 0.6423841714859009
+[TUNING] replace:0.60	insert:1.80	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:1.80	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:1.80	delete:0.80	f1: 0.6785714030265808
+[TUNING] replace:0.60	insert:1.80	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:1.80	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.80	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.80	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.80	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:1.80	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:2.00	delete:0.20	f1: 0.6423841714859009
+[TUNING] replace:0.60	insert:2.00	delete:0.40	f1: 0.6533333659172058
+[TUNING] replace:0.60	insert:2.00	delete:0.60	f1: 0.6421405076980591
+[TUNING] replace:0.60	insert:2.00	delete:0.80	f1: 0.6785714030265808
+[TUNING] replace:0.60	insert:2.00	delete:1.00	f1: 0.6884058117866516
+[TUNING] replace:0.60	insert:2.00	delete:1.20	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:2.00	delete:1.40	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:2.00	delete:1.60	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:2.00	delete:1.80	f1: 0.6909090876579285
+[TUNING] replace:0.60	insert:2.00	delete:2.00	f1: 0.6909090876579285
+[TUNING] replace:0.80	insert:0.20	delete:0.20	f1: 0.6222221851348877
+[TUNING] replace:0.80	insert:0.20	delete:0.40	f1: 0.646864652633667
+[TUNING] replace:0.80	insert:0.20	delete:0.60	f1: 0.6804123520851135
+[TUNING] replace:0.80	insert:0.20	delete:0.80	f1: 0.7153284549713135
+[TUNING] replace:0.80	insert:0.20	delete:1.00	f1: 0.7179486751556396
+[TUNING] replace:0.80	insert:0.20	delete:1.20	f1: 0.7127271890640259
+[TUNING] replace:0.80	insert:0.20	delete:1.40	f1: 0.7127271890640259
+[TUNING] replace:0.80	insert:0.20	delete:1.60	f1: 0.7127271890640259
+[TUNING] replace:0.80	insert:0.20	delete:1.80	f1: 0.7127271890640259
+[TUNING] replace:0.80	insert:0.20	delete:2.00	f1: 0.7127271890640259
+[TUNING] replace:0.80	insert:0.40	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:0.40	delete:0.40	f1: 0.7080291509628296
+[TUNING] replace:0.80	insert:0.40	delete:0.60	f1: 0.694736897945404
+[TUNING] replace:0.80	insert:0.40	delete:0.80	f1: 0.7191011309623718
+[TUNING] replace:0.80	insert:0.40	delete:1.00	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.40	delete:1.20	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.40	delete:1.40	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.40	delete:1.60	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.40	delete:1.80	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.40	delete:2.00	f1: 0.7245283126831055
+[TUNING] replace:0.80	insert:0.60	delete:0.20	f1: 0.6689655184745789
+[TUNING] replace:0.80	insert:0.60	delete:0.40	f1: 0.6811594367027283
+[TUNING] replace:0.80	insert:0.60	delete:0.60	f1: 0.6879432797431946
+[TUNING] replace:0.80	insert:0.60	delete:0.80	f1: 0.7121211886405945
+[TUNING] replace:0.80	insert:0.60	delete:1.00	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.60	delete:1.20	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.60	delete:1.40	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.60	delete:1.60	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.60	delete:1.80	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.60	delete:2.00	f1: 0.7175572514533997
+[TUNING] replace:0.80	insert:0.80	delete:0.20	f1: 0.6689655184745789
+[TUNING] replace:0.80	insert:0.80	delete:0.40	f1: 0.6962962746620178
+[TUNING] replace:0.80	insert:0.80	delete:0.60	f1: 0.6953404545783997
+[TUNING] replace:0.80	insert:0.80	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:0.80	delete:1.00	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:0.80	delete:1.20	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:0.80	delete:1.40	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:0.80	delete:1.60	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:0.80	delete:1.80	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:0.80	delete:2.00	f1: 0.7159532904624939
+[TUNING] replace:0.80	insert:1.00	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:1.00	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:1.00	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:1.00	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:1.00	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.00	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.00	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.00	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.00	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.00	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:1.20	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:1.20	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:1.20	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:1.20	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.20	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:1.40	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:1.40	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:1.40	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:1.40	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.40	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:1.60	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:1.60	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:1.60	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:1.60	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.60	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:1.80	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:1.80	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:1.80	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:1.80	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:1.80	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:0.20	f1: 0.6712803244590759
+[TUNING] replace:0.80	insert:2.00	delete:0.40	f1: 0.7067669630050659
+[TUNING] replace:0.80	insert:2.00	delete:0.60	f1: 0.6981818079948425
+[TUNING] replace:0.80	insert:2.00	delete:0.80	f1: 0.713178277015686
+[TUNING] replace:0.80	insert:2.00	delete:1.00	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:1.20	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:1.40	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:1.60	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:1.80	f1: 0.7109374403953552
+[TUNING] replace:0.80	insert:2.00	delete:2.00	f1: 0.7109374403953552
+[TUNING] replace:1.00	insert:0.20	delete:0.20	f1: 0.6298701763153076
+[TUNING] replace:1.00	insert:0.20	delete:0.40	f1: 0.6713286638259888
+[TUNING] replace:1.00	insert:0.20	delete:0.60	f1: 0.7101449966430664
+[TUNING] replace:1.00	insert:0.20	delete:0.80	f1: 0.7104247808456421
+[TUNING] replace:1.00	insert:0.20	delete:1.00	f1: 0.7081712484359741
+[TUNING] replace:1.00	insert:0.20	delete:1.20	f1: 0.7081712484359741
+[TUNING] replace:1.00	insert:0.20	delete:1.40	f1: 0.7027027010917664
+[TUNING] replace:1.00	insert:0.20	delete:1.60	f1: 0.7027027010917664
+[TUNING] replace:1.00	insert:0.20	delete:1.80	f1: 0.7027027010917664
+[TUNING] replace:1.00	insert:0.20	delete:2.00	f1: 0.7027027010917664
+[TUNING] replace:1.00	insert:0.40	delete:0.20	f1: 0.6619216799736023
+[TUNING] replace:1.00	insert:0.40	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:1.00	insert:0.40	delete:0.60	f1: 0.7094339728355408
+[TUNING] replace:1.00	insert:0.40	delete:0.80	f1: 0.7081712484359741
+[TUNING] replace:1.00	insert:0.40	delete:1.00	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.40	delete:1.20	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.40	delete:1.40	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.40	delete:1.60	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.40	delete:1.80	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.40	delete:2.00	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:0.20	f1: 0.6810036301612854
+[TUNING] replace:1.00	insert:0.60	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:0.60	delete:0.60	f1: 0.7049808502197266
+[TUNING] replace:1.00	insert:0.60	delete:0.80	f1: 0.7081712484359741
+[TUNING] replace:1.00	insert:0.60	delete:1.00	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:1.20	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:1.40	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:1.60	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:1.80	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.60	delete:2.00	f1: 0.7086614370346069
+[TUNING] replace:1.00	insert:0.80	delete:0.20	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:0.80	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:0.80	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:0.80	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:0.80	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:0.80	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:0.80	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:0.80	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:0.80	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:0.80	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:1.00	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:1.00	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:1.00	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:1.00	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.00	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:1.20	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:1.20	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:1.20	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:1.20	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.20	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:1.40	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:1.40	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:1.40	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:1.40	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.40	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:1.60	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:1.60	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:1.60	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:1.60	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.60	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:1.80	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:1.80	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:1.80	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:1.80	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:1.80	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:0.20	f1: 0.6861314177513123
+[TUNING] replace:1.00	insert:2.00	delete:0.40	f1: 0.6863468885421753
+[TUNING] replace:1.00	insert:2.00	delete:0.60	f1: 0.6999999284744263
+[TUNING] replace:1.00	insert:2.00	delete:0.80	f1: 0.7031250596046448
+[TUNING] replace:1.00	insert:2.00	delete:1.00	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:1.20	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:1.40	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:1.60	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:1.80	f1: 0.7091633081436157
+[TUNING] replace:1.00	insert:2.00	delete:2.00	f1: 0.7091633081436157
+[TUNING] replace:1.20	insert:0.20	delete:0.20	f1: 0.6550522446632385
+[TUNING] replace:1.20	insert:0.20	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:1.20	insert:0.20	delete:0.60	f1: 0.7022900581359863
+[TUNING] replace:1.20	insert:0.20	delete:0.80	f1: 0.7109374403953552
+[TUNING] replace:1.20	insert:0.20	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.20	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.20	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.20	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.20	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.20	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:0.20	f1: 0.6762590408325195
+[TUNING] replace:1.20	insert:0.40	delete:0.40	f1: 0.6969696283340454
+[TUNING] replace:1.20	insert:0.40	delete:0.60	f1: 0.7109374403953552
+[TUNING] replace:1.20	insert:0.40	delete:0.80	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.40	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:1.20	insert:0.60	delete:0.20	f1: 0.6813187003135681
+[TUNING] replace:1.20	insert:0.60	delete:0.40	f1: 0.7076923251152039
+[TUNING] replace:1.20	insert:0.60	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.60	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:0.20	f1: 0.691449761390686
+[TUNING] replace:1.20	insert:0.80	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:0.80	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:0.80	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:1.00	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:1.00	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.00	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:1.20	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:1.20	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.20	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:1.40	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:1.40	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.40	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:1.60	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:1.60	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.60	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:1.80	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:1.80	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:1.80	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.20	insert:2.00	delete:0.40	f1: 0.6932271122932434
+[TUNING] replace:1.20	insert:2.00	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:0.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:1.00	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:1.20	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:1.40	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:1.60	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:1.80	f1: 0.701195240020752
+[TUNING] replace:1.20	insert:2.00	delete:2.00	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:0.20	delete:0.20	f1: 0.6550522446632385
+[TUNING] replace:1.40	insert:0.20	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:1.40	insert:0.20	delete:0.60	f1: 0.7022900581359863
+[TUNING] replace:1.40	insert:0.20	delete:0.80	f1: 0.7109374403953552
+[TUNING] replace:1.40	insert:0.20	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.20	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.20	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.20	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.20	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.20	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:1.40	insert:0.40	delete:0.20	f1: 0.6762590408325195
+[TUNING] replace:1.40	insert:0.40	delete:0.40	f1: 0.7081712484359741
+[TUNING] replace:1.40	insert:0.40	delete:0.60	f1: 0.7142857313156128
+[TUNING] replace:1.40	insert:0.40	delete:0.80	f1: 0.7039999961853027
+[TUNING] replace:1.40	insert:0.40	delete:1.00	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.40	delete:1.20	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.40	delete:1.40	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.40	delete:1.60	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.40	delete:1.80	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.40	delete:2.00	f1: 0.6987951993942261
+[TUNING] replace:1.40	insert:0.60	delete:0.20	f1: 0.6813187003135681
+[TUNING] replace:1.40	insert:0.60	delete:0.40	f1: 0.7114624977111816
+[TUNING] replace:1.40	insert:0.60	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:0.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:0.20	f1: 0.691449761390686
+[TUNING] replace:1.40	insert:0.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:0.80	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:0.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:0.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.40	insert:1.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.00	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.40	insert:1.20	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.20	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.20	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.20	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.40	insert:1.40	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.40	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.40	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.40	insert:1.60	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.60	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.40	insert:1.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.80	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:1.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:1.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.40	insert:2.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:2.00	delete:0.60	f1: 0.701195240020752
+[TUNING] replace:1.40	insert:2.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.40	insert:2.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.20	delete:0.20	f1: 0.6550522446632385
+[TUNING] replace:1.60	insert:0.20	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:1.60	insert:0.20	delete:0.60	f1: 0.7022900581359863
+[TUNING] replace:1.60	insert:0.20	delete:0.80	f1: 0.7109374403953552
+[TUNING] replace:1.60	insert:0.20	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.20	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.20	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.20	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.20	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.20	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:1.60	insert:0.40	delete:0.20	f1: 0.6762590408325195
+[TUNING] replace:1.60	insert:0.40	delete:0.40	f1: 0.7081712484359741
+[TUNING] replace:1.60	insert:0.40	delete:0.60	f1: 0.7142857313156128
+[TUNING] replace:1.60	insert:0.40	delete:0.80	f1: 0.7039999961853027
+[TUNING] replace:1.60	insert:0.40	delete:1.00	f1: 0.6987951993942261
+[TUNING] replace:1.60	insert:0.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:0.20	f1: 0.6813187003135681
+[TUNING] replace:1.60	insert:0.60	delete:0.40	f1: 0.7114624977111816
+[TUNING] replace:1.60	insert:0.60	delete:0.60	f1: 0.7016128897666931
+[TUNING] replace:1.60	insert:0.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:0.20	f1: 0.691449761390686
+[TUNING] replace:1.60	insert:0.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:0.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:0.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.60	insert:1.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:1.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.60	insert:1.20	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:1.20	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.20	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.60	insert:1.40	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:1.40	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.60	insert:1.60	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:1.60	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.60	insert:1.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:1.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:1.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.60	insert:2.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.60	insert:2.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.60	insert:2.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.20	delete:0.20	f1: 0.6550522446632385
+[TUNING] replace:1.80	insert:0.20	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:1.80	insert:0.20	delete:0.60	f1: 0.7022900581359863
+[TUNING] replace:1.80	insert:0.20	delete:0.80	f1: 0.7109374403953552
+[TUNING] replace:1.80	insert:0.20	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.20	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.20	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.20	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.20	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.20	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:1.80	insert:0.40	delete:0.20	f1: 0.6762590408325195
+[TUNING] replace:1.80	insert:0.40	delete:0.40	f1: 0.7081712484359741
+[TUNING] replace:1.80	insert:0.40	delete:0.60	f1: 0.7142857313156128
+[TUNING] replace:1.80	insert:0.40	delete:0.80	f1: 0.7039999961853027
+[TUNING] replace:1.80	insert:0.40	delete:1.00	f1: 0.6987951993942261
+[TUNING] replace:1.80	insert:0.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:0.20	f1: 0.6813187003135681
+[TUNING] replace:1.80	insert:0.60	delete:0.40	f1: 0.7114624977111816
+[TUNING] replace:1.80	insert:0.60	delete:0.60	f1: 0.7016128897666931
+[TUNING] replace:1.80	insert:0.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:0.20	f1: 0.691449761390686
+[TUNING] replace:1.80	insert:0.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:0.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:0.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:1.80	insert:1.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:1.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:1.80	insert:1.20	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:1.20	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.20	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.80	insert:1.40	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:1.40	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.80	insert:1.60	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:1.60	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.80	insert:1.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:1.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:1.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:1.80	insert:2.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:1.80	insert:2.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:1.80	insert:2.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.20	delete:0.20	f1: 0.6550522446632385
+[TUNING] replace:2.00	insert:0.20	delete:0.40	f1: 0.6934306621551514
+[TUNING] replace:2.00	insert:0.20	delete:0.60	f1: 0.7022900581359863
+[TUNING] replace:2.00	insert:0.20	delete:0.80	f1: 0.7109374403953552
+[TUNING] replace:2.00	insert:0.20	delete:1.00	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.20	delete:1.20	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.20	delete:1.40	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.20	delete:1.60	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.20	delete:1.80	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.20	delete:2.00	f1: 0.7035573124885559
+[TUNING] replace:2.00	insert:0.40	delete:0.20	f1: 0.6762590408325195
+[TUNING] replace:2.00	insert:0.40	delete:0.40	f1: 0.7081712484359741
+[TUNING] replace:2.00	insert:0.40	delete:0.60	f1: 0.7142857313156128
+[TUNING] replace:2.00	insert:0.40	delete:0.80	f1: 0.7039999961853027
+[TUNING] replace:2.00	insert:0.40	delete:1.00	f1: 0.6987951993942261
+[TUNING] replace:2.00	insert:0.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:0.20	f1: 0.6813187003135681
+[TUNING] replace:2.00	insert:0.60	delete:0.40	f1: 0.7114624977111816
+[TUNING] replace:2.00	insert:0.60	delete:0.60	f1: 0.7016128897666931
+[TUNING] replace:2.00	insert:0.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:0.20	f1: 0.691449761390686
+[TUNING] replace:2.00	insert:0.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:0.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:0.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:0.20	f1: 0.6716417670249939
+[TUNING] replace:2.00	insert:1.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:1.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.00	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:2.00	insert:1.20	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:1.20	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.20	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:2.00	insert:1.40	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:1.40	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.40	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:0.20	f1: 0.6792453527450562
+[TUNING] replace:2.00	insert:1.60	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:1.60	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.60	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:2.00	insert:1.80	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:1.80	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:1.80	delete:2.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:0.20	f1: 0.6766917705535889
+[TUNING] replace:2.00	insert:2.00	delete:0.40	f1: 0.701195240020752
+[TUNING] replace:2.00	insert:2.00	delete:0.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:0.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:1.00	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:1.20	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:1.40	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:1.60	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:1.80	f1: 0.6963562369346619
+[TUNING] replace:2.00	insert:2.00	delete:2.00	f1: 0.6963562369346619
+[BEST] replace:0.80	insert:0.40	delete:1.00	f1: 0.7245283126831055
+[BEST] replace:0.80	insert:0.40	delete:1.20	f1: 0.7245283126831055
+[BEST] replace:0.80	insert:0.40	delete:1.40	f1: 0.7245283126831055
+[BEST] replace:0.80	insert:0.40	delete:1.60	f1: 0.7245283126831055
+[BEST] replace:0.80	insert:0.40	delete:1.80	f1: 0.7245283126831055
+[BEST] replace:0.80	insert:0.40	delete:2.00	f1: 0.7245283126831055
+
+ORG-AFF | nw/AFP_ENG_20030305.0918 (1) | patterns_v1 | weights
+[TUNING] replace:0.80 insert:0.40 delete:0.20	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:0.40	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:0.60	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:0.80	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:1.00	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:1.20	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:1.40	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:1.60	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:1.80	P:0.8333 R:0.7143 F:0.7692
+[TUNING] replace:0.80 insert:0.40 delete:2.00	P:0.8333 R:0.7143 F:0.7692
+[BEST] replace:0.80 insert:0.40 delete:0.20	F:0.7692307
+
+ORG-AFF | all docs (599) | patterns_v1 | weights
+negDiscount = 0.9 | minThreshold = 0.5 | k = 3
+[TUNING] replace:0.20 insert:0.20 delete:0.20 = P:0.3002 R:0.7958 F:0.4360
+[BEST] replace:0.20 insert:0.20 delete:0.20 = F:0.4359718
+
+ORG-AFF | all docs (599) | patterns_v1 | weights
+negDiscount = 0.9 | minThreshold = 0.5 | k = 3
+[TUNING] replace:0.80 insert:0.40 delete:0.80 = P:0.5471 R:0.7383 F:0.6285
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.5554 R:0.7352 F:0.6328
+[TUNING] replace:0.80 insert:0.40 delete:1.20 = P:0.5569 R:0.7398 F:0.6355
+[TUNING] replace:0.80 insert:0.40 delete:1.40 = P:0.5569 R:0.7398 F:0.6355
+[TUNING] replace:0.80 insert:0.40 delete:1.60 = P:0.5569 R:0.7398 F:0.6355
+[TUNING] replace:0.80 insert:0.40 delete:1.80 = P:0.5576 R:0.7398 F:0.6359
+[TUNING] replace:0.80 insert:0.40 delete:2.00 = P:0.5576 R:0.7398 F:0.6359
+[BEST] replace:0.80 insert:0.40 delete:1.80 = F:0.6358907
+
+ORG-AFF | all docs (599) | patterns_v1 | weights
+negDiscount = 0.9 | minThreshold = 0.5 | k = 3
+[TUNING] replace:1.00 insert:1.00 delete:1.00 = P:0.6233 R:0.7035 F:0.6610
+[BEST] replace:1.00 insert:1.00 delete:1.00 = F:0.6609809
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:0.80 insert:0.40 delete:0.20 = P:0.6228 R:0.7020 F:0.6600
+[TUNING] replace:0.80 insert:0.40 delete:0.40 = P:0.6293 R:0.6884 F:0.6575
+[TUNING] replace:0.80 insert:0.40 delete:0.60 = P:0.6320 R:0.6808 F:0.6555
+[TUNING] replace:0.80 insert:0.40 delete:0.80 = P:0.6315 R:0.6793 F:0.6545
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.6531 R:0.6778 F:0.6652
+[TUNING] replace:0.80 insert:0.40 delete:1.20 = P:0.6526 R:0.6762 F:0.6642
+[TUNING] replace:0.80 insert:0.40 delete:1.40 = P:0.6526 R:0.6762 F:0.6642
+[TUNING] replace:0.80 insert:0.40 delete:1.60 = P:0.6526 R:0.6762 F:0.6642
+[TUNING] replace:0.80 insert:0.40 delete:1.80 = P:0.6526 R:0.6762 F:0.6642
+[TUNING] replace:0.80 insert:0.40 delete:2.00 = P:0.6526 R:0.6762 F:0.6642
+[BEST] replace:0.80 insert:0.40 delete:1.00 = F:0.6651818
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:0.40 insert:0.40 delete:1.00 = P:0.5701 R:0.7262 F:0.6387
+[TUNING] replace:0.60 insert:0.40 delete:1.00 = P:0.6269 R:0.6838 F:0.6541
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.6531 R:0.6778 F:0.6652
+[TUNING] replace:1.00 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.20 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:0.80 insert:0.40 delete:1.00 = F:0.6651818
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:0.80 insert:0.20 delete:1.00 = P:0.6439 R:0.6838 F:0.6632
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.6531 R:0.6778 F:0.6652
+[TUNING] replace:0.80 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:0.80 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:0.80 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:0.80 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:0.80 insert:0.40 delete:1.00 = F:0.6651818
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.4 | k = 3
+[TUNING] replace:0.20 insert:0.20 delete:1.00 = P:0.4174 R:0.7564 F:0.5379
+[TUNING] replace:0.20 insert:0.40 delete:1.00 = P:0.3859 R:0.7625 F:0.5125
+[TUNING] replace:0.20 insert:0.60 delete:1.00 = P:0.3510 R:0.7716 F:0.4825
+[TUNING] replace:0.20 insert:0.80 delete:1.00 = P:0.3557 R:0.7685 F:0.4864
+[TUNING] replace:0.20 insert:1.00 delete:1.00 = P:0.3549 R:0.7716 F:0.4862
+[TUNING] replace:0.20 insert:1.20 delete:1.00 = P:0.3554 R:0.7716 F:0.4866
+[TUNING] replace:0.20 insert:1.40 delete:1.00 = P:0.3554 R:0.7716 F:0.4866
+[TUNING] replace:0.20 insert:1.60 delete:1.00 = P:0.3554 R:0.7716 F:0.4866
+[TUNING] replace:0.20 insert:1.80 delete:1.00 = P:0.3554 R:0.7716 F:0.4866
+[TUNING] replace:0.20 insert:2.00 delete:1.00 = P:0.3554 R:0.7716 F:0.4866
+[TUNING] replace:0.40 insert:0.20 delete:1.00 = P:0.4812 R:0.7368 F:0.5822
+[TUNING] replace:0.40 insert:0.40 delete:1.00 = P:0.4846 R:0.7368 F:0.5846
+[TUNING] replace:0.40 insert:0.60 delete:1.00 = P:0.4729 R:0.7383 F:0.5765
+[TUNING] replace:0.40 insert:0.80 delete:1.00 = P:0.4706 R:0.7383 F:0.5748
+[TUNING] replace:0.40 insert:1.00 delete:1.00 = P:0.4683 R:0.7368 F:0.5726
+[TUNING] replace:0.40 insert:1.20 delete:1.00 = P:0.4687 R:0.7368 F:0.5729
+[TUNING] replace:0.40 insert:1.40 delete:1.00 = P:0.4687 R:0.7368 F:0.5729
+[TUNING] replace:0.40 insert:1.60 delete:1.00 = P:0.4687 R:0.7368 F:0.5729
+[TUNING] replace:0.40 insert:1.80 delete:1.00 = P:0.4687 R:0.7368 F:0.5729
+[TUNING] replace:0.40 insert:2.00 delete:1.00 = P:0.4687 R:0.7368 F:0.5729
+[TUNING] replace:0.60 insert:0.20 delete:1.00 = P:0.5380 R:0.7277 F:0.6186
+[TUNING] replace:0.60 insert:0.40 delete:1.00 = P:0.5713 R:0.7216 F:0.6377
+[TUNING] replace:0.60 insert:0.60 delete:1.00 = P:0.5742 R:0.7201 F:0.6389
+[TUNING] replace:0.60 insert:0.80 delete:1.00 = P:0.5871 R:0.7141 F:0.6444
+[TUNING] replace:0.60 insert:1.00 delete:1.00 = P:0.5871 R:0.7141 F:0.6444
+[TUNING] replace:0.60 insert:1.20 delete:1.00 = P:0.5871 R:0.7141 F:0.6444
+[TUNING] replace:0.60 insert:1.40 delete:1.00 = P:0.5866 R:0.7126 F:0.6434
+[TUNING] replace:0.60 insert:1.60 delete:1.00 = P:0.5866 R:0.7126 F:0.6434
+[TUNING] replace:0.60 insert:1.80 delete:1.00 = P:0.5866 R:0.7126 F:0.6434
+[TUNING] replace:0.60 insert:2.00 delete:1.00 = P:0.5866 R:0.7126 F:0.6434
+[TUNING] replace:0.80 insert:0.20 delete:1.00 = P:0.6070 R:0.6868 F:0.6444
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.6183 R:0.6838 F:0.6494
+[TUNING] replace:0.80 insert:0.60 delete:1.00 = P:0.6278 R:0.6838 F:0.6546
+[TUNING] replace:0.80 insert:0.80 delete:1.00 = P:0.6280 R:0.6793 F:0.6526
+[TUNING] replace:0.80 insert:1.00 delete:1.00 = P:0.6292 R:0.6778 F:0.6526
+[TUNING] replace:0.80 insert:1.20 delete:1.00 = P:0.6292 R:0.6778 F:0.6526
+[TUNING] replace:0.80 insert:1.40 delete:1.00 = P:0.6287 R:0.6762 F:0.6516
+[TUNING] replace:0.80 insert:1.60 delete:1.00 = P:0.6287 R:0.6762 F:0.6516
+[TUNING] replace:0.80 insert:1.80 delete:1.00 = P:0.6287 R:0.6762 F:0.6516
+[TUNING] replace:0.80 insert:2.00 delete:1.00 = P:0.6287 R:0.6762 F:0.6516
+[TUNING] replace:1.00 insert:0.20 delete:1.00 = P:0.6135 R:0.6868 F:0.6481
+[TUNING] replace:1.00 insert:0.40 delete:1.00 = P:0.6299 R:0.6823 F:0.6550
+[TUNING] replace:1.00 insert:0.60 delete:1.00 = P:0.6310 R:0.6778 F:0.6535
+[TUNING] replace:1.00 insert:0.80 delete:1.00 = P:0.6310 R:0.6778 F:0.6535
+[TUNING] replace:1.00 insert:1.00 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.00 insert:1.20 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.00 insert:1.40 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.00 insert:1.60 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.00 insert:1.80 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.00 insert:2.00 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:0.20 delete:1.00 = P:0.6197 R:0.6853 F:0.6509
+[TUNING] replace:1.20 insert:0.40 delete:1.00 = P:0.6315 R:0.6793 F:0.6545
+[TUNING] replace:1.20 insert:0.60 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:0.80 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:1.00 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:1.20 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:1.40 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:1.60 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:1.80 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.20 insert:2.00 delete:1.00 = P:0.6305 R:0.6762 F:0.6526
+[TUNING] replace:1.40 insert:0.20 delete:1.00 = P:0.6197 R:0.6853 F:0.6509
+[TUNING] replace:1.40 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:1.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:1.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:1.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:2.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:0.20 delete:1.00 = P:0.6197 R:0.6853 F:0.6509
+[TUNING] replace:1.60 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:1.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:1.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:1.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.60 insert:2.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:0.20 delete:1.00 = P:0.6197 R:0.6853 F:0.6509
+[TUNING] replace:1.80 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:1.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:1.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:1.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.80 insert:2.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:0.20 delete:1.00 = P:0.6197 R:0.6853 F:0.6509
+[TUNING] replace:2.00 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:1.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:1.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:1.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:2.00 insert:2.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:1.40 insert:0.40 delete:1.00 = F:0.66319704
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:1.40 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:1.40 insert:0.40 delete:1.00 = F:0.66319704
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:1.40 insert:0.40 delete:0.20 = P:0.6428 R:0.6914 F:0.6662
+[TUNING] replace:1.40 insert:0.40 delete:0.40 = P:0.6526 R:0.6793 F:0.6657
+[TUNING] replace:1.40 insert:0.40 delete:0.60 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:0.80 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:1.20 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:1.40 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:1.60 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:1.80 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.40 insert:0.40 delete:2.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:1.40 insert:0.40 delete:0.20 = F:0.66618073
+
+ORG-AFF | all docs (599) | patterns_v1 | weights | perfect
+negDiscount = 0.8 | minThreshold = 0.3 | k = 3
+[TUNING] replace:1.00 insert:0.20 delete:1.00 = P:0.6512 R:0.6778 F:0.6642
+[TUNING] replace:1.00 insert:0.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:0.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:0.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:1.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:1.20 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:1.40 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:1.60 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:1.80 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[TUNING] replace:1.00 insert:2.00 delete:1.00 = P:0.6520 R:0.6747 F:0.6632
+[BEST] replace:1.00 insert:0.20 delete:1.00 = F:0.6641957
+

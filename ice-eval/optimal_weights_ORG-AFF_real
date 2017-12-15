@@ -1,0 +1,13 @@
+ORG-AFF | all docs (599) | patterns_real
+negDiscount = 0.9 | minThreshold = 0.5 | k = 3
+[TUNING] replace:0.80 insert:0.40 delete:0.40 = P:0.6255 R:0.4523 F:0.5250
+[TUNING] replace:0.80 insert:0.40 delete:0.60 = P:0.6186 R:0.4539 F:0.5236
+[TUNING] replace:0.80 insert:0.40 delete:0.80 = P:0.6317 R:0.4463 F:0.5230
+[TUNING] replace:0.80 insert:0.40 delete:1.00 = P:0.6330 R:0.4463 F:0.5235
+[TUNING] replace:0.80 insert:0.40 delete:1.20 = P:0.6330 R:0.4463 F:0.5235
+[TUNING] replace:0.80 insert:0.40 delete:1.40 = P:0.6330 R:0.4463 F:0.5235
+[TUNING] replace:0.80 insert:0.40 delete:1.60 = P:0.6330 R:0.4463 F:0.5235
+[TUNING] replace:0.80 insert:0.40 delete:1.80 = P:0.6330 R:0.4463 F:0.5235
+[TUNING] replace:0.80 insert:0.40 delete:2.00 = P:0.6330 R:0.4463 F:0.5235
+[BEST] replace:0.80 insert:0.40 delete:0.40 = F:0.5250219
+

@@ -10,7 +10,7 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.aceJet.DepPathRelationTagger.ArgType;
+import edu.nyu.jet.models.DepPathRegularizer;
 import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.parser.SyntacticRelationSet;
 import edu.nyu.jet.tipster.*;
@@ -23,9 +23,9 @@ import org.slf4j.LoggerFactory;
  * a relation tagger based on dependency paths and argument types, as produced by Jet ICE.
  */
 
-public class DepPathRelationTaggerWordEmbedding {
+public class DepPathRelationTaggerWiki_Extvec {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWiki_Extvec.class);
 
 	static Document doc;
 	static AceDocument aceDoc;
@@ -41,6 +41,8 @@ public class DepPathRelationTaggerWordEmbedding {
 
 	static String normalOutcome = null; // relation type of positive LDPs without inverse args
 	static Set<String> normalArgs = null;
+
+	private static DepPathRegularizer pathRegularizer = new DepPathRegularizer();
 
 	/**
 	 * relation 'decoder': identifies the relations in document 'doc' (from file name 'currentDoc') and adds them as
@@ -193,6 +195,8 @@ public class DepPathRelationTaggerWordEmbedding {
 		}
 
 		System.out.println("Loaded " + n + " posigve paths" + " and " + m + " negtative paths.");
+		posReader.close();
+		negReader.close();
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -287,7 +291,7 @@ public class DepPathRelationTaggerWordEmbedding {
 	}
 
 	// compare the similarity of a candidate pattern to the set of positive and negative patterns
-	private static boolean checkPositiveSimilarity(String candidatePattern) {
+	private static boolean checkPositiveSimilarity(String candidate) {
 		double[] candidatePathEmbedding = null;
 		double[] posPathEmbedding = null;
 		double[] negPathEmbedding = null;
@@ -298,28 +302,24 @@ public class DepPathRelationTaggerWordEmbedding {
 			return false;
 		}
 
+		String candidatePattern = pathRegularizer.reformat(candidate);
+
 		String args = candidatePattern.split("--")[0] + " " + candidatePattern.split("--")[2];
 
 		// get embedding of candidate path
 		if (candidatePattern != null) {
 			String path = candidatePattern.split("--")[1];
 			String[] lexInPath = path.split(":");
-			int length = lexInPath.length;
 
-			if (length > 1) { // if the path contain at least one word
-				String[] wordsInPath = new String[(int) Math.floor(length / 2)]; // No. of words in path = Math.floor(length/2)
-				for (int i = 1; i < length; i = i + 2) {
-					wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-				}
-
-				// System.out.println(wordsInPath[0]);
-				candidatePathEmbedding = WordEmbedding.embed(wordsInPath);
-			}
+			// System.out.println(wordsInPath[0]);
+			candidatePathEmbedding = WordEmbedding.embed(lexInPath);
 		}
 
 		// get embedding of positive paths
 		if (posModel != null) {
-			for (String pattern : posModel) {
+			for (String p : posModel) {
+				String pattern = pathRegularizer.reformat(p);
+
 				String posArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
 				posArgsSet.add(posArgs);
 
@@ -329,22 +329,14 @@ public class DepPathRelationTaggerWordEmbedding {
 
 				String path = pattern.split("--")[1];
 				String[] lexInPath = path.split(":");
-				int length = lexInPath.length;
 
-				if (length > 1) {
-					String[] wordsInPath = new String[(int) Math.floor(length / 2)];
-					for (int i = 1; i < length; i = i + 2) {
-						wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-					}
-
-					double[] v = WordEmbedding.embed(wordsInPath); // get embedding
-					if (v != null) {
-						if (posPathEmbedding == null) {
-							posPathEmbedding = v;
-						} else {
-							for (int i = 0; i < v.length; i++) {
-								posPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-							}
+				double[] v = WordEmbedding.embed(lexInPath); // get embedding
+				if (v != null) {
+					if (posPathEmbedding == null) {
+						posPathEmbedding = v;
+					} else {
+						for (int i = 0; i < v.length; i++) {
+							posPathEmbedding[i] += v[i]; // add embedding scores onto old scores
 						}
 					}
 				}
@@ -353,7 +345,9 @@ public class DepPathRelationTaggerWordEmbedding {
 
 		// get embedding of negative paths
 		if (negModel != null) {
-			for (String pattern : negModel) {
+			for (String p : negModel) {
+				String pattern = pathRegularizer.reformat(p);
+
 				String negArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
 
 				if (!negArgs.equals(args)) {
@@ -362,22 +356,14 @@ public class DepPathRelationTaggerWordEmbedding {
 
 				String path = pattern.split("--")[1];
 				String[] lexInPath = path.split(":");
-				int length = lexInPath.length;
 
-				if (length > 1) {
-					String[] wordsInPath = new String[(int) Math.floor(length / 2)];
-					for (int i = 1; i < length; i = i + 2) {
-						wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-					}
-
-					double[] v = WordEmbedding.embed(wordsInPath); // get embedding
-					if (v != null) {
-						if (negPathEmbedding == null) {
-							negPathEmbedding = v;
-						} else {
-							for (int i = 0; i < v.length; i++) {
-								negPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-							}
+				double[] v = WordEmbedding.embed(lexInPath); // get embedding
+				if (v != null) {
+					if (negPathEmbedding == null) {
+						negPathEmbedding = v;
+					} else {
+						for (int i = 0; i < v.length; i++) {
+							negPathEmbedding[i] += v[i]; // add embedding scores onto old scores
 						}
 					}
 				}
@@ -388,10 +374,10 @@ public class DepPathRelationTaggerWordEmbedding {
 		double negScore = WordEmbedding.similarity(negPathEmbedding, candidatePathEmbedding);
 
 		double negDiscount = 0.9;
-		double minThreshold = 0.5;
+		double minThreshold = 0.3;
 
 		if (posArgsSet.contains(args)) { // if argument pairs of candidate occurs in positive argument pairs set
-			// System.out.println("Embedding scores: " + candidatePattern + "=" + posScore + " " + negScore);
+			System.out.println("Embedding scores: " + candidatePattern + "=" + posScore + " " + negScore);
 			if (posScore * negDiscount > negScore && posScore > minThreshold) {
 				return true;
 			} else {

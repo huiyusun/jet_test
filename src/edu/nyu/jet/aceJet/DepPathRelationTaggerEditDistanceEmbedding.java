@@ -10,6 +10,7 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
+import edu.nyu.jet.aceJet.DepPathRelationTagger.ArgType;
 import edu.nyu.jet.models.DepPathRegularizer;
 import edu.nyu.jet.models.PathMatcher;
 import edu.nyu.jet.models.PathRelationExtractor;
@@ -134,6 +135,19 @@ public class DepPathRelationTaggerEditDistanceEmbedding {
 		System.out.println("        " + line);
 	}
 
+	public enum ArgType {
+		PERSON, ORGANIZATION, GPE, LOCATION, FACILITY, WEAPON, VEHICLE
+	}
+
+	public static boolean contains(String arg) {
+		for (ArgType a : ArgType.values()) {
+			if (a.name().equals(arg)) {
+				return true;
+			}
+		}
+		return false;
+	}
+
 	/**
 	 * use dependency paths to determine whether the pair of mentions bears some ACE relation; if so, add the relation to
 	 * relationList. If the path appears with multiple relation types, add each one to the list.
@@ -143,6 +157,10 @@ public class DepPathRelationTaggerEditDistanceEmbedding {
 		// compute path
 		int h1 = m1.getJetHead().start();
 		int h2 = m2.getJetHead().start();
+
+		if (!contains(m1.getType()) || !contains(m2.getType()))
+			return; // other arg types: e.g. time
+
 		String path = EventSyntacticPattern.buildSyntacticPath(h1, h2, relations);
 
 		// logger.info(path);

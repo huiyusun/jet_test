@@ -10,6 +10,7 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
+import edu.nyu.jet.aceJet.Ace.Name;
 import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.parser.SyntacticRelationSet;
 import edu.nyu.jet.tipster.*;
@@ -34,9 +35,6 @@ public class DepPathRelationTaggerTestLimit {
 
 	// model: a map from AnchoredPath strings to relation types
 	static Map<String, List<String>> model = null;
-
-	static List<String> posModel = null; // positive LDPs
-	static List<String> negModel = null; // negative LDPs
 
 	static String normalOutcome = null; // relation type of positive LDPs without inverse args
 
@@ -129,116 +127,35 @@ public class DepPathRelationTaggerTestLimit {
 		System.out.println("        " + line);
 	}
 
+	public enum EntityType {
+		PERSON, ORGANIZATION, GPE, LOCATION, FACILITY, WEAPON, VEHICLE
+	}
+
+	public static boolean contains(String test) {
+		for (EntityType c : EntityType.values()) {
+			if (c.name().equals(test)) {
+				return true;
+			}
+		}
+		return false;
+	}
+
 	/**
 	 * use dependency paths to determine whether the pair of mentions bears some ACE relation; if so, add the relation to
 	 * relationList. If the path appears with multiple relation types, add each one to the list.
 	 */
 
 	private static void predictRelation(AceMention m1, AceMention m2, SyntacticRelationSet relations) {
-		// compute path
-		// int h1 = m1.getJetHead().start();
-		// int h2 = m2.getJetHead().start();
-		// String path = EventSyntacticPattern.buildSyntacticPath(h1, h2, relations);
-
-		// logger.info(path);
-
-		// if (path == null)
-		// System.out.println("Build syntactic path fail: " + m1.getType() + " " + m2.getType());
-		// return;
-		// path = AnchoredPath.reduceConjunction(path);
-
-		// if (path == null)
-		// return;
-		// path = AnchoredPath.lemmatizePath(path); // telling -> tell, does -> do, watched -> watch, etc.
-
-		// build pattern = path + arg types
-		// String pattern = m1.getType() + "--" + path + "--" + m2.getType();
-		// look up path in model
-		// List<String> outcomes = model.get(pattern);
-
-		// if candidate pattern does not have a exact match in ACE document
-		// if (outcomes == null && posArgsSet.contains(m1.getType() + m2.getType())) {
-		// if (outcomes == null) {
 		List<String> outcomes = new ArrayList<String>();
-		Set<String> argsSet = new TreeSet<String>();
 
-		argsSet.add("PERSON ORGANIZATION");
-		argsSet.add("ORGANIZATION PERSON");
-		argsSet.add("PERSON GPE");
-		argsSet.add("GPE PERSON");
-		argsSet.add("ORGANIZATION ORGANIZATION");
-		argsSet.add("ORGANIZATION GPE");
-		argsSet.add("GPE ORGANIZATION");
-		argsSet.add("GPE GPE");
-
-		argsSet.add("PERSON PERSON");
-		argsSet.add("PERSON LOCATION");
-		argsSet.add("LOCATION PERSON");
-		argsSet.add("ORGANIZATION LOCATION");
-		argsSet.add("LOCATION ORGANIZATION");
-		argsSet.add("ORGANIZATION GPE");
-		argsSet.add("GPE ORGANIZATION");
-
-		argsSet.add("FACILITY FACILITY");
-		argsSet.add("FACILITY LOCATION");
-		argsSet.add("LOCATION FACILITY");
-		argsSet.add("FACILITY GPE");
-		argsSet.add("GPE FACILITY");
-		argsSet.add("LOCATION LOCATION");
-		argsSet.add("LOCATION GPE");
-		argsSet.add("GPE LOCATION");
-		argsSet.add("GPE GPE");
-		argsSet.add("ORGANIZATION ORGANIZATION");
-		argsSet.add("ORGANIZATION GPE");
-		argsSet.add("VEHICLE VEHICLE");
-		argsSet.add("WEAPON WEAPON");
-
-		argsSet.add("FACILITY ORGANIZATION");
-		argsSet.add("ORGANIZATION FACILITY");
-		argsSet.add("LOCATION ORGANIZATION");
-		argsSet.add("ORGANIZATION LOCATION");
-
-		argsSet.add("PERSON FACILITY");
-		argsSet.add("FACILITY PERSON");
-		argsSet.add("PERSON LOCATION");
-		argsSet.add("LOCATION PERSON");
-		argsSet.add("PERSON GPE");
-		argsSet.add("FACILITY FACILITY");
-		argsSet.add("FACILITY GPE");
-		argsSet.add("GPE FACILITY");
-		argsSet.add("FACILITY LOCATION");
-		argsSet.add("LOCATION FACILITY");
-		argsSet.add("LOCATION GPE");
-		argsSet.add("GPE LOCATION");
-		argsSet.add("LOCATION LOCATION");
-		argsSet.add("GPE GPE");
-
-		argsSet.add("PERSON PERSON");
-
-		argsSet.add("PERSON VEHICLE");
-		argsSet.add("VEHICLE PERSON");
-		argsSet.add("PERSON WEAPON");
-		argsSet.add("WEAPON PERSON");
-		argsSet.add("ORGANIZATION VEHICLE");
-		argsSet.add("VEHICLE ORGANIZATION");
-		argsSet.add("ORGANIZATION WEAPON");
-		argsSet.add("WEAPON ORGANIZATION");
-		argsSet.add("GPE WEAPON");
-		argsSet.add("WEAPON GPE");
-		argsSet.add("GPE VEHICLE");
-		argsSet.add("VEHICLE GPE");
-
-		if (argsSet.contains(m1.getType() + " " + m2.getType()) || argsSet.contains(m2.getType() + " " + m1.getType())) {
-			// determine if a pattern has inverse args
+		if (contains(m1.getType()) && contains(m2.getType())) {
 			outcomes.add(normalOutcome);
+			outcomes.add(normalOutcome + "-1");
 			// System.out.println(outcomes.get(0));
 		} else {
 			return;
 		}
-		// }
 
-		// if (!RelationTagger.blockingTest(m1, m2)) return;
-		// if (!RelationTagger.blockingTest(m2, m1)) return;
 		for (String outcome : outcomes) {
 			boolean inv = outcome.endsWith("-1");
 			outcome = outcome.replace("-1", "");
@@ -266,118 +183,4 @@ public class DepPathRelationTaggerTestLimit {
 			}
 		}
 	}
-
-	// compare the similarity of a candidate pattern to the set of positive and negative patterns
-	private static boolean checkPositiveSimilarity(String candidatePattern) {
-		double[] candidatePathEmbedding = null;
-		double[] posPathEmbedding = null;
-		double[] negPathEmbedding = null;
-
-		Set<String> posArgsSet = new TreeSet<String>(); // store argument pairs of positive patterns
-
-		if (!WordEmbedding.isLoaded()) {
-			return false;
-		}
-
-		String args = candidatePattern.split("--")[0] + " " + candidatePattern.split("--")[2];
-
-		// get embedding of candidate path
-		if (candidatePattern != null) {
-			String path = candidatePattern.split("--")[1];
-			String[] lexInPath = path.split(":");
-			int length = lexInPath.length;
-
-			if (length > 1) { // if the path contain at least one word
-				String[] wordsInPath = new String[(int) Math.floor(length / 2)]; // No. of words in path = Math.floor(length/2)
-				for (int i = 1; i < length; i = i + 2) {
-					wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-				}
-
-				// System.out.println(wordsInPath[0]);
-				candidatePathEmbedding = WordEmbedding.embed(wordsInPath);
-			}
-		}
-
-		// get embedding of positive paths
-		if (posModel != null) {
-			for (String pattern : posModel) {
-				String posArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
-				posArgsSet.add(posArgs);
-
-				if (!posArgs.equals(args)) {
-					continue; // argument types don't match
-				}
-
-				String path = pattern.split("--")[1];
-				String[] lexInPath = path.split(":");
-				int length = lexInPath.length;
-
-				if (length > 1) {
-					String[] wordsInPath = new String[(int) Math.floor(length / 2)];
-					for (int i = 1; i < length; i = i + 2) {
-						wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-					}
-
-					double[] v = WordEmbedding.embed(wordsInPath); // get embedding
-					if (v != null) {
-						if (posPathEmbedding == null) {
-							posPathEmbedding = v;
-						} else {
-							for (int i = 0; i < v.length; i++) {
-								posPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-							}
-						}
-					}
-				}
-			}
-		}
-
-		// get embedding of negative paths
-		if (negModel != null) {
-			for (String pattern : negModel) {
-				String negArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
-
-				if (!negArgs.equals(args)) {
-					continue; // argument types don't match
-				}
-
-				String path = pattern.split("--")[1];
-				String[] lexInPath = path.split(":");
-				int length = lexInPath.length;
-
-				if (length > 1) {
-					String[] wordsInPath = new String[(int) Math.floor(length / 2)];
-					for (int i = 1; i < length; i = i + 2) {
-						wordsInPath[(int) Math.floor(i / 2)] = lexInPath[i]; // get words in path
-					}
-
-					double[] v = WordEmbedding.embed(wordsInPath); // get embedding
-					if (v != null) {
-						if (negPathEmbedding == null) {
-							negPathEmbedding = v;
-						} else {
-							for (int i = 0; i < v.length; i++) {
-								negPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-							}
-						}
-					}
-				}
-			}
-		}
-
-		double posScore = WordEmbedding.similarity(posPathEmbedding, candidatePathEmbedding);
-		double negScore = WordEmbedding.similarity(negPathEmbedding, candidatePathEmbedding);
-
-		if (posArgsSet.contains(args)) { // if argument pairs of candidate occurs in positive argument pairs set
-			// System.out.println("Embedding scores: " + candidatePattern + "=" + posScore + " " + negScore);
-			if (posScore > negScore && posScore > 0.5) {
-				return true;
-			} else {
-				return false;
-			}
-		}
-
-		return false;
-	}
-
 }

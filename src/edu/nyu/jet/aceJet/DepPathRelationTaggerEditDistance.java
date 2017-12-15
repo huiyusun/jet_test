@@ -10,10 +10,16 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.aceJet.DepPathRelationTaggerEditDistanceEmbedding.ArgType;
+import edu.nyu.jet.aceJet.Ace.Name;
+import edu.nyu.jet.models.DepPathRegularizer;
+import edu.nyu.jet.models.PathMatcher;
+import edu.nyu.jet.models.PathRelationExtractor;
+import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.parser.SyntacticRelationSet;
+import edu.nyu.jet.refres.Resolve;
 import edu.nyu.jet.tipster.*;
 import edu.nyu.jet.zoner.SentenceSet;
+import opennlp.model.Event;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,7 +28,7 @@ import org.slf4j.LoggerFactory;
  * a relation tagger based on dependency paths and argument types, as produced by Jet ICE.
  */
 
-public class DepPathRelationTaggerExact {
+public class DepPathRelationTaggerEditDistance {
 
 	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
 
@@ -33,7 +39,10 @@ public class DepPathRelationTaggerExact {
 	static int WINDOW = 5;
 
 	// model: a map from AnchoredPath strings to relation types
-	static Map<String, List<String>> model = null;
+	static Map<String, String> model = null;
+
+	static PathRelationExtractor pathRelationExtractor;
+	private static DepPathRegularizer pathRegularizer = new DepPathRegularizer();
 
 	/**
 	 * relation 'decoder': identifies the relations in document 'doc' (from file name 'currentDoc') and adds them as
@@ -78,7 +87,7 @@ public class DepPathRelationTaggerExact {
 
 	static void loadModel(String modelFile) throws IOException {
 		System.out.println("loading dep path relational model from file " + modelFile);
-		model = new TreeMap<String, List<String>>();
+		model = new TreeMap<String, String>();
 		BufferedReader reader = new BufferedReader(new FileReader(modelFile)); // for model + posModel
 
 		String line;
@@ -104,17 +113,20 @@ public class DepPathRelationTaggerExact {
 				continue;
 			}
 			if (model.get(pattern) == null)
-				model.put(pattern, new ArrayList<String>());
-			model.get(pattern).add(outcome);
+				model.put(pattern, outcome);
 			n++;
 		}
+
 		System.out.println("Loaded " + n + " dependency paths.");
 		reader.close();
 	}
 
 	// load positive and negative patterns for nearest neighbor matching
 	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
-		// empty method when using exact match
+		pathRelationExtractor = new PathRelationExtractor();
+		pathRelationExtractor.loadRules(posModelFile);
+		pathRelationExtractor.loadNeg(negModelFile);
+		// pathRelationExtractor.loadEmbeddings(embeddingFile);
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -150,54 +162,57 @@ public class DepPathRelationTaggerExact {
 
 		String path = EventSyntacticPattern.buildSyntacticPath(h1, h2, relations);
 
-		// logger.info(path);
-
 		if (path == null)
 			return;
 		path = AnchoredPath.reduceConjunction(path);
-
 		if (path == null)
 			return;
 		path = AnchoredPath.lemmatizePath(path); // telling -> tell, does -> do, watched -> watch, etc.
 
-		// build pattern = path + arg types
+		// try exact match first
 		String pattern = m1.getType() + "--" + path + "--" + m2.getType();
-		// look up path in model
-		List<String> outcomes = model.get(pattern);
+		String outcome = model.get(pattern); // look up path in model
 
-		// if candidate pattern does not have a exact match in ACE document
-		// if (outcomes == null && posArgsSet.contains(m1.getType() + m2.getType())) {
-		if (outcomes == null) {
-			return;
+		if (outcome == null) { // try closest match next
+			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), m1.getType(), m2.getType() });
+
+			pathRelationExtractor.setMinThreshold(0.5);
+			pathRelationExtractor.setNegDiscount(0.8);
+			// pathRelationExtractor.updateLabelMismatchCost(2.0);
+			pathRelationExtractor.updateWeights(0.8, 0.4, 1.2); // (replace, insert, delete)
+
+			outcome = pathRelationExtractor.predict(event);
+
+			if (outcome == null)
+				return;
 		}
 
 		// if (!RelationTagger.blockingTest(m1, m2)) return;
 		// if (!RelationTagger.blockingTest(m2, m1)) return;
-		for (String outcome : outcomes) {
-			boolean inv = outcome.endsWith("-1");
-			outcome = outcome.replace("-1", "");
-			String[] typeSubtype = outcome.split(":", 2);
-			String type = typeSubtype[0];
-			String subtype;
-			if (typeSubtype.length == 1) {
-				subtype = "";
-			} else {
-				subtype = typeSubtype[1];
-			}
+		// for (String outcome : outcomes) {
+		boolean inv = outcome.endsWith("-1");
+		outcome = outcome.replace("-1", "");
+		String[] typeSubtype = outcome.split(":", 2);
+		String type = typeSubtype[0];
+		String subtype;
+		if (typeSubtype.length == 1) {
+			subtype = "";
+		} else {
+			subtype = typeSubtype[1];
+		}
 
-			if (inv) {
-				AceRelationMention mention = new AceRelationMention("", m2, m1, doc);
-				System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
-				AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
-				relation.addMention(mention);
-				RelationTagger.relationList.add(relation);
-			} else {
-				AceRelationMention mention = new AceRelationMention("", m1, m2, doc);
-				System.out.println("Found " + outcome + " relation " + mention.text); // <<<
-				AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
-				relation.addMention(mention);
-				RelationTagger.relationList.add(relation);
-			}
+		if (inv) {
+			AceRelationMention mention = new AceRelationMention("", m2, m1, doc);
+			System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
+			AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
+			relation.addMention(mention);
+			RelationTagger.relationList.add(relation);
+		} else {
+			AceRelationMention mention = new AceRelationMention("", m1, m2, doc);
+			System.out.println("Found " + outcome + " relation " + mention.text); // <<<
+			AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
+			relation.addMention(mention);
+			RelationTagger.relationList.add(relation);
 		}
 	}
 }

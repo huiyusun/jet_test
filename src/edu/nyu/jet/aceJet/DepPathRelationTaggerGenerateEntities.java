@@ -22,7 +22,7 @@ import org.slf4j.LoggerFactory;
  * a relation tagger based on dependency paths and argument types, as produced by Jet ICE.
  */
 
-public class DepPathRelationTaggerExact {
+public class DepPathRelationTaggerGenerateEntities {
 
 	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
 
@@ -40,7 +40,7 @@ public class DepPathRelationTaggerExact {
 	 * AceRelations to AceDocument 'aceDoc'.
 	 */
 
-	public static void findRelations(String currentDoc, Document d, AceDocument ad) {
+	public static void findRelations(String currentDoc, Document d, AceDocument ad) throws IOException {
 		doc = d;
 		RelationTagger.doc = d;
 		doc.relations.addInverses();
@@ -51,6 +51,10 @@ public class DepPathRelationTaggerExact {
 		// RelationTagger.findEntityMentions (aceDoc);
 		AceMention[] ray = aceDoc.allMentionsList.toArray(new AceMention[0]);
 		Arrays.sort(ray);
+
+		PrintWriter w = new PrintWriter(new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/entity_write_test"),
+				true);
+
 		for (int i = 0; i < ray.length - 1; i++) {
 			for (int j = 1; j < WINDOW && i + j < ray.length; j++) {
 				AceMention m1 = ray[i];
@@ -61,9 +65,10 @@ public class DepPathRelationTaggerExact {
 				if (!sentences.inSameSentence(m1.getJetHead().start(), m2.getJetHead().start()))
 					continue;
 
-				// System.out.println(doc.relations);
+				// System.out.println("findRelations: AceMention: " + m1.id + " " + m1.text + " " + m1.getType());
+				// System.out.println("findRelations: doc.relations: " + doc.relations.get(0) + " " + doc.relations.get(1));
 
-				predictRelation(m1, m2, doc.relations);
+				predictRelation(m1, m2, doc.relations, w);
 			}
 		}
 		// combine relation mentions into relations
@@ -140,7 +145,7 @@ public class DepPathRelationTaggerExact {
 	 * relationList. If the path appears with multiple relation types, add each one to the list.
 	 */
 
-	private static void predictRelation(AceMention m1, AceMention m2, SyntacticRelationSet relations) {
+	private static void predictRelation(AceMention m1, AceMention m2, SyntacticRelationSet relations, PrintWriter w) {
 		// compute path
 		int h1 = m1.getJetHead().start();
 		int h2 = m2.getJetHead().start();
@@ -149,8 +154,6 @@ public class DepPathRelationTaggerExact {
 			return; // other arg types: e.g. time
 
 		String path = EventSyntacticPattern.buildSyntacticPath(h1, h2, relations);
-
-		// logger.info(path);
 
 		if (path == null)
 			return;
@@ -197,6 +200,13 @@ public class DepPathRelationTaggerExact {
 				AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
 				relation.addMention(mention);
 				RelationTagger.relationList.add(relation);
+
+				// ((AceEntity) m1.getParent()).write(w);
+				((AceEntity) relation.arg1).write(w);
+
+				((AceEntity) relation.arg1).addName(((AceEntity) m1.getParent()).names.get(0));
+
+				System.out.println(((AceEntity) m1.getParent()).names);
 			}
 		}
 	}

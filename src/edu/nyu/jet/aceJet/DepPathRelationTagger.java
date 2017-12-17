@@ -10,8 +10,7 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.models.DepPathRegularizer;
-import edu.nyu.jet.models.WordEmbedding;
+import edu.nyu.jet.aceJet.DepPathRelationTaggerEditDistanceEmbedding.ArgType;
 import edu.nyu.jet.parser.SyntacticRelationSet;
 import edu.nyu.jet.tipster.*;
 import edu.nyu.jet.zoner.SentenceSet;
@@ -25,7 +24,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTagger {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
 
 	static Document doc;
 	static AceDocument aceDoc;
@@ -35,14 +34,6 @@ public class DepPathRelationTagger {
 
 	// model: a map from AnchoredPath strings to relation types
 	static Map<String, List<String>> model = null;
-
-	static List<String> posModel = null; // positive LDPs
-	static List<String> negModel = null; // negative LDPs
-
-	static String normalOutcome = null; // relation type of positive LDPs without inverse args
-	static Set<String> normalArgs = null;
-
-	private static DepPathRegularizer pathRegularizer = new DepPathRegularizer();
 
 	/**
 	 * relation 'decoder': identifies the relations in document 'doc' (from file name 'currentDoc') and adds them as
@@ -118,85 +109,12 @@ public class DepPathRelationTagger {
 			n++;
 		}
 		System.out.println("Loaded " + n + " dependency paths.");
+		reader.close();
 	}
 
 	// load positive and negative patterns for nearest neighbor matching
 	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
-		WordEmbedding.loadWordEmbedding(embeddingFile);
-
-		posModel = new ArrayList<String>();
-		negModel = new ArrayList<String>();
-
-		normalArgs = new TreeSet<String>();
-
-		BufferedReader posReader = new BufferedReader(new FileReader(posModelFile)); // for posModel
-		BufferedReader negReader = new BufferedReader(new FileReader(negModelFile)); // for negModel
-
-		String line, negLine;
-		int n = 0, m = 0;
-		int lineNo = 0, negLineNo = 0;
-
-		while ((line = posReader.readLine()) != null) {
-			lineNo++;
-			if (line.startsWith("#"))
-				continue;
-			String[] fields = line.split("=");
-			if (fields.length < 2) {
-				loadError(lineNo, line, "missing =");
-				continue;
-			}
-			if (fields.length > 2) {
-				loadError(lineNo, line, "extra =");
-				continue;
-			}
-
-			String pattern = fields[0].trim();
-			String outcome = fields[1].trim();
-
-			if (!AnchoredPath.valid(pattern)) {
-				loadError(lineNo, line, "invalid path");
-				continue;
-			}
-
-			posModel.add(pattern);
-			n++;
-
-			if (!outcome.contains("-1")) { // used to check if a similarity matched pattern has normal args
-				normalArgs.add(pattern.split("--")[0] + " " + pattern.split("--")[2]);
-				normalOutcome = outcome; // relation type of positive patterns
-			}
-		}
-
-		System.out.println("Normal Args: " + normalArgs);
-
-		while ((negLine = negReader.readLine()) != null) {
-			negLineNo++;
-			if (negLine.startsWith("#"))
-				continue;
-			String[] fields = negLine.split("=");
-			if (fields.length < 2) {
-				loadError(negLineNo, negLine, "missing =");
-				continue;
-			}
-			if (fields.length > 2) {
-				loadError(negLineNo, negLine, "extra =");
-				continue;
-			}
-
-			String pattern = fields[0].trim();
-
-			if (!AnchoredPath.valid(pattern)) {
-				loadError(negLineNo, negLine, "invalid path");
-				continue;
-			}
-
-			negModel.add(pattern);
-			m++;
-		}
-
-		System.out.println("Loaded " + n + " posigve paths" + " and " + m + " negtative paths.");
-		posReader.close();
-		negReader.close();
+		// empty method when using exact match
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -250,14 +168,7 @@ public class DepPathRelationTagger {
 		// if candidate pattern does not have a exact match in ACE document
 		// if (outcomes == null && posArgsSet.contains(m1.getType() + m2.getType())) {
 		if (outcomes == null) {
-			if (checkPositiveSimilarity(pattern)) {
-				outcomes = new ArrayList<String>();
-				// determine if a pattern has inverse args
-				outcomes.add(normalArgs.contains(m1.getType() + " " + m2.getType()) ? normalOutcome : normalOutcome + "-1");
-				// System.out.println(outcomes.get(0));
-			} else {
-				return;
-			}
+			return;
 		}
 
 		// if (!RelationTagger.blockingTest(m1, m2)) return;
@@ -289,103 +200,4 @@ public class DepPathRelationTagger {
 			}
 		}
 	}
-
-	// compare the similarity of a candidate pattern to the set of positive and negative patterns
-	private static boolean checkPositiveSimilarity(String candidate) {
-		double[] candidatePathEmbedding = null;
-		double[] posPathEmbedding = null;
-		double[] negPathEmbedding = null;
-
-		Set<String> posArgsSet = new TreeSet<String>(); // store argument pairs of positive patterns
-
-		if (!WordEmbedding.isLoaded()) {
-			return false;
-		}
-
-		String candidatePattern = pathRegularizer.reformat(candidate);
-
-		String args = candidatePattern.split("--")[0] + " " + candidatePattern.split("--")[2];
-
-		// get embedding of candidate path
-		if (candidatePattern != null) {
-			String path = candidatePattern.split("--")[1];
-			String[] lexInPath = path.split(":");
-
-			// System.out.println(wordsInPath[0]);
-			candidatePathEmbedding = WordEmbedding.embed(lexInPath);
-		}
-
-		// get embedding of positive paths
-		if (posModel != null) {
-			for (String p : posModel) {
-				String pattern = pathRegularizer.reformat(p);
-
-				String posArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
-				posArgsSet.add(posArgs);
-
-				if (!posArgs.equals(args)) {
-					continue; // argument types don't match
-				}
-
-				String path = pattern.split("--")[1];
-				String[] lexInPath = path.split(":");
-
-				double[] v = WordEmbedding.embed(lexInPath); // get embedding
-				if (v != null) {
-					if (posPathEmbedding == null) {
-						posPathEmbedding = v;
-					} else {
-						for (int i = 0; i < v.length; i++) {
-							posPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-						}
-					}
-				}
-			}
-		}
-
-		// get embedding of negative paths
-		if (negModel != null) {
-			for (String p : negModel) {
-				String pattern = pathRegularizer.reformat(p);
-
-				String negArgs = pattern.split("--")[0] + " " + pattern.split("--")[2];
-
-				if (!negArgs.equals(args)) {
-					continue; // argument types don't match
-				}
-
-				String path = pattern.split("--")[1];
-				String[] lexInPath = path.split(":");
-
-				double[] v = WordEmbedding.embed(lexInPath); // get embedding
-				if (v != null) {
-					if (negPathEmbedding == null) {
-						negPathEmbedding = v;
-					} else {
-						for (int i = 0; i < v.length; i++) {
-							negPathEmbedding[i] += v[i]; // add embedding scores onto old scores
-						}
-					}
-				}
-			}
-		}
-
-		double posScore = WordEmbedding.similarity(posPathEmbedding, candidatePathEmbedding);
-		double negScore = WordEmbedding.similarity(negPathEmbedding, candidatePathEmbedding);
-
-		double negDiscount = 0.9;
-		double minThreshold = 0.3;
-
-		if (posArgsSet.contains(args)) { // if argument pairs of candidate occurs in positive argument pairs set
-			System.out.println("Embedding scores: " + candidatePattern + "=" + posScore + " " + negScore);
-			if (posScore * negDiscount > negScore && posScore > minThreshold) {
-				return true;
-			} else {
-				return false;
-			}
-		}
-
-		return false;
-	}
-
 }

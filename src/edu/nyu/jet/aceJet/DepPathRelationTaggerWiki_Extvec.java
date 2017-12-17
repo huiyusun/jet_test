@@ -311,8 +311,9 @@ public class DepPathRelationTaggerWiki_Extvec {
 			String path = candidatePattern.split("--")[1];
 			String[] lexInPath = path.split(":");
 
-			// System.out.println(wordsInPath[0]);
-			candidatePathEmbedding = WordEmbedding.embed(lexInPath);
+			candidatePathEmbedding = WordEmbedding.embedClosest(lexInPath);
+			// System.out.println("candidate: " + candidatePattern);
+			// System.out.println(candidatePathEmbedding);
 		}
 
 		// get embedding of positive paths
@@ -330,7 +331,11 @@ public class DepPathRelationTaggerWiki_Extvec {
 				String path = pattern.split("--")[1];
 				String[] lexInPath = path.split(":");
 
-				double[] v = WordEmbedding.embed(lexInPath); // get embedding
+				double[] v = WordEmbedding.embedClosest(lexInPath); // get embedding
+
+				// System.out.println("pos: " + pattern);
+				// System.out.println(v);
+
 				if (v != null) {
 					if (posPathEmbedding == null) {
 						posPathEmbedding = v;
@@ -357,7 +362,7 @@ public class DepPathRelationTaggerWiki_Extvec {
 				String path = pattern.split("--")[1];
 				String[] lexInPath = path.split(":");
 
-				double[] v = WordEmbedding.embed(lexInPath); // get embedding
+				double[] v = WordEmbedding.embedClosest(lexInPath); // get embedding
 				if (v != null) {
 					if (negPathEmbedding == null) {
 						negPathEmbedding = v;
@@ -373,11 +378,11 @@ public class DepPathRelationTaggerWiki_Extvec {
 		double posScore = WordEmbedding.similarity(posPathEmbedding, candidatePathEmbedding);
 		double negScore = WordEmbedding.similarity(negPathEmbedding, candidatePathEmbedding);
 
-		double negDiscount = 0.9;
-		double minThreshold = 0.3;
+		double negDiscount = 0.8;
+		double minThreshold = 0.6;
 
 		if (posArgsSet.contains(args)) { // if argument pairs of candidate occurs in positive argument pairs set
-			System.out.println("Embedding scores: " + candidatePattern + "=" + posScore + " " + negScore);
+			System.out.println("Embedding scores: " + candidatePattern + "=" + posScore * negDiscount + " " + negScore);
 			if (posScore * negDiscount > negScore && posScore > minThreshold) {
 				return true;
 			} else {

@@ -16,6 +16,8 @@ public class MatcherPath {
 	List<MatcherNode> nodes = new ArrayList<MatcherNode>();
 	String arg1Type = "UNK";
 	String arg2Type = "UNK";
+	String arg1Subtype = "UNK";
+	String arg2Subtype = "UNK";
 	String relationType = "NONE";
 	Stemmer stemmer = Stemmer.getDefaultStemmer();
 
@@ -24,9 +26,21 @@ public class MatcherPath {
 		nodes.clear();
 		String[] parts = pathString.split("--");
 		if (parts.length == 3) {
-			arg1Type = parts[0].trim();
-			arg2Type = parts[2].trim();
+			String arg1 = parts[0].trim();
+			String arg2 = parts[2].trim();
+
+			if (arg1.contains(":") && arg2.contains(":")) { // get subtype also if pattern contains subtype
+				arg1Type = arg1.split(":")[0].trim();
+				arg1Subtype = arg1.split(":")[1].trim();
+				arg2Type = arg2.split(":")[0].trim();
+				arg2Subtype = arg2.split(":")[1].trim();
+			} else {
+				arg1Type = arg1;
+				arg2Type = arg2;
+			}
+
 			parts = parts[1].split(":");
+
 			for (int i = 0; i < (parts.length - 1) / 2; i++) {
 				MatcherNode node = new MatcherNode(parts[2 * i], stemmer.getStem(parts[2 * i + 1], "UNK"));
 				nodes.add(node);

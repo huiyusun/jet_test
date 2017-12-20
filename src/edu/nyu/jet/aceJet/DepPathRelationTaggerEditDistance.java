@@ -127,6 +127,7 @@ public class DepPathRelationTaggerEditDistance {
 		pathRelationExtractor.loadRules(posModelFile);
 		pathRelationExtractor.loadNeg(negModelFile);
 		// pathRelationExtractor.loadEmbeddings(embeddingFile);
+		// PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_train_pos");
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -176,10 +177,10 @@ public class DepPathRelationTaggerEditDistance {
 		if (outcome == null) { // try closest match next
 			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), m1.getType(), m2.getType() });
 
-			pathRelationExtractor.setMinThreshold(0.5);
+			pathRelationExtractor.setMinThreshold(0.3);
 			pathRelationExtractor.setNegDiscount(0.8);
-			// pathRelationExtractor.updateLabelMismatchCost(2.0);
-			pathRelationExtractor.updateWeights(0.8, 0.4, 1.2); // (replace, insert, delete)
+			pathRelationExtractor.setK(3);
+			pathRelationExtractor.updateWeights(0.8, 0.4, 1.0); // (replace, insert, delete)
 
 			outcome = pathRelationExtractor.predict(event);
 

@@ -10,7 +10,6 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.aceJet.DepPathRelationTagger.ArgType;
 import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.parser.SyntacticRelationSet;
 import edu.nyu.jet.tipster.*;

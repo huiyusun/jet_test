@@ -10,7 +10,6 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.aceJet.DepPathRelationTagger.ArgType;
 import edu.nyu.jet.models.DepPathRegularizer;
 import edu.nyu.jet.models.PathMatcher;
 import edu.nyu.jet.models.PathRelationExtractor;

@@ -28,7 +28,7 @@ import org.slf4j.LoggerFactory;
  * a relation tagger based on dependency paths and argument types, as produced by Jet ICE.
  */
 
-public class DepPathRelationTagger {
+public class DepPathRelationTaggerEntitySubtypes {
 
 	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
 
@@ -185,7 +185,7 @@ public class DepPathRelationTagger {
 
 			pathRelationExtractor.setMinThreshold(0.5);
 			pathRelationExtractor.setNegDiscount(0.8);
-			pathRelationExtractor.setK(6);
+			pathRelationExtractor.setK(3);
 
 			outcome = pathRelationExtractor.predict(event);
 

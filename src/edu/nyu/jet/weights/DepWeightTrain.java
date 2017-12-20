@@ -259,11 +259,13 @@ public class DepWeightTrain {
 		loadNeg(dir + "patterns_weights_dep.neg");
 
 		// train dependency weights
-		trainPos(dir + "weights_dep_perfect_posTable");
-		trainNeg(dir + "weights_dep_perfect_negTable");
+		String v = "v1"; // e.g. v1, perfect, real, etc.
+
+		trainPos(dir + "weights_dep_" + v + "_posTable");
+		trainNeg(dir + "weights_dep_" + v + "_negTable");
 
 		// combine posTable and negTable weights and resolve conflicting scores
-		CombineDepWeights.Combine(dir + "weights_dep_perfect_posTable", dir + "weights_dep_perfect_negTable",
-				dir + "weights_dep_perfect_combined");
+		CombineDepWeights.Combine(dir + "weights_dep_" + v + "_posTable", dir + "weights_dep_" + v + "_negTable",
+				dir + "weights_dep_" + v + "_combined");
 	}
 }

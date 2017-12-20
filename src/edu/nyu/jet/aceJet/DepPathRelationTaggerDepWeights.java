@@ -28,7 +28,7 @@ import org.slf4j.LoggerFactory;
  * a relation tagger based on dependency paths and argument types, as produced by Jet ICE.
  */
 
-public class DepPathRelationTagger {
+public class DepPathRelationTaggerDepWeights {
 
 	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
 
@@ -128,7 +128,6 @@ public class DepPathRelationTagger {
 		pathRelationExtractor.loadNeg(negModelFile);
 		// pathRelationExtractor.loadEmbeddings(embeddingFile);
 		PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_dep");
-		PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -176,16 +175,11 @@ public class DepPathRelationTagger {
 		String outcome = model.get(pattern); // look up path in model
 
 		if (outcome == null) { // try closest match next
-			AceEntity e1 = (AceEntity) m1.getParent();
-			AceEntity e2 = (AceEntity) m2.getParent();
-			String arg1 = m1.getType() + ":" + e1.subtype; // entity type + subtype
-			String arg2 = m2.getType() + ":" + e2.subtype;
+			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), m1.getType(), m2.getType() });
 
-			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
-
-			pathRelationExtractor.setMinThreshold(0.5);
+			pathRelationExtractor.setMinThreshold(0.3);
 			pathRelationExtractor.setNegDiscount(0.8);
-			pathRelationExtractor.setK(6);
+			pathRelationExtractor.setK(3);
 
 			outcome = pathRelationExtractor.predict(event);
 

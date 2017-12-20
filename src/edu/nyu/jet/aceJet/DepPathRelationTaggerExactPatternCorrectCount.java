@@ -171,6 +171,13 @@ public class DepPathRelationTaggerExactPatternCorrectCount {
 			return;
 		}
 
+		AceEntity e1 = (AceEntity) m1.getParent();
+		AceEntity e2 = (AceEntity) m2.getParent();
+		String arg1 = m1.getType() + ":" + e1.subtype; // entity type + subtype
+		String arg2 = m2.getType() + ":" + e2.subtype;
+
+		String patternSubtype = arg1 + "--" + path + "--" + arg2;
+
 		// if (!RelationTagger.blockingTest(m1, m2)) return;
 		// if (!RelationTagger.blockingTest(m2, m1)) return;
 		for (String outcome : outcomes) {
@@ -190,7 +197,7 @@ public class DepPathRelationTaggerExactPatternCorrectCount {
 				System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
 				AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
 				relation.addMention(mention);
-				relation.addPattern(pattern);
+				relation.addPattern(patternSubtype); // select: pattern or patternSubtype
 				relation.addOutcome(outcome + "-1");
 				RelationTagger.relationList.add(relation);
 			} else {
@@ -198,7 +205,7 @@ public class DepPathRelationTaggerExactPatternCorrectCount {
 				System.out.println("Found " + outcome + " relation " + mention.text); // <<<
 				AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
 				relation.addMention(mention);
-				relation.addPattern(pattern);
+				relation.addPattern(patternSubtype); // select: pattern or patternSubtype
 				relation.addOutcome(outcome);
 				RelationTagger.relationList.add(relation);
 			}

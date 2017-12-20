@@ -19,12 +19,15 @@ Chunker.fileName         = chunkModel.txt
 NameTags.ME.fileName = ../acedata/AceOntoMeneModel
 WordClusters.fileName = brownClusters10-2014.txt
 Ace.PerfectEntities = true
+Ace.EntitySubtypeMatching = true
 ##### ICE USER CONFIG FILES #####
 # Onoma.fileName           = ../acedata/ice_onoma.dict
 # Ace.EDTtype.auxFileName  = ../acedata/EDTypesFromUser.dict
 # Ace.RelationModel.fileName = ../acedata/iceRelationModel
 # Ace.RelationDepPaths.fileName = /misc/proteus107/grishman/ice-bin/acedata/iceRelationModel
 Ace.DepEmbeddings.fileName = /Users/nuist/documents/NlpResearch/WordEmbeddings/glove/glove.6B.300d.txt
+Ace.DepEmbeddingsGlove.fileName = /Users/nuist/documents/NlpResearch/WordEmbeddings/glove/glove.6B.300d.txt
+Ace.DepEmbeddingsExtvec.fileName = /Users/nuist/documents/NlpResearch/WordEmbeddings/wiki_extvec/wiki_extvec
 Ace.RelationDepPaths.fileName = ./patterns
 #################################
 #

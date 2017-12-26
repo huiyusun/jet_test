@@ -1,0 +1,95 @@
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos & neg patterns with increment of 100
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns.pos:100 patterns.neg:100 = P:0.7078 R:0.7368 F:0.7220
+[TUNING] patterns.pos:200 patterns.neg:200 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:300 patterns.neg:300 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:400 patterns.neg:400 = P:0.7056 R:0.7398 F:0.7223
+[TUNING] patterns.pos:500 patterns.neg:500 = P:0.6972 R:0.7489 F:0.7221
+[TUNING] patterns.pos:600 patterns.neg:600 = P:0.6748 R:0.7504 F:0.7106
+[TUNING] patterns.pos:700 patterns.neg:683 = P:0.6748 R:0.7504 F:0.7106
+[BEST] patterns.pos:200 patterns.neg:200 = F:0.7224278
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos & neg patterns with increment of 100
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns.pos:1374 patterns.neg:100 = P:0.5617 R:0.7640 F:0.6474
+[TUNING] patterns.pos:1374 patterns.neg:200 = P:0.5608 R:0.7610 F:0.6457
+[TUNING] patterns.pos:1374 patterns.neg:300 = P:0.5620 R:0.7610 F:0.6465
+[TUNING] patterns.pos:1374 patterns.neg:400 = P:0.5749 R:0.7610 F:0.6549
+[BEST] patterns.pos:1374 patterns.neg:400 = F:0.6549479
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos & neg patterns with increment of 100
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns.pos:100 patterns.neg:683 = P:0.7078 R:0.7368 F:0.7220
+[TUNING] patterns.pos:200 patterns.neg:683 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:300 patterns.neg:683 = P:0.7072 R:0.7383 F:0.7224
+[BEST] patterns.pos:200 patterns.neg:683 = F:0.7224278
+
+----------------------------------------------------------------------------------
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos & neg patterns with random pattern selection
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns_random.pos:100 patterns_random.neg:100 = P:0.6772 R:0.7458 F:0.7099
+[TUNING] patterns_random.pos:200 patterns_random.neg:200 = P:0.7009 R:0.7337 F:0.7169
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6927 R:0.7504 F:0.7204
+[TUNING] patterns_random.pos:400 patterns_random.neg:400 = P:0.6698 R:0.7519 F:0.7085
+[BEST] patterns_random.pos:300 patterns_random.neg:300 = F:0.72040665
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos & neg patterns with random pattern selection
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6927 R:0.7504 F:0.7204
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6301 R:0.7474 F:0.6837
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6280 R:0.7458 F:0.6819
+[BEST] patterns_random.pos:300 patterns_random.neg:300 = F:0.72040665
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos patterns for exact match with increment 100
+[TUNING] patterns_v1(exact):100 = P:0.8932 R:0.2784 F:0.4245
+[TUNING] patterns(exact):200 = P:0.8879 R:0.2874 F:0.4343
+[TUNING] patterns(exact):300 = P:0.8773 R:0.2920 F:0.4381
+[TUNING] patterns(exact):400 = P:0.8789 R:0.2965 F:0.4434
+[TUNING] patterns(exact):500 = P:0.8803 R:0.3116 F:0.4603
+[TUNING] patterns(exact):600 = P:0.8770 R:0.3238 F:0.4729
+[TUNING] patterns(exact):700 = P:0.8723 R:0.3616 F:0.5112
+[TUNING] patterns(exact):800 = P:0.8587 R:0.3676 F:0.5148
+[TUNING] patterns(exact):900 = P:0.8325 R:0.5113 F:0.6336
+[TUNING] patterns(exact):1000 = P:0.8325 R:0.5113 F:0.6336
+[TUNING] patterns(exact):1100 = P:0.7768 R:0.5477 F:0.6424
+[TUNING] patterns(exact):1200 = P:0.7756 R:0.5961 F:0.6741
+[TUNING] patterns(exact):1300 = P:0.7831 R:0.6445 F:0.7071
+[TUNING] patterns(exact):1374 = P:0.7088 R:0.7292 F:0.7189
+[BEST] patterns(exact):1374 = F:0.71886647
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos patterns for exact match
+[TUNING] patterns_perfect(exact):78 = P:0.9084 R:0.3449 F:0.5000
+[TUNING] patterns_perfect(exact):124 = P:0.7695 R:0.7776 F:0.7735
+[BEST] patterns_perfect(exact):124 = F:0.7735139
+
+----------------------------------------------------------------------------------
+# Updated patterns_v1.pos and patterns_v1.neg slightly to match relationOracle reprs
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Varying: no. of pos patterns for exact match
+[TUNING] patterns_v1(exact):1356 = P:0.7399 R:0.7186 F:0.7291
+[BEST] patterns_v1(exact):1356 = F:0.7290867
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns_perfect.pos:584 patterns_perfect.neg:129 = P:0.7016 R:0.7398 F:0.7202
+[BEST] patterns_perfect.pos:584 patterns_perfect.neg:129 = F:0.7201767
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns_perfect.pos:200 patterns_perfect.neg:129 = P:0.7377 R:0.7277 F:0.7327
+[BEST] patterns_perfect.pos:200 patterns_perfect.neg:129 = F:0.7326733
+
+ORG-AFF | all docs (599) | training: v1 -> v1 | testing: v1:v1 -> v1
+Keeping constant: param(0.3, 0.8, 3), depWeights(0.0, N/A, N/A), weightsCutoff(5, 20)
+[TUNING] patterns_perfect.pos:100 patterns_perfect.neg:100 = P:0.7385 R:0.7262 F:0.7323
+[BEST] patterns_perfect.pos:100 patterns_perfect.neg:100 = F:0.7322655
+

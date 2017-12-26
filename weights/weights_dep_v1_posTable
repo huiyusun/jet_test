@@ -1,91 +1,165 @@
-acomp -- objcomp = 0.0
-acomp -- tmod = 0.0
-advmod -- acomp = 0.0
-advmod -- appos = 0.0
-advmod -- dobj = 0.0
-advmod -- nn-1 = 0.0
-advmod -- nsubj-1 = 0.0
-advmod -- objcomp = 0.0
-advmod -- postloc = 0.0
-advmod -- tmod = 0.0
-amod -- appos = 0.0
-amod -- nn = 0.0
-amod -- nsubj = 0.0
-amod -- poss = 0.0
-amod-1 -- nn-1 = 0.0
-amod-1 -- nsubj-1 = 0.0
-amod-1 -- pobj = 0.0
-amod-1 -- poss-1 = 0.0
-amod-1 -- postloc = 0.0
-amod-1 -- tmod = 0.0
-appos -- dobj-1 = 0.0
-appos -- nn-1 = 0.0
-appos -- nsubj = 0.0
-appos -- poss-1 = 0.0
-ccomp -- ccomp-1 = 0.0
-ccomp -- mark-1 = 0.0
-ccomp -- nsubj-1 = 0.0
-ccomp -- punct-1 = 0.0
-ccomp-1 -- mark-1 = 0.0
-ccomp-1 -- nsubj-1 = 0.0
-ccomp-1 -- punct-1 = 0.0
-cop -- acomp = 0.0
-cop -- advmod = 0.0
-cop -- dobj = 0.0
-cop -- objcomp = 0.0
-cop -- prep = 0.0
-cop -- tmod = 0.0
-dep -- cop = 0.0
-dep-1 -- tmod-1 = 0.0
-dobj -- acomp = 0.0
-dobj -- appos = 0.0
-dobj -- iobj = 0.0
-dobj -- nsubj = 0.0
-dobj -- objcomp = 0.0
-dobj -- poss-1 = 0.0
-dobj -- tmod = 0.0
-infmod -- nsubj-1 = 0.0
-iobj -- postloc = 0.0
-mark-1 -- nsubj-1 = 0.0
-mark-1 -- punct-1 = 0.0
-nn -- appos = 0.0
-nn -- nsubj = 0.0
-nn -- poss = 0.0
-nn-1 -- advmod-1 = 0.0
-nn-1 -- dobj = 0.0
-nn-1 -- dobj-1 = 0.0
-nn-1 -- iobj = 0.0
-nn-1 -- nsubj = 0.0
-nn-1 -- nsubj-1 = 0.0
-nn-1 -- pobj = 0.0
-nn-1 -- poss-1 = 0.0
-nn-1 -- postloc = 0.0
-nn-1 -- tmod = 0.0
-nsubj -- advmod = 0.0
-nsubj -- poss = 0.0
-nsubj-1 -- advmod-1 = 0.0
-nsubj-1 -- appos = 0.0
-nsubj-1 -- dep-1 = 0.0
-nsubj-1 -- nn = 0.0
-nsubj-1 -- pobj = 0.0
-nsubj-1 -- poss-1 = 0.0
-nsubj-1 -- postloc = 0.0
-nsubj-1 -- tmod = 0.0
-pobj -- pcomp = 0.0
-pobj -- tmod = 0.0
-poss -- appos = 0.0
-poss-1 -- advmod-1 = 0.0
-poss-1 -- dobj-1 = 0.0
-postloc -- appos = 0.0
-postloc -- pobj = 0.0
-postloc -- tmod = 0.0
-prep-1 -- ccomp = 0.0
-prep-1 -- ccomp-1 = 0.0
-prep-1 -- mark-1 = 0.0
-prep-1 -- nsubj-1 = 0.0
-prep-1 -- punct-1 = 0.0
-punct-1 -- nsubj-1 = 0.0
-tmod -- objcomp = 0.0
-xcomp -- dobj = 0.0
-xcomp -- infmod = 0.0
-xcomp -- nsubj-1 = 0.0
+nn-1 -- amod-1 = 0.0 = 114
+appos -- nn-1 = 0.0 = 102
+poss-1 -- nn-1 = 0.0 = 91
+amod-1 -- poss-1 = 0.0 = 67
+amod -- nn = 0.0 = 58
+nn -- poss = 0.0 = 55
+amod -- poss = 0.0 = 38
+postloc -- appos = 0.0 = 31
+nn-1 -- postloc = 0.0 = 22
+nsubj-1 -- poss-1 = 0.0 = 14
+nn-1 -- nsubj-1 = 0.0 = 13
+nsubj-1 -- infmod = 0.0 = 11
+nsubj-1 -- appos = 0.0 = 10
+amod-1 -- nsubj-1 = 0.0 = 7
+dobj -- tmod = 0.0 = 7
+iobj -- dobj = 0.0 = 7
+nsubj-1 -- postloc = 0.0 = 6
+nn-1 -- num-1 = 0.0 = 5
+amod -- nsubj = 0.0 = 4
+amod-1 -- appos = 0.0 = 4
+cop -- dobj = 0.0 = 4
+dobj -- nsubj = 0.0 = 4
+dobj -- objcomp = 0.0 = 4
+nn -- nsubj = 0.0 = 4
+nn-1 -- pobj = 0.0 = 4
+pobj -- appos = 0.0 = 4
+poss -- nsubj = 0.0 = 4
+amod-1 -- num-1 = 0.0 = 3
+appos -- nsubj = 0.0 = 3
+appos -- poss-1 = 0.0 = 3
+dep -- appos = 0.0 = 3
+nn-1 -- dobj = 0.0 = 3
+nn-1 -- parataxis = 0.0 = 3
+postloc -- dep = 0.0 = 3
+postloc -- pobj = 0.0 = 3
+prep -- cop = 0.0 = 3
+tmod -- objcomp = 0.0 = 3
+advmod -- appos = 0.0 = 2
+advmod -- nn-1 = 0.0 = 2
+amod-1 -- parataxis = 0.0 = 2
+appos -- parataxis = 0.0 = 2
+appos-1 -- parataxis = 0.0 = 2
+ccomp -- ccomp-1 = 0.0 = 2
+cop -- objcomp = 0.0 = 2
+cop -- tmod = 0.0 = 2
+dep -- cop = 0.0 = 2
+dep -- parataxis = 0.0 = 2
+dep-1 -- tmod-1 = 0.0 = 2
+dobj -- acomp = 0.0 = 2
+dobj -- appos = 0.0 = 2
+nn -- appos = 0.0 = 2
+nn-1 -- advmod-1 = 0.0 = 2
+nsubj-1 -- advmod-1 = 0.0 = 2
+num-1 -- poss-1 = 0.0 = 2
+parataxis -- dep-1 = 0.0 = 2
+poss-1 -- parataxis = 0.0 = 2
+postloc -- parataxis = 0.0 = 2
+punct-1 -- nsubj-1 = 0.0 = 2
+xcomp -- dobj = 0.0 = 2
+acomp -- objcomp = 0.0 = 1
+acomp -- tmod = 0.0 = 1
+advmod -- acomp = 0.0 = 1
+advmod -- nsubj = 0.0 = 1
+advmod -- nsubj-1 = 0.0 = 1
+advmod -- objcomp = 0.0 = 1
+advmod -- postloc = 0.0 = 1
+advmod -- tmod = 0.0 = 1
+advmod-1 -- punct-1 = 0.0 = 1
+amod -- appos = 0.0 = 1
+amod-1 -- advmod-1 = 0.0 = 1
+amod-1 -- pobj = 0.0 = 1
+amod-1 -- postloc = 0.0 = 1
+amod-1 -- tmod = 0.0 = 1
+appos -- dobj-1 = 0.0 = 1
+appos-1 -- amod-1 = 0.0 = 1
+appos-1 -- nn-1 = 0.0 = 1
+appos-1 -- poss-1 = 0.0 = 1
+ccomp -- mark-1 = 0.0 = 1
+ccomp -- nsubj-1 = 0.0 = 1
+ccomp -- punct-1 = 0.0 = 1
+ccomp-1 -- mark-1 = 0.0 = 1
+ccomp-1 -- nsubj-1 = 0.0 = 1
+ccomp-1 -- punct-1 = 0.0 = 1
+cop -- acomp = 0.0 = 1
+cop -- advmod = 0.0 = 1
+cop -- iobj = 0.0 = 1
+cop -- parataxis = 0.0 = 1
+cop-1 -- advmod-1 = 0.0 = 1
+cop-1 -- dep-1 = 0.0 = 1
+cop-1 -- nsubj-1 = 0.0 = 1
+cop-1 -- parataxis = 0.0 = 1
+cop-1 -- punct-1 = 0.0 = 1
+dep -- dep-1 = 0.0 = 1
+dep -- nn-1 = 0.0 = 1
+dep -- nsubj = 0.0 = 1
+dep -- tmod = 0.0 = 1
+dep-1 -- advmod-1 = 0.0 = 1
+dep-1 -- cop = 0.0 = 1
+dep-1 -- tmod = 0.0 = 1
+dobj -- dep = 0.0 = 1
+dobj -- dep-1 = 0.0 = 1
+dobj -- extr = 0.0 = 1
+dobj -- parataxis = 0.0 = 1
+dobj -- poss-1 = 0.0 = 1
+extr -- cop = 0.0 = 1
+extr -- dep = 0.0 = 1
+extr -- dep-1 = 0.0 = 1
+extr -- nsubj = 0.0 = 1
+extr -- parataxis = 0.0 = 1
+extr -- tmod = 0.0 = 1
+iobj -- appos = 0.0 = 1
+iobj -- postloc = 0.0 = 1
+mark-1 -- nsubj-1 = 0.0 = 1
+mark-1 -- punct-1 = 0.0 = 1
+nn -- dep = 0.0 = 1
+nn -- pobj = 0.0 = 1
+nn -- postloc = 0.0 = 1
+nn-1 -- dobj-1 = 0.0 = 1
+nn-1 -- iobj = 0.0 = 1
+nn-1 -- nsubj = 0.0 = 1
+nn-1 -- tmod = 0.0 = 1
+nsubj -- dep-1 = 0.0 = 1
+nsubj -- iobj = 0.0 = 1
+nsubj -- parataxis = 0.0 = 1
+nsubj -- tmod = 0.0 = 1
+nsubj-1 -- nn = 0.0 = 1
+nsubj-1 -- pobj = 0.0 = 1
+nsubj-1 -- tmod = 0.0 = 1
+num-1 -- nsubj-1 = 0.0 = 1
+objcomp -- iobj = 0.0 = 1
+parataxis -- advmod-1 = 0.0 = 1
+parataxis -- nsubj-1 = 0.0 = 1
+parataxis -- punct-1 = 0.0 = 1
+pcomp -- pobj = 0.0 = 1
+pobj -- tmod = 0.0 = 1
+poss -- appos = 0.0 = 1
+poss-1 -- advmod-1 = 0.0 = 1
+poss-1 -- dobj-1 = 0.0 = 1
+postloc -- tmod = 0.0 = 1
+prep -- agent = 0.0 = 1
+prep -- amod-1 = 0.0 = 1
+prep-1 -- ccomp = 0.0 = 1
+prep-1 -- ccomp-1 = 0.0 = 1
+prep-1 -- mark-1 = 0.0 = 1
+prep-1 -- nsubj-1 = 0.0 = 1
+prep-1 -- punct-1 = 0.0 = 1
+quantmod-1 -- prep-1 = 0.0 = 1
+tmod -- appos = 0.0 = 1
+tmod -- iobj = 0.0 = 1
+tmod -- parataxis = 0.0 = 1
+tmod -- xcomp = 0.0 = 1
+tmod-1 -- advmod-1 = 0.0 = 1
+tmod-1 -- cop-1 = 0.0 = 1
+tmod-1 -- parataxis = 0.0 = 1
+xcomp -- infmod = 0.0 = 1
+xcomp -- nsubj-1 = 0.0 = 1
+dobj-1 -- nsubj-1 = 2.0 = 39
+ccomp -- tmod-1 = 2.0 = 2
+ccomp-1 -- tmod-1 = 2.0 = 2
+mark-1 -- tmod-1 = 2.0 = 2
+prep-1 -- tmod-1 = 2.0 = 2
+ccomp -- dep-1 = 2.0 = 1
+ccomp-1 -- dep-1 = 2.0 = 1
+mark-1 -- dep-1 = 2.0 = 1
+prep-1 -- dep-1 = 2.0 = 1

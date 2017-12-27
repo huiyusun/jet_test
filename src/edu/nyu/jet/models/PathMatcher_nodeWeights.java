@@ -16,7 +16,7 @@ import java.util.TreeMap;
  * MatcherPaths using the generalized Levenshtein algorithm. It can optionally use word embeddings to compute the
  * substitution cost, if embeddings is set.
  */
-public class PathMatcher {
+public class PathMatcher_nodeWeights {
 
 	private TObjectDoubleHashMap weights = new TObjectDoubleHashMap();
 	private TObjectDoubleHashMap labelWeights = new TObjectDoubleHashMap();
@@ -26,11 +26,11 @@ public class PathMatcher {
 
 	public static double labelMismatchCost = 2.5;
 
-	private static HashMap<String, Double> depWeights;
+	private static HashMap<String, Double> depWeights = new HashMap<String, Double>();
 
 	private static HashMap<String, List<String>> typeSubtype = new HashMap<String, List<String>>();
 
-	public PathMatcher() {
+	public PathMatcher_nodeWeights() {
 		setWeights();
 	}
 
@@ -54,83 +54,22 @@ public class PathMatcher {
 		weights.put("delete", delete);
 	}
 
-	/**
-	 * Load dependency replacement weights from file.
-	 * 
-	 * @param file
-	 *          the file to load weights from
-	 * @param limit
-	 *          the max number of weights to be loaded
-	 * @param freqLimit
-	 *          max frequency cutoff point
-	 * @param exactFreq
-	 *          whether to use exact frequency or frequency cutoff
-	 * @return the number of weights loaded
-	 */
-	public static int loadDepWeights(String file, int limit, int freqLimit, boolean exactFreq) throws IOException {
-		depWeights = new HashMap<String, Double>();
-		BufferedReader br = new BufferedReader(new FileReader(file));
-		String line = null;
-		int count = 0, frequency = 1;
-
-		while ((line = br.readLine()) != null) {
-			if (!line.isEmpty()) {
-				if (count >= limit)
-					break;
-				String dep = line.split("=")[0].trim();
-				double score = Double.parseDouble(line.split("=")[1].trim());
-				if (line.split("=").length == 3) // if frequency is used
-					frequency = Integer.parseInt(line.split("=")[2].trim());
-				if (exactFreq) {
-					if (frequency == freqLimit) { // exact frequency
-						depWeights.put(dep, score);
-						count++;
-					}
-				} else {
-					if (frequency <= freqLimit) { // cutoff frequency
-						depWeights.put(dep, score);
-						count++;
-					}
-				}
-			}
-		}
-
-		br.close();
-		System.out.println("loaded " + count + " dependency weights");
-
-		return count;
-	}
-
-	public static int loadDepWeights(String file, int start, int end) throws IOException {
-		depWeights = new HashMap<String, Double>();
+	public static void loadDepWeights(String file) throws IOException {
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line = null;
 		int count = 0;
 
 		while ((line = br.readLine()) != null) {
 			if (!line.isEmpty()) {
-				count++;
-				if (count <= start)
-					continue;
-				if (count > end)
-					break;
 				String dep = line.split("=")[0].trim();
-				double score = Double.parseDouble(line.split("=")[1].trim());
-				// int frequency = Integer.parseInt(line.split("=")[2].trim());
-				// if (frequency >= 5 || count < 15) { // cutoff frequency and limit
+				Double score = Double.parseDouble(line.split("=")[1].trim());
 				depWeights.put(dep, score);
-				// }
+				count++;
 			}
 		}
 
 		br.close();
-		System.out.println("loaded " + (count - start - 1) + " dependency weights");
-
-		return count;
-	}
-
-	public static void loadDepWeights(String file) throws IOException {
-		loadDepWeights(file, 100000, 10000, false);
+		System.out.println("loaded " + count + " dependency weights");
 	}
 
 	public static void entityTypeAndSubtypeMap(String file) throws IOException {
@@ -174,8 +113,8 @@ public class PathMatcher {
 		}
 	}
 
-	// node matching using pre-trained node replacement weights
-	private double matchNode(MatcherNode c1, MatcherNode c2) {
+	// dependency matching using pre-trained dependency replacement weights
+	private double matchDependency(MatcherNode c1, MatcherNode c2) {
 		double depCost = 1;
 
 		String node1 = c1.label + ":" + c1.token;
@@ -185,22 +124,6 @@ public class PathMatcher {
 			depCost = depWeights.get(node1 + " -- " + node2);
 		} else if (depWeights.containsKey(node2 + " -- " + node1)) {
 			depCost = depWeights.get(node2 + " -- " + node1);
-		}
-
-		return depCost;
-	}
-
-	// dependency matching using pre-trained dependency replacement weights
-	private double matchDependency(MatcherNode c1, MatcherNode c2) {
-		double depCost = 1;
-
-		String dep1 = c1.label;
-		String dep2 = c2.label;
-
-		if (depWeights.containsKey(dep1 + " -- " + dep2)) {
-			depCost = depWeights.get(dep1 + " -- " + dep2);
-		} else if (depWeights.containsKey(dep2 + " -- " + dep1)) {
-			depCost = depWeights.get(dep2 + " -- " + dep1);
 		}
 
 		return depCost;

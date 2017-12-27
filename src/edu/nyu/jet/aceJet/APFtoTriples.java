@@ -74,23 +74,6 @@ public class APFtoTriples {
 	 * @return a list of relation triples
 	 */
 
-	// makeTriples
-	public static List<String> makeTriples1(Document doc, AceDocument aceDoc) {
-		List<String> triples = new ArrayList<String>();
-		for (AceRelation r : aceDoc.relations) {
-			AceEventArgumentValue arg1 = r.arg1;
-			String arg1Name = nameOfEntity(arg1);
-			AceEventArgumentValue arg2 = r.arg2;
-			String arg2Name = nameOfEntity(arg2);
-			if (arg1Name == null || arg2Name == null)
-				continue;
-
-			String triple = arg1Name + ":" + r.type + ":" + arg2Name;
-			triples.add(triple);
-		}
-		return triples;
-	}
-
 	// makeTriplesPerfect: write triple separated by '=' if an argument has multiple names. This is later resolved by
 	// the Scorer: ScoreAceTriples.java
 	public static List<String> makeTriples(Document doc, AceDocument aceDoc) {
@@ -105,89 +88,46 @@ public class APFtoTriples {
 			if (size1 == 0 || size2 == 0)
 				continue;
 
-			if (size1 > 1 && size2 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
-				String triple3 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple4 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
+			StringBuilder tripleSB = new StringBuilder();
+			Set<String> argNamesSet = new TreeSet<String>();
 
-				triples.add(triple1 + "=" + triple2 + "=" + triple3 + "=" + triple4);
-			} else if (size1 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(size1 - 1).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
+			// form triples over all combination of names between arg1 and arg2
+			for (AceEntityName n1 : arg1Names) {
+				for (AceEntityName n2 : arg2Names) {
+					String name1 = n1.text.replaceAll("\\s+", " ");
+					String name2 = n2.text.replaceAll("\\s+", " ");
 
-				triples.add(triple1 + "=" + triple2);
-			} else if (size2 > 1) {
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
-				String triple2 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(size2 - 1).text.replaceAll("\\s+", " ");
+					if (argNamesSet.contains(name1 + name2)) // don't write the same names
+						continue;
 
-				triples.add(triple1 + "=" + triple2);
-			} else { // both size1 = 1 and size2 = 1
-				String triple1 = arg1Names.get(0).text.replaceAll("\\s+", " ") + ":" + r.type + ":"
-						+ arg2Names.get(0).text.replaceAll("\\s+", " ");
+					argNamesSet.add(name1 + name2);
 
-				triples.add(triple1);
+					tripleSB.append(name1 + ":" + r.type + ":" + name2 + "=");
+				}
 			}
+
+			String tripleStr = tripleSB.deleteCharAt(tripleSB.length() - 1).toString(); // delete the last redundant '='
+			triples.add(tripleStr);
 		}
+
 		return triples;
 	}
 
-	// makeTriplesTests
-	public static List<String> makeTriplesTests(Document doc, AceDocument aceDoc) {
-		List<String> triples = new ArrayList<String>();
-		int count = 0;
+	// returns the longest name of an entity argument
+	public static String getLongest(List<AceEntityName> names) {
+		AceEntityName longest = names.get(0);
 
-		for (AceRelation r : aceDoc.relations) {
-			AceEventArgumentValue arg1 = r.arg1;
-			String arg1Name = nameOfEntity(arg1);
-			AceEventArgumentValue arg2 = r.arg2;
-			String arg2Name = nameOfEntity(arg2);
-			if (arg1Name == null || arg2Name == null)
-				continue;
-
-			String triple = ((AceEntity) arg1).names.get(0).text + ":" + r.type + ":" + r.arg2.id;
-			triples.add(triple);
-
-			// // get aceMentionsKey
-			// if (r.mentions.size() >= 1) {
-			// String triple = arg1Name + "(" + ((AceEntity) arg1).type + ")" + ":" + r.subtype + ":" + arg2Name + "("
-			// + ((AceEntity) arg2).type + ")" + " = " + r.mentions.get(0).text;
-			// triples.add(triple);
-			// }
-
-			// Step 1 to get aceSentencesKey. Step 2 is to run FindSentence.java in ice_support
-			// String triple = arg1Name + "(" + ((AceEntity) arg1).type + ")" + ":" + r.type + ":" + arg2Name + "("
-			// + ((AceEntity) arg2).type + ")" + " = " + aceDoc.docID;
-			// triples.add(triple);
-
-			// get allRelationDoc_frequent
-			// if (r.type.equals("ORG-AFF")) {
-			// String triple = r.type + " = " + aceDoc.docID;
-			// count++;
-			// if (count >= 7) { // get frequent doc id
-			// triples.add(triple);
-			// return triples;
-			// }
-			// }
-
-			// // get aceMentionsDocID
-			// String triple = arg1Name + ":" + r.type + ":" + arg2Name + " = " + r.id;
-			// triples.add(triple);
+		for (AceEntityName element : names) {
+			if (element.text.replaceAll("\\s+", " ").length() > longest.text.replaceAll("\\s+", " ").length()) {
+				longest = element;
+			}
 		}
 
-		return triples;
+		return longest.text.replaceAll("\\s+", " ");
 	}
 
 	/**
-	 * Returns the name of entity 'e', or <CODE>null</CODE> if it has no name.
+	 * Returns the name of entity 'e', or <CODE>null</CODE> if it has no name. Not in use anymore.
 	 */
 
 	public static String nameOfEntity(AceEventArgumentValue e) {

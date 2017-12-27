@@ -79,6 +79,51 @@ public class WordEmbedding {
 	}
 
 	/**
+	 * Returns the word embedding of <CODE>word</CODE>, or the closest <CODE>word</CODE> if the embedding is undefined.
+	 */
+
+	public static double[] embedClosest(String word) {
+		double[] value = null;
+
+		for (String embedding : embeddings.keySet()) {
+			if (embedding.equals(word.toLowerCase())) {
+				value = embeddings.get(embedding);
+				break;
+			}
+
+			if (word.toLowerCase().contains(embedding)) {
+				value = embeddings.get(embedding);
+				break;
+			}
+
+			if (embedding.contains(word.toLowerCase())) {
+				value = embeddings.get(embedding);
+				break;
+			}
+		}
+
+		return value;
+	}
+
+	/**
+	 * Returns the word embedding of <CODE>phrase</CODE>, computed as the sum of the embeddings of the constituent words.
+	 * Returns <CODE>null</CODE> if any words has an undefined embedding. Allows null embedding.
+	 */
+
+	public static double[] embedClosest(String[] phrase) {
+		double[] v = new double[dim];
+		for (int i = 0; i < phrase.length; i++) {
+			double[] wordEmbedding = embedClosest(phrase[i]);
+			if (wordEmbedding == null)
+				return null;
+			for (int k = 0; k < dim; k++) {
+				v[k] += wordEmbedding[k];
+			}
+		}
+		return v;
+	}
+
+	/**
 	 * Returns the cosine similarity of <CODE>token1</CODE> and <CODE>token2</CODE> based on tneir word embeddings.
 	 * Returns 0 if either embedding is undefined. Returns 1 if the arguments are equal, whether or not their embedding is
 	 * defined.

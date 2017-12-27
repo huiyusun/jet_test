@@ -18,144 +18,55 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
-import java.util.concurrent.ThreadLocalRandom;
 
-public class DepWeightTrain {
+public class DepWeightTrainNode {
 	private static List<MatcherPath> posTable;
 	private static List<MatcherPath> negTable;
 
-	/**
-	 * Load positive patterns from file.
-	 * 
-	 * @param rulesFile
-	 * @param limit
-	 * @param isRandom
-	 *          whether to use sequential loading or random loading: randomly select the required number of patterns
-	 * @return the number of patterns loaded
-	 */
-	public static int loadPos(String rulesFile, int limit, boolean isRandom) throws IOException {
+	public static int loadPos(String rulesFile, int limit) throws IOException {
 		posTable = new ArrayList<MatcherPath>();
 		BufferedReader br = new BufferedReader(new FileReader(rulesFile));
 		String line = null;
 		int count = 0;
-
-		if (!isRandom) { // sequential load
-			while ((line = br.readLine()) != null) {
-				if (count >= limit)
-					break;
-				String[] parts = line.split("=");
-				MatcherPath path = new MatcherPath(parts[0].trim());
-				if (!path.isEmpty()) {
-					path.setRelationType(parts[1].trim());
-				}
-				posTable.add(path);
-				count++;
+		while ((line = br.readLine()) != null) {
+			if (count >= limit)
+				break;
+			String[] parts = line.split("=");
+			MatcherPath path = new MatcherPath(parts[0].trim());
+			if (!path.isEmpty()) {
+				path.setRelationType(parts[1].trim());
 			}
-		} else { // random load
-			HashMap<Integer, String> pos = new HashMap<Integer, String>();
-			int posCount = 1;
-			while ((line = br.readLine()) != null) {
-				pos.put(posCount, line);
-				posCount++;
-			}
-
-			int requiredPos = 1;
-			HashSet<String> posRand = new HashSet<String>();
-			while (requiredPos <= limit && requiredPos < pos.size()) {
-				int random = ThreadLocalRandom.current().nextInt(0, 1500);
-				if (pos.containsKey(random)) {
-					if (!posRand.contains(pos.get(random)))
-						requiredPos++;
-					posRand.add(pos.get(random));
-				}
-			}
-
-			for (String pattern : posRand) {
-				String[] parts = pattern.split("=");
-				MatcherPath path = new MatcherPath(parts[0].trim());
-				if (!path.isEmpty()) {
-					path.setRelationType(parts[1].trim());
-				}
-				posTable.add(path);
-				count++;
-			}
+			posTable.add(path);
+			count++;
 		}
 
 		br.close();
 		System.out.println("loaded " + count + " positive patterns");
+
 		return count;
 	}
 
-	// sequential loading
-	public static int loadPos(String rulesFile, int limit) throws IOException {
-		return loadPos(rulesFile, limit, false);
-	}
-
-	/**
-	 * Load negative patterns from file.
-	 * 
-	 * @param rulesFile
-	 * @param limit
-	 * @param isRandom
-	 *          whether to use sequential loading or random loading: randomly select the required number of patterns
-	 * @return the number of patterns loaded
-	 */
-	public static int loadNeg(String rulesFile, int limit, boolean isRandom) throws IOException {
+	public static int loadNeg(String negRulesFile, int limit) throws IOException {
 		negTable = new ArrayList<MatcherPath>();
-		BufferedReader br = new BufferedReader(new FileReader(rulesFile));
+		BufferedReader br = new BufferedReader(new FileReader(negRulesFile));
 		String line = null;
 		int count = 0;
-
-		if (!isRandom) { // sequential load
-			while ((line = br.readLine()) != null) {
-				if (count >= limit)
-					break;
-				String[] parts = line.split("=");
-				MatcherPath path = new MatcherPath(parts[0].trim());
-				if (!path.isEmpty()) {
-					path.setRelationType(parts[1].trim());
-				}
-				negTable.add(path);
-				count++;
+		while ((line = br.readLine()) != null) {
+			if (count >= limit)
+				break;
+			String[] parts = line.split("=");
+			MatcherPath path = new MatcherPath(parts[0].trim());
+			if (!path.isEmpty()) {
+				path.setRelationType(parts[1].trim());
 			}
-		} else { // random load
-			HashMap<Integer, String> pos = new HashMap<Integer, String>(); // pos here refers to neg
-			int posCount = 1;
-			while ((line = br.readLine()) != null) {
-				pos.put(posCount, line);
-				posCount++;
-			}
-
-			int requiredPos = 1;
-			HashSet<String> posRand = new HashSet<String>();
-			while (requiredPos <= limit && requiredPos < pos.size()) {
-				int random = ThreadLocalRandom.current().nextInt(0, 1500);
-				if (pos.containsKey(random)) {
-					if (!posRand.contains(pos.get(random)))
-						requiredPos++;
-					posRand.add(pos.get(random));
-				}
-			}
-
-			for (String pattern : posRand) {
-				String[] parts = pattern.split("=");
-				MatcherPath path = new MatcherPath(parts[0].trim());
-				if (!path.isEmpty()) {
-					path.setRelationType(parts[1].trim());
-				}
-				negTable.add(path);
-				count++;
-			}
+			negTable.add(path);
+			count++;
 		}
 
 		br.close();
 		System.out.println("loaded " + count + " negative patterns");
-		return count;
-	}
 
-	// sequential loading
-	public static int loadNeg(String rulesFile, int limit) throws IOException {
-		return loadNeg(rulesFile, limit, false);
+		return count;
 	}
 
 	public static void train(String file, List<MatcherPath> table1, List<MatcherPath> table2, List<MatcherPath> negTable)
@@ -197,13 +108,15 @@ public class DepWeightTrain {
 
 				// replace between nodes and see if the resulting path matches an existing path in the pos set
 				for (int posn = 0; posn < iPath.length(); posn++) {
-					String iDep = iPath.nodes.get(posn).label;
-					String jDep = jPath.nodes.get(posn).label;
+					MatcherNode iNode = iPath.nodes.get(posn);
+					MatcherNode jNode = jPath.nodes.get(posn);
 
 					MatcherPath replacePath = new MatcherPath(iPath.toString());
 
-					if (!iDep.equals(jDep)) {
-						replacePath.setLabel(jDep, posn);
+					if (!iNode.equals(jNode)) {
+						replacePath.setNode(jNode, posn);
+						String iDep = iNode.label + ":" + iNode.token;
+						String jDep = jNode.label + ":" + jNode.token;
 
 						if (replacePath.toString().equals(jPath.toString())) { // rest of path matches except for node at posn
 							if (!depWeightsPos.containsKey(iDep + " -- " + jDep)
@@ -266,19 +179,6 @@ public class DepWeightTrain {
 		writer.close();
 	}
 
-	// call from external classes
-	public static void train(String file, String first, String second, String third) throws IOException {
-		if (first.equals("posTable") && second.equals("posTable") && third.equals("negTable")) {
-			train(file, posTable, posTable, negTable);
-		} else if (first.equals("negTable") && second.equals("negTable") && third.equals("posTable")) {
-			train(file, negTable, negTable, posTable);
-		} else if (first.equals("posTable") && second.equals("negTable") && third.equals("null")) {
-			train(file, posTable, negTable, null);
-		} else {
-			System.out.println("training dep weights error");
-		}
-	}
-
 	// sort map by values in descending order
 	public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map) {
 		List<Map.Entry<K, V>> list = new LinkedList<Map.Entry<K, V>>(map.entrySet());
@@ -299,22 +199,16 @@ public class DepWeightTrain {
 		String dir = "/Users/nuist/documents/NlpResearch/ice-eval/";
 
 		// load positive and negative patterns
-		loadPos(dir + "patterns_dep.pos", 100000);
-		loadNeg(dir + "patterns_dep.neg", 100000);
+		loadPos(dir + "patterns_node.pos", 100000);
+		loadNeg(dir + "patterns_node.neg", 100000);
 
 		// train dependency weights
-		String v = "dep_v1"; // e.g. v1, perfect, real, etc.
+		String v = "node_v1"; // e.g. v1, perfect, real, etc.
 		// pick one: (pos, pos, neg), (neg, neg, pos), (pos, neg, null)
-		train(dir + "weights_" + v + "_posTable", posTable, posTable, negTable);
 		train(dir + "weights_" + v + "_negTable", negTable, negTable, posTable);
-		train(dir + "weights_" + v + "_mixTable", posTable, negTable, null);
 
 		// combine weights trained and resolve conflicting scores
 		CombineDepWeights.Combine(dir + "weights_" + v + "_posTable", dir + "weights_" + v + "_negTable",
 				dir + "weights_" + v + "_mixTable", dir + "weights_" + v + "_combined");
-
-		// assign weights based on frequency
-		AssignWeightByFrequency.AssignWeights(dir + "weights_" + v + "_combined", dir + "weights_" + v + "_combined_freq");
 	}
-
 }

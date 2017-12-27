@@ -10,13 +10,9 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 
-import edu.nyu.jet.aceJet.Ace.Name;
 import edu.nyu.jet.models.DepPathRegularizer;
-import edu.nyu.jet.models.PathMatcher;
 import edu.nyu.jet.models.PathRelationExtractor;
-import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.parser.SyntacticRelationSet;
-import edu.nyu.jet.refres.Resolve;
 import edu.nyu.jet.tipster.*;
 import edu.nyu.jet.zoner.SentenceSet;
 import opennlp.model.Event;
@@ -30,7 +26,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTagger {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
 
 	static Document doc;
 	static AceDocument aceDoc;
@@ -41,7 +37,6 @@ public class DepPathRelationTagger {
 	// model: a map from AnchoredPath strings to relation types
 	static Map<String, String> model = null;
 
-	static PathRelationExtractor pathRelationExtractor;
 	private static DepPathRegularizer pathRegularizer = new DepPathRegularizer();
 
 	/**
@@ -49,7 +44,8 @@ public class DepPathRelationTagger {
 	 * AceRelations to AceDocument 'aceDoc'.
 	 */
 
-	public static void findRelations(String currentDoc, Document d, AceDocument ad) {
+	public static void findRelations(String currentDoc, Document d, AceDocument ad,
+			PathRelationExtractor pathRelationExtractor) {
 		doc = d;
 		RelationTagger.doc = d;
 		doc.relations.addInverses();
@@ -72,7 +68,7 @@ public class DepPathRelationTagger {
 
 				// System.out.println(doc.relations);
 
-				predictRelation(m1, m2, doc.relations);
+				predictRelation(m1, m2, doc.relations, pathRelationExtractor);
 			}
 		}
 		// combine relation mentions into relations
@@ -85,7 +81,7 @@ public class DepPathRelationTagger {
 	 * with information on the endpoint types], an equals sign, and a relation type.
 	 */
 
-	static void loadModel(String modelFile) throws IOException {
+	public static int loadModel(String modelFile, int limit) throws IOException {
 		System.out.println("loading dep path relational model from file " + modelFile);
 		model = new TreeMap<String, String>();
 		BufferedReader reader = new BufferedReader(new FileReader(modelFile)); // for model + posModel
@@ -112,6 +108,8 @@ public class DepPathRelationTagger {
 				loadError(lineNo, line, "invalid path");
 				continue;
 			}
+			if (n >= limit)
+				break;
 			if (model.get(pattern) == null)
 				model.put(pattern, outcome);
 			n++;
@@ -119,16 +117,12 @@ public class DepPathRelationTagger {
 
 		System.out.println("Loaded " + n + " dependency paths.");
 		reader.close();
+
+		return n;
 	}
 
-	// load positive and negative patterns for nearest neighbor matching
-	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
-		pathRelationExtractor = new PathRelationExtractor();
-		pathRelationExtractor.loadRules(posModelFile);
-		pathRelationExtractor.loadNeg(negModelFile);
-		// pathRelationExtractor.loadEmbeddings(embeddingFile);
-		PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_dep");
-		PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
+	public static void loadModel(String modelFile) throws IOException {
+		loadModel(modelFile, 100000);
 	}
 
 	private static void loadError(int lineNo, String line, String message) {
@@ -154,7 +148,8 @@ public class DepPathRelationTagger {
 	 * relationList. If the path appears with multiple relation types, add each one to the list.
 	 */
 
-	private static void predictRelation(AceMention m1, AceMention m2, SyntacticRelationSet relations) {
+	private static void predictRelation(AceMention m1, AceMention m2, SyntacticRelationSet relations,
+			PathRelationExtractor pathRelationExtractor) {
 		// compute path
 		int h1 = m1.getJetHead().start();
 		int h2 = m2.getJetHead().start();
@@ -183,9 +178,9 @@ public class DepPathRelationTagger {
 
 			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
 
-			pathRelationExtractor.setMinThreshold(0.5);
-			pathRelationExtractor.setNegDiscount(0.8);
-			pathRelationExtractor.setK(6);
+			// pathRelationExtractor.setMinThreshold(0.3);
+			// pathRelationExtractor.setNegDiscount(0.8);
+			// pathRelationExtractor.setK(3);
 
 			outcome = pathRelationExtractor.predict(event);
 
@@ -221,4 +216,5 @@ public class DepPathRelationTagger {
 			RelationTagger.relationList.add(relation);
 		}
 	}
+	// }
 }

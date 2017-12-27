@@ -7,10 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * Tag relations in a document by using positive and negative dependency path rules created with ICE
@@ -39,9 +41,9 @@ public class PathRelationExtractor {
 
 	private PathMatcher pathMatcher = new PathMatcher();
 
-	private List<MatcherPath> ruleTable = new ArrayList<MatcherPath>();
+	private static List<MatcherPath> ruleTable;
 
-	private List<MatcherPath> negTable = new ArrayList<MatcherPath>();
+	private static List<MatcherPath> negTable;
 
 	public void updateWeights(double replace, double insert, double delete) {
 		pathMatcher.updateWeights(replace, insert, delete);
@@ -51,46 +53,148 @@ public class PathRelationExtractor {
 		pathMatcher.updateLabelMismatchCost(cost);
 	}
 
-	public void loadRules(String rulesFile) throws IOException {
+	/**
+	 * Load positive patterns from file.
+	 * 
+	 * @param rulesFile
+	 * @param limit
+	 * @param isRandom
+	 *          whether to use sequential loading or random loading: randomly select the required number of patterns
+	 * @return the number of patterns loaded
+	 */
+	public static int loadRules(String rulesFile, int limit, boolean isRandom) throws IOException {
+		ruleTable = new ArrayList<MatcherPath>();
 		BufferedReader br = new BufferedReader(new FileReader(rulesFile));
 		String line = null;
 		int count = 0;
-		while ((line = br.readLine()) != null) {
-			String[] parts = line.split("=");
-			MatcherPath path = new MatcherPath(parts[0].trim());
-			if (parts[0].contains("EMPTY")) {
-				continue;
+
+		if (!isRandom) {
+			while ((line = br.readLine()) != null) {
+				if (count >= limit)
+					break;
+				String[] parts = line.split("=");
+				MatcherPath path = new MatcherPath(parts[0].trim());
+				if (!path.isEmpty()) {
+					path.setRelationType(parts[1].trim());
+				}
+				ruleTable.add(path);
+				count++;
 			}
-			if (!path.isEmpty()) {
-				path.setRelationType(parts[1].trim());
+		} else { // random load
+			HashMap<Integer, String> pos = new HashMap<Integer, String>();
+			int posCount = 1;
+			while ((line = br.readLine()) != null) {
+				pos.put(posCount, line);
+				posCount++;
 			}
-			ruleTable.add(path);
-			count++;
+
+			int requiredPos = 1;
+			HashSet<String> posRand = new HashSet<String>();
+			while (requiredPos <= limit && requiredPos < pos.size()) {
+				int random = ThreadLocalRandom.current().nextInt(0, 1500);
+				if (pos.containsKey(random)) {
+					if (!posRand.contains(pos.get(random)))
+						requiredPos++;
+					posRand.add(pos.get(random));
+				}
+			}
+
+			for (String pattern : posRand) {
+				String[] parts = pattern.split("=");
+				MatcherPath path = new MatcherPath(parts[0].trim());
+				if (!path.isEmpty()) {
+					path.setRelationType(parts[1].trim());
+				}
+				ruleTable.add(path);
+				count++;
+			}
 		}
 
 		br.close();
 		System.out.println("loaded " + count + " positive patterns");
+
+		return count;
 	}
 
-	public void loadNeg(String negRulesFile) throws IOException {
+	// sequential loading
+	public static int loadRules(String rulesFile, int limit) throws IOException {
+		return loadRules(rulesFile, limit, false);
+	}
+
+	/**
+	 * Load negative patterns from file.
+	 * 
+	 * @param rulesFile
+	 * @param limit
+	 * @param isRandom
+	 *          whether to use sequential loading or random loading: randomly select the required number of patterns
+	 * @return the number of patterns loaded
+	 */
+	public static int loadNeg(String negRulesFile, int limit, boolean isRandom) throws IOException {
+		negTable = new ArrayList<MatcherPath>();
 		BufferedReader br = new BufferedReader(new FileReader(negRulesFile));
 		String line = null;
 		int count = 0;
-		while ((line = br.readLine()) != null) {
-			String[] parts = line.split("=");
-			MatcherPath path = new MatcherPath(parts[0].trim());
-			if (parts[0].contains("EMPTY")) {
-				continue;
+
+		if (!isRandom) {
+			while ((line = br.readLine()) != null) {
+				if (count >= limit)
+					break;
+				String[] parts = line.split("=");
+				MatcherPath path = new MatcherPath(parts[0].trim());
+				if (!path.isEmpty()) {
+					path.setRelationType(parts[1].trim());
+				}
+				negTable.add(path);
+				count++;
 			}
-			if (!path.isEmpty()) {
-				path.setRelationType(parts[1].trim());
+		} else { // random load
+			HashMap<Integer, String> pos = new HashMap<Integer, String>(); // pos here refers to neg
+			int posCount = 1;
+			while ((line = br.readLine()) != null) {
+				pos.put(posCount, line);
+				posCount++;
 			}
-			negTable.add(path);
-			count++;
+
+			int requiredPos = 1;
+			HashSet<String> posRand = new HashSet<String>();
+			while (requiredPos <= limit && requiredPos < pos.size()) {
+				int random = ThreadLocalRandom.current().nextInt(0, 1500);
+				if (pos.containsKey(random)) {
+					if (!posRand.contains(pos.get(random)))
+						requiredPos++;
+					posRand.add(pos.get(random));
+				}
+			}
+
+			for (String pattern : posRand) {
+				String[] parts = pattern.split("=");
+				MatcherPath path = new MatcherPath(parts[0].trim());
+				if (!path.isEmpty()) {
+					path.setRelationType(parts[1].trim());
+				}
+				negTable.add(path);
+				count++;
+			}
 		}
 
 		br.close();
 		System.out.println("loaded " + count + " negative patterns");
+
+		return count;
+	}
+
+	// sequential loading
+	public static int loadNeg(String rulesFile, int limit) throws IOException {
+		return loadNeg(rulesFile, limit, false);
+	}
+
+	public void loadRules(String rulesFile) throws IOException {
+		loadRules(rulesFile, 100000);
+	}
+
+	public void loadNeg(String negRulesFile) throws IOException {
+		loadNeg(negRulesFile, 100000);
 	}
 
 	public void loadEmbeddings(String embeddingFile) throws IOException {

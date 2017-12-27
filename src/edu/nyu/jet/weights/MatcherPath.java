@@ -1,4 +1,4 @@
-package edu.nyu.jet.models;
+package edu.nyu.jet.weights;
 
 import edu.nyu.jet.aceJet.AnchoredPath;
 import edu.nyu.jet.lex.Stemmer;
@@ -80,6 +80,15 @@ public class MatcherPath {
 
 	public void setRelationType(String relationType) {
 		this.relationType = relationType;
+	}
+
+	public void setLabel(String newLabel, int i) {
+		this.nodes.get(i).label = newLabel;
+	}
+
+	public void setNode(MatcherNode newNode, int i) {
+		this.nodes.get(i).label = newNode.label;
+		this.nodes.get(i).token = newNode.token;
 	}
 
 	public String getRelationType() {

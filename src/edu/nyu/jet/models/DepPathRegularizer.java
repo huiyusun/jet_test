@@ -79,4 +79,32 @@ public class DepPathRegularizer {
 		return result;
 	}
 
+	// reformat a pattern to match wiki_extvec embeddings format
+	public String reformat(String p) {
+		String arg1 = p.split("--")[0];
+		String path = p.split("--")[1];
+		String arg2 = p.split("--")[2];
+
+		String[] lexInPath = path.split(":");
+		int length = lexInPath.length;
+
+		if (length == 1)
+			return p;
+
+		StringBuilder pathSB = new StringBuilder();
+
+		for (int i = 0; i < length; i = i + 2) {
+			if (i == length - 1) {
+				// pathSB.delete(pathSB.length() - 1, pathSB.length());
+				pathSB.append(lexInPath[i]);
+				break;
+			}
+
+			pathSB.append(lexInPath[i] + "_" + lexInPath[i + 1] + ":");
+		}
+
+		String path1 = pathSB.toString().replaceAll("-1", "_inv");
+
+		return arg1 + "--" + path1 + "--" + arg2;
+	}
 }

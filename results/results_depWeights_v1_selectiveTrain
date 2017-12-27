@@ -1,0 +1,55 @@
+ORG-AFF | all docs (599)
+Default patterns: patterns_v1
+Default training: patterns_v1_dep.pos, patterns_v1_dep.neg (selective)
+Default testing: patterns_v1.pos, patterns_v1.neg (all)
+Default parameters: min = 0.3, neg = 0.8, k = 3
+Default dependency weights: pos match = 0.0, neg match = 2.0
+Baseline: patterns.exact:1356 = F:0.7290867
+
+Default: combinedTable
+
+Sequential Selection with batch size 100:
+maximum no. of dep (batch) = 60, cutoff frequency = 10
+[TUNING] pos:100 neg:100 dep:35 = P:0.6314 R:0.7489 F:0.6851
+[TUNING] pos:200 neg:200 dep:59 = P:0.6222 R:0.7549 F:0.6822
+[TUNING] pos:300 neg:300 dep:60 = P:0.6209 R:0.7534 F:0.6808
+[TUNING] pos:400 neg:400 dep:60 = P:0.6170 R:0.7579 F:0.6802
+[TUNING] pos:500 neg:500 dep:60 = P:0.6339 R:0.7413 F:0.6834
+[TUNING] pos:600 neg:600 dep:60 = P:0.6617 R:0.7428 F:0.6999
+[TUNING] pos:700 neg:683 dep:60 = P:0.5879 R:0.7489 F:0.6587
+[TUNING] pos:800 neg:683 dep:60 = P:0.5969 R:0.7504 F:0.6649
+[TUNING] pos:900 neg:683 dep:60 = P:0.5962 R:0.7595 F:0.6680
+[TUNING] pos:1000 neg:683 dep:60 = P:0.5969 R:0.7595 F:0.6684
+[BEST] pos:600 neg:600 dep:60 = F:0.6999287
+
+Random Selection with batch size 100:
+maximum no. of dep (batch) = 30, cutoff frequency = 10:
+[TUNING] pos:100 neg:100 dep:22 = P:0.7162 R:0.7216 F:0.7189
+[TUNING] pos:200 neg:200 dep:25 = P:0.6496 R:0.7292 F:0.6871
+[TUNING] pos:300 neg:300 dep:30 = P:0.6334 R:0.7398 F:0.6825
+[TUNING] pos:400 neg:400 dep:30 = P:0.6285 R:0.7474 F:0.6828
+[TUNING] pos:500 neg:500 dep:30 = P:0.6335 R:0.7504 F:0.6870
+[TUNING] pos:600 neg:600 dep:30 = P:0.6441 R:0.7474 F:0.6919
+[TUNING] pos:700 neg:682 dep:30 = P:0.6126 R:0.7489 F:0.6739
+[TUNING] pos:800 neg:682 dep:30 = P:0.6149 R:0.7489 F:0.6753
+[TUNING] pos:900 neg:682 dep:30 = P:0.6528 R:0.7368 F:0.6923
+[TUNING] pos:1000 neg:682 dep:30 = P:0.6005 R:0.7595 F:0.6707
+[BEST] pos:100 neg:100 dep:22 = F:0.7189148
+
+Same argument type pairs selection:
+maximum no. of dep (batch) = 30, cutoff frequency = 7:
+[TUNING] PER-ORG pos:587 neg:129 dep:30 = P:0.6276 R:0.7368 F:0.6778
+[TUNING] ORG-PER pos:435 neg:147 dep:30 = P:0.5961 R:0.7458 F:0.6626
+[TUNING] PER-GPE pos:138 neg:181 dep:30 = P:0.6248 R:0.7458 F:0.6800
+[TUNING] GPE-PER pos:196 neg:226 dep:30 = P:0.6002 R:0.7474 F:0.6658
+[BEST] PER-GPE pos:138 neg:181 dep:30 = F:0.67999995
+
+Same argument type pairs selection (multiple):
+maximum no. of dep (batch) = 30, cutoff frequency = 10:
+[TUNING] pos:PER-ORG. neg: PER-ORG, PER-GPE = P:0.6071 R:0.7504 F:0.6712
+[TUNING] pos:PER-ORG. neg: PER-ORG, ORG-PER, PER-GPE = P:0.6139 R:0.7458 F:0.6735
+[TUNING] pos:PER-ORG. neg: ALL = P:0.6470 R:0.7292 F:0.6856
+[TUNING] pos:PER-ORG, PER-GPE. neg: PER-ORG, PER-GPE = P:0.5795 R:0.7610 F:0.6579
+[TUNING] pos:PER-ORG, PER-GPE. neg: ALL = P:0.6221 R:0.7322 F:0.6727
+[BEST] pos:PER-ORG. neg: ALL = F:0.68563294
+

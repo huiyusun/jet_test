@@ -1,0 +1,51 @@
+ORG-AFF | all docs (599)
+Default patterns: patterns_v1
+Default training: patterns_v1_dep.pos, patterns_v1_dep.neg (all)
+Default testing: patterns_v1.pos, patterns_v1.neg (all)
+Default parameters: min = 0.3, neg = 0.8, k = 3
+Default dependency weights: pos match = 0.0, neg match = 2.0
+Baseline: patterns.exact:1356 = F:0.7290867
+
+All (pos->pos, neg->neg, pos->neg, and combining all three):
+# patterns are listed from high to low in descending order of frequency
+[TUNING] posTable:165 = P:0.5236 R:0.7731 F:0.6243
+[TUNING] negTable:130 = P:0.6012 R:0.7549 F:0.6693
+[TUNING] mixTable:21 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] combinedTable:223 = P:0.5010 R:0.7912 F:0.6135
+[BEST] mixTable:21 = F:0.7290867
+
+Batch (posTable):
+[TUNING] dep batch:1-20 = P:0.6046 R:0.7519 F:0.6703
+[TUNING] dep batch:21-40 = P:0.7103 R:0.7383 F:0.7240
+[TUNING] dep batch:41-60 = P:0.7338 R:0.7216 F:0.7277
+[TUNING] dep batch:61-80 = P:0.7061 R:0.7231 F:0.7145
+[TUNING] dep batch:81-100 = P:0.7289 R:0.7201 F:0.7245
+[TUNING] dep batch:101-120 = P:0.7255 R:0.7277 F:0.7266
+[TUNING] dep batch:121-140 = P:0.7260 R:0.7216 F:0.7238
+[TUNING] dep batch:141-160 = P:0.7391 R:0.7201 F:0.7295
+[BEST] dep batch:141-160 = F:0.72950196
+
+Batch (negTable):
+[TUNING] dep batch:1-20 = P:0.6324 R:0.7443 F:0.6838
+[TUNING] dep batch:21-40 = P:0.6750 R:0.7352 F:0.7038
+[TUNING] dep batch:41-60 = P:0.7305 R:0.7216 F:0.7260
+[TUNING] dep batch:61-80 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] dep batch:81-100 = P:0.7376 R:0.7186 F:0.7280
+[TUNING] dep batch:101-120 = P:0.6275 R:0.7262 F:0.6732
+[TUNING] dep batch:121-140 = P:0.7387 R:0.7186 F:0.7285
+[BEST] dep batch:61-80 = F:0.7290867
+
+Batch (combinedTable):
+[TUNING] dep batch:1-20 = P:0.6039 R:0.7519 F:0.6698
+[TUNING] dep batch:21-40 = P:0.6795 R:0.7216 F:0.6999
+[TUNING] dep batch:41-60 = P:0.7306 R:0.7262 F:0.7284
+[TUNING] dep batch:61-80 = P:0.7043 R:0.7352 F:0.7195
+[TUNING] dep batch:81-100 = P:0.7376 R:0.7186 F:0.7280
+[TUNING] dep batch:101-120 = P:0.7249 R:0.7216 F:0.7233
+[TUNING] dep batch:121-140 = P:0.7387 R:0.7186 F:0.7285
+[TUNING] dep batch:141-160 = P:0.7376 R:0.7186 F:0.7280
+[TUNING] dep batch:161-180 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] dep batch:181-200 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] dep batch:201-220 = P:0.7384 R:0.7216 F:0.7299
+[BEST] dep batch:161-180 = F:0.73006135
+

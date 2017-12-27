@@ -1,0 +1,110 @@
+ORG-AFF | All docs (599)
+Default patterns: patterns_v1
+Default training: patterns_v1_dep.pos, patterns_v1_dep.neg (all)
+Default testing: patterns_v1.pos, patterns_v1.neg (all)
+Default parameters: min = 0.3, neg = 0.8, k = 3
+Default dependency weights: pos match = 0.0, neg match = 2.0
+Baseline: patterns.exact:1356 = F:0.7290867:
+
+CombinedTable
+
+Number of dependencies loaded:
+cutoff frequency = 10:
+[TUNING] dep count:50 = P:0.6044 R:0.7489 F:0.6689
+[TUNING] dep count:100 = P:0.5787 R:0.7564 F:0.6557
+[TUNING] dep count:150 = P:0.5299 R:0.7776 F:0.6303
+[TUNING] dep count:200 = P:0.5059 R:0.7837 F:0.6148
+[TUNING] dep count:250 = P:0.4962 R:0.7867 F:0.6085
+[BEST] dep count:50 = F:0.6689189
+
+Number of dependencies loaded (after selective training):
+cutoff frequency = 10:
+[TUNING] dep count:10 = P:0.6449 R:0.7337 F:0.6865
+[TUNING] dep count:20 = P:0.6449 R:0.7337 F:0.6865
+[TUNING] dep count:30 = P:0.6470 R:0.7292 F:0.6856
+[TUNING] dep count:40 = P:0.6354 R:0.7383 F:0.6830
+[TUNING] dep count:50 = P:0.6244 R:0.7443 F:0.6791
+[TUNING] dep count:60 = P:0.6263 R:0.7428 F:0.6796
+[TUNING] dep count:70 = P:0.6604 R:0.7413 F:0.6985
+[TUNING] dep count:80 = P:0.6599 R:0.7428 F:0.6989
+[TUNING] dep count:90 = P:0.6428 R:0.7458 F:0.6905
+[TUNING] dep count:100 = P:0.6255 R:0.7504 F:0.6823
+[BEST] dep count:80 = F:0.6989324
+
+Number of deps (trained on selected, tested on selected):
+cutoff frequency = 10:
+[TUNING] dep count:15 = P:0.7301 R:0.7201 F:0.7251
+[TUNING] dep count:30 = P:0.7275 R:0.7231 F:0.7253
+[TUNING] dep count:50 = P:0.7172 R:0.7368 F:0.7269
+[TUNING] dep count:80 = P:0.7099 R:0.7368 F:0.7231
+[BEST] dep count:50 = F:0.72686565
+
+Number of deps (Frequency = 1):
+[TUNING] freq 1 count:10 = P:0.7260 R:0.7216 F:0.7238
+[TUNING] freq 1 count:20 = P:0.7238 R:0.7216 F:0.7227
+[TUNING] freq 1 count:30 = P:0.7238 R:0.7216 F:0.7227
+[TUNING] freq 1 count:40 = P:0.7216 R:0.7216 F:0.7216
+[TUNING] freq 1 count:50 = P:0.7216 R:0.7216 F:0.7216
+[TUNING] freq 1 count:60 = P:0.7173 R:0.7292 F:0.7232
+[TUNING] freq 1 count:70 = P:0.7173 R:0.7292 F:0.7232
+[TUNING] freq 1 count:80 = P:0.7134 R:0.7307 F:0.7220
+[TUNING] freq 1 count:90 = P:0.7139 R:0.7322 F:0.7229
+[TUNING] freq 1 count:100 = P:0.7048 R:0.7368 F:0.7204
+[BEST] freq 1 count:10 = F:0.72382396
+
+Frequent docs (17):
+Baseline: patterns.exact = F:0.7705
+Number of deps (Frequency = 1):
+[TUNING] freq 1 count:0 = P:0.7899 R:0.7520 F:0.7705
+[TUNING] freq 1 count:1 = P:0.7899 R:0.7520 F:0.7705
+[TUNING] freq 1 count:2 = P:0.7899 R:0.7520 F:0.7705
+[TUNING] freq 1 count:3 = P:0.7899 R:0.7520 F:0.7705
+[TUNING] freq 1 count:4 = P:0.7899 R:0.7520 F:0.7705
+[TUNING] freq 1 count:5 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:6 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:7 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:8 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:9 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:10 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:11 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:12 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:13 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:14 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:15 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:16 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:17 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:18 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:19 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:20 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:21 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:22 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:23 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:24 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:25 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:26 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:27 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:28 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:29 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:30 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:31 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:32 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:33 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:34 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:35 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:36 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:37 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:38 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:39 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:40 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:41 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:42 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:43 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:44 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:45 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:46 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:47 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:48 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:49 = P:0.7769 R:0.7520 F:0.7642
+[TUNING] freq 1 count:50 = P:0.7769 R:0.7520 F:0.7642
+[BEST] freq 1 count:0 = F:0.77049184
+

@@ -1,0 +1,23 @@
+Weights assigned by frequency of occurence.
+
+Trained on all pos and neg.
+
+Tested on all:
+[TUNING] Deps Batch:50 = P:0.6829 R:0.7201 F:0.7010
+[TUNING] Deps Batch:100 = P:0.6475 R:0.7307 F:0.6866
+[TUNING] Deps Batch:all = P:0.5514 R:0.7867 F:0.6484
+[BEST] Batch:50 = F:0.70103097
+
+Tested on 100 pos and neg:
+[TUNING] Deps Batch:50 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] Deps Batch:100 = P:0.7395 R:0.7216 F:0.7305
+[TUNING] Deps Batch:all = P:0.7358 R:0.7247 F:0.7302
+[BEST] Batch:100 = F:0.7305
+
+---------------------
+v2:
+Tested on all:
+Batch = all.
+[TUNING] Normal = P:0.2711 R:0.8971 F:0.4164
+[BEST] Normal = F:0.41643262
+

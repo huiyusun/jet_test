@@ -1,0 +1,131 @@
+ORG-AFF | all docs (599)
+Default parameters = (min = 0.3, neg = 0.8, k = 3)
+Default patterns: patterns_v1
+
+Number of patterns vs. performance:
+depWeights = (0.0, N/A, N/A), weightsCutoff = (5, 20):
+[TUNING] patterns.pos:100 patterns.neg:100 = P:0.7078 R:0.7368 F:0.7220
+[TUNING] patterns.pos:200 patterns.neg:200 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:300 patterns.neg:300 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:400 patterns.neg:400 = P:0.7056 R:0.7398 F:0.7223
+[TUNING] patterns.pos:500 patterns.neg:500 = P:0.6972 R:0.7489 F:0.7221
+[TUNING] patterns.pos:600 patterns.neg:600 = P:0.6748 R:0.7504 F:0.7106
+[TUNING] patterns.pos:700 patterns.neg:683 = P:0.6748 R:0.7504 F:0.7106
+[BEST] patterns.pos:200 patterns.neg:200 = F:0.7224278
+
+[TUNING] patterns.pos:1374 patterns.neg:100 = P:0.5617 R:0.7640 F:0.6474
+[TUNING] patterns.pos:1374 patterns.neg:200 = P:0.5608 R:0.7610 F:0.6457
+[TUNING] patterns.pos:1374 patterns.neg:300 = P:0.5620 R:0.7610 F:0.6465
+[TUNING] patterns.pos:1374 patterns.neg:400 = P:0.5749 R:0.7610 F:0.6549
+[BEST] patterns.pos:1374 patterns.neg:400 = F:0.6549479
+
+[TUNING] patterns.pos:100 patterns.neg:683 = P:0.7078 R:0.7368 F:0.7220
+[TUNING] patterns.pos:200 patterns.neg:683 = P:0.7072 R:0.7383 F:0.7224
+[TUNING] patterns.pos:300 patterns.neg:683 = P:0.7072 R:0.7383 F:0.7224
+[BEST] patterns.pos:200 patterns.neg:683 = F:0.7224278
+
+[TUNING] patterns_random.pos:100 patterns_random.neg:100 = P:0.6772 R:0.7458 F:0.7099
+[TUNING] patterns_random.pos:200 patterns_random.neg:200 = P:0.7009 R:0.7337 F:0.7169
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6927 R:0.7504 F:0.7204
+[TUNING] patterns_random.pos:400 patterns_random.neg:400 = P:0.6698 R:0.7519 F:0.7085
+[BEST] patterns_random.pos:300 patterns_random.neg:300 = F:0.72040665
+
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6927 R:0.7504 F:0.7204
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6301 R:0.7474 F:0.6837
+[TUNING] patterns_random.pos:300 patterns_random.neg:300 = P:0.6280 R:0.7458 F:0.6819
+[BEST] patterns_random.pos:300 patterns_random.neg:300 = F:0.72040665
+
+# Updated patterns_v1.pos and patterns_v1.neg slightly to match relationOracle reprs
+
+[TUNING] patterns.exact:1356 = P:0.7399 R:0.7186 F:0.7291
+[BEST] patterns.exact:1356 = F:0.7290867
+
+-------------------------------------------------------------------------------
+
+No. of patterns for training vs performance:
+depWeights(0.0, N/A, N/A)
+[TUNING] patterns_dep.pos:0 patterns_dep.neg:0 dep count:0 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:100 neg:100 dep count:7 = P:0.6437 R:0.7352 F:0.6864
+[TUNING] pos:200 neg:200 dep count:22 = P:0.5998 R:0.7640 F:0.6720
+[TUNING] pos:300 neg:300 dep count:27 = P:0.5706 R:0.7640 F:0.6533
+[TUNING] pos:400 neg:400 dep count:45 = P:0.5573 R:0.7731 F:0.6477
+[TUNING] pos:500 neg:500 dep count:49 = P:0.5548 R:0.7731 F:0.6460
+[TUNING] pos:600 neg:600 dep count:56 = P:0.5191 R:0.7806 F:0.6236
+[TUNING] pos:700 neg:683 dep count:110 = P:0.5412 R:0.7746 F:0.6372
+[BEST] pos:0 neg:0 dep count:0 = F:0.71886647
+
+depWeights(N/A, N/A, 2.0)
+[TUNING] patterns_dep.pos:100 patterns_dep.neg:100 dep count:1 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:200 neg:200 dep count:1 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:300 neg:300 dep count:1 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:400 neg:400 dep count:2 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:500 neg:500 dep count:2 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:600 neg:600 dep count:2 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:700 neg:683 dep count:14 = P:0.7088 R:0.7292 F:0.7189
+[BEST] pos:100 neg:100 dep count:1 = F:0.71886647
+
+depWeights(0.0, N/A, 2.0)
+[TUNING] pos:100 neg:100 dep count:8 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:200 neg:200 dep count:23 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:300 neg:300 dep count:28 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:400 neg:400 dep count:47 = P:0.7078 R:0.7292 F:0.7183
+[TUNING] pos:500 neg:500 dep count:51 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] pos:600 neg:600 dep count:58 = P:0.7067 R:0.7292 F:0.7178
+[TUNING] pos:700 neg:683 dep count:124 = P:0.7078 R:0.7292 F:0.7183
+[BEST] pos:100 neg:100 dep count:8 = F:0.71886647
+
+depWeights(0.0, N/A, N/A), cutoffs(5, 20)
+[TUNING] pos:1000 neg:683 dep count:20 = P:0.5657 R:0.7685 F:0.6517
+[TUNING] pos:1374 neg:683 dep count:20 = P:0.5883 R:0.7610 F:0.6636
+[BEST] pos:1374 neg:683 dep count:20 = F:0.6635884
+
+-------------------------------------------------------------------------------
+Trained on PER-ORG patterns only
+Patterns.pos and patterns.neg contain 100 PER-ORG each
+
+No. of patterns for training vs performance:
+depWeights(0.0, N/A, N/A), weightsCutoff(15)
+[TUNING] patterns_v1.pos:100 patterns_v1.neg:100 deps:14 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns_v1.pos:200 patterns_v1.neg:129 deps:15 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] patterns_v1.pos:300 patterns_v1.neg:129 deps:15 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] patterns_v1.pos:400 patterns_v1.neg:129 deps:15 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] patterns_v1.pos:500 patterns_v1.neg:129 deps:15 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] patterns_v1.pos:584 patterns_v1.neg:129 deps:15 = P:0.7403 R:0.7201 F:0.7301
+[BEST] patterns_v1.pos:200 patterns_v1.neg:129 deps:15 = F:0.73006135
+
+depWeights(0.0, N/A, N/A), weightsCutoff(N/A)
+[TUNING] patterns_v1.pos:100 patterns_v1.neg:100 deps:14 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns_v1.pos:200 patterns_v1.neg:129 deps:23 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns_v1.pos:300 patterns_v1.neg:129 deps:27 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns_v1.pos:400 patterns_v1.neg:129 deps:45 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns_v1.pos:500 patterns_v1.neg:129 deps:50 = P:0.7373 R:0.7262 F:0.7317
+[TUNING] patterns_v1.pos:584 patterns_v1.neg:129 deps:56 = P:0.7373 R:0.7262 F:0.7317
+[BEST] patterns_v1.pos:500 patterns_v1.neg:129 deps:50 = F:0.73170733
+
+no. of deps loaded:
+depWeights(0.0, N/A, N/A), weightsCutoff(N/A)
+[TUNING] deps:20 = P:0.7385 R:0.7262 F:0.7323
+[TUNING] deps:40 = P:0.7385 R:0.7262 F:0.7323
+[TUNING] deps:60 = P:0.7373 R:0.7262 F:0.7317
+[TUNING] deps:80 = P:0.7373 R:0.7262 F:0.7317
+[TUNING] deps:100 = P:0.7373 R:0.7262 F:0.7317
+[TUNING] deps:120 = P:0.7377 R:0.7277 F:0.7327
+[TUNING] deps:140 = P:0.7377 R:0.7277 F:0.7327
+[TUNING] deps:160 = P:0.7389 R:0.7277 F:0.7332
+[TUNING] deps:162 = P:0.7389 R:0.7277 F:0.7332
+[BEST] deps:160 = F:0.7332317
+
+negDiscount:
+depWeights(0.0, N/A, N/A), weightsCutoff(N/A), dep weight limit(all)
+[TUNING] negDiscount:0.10 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] negDiscount:0.20 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] negDiscount:0.30 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] negDiscount:0.40 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] negDiscount:0.50 = P:0.7415 R:0.7247 F:0.7330
+[TUNING] negDiscount:0.60 = P:0.7389 R:0.7277 F:0.7332
+[TUNING] negDiscount:0.70 = P:0.7389 R:0.7277 F:0.7332
+[TUNING] negDiscount:0.80 = P:0.7389 R:0.7277 F:0.7332
+[TUNING] negDiscount:0.90 = P:0.7389 R:0.7277 F:0.7332
+[TUNING] negDiscount:1.00 = P:0.7389 R:0.7277 F:0.7332
+[BEST] negDiscount:0.60 = F:0.7332317
+

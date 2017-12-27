@@ -1,0 +1,10 @@
+cutoff frequency = 10, dep batch size = 50, trained on all combinedTable
+Tested with 100 pos and 100 neg.
+
+Trained on different pattern versions:
+[TUNING] patterns:v1 dep:223 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] patterns:v1_small dep:86 = P:0.7334 R:0.7201 F:0.7267
+[TUNING] patterns:v0 dep:270 = P:0.7403 R:0.7201 F:0.7301
+[TUNING] patterns:v0_all dep:554 = P:0.7399 R:0.7186 F:0.7291
+[BEST] v0 dep:270 = F:0.73006135
+

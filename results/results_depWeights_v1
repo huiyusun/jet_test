@@ -1,0 +1,23 @@
+ORG-AFF | all docs (599)
+Default patterns: patterns_v1, patterns_v1.pos and neg, patterns_v1_dep.pos and neg
+Default parameters: min = 0.3, neg = 0.8, k = 3
+Default dependency weights: pos match = 0.0, neg match = 2.0
+Baseline: patterns.exact:1356 = F:0.7290867
+
+[TUNING] posTable:165 = P:0.5236 R:0.7731 F:0.6243
+[TUNING] negTable:130 = P:0.6012 R:0.7549 F:0.6693
+[TUNING] mixTable:21 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] combined:223 = P:0.5010 R:0.7912 F:0.6135
+[BEST] mixTable:21 = F:0.7290867
+
+posTable:
+[TUNING] deps batch:1-20 = P:0.6046 R:0.7519 F:0.6703
+[TUNING] deps batch:21-40 = P:0.7103 R:0.7383 F:0.7240
+[TUNING] deps batch:41-60 = P:0.7338 R:0.7216 F:0.7277
+[TUNING] deps batch:61-80 = P:0.7061 R:0.7231 F:0.7145
+[TUNING] deps batch:81-100 = P:0.7289 R:0.7201 F:0.7245
+[TUNING] deps batch:101-120 = P:0.7255 R:0.7277 F:0.7266
+[TUNING] deps batch:121-140 = P:0.7260 R:0.7216 F:0.7238
+[TUNING] deps batch:141-160 = P:0.7391 R:0.7201 F:0.7295
+[BEST] deps batch:141-160 = F:0.72950196
+

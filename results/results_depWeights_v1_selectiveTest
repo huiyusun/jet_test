@@ -1,0 +1,72 @@
+ORG-AFF | all docs (599)
+Default patterns: patterns_v1
+Default training: patterns_v1_dep.pos, patterns_v1_dep.neg (all)
+Default testing: patterns_v1.pos, patterns_v1.neg (selective)
+Default parameters: min = 0.3, neg = 0.8, k = 3
+Default dependency weights: pos match = 0.0, neg match = 2.0
+Baseline: patterns.exact:1356 = F:0.7290867
+
+Default: combinedTable (dep_weights_selected: batch ~40, freq ~10)
+
+Sequential selection (Inaccurate!):
+[TUNING] pos:100 neg:100 = P:0.7399 R:0.7231 F:0.7314
+[TUNING] pos:200 neg:200 = P:0.7399 R:0.7231 F:0.7314
+[TUNING] pos:300 neg:300 = P:0.7399 R:0.7231 F:0.7314
+[TUNING] pos:400 neg:400 = P:0.7366 R:0.7277 F:0.7321
+[TUNING] pos:500 neg:500 = P:0.7363 R:0.7307 F:0.7335
+[TUNING] pos:600 neg:600 = P:0.7363 R:0.7307 F:0.7335
+[TUNING] pos:700 neg:683 = P:0.7352 R:0.7307 F:0.7329
+[TUNING] pos:800 neg:683 = P:0.7352 R:0.7307 F:0.7329
+[TUNING] pos:900 neg:683 = P:0.7352 R:0.7307 F:0.7329
+[TUNING] pos:1000 neg:683 = P:0.7352 R:0.7307 F:0.7329
+[TUNING] pos:1100 neg:683 = P:0.7340 R:0.7307 F:0.7324
+[TUNING] pos:1200 neg:683 = P:0.7307 R:0.7307 F:0.7307
+[TUNING] pos:1300 neg:683 = P:0.7307 R:0.7307 F:0.7307
+[TUNING] pos:1356 neg:683 = P:0.7296 R:0.7307 F:0.7302
+[BEST] pos:500 neg:500 = F:0.73348516
+
+Sequential selection:
+cutoff frequency = 10, dep batch size = 50, trained on all combinedTable
+[TUNING] pos:100 neg:100 = P:0.7310 R:0.7277 F:0.7293
+[TUNING] pos:200 neg:200 = P:0.7255 R:0.7277 F:0.7266
+[TUNING] pos:300 neg:300 = P:0.7259 R:0.7292 F:0.7275
+[TUNING] pos:400 neg:400 = P:0.7120 R:0.7368 F:0.7242
+[TUNING] pos:500 neg:500 = P:0.7040 R:0.7413 F:0.7222
+[TUNING] pos:600 neg:600 = P:0.7030 R:0.7413 F:0.7216
+[TUNING] pos:700 neg:683 = P:0.7030 R:0.7413 F:0.7216
+[TUNING] pos:800 neg:683 = P:0.6895 R:0.7458 F:0.7166
+[TUNING] pos:900 neg:683 = P:0.6876 R:0.7458 F:0.7155
+[TUNING] pos:1000 neg:683 = P:0.6876 R:0.7458 F:0.7155
+[BEST] pos:100 neg:100 = F:0.72934043
+
+Random selection (Inaccurate!):
+[TUNING] pos:100 neg:100 = P:0.7399 R:0.7186 F:0.7291
+[TUNING] pos:200 neg:200 = P:0.7354 R:0.7231 F:0.7292
+[TUNING] pos:300 neg:300 = P:0.7391 R:0.7201 F:0.7295
+[TUNING] pos:400 neg:400 = P:0.7376 R:0.7186 F:0.7280
+[TUNING] pos:500 neg:500 = P:0.7321 R:0.7277 F:0.7299
+[TUNING] pos:600 neg:600 = P:0.7335 R:0.7247 F:0.7291
+[BEST] pos:500 neg:500 = F:0.7298938
+
+Same argument type pairs selection(Inaccurate!):
+[TUNING] PER-ORG pos:587 neg:129 = P:0.7363 R:0.7307 F:0.7335
+[TUNING] ORG-PER pos:435 neg:147 = P:0.7387 R:0.7186 F:0.7285
+[TUNING] PER-GPE pos:138 neg:181 = P:0.7353 R:0.7186 F:0.7269
+[TUNING] GPE-PER pos:196 neg:226 = P:0.7387 R:0.7186 F:0.7285
+[BEST] PER-ORG pos:587 neg:129 = F:0.73348516
+
+Same argument type pairs (Weights by frequency):
+Batch = all. Tested on 100 pos and neg.
+[TUNING] PER-ORG = P:0.7358 R:0.7247 F:0.7302
+[TUNING] ORG-PER = P:0.7331 R:0.7231 F:0.7281
+[TUNING] PER-GPE = P:0.5990 R:0.7231 F:0.6552
+[TUNING] GPE-PER = P:0.7308 R:0.7186 F:0.7246
+[BEST] PER-ORG = F:0.730183
+
+Different training and testing:
+cutoff frequency = 10, dep batch size = 80
+[TUNING] trained on selected, tested on selected = P:0.7099 R:0.7368 F:0.7231
+[TUNING] trained on all, tested on selected = P:0.7021 R:0.7489 F:0.7247
+[TUNING] trained on selected, tested on all = P:0.6599 R:0.7428 F:0.6989
+[BEST] trained on all, tested on selected = F:0.7247438
+

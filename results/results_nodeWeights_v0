@@ -1,0 +1,40 @@
+ORG-AFF | all docs (599) | trained on patterns_perfect | tested on patterns_v1
+Varying: minThreshold from 0.1 - 1.0
+Constant: negDiscount = 0.8 | k = 3 | dep weights posTable = 0.0, 0.0, 0.5, 2.0
+[TUNING] minThresh:0.10 = P:0.7088 R:0.7292 F:0.7189
+[TUNING] minThresh:0.20 = P:0.7114 R:0.7383 F:0.7246
+[TUNING] minThresh:0.30 = P:0.7022 R:0.7564 F:0.7283
+[TUNING] minThresh:0.40 = P:0.6957 R:0.7610 F:0.7269
+[TUNING] minThresh:0.50 = P:0.6925 R:0.7700 F:0.7292
+[TUNING] minThresh:0.60 = P:0.6530 R:0.7973 F:0.7180
+[TUNING] minThresh:0.70 = P:0.6403 R:0.8079 F:0.7144
+[TUNING] minThresh:0.80 = P:0.5562 R:0.8154 F:0.6613
+[TUNING] minThresh:0.90 = P:0.5122 R:0.8230 F:0.6315
+[TUNING] minThresh:1.00 = P:0.4954 R:0.8230 F:0.6185
+[BEST] minThresh:0.50 = F:0.7292264
+
+ORG-AFF | all docs (599) | trained on patterns_perfect | tested on patterns_v1
+Varying: negDiscount from 0.4 - 1.0
+Constant: minThreshold = 0.5 | k = 3 | dep weights posTable = 0.0, 0.0, 0.5, 2.0
+[TUNING] negDiscount:0.40 = P:0.7082 R:0.7307 F:0.7193
+[TUNING] negDiscount:0.50 = P:0.7056 R:0.7398 F:0.7223
+[TUNING] negDiscount:0.60 = P:0.6971 R:0.7625 F:0.7283
+[TUNING] negDiscount:0.70 = P:0.6936 R:0.7670 F:0.7284
+[TUNING] negDiscount:0.80 = P:0.6925 R:0.7700 F:0.7292
+[TUNING] negDiscount:0.90 = P:0.6581 R:0.7776 F:0.7129
+[TUNING] negDiscount:1.00 = P:0.6586 R:0.7821 F:0.7151
+[BEST] negDiscount:0.80 = F:0.7292264
+
+ORG-AFF | all docs (599) | trained on patterns_perfect | tested on patterns_v1
+Varying: k from 1 - 8
+Constant: minThreshold = 0.5 | negDiscount = 0.8 | dep weights posTable = 0.0, 0.0, 0.5, 2.0
+[TUNING] k:1  = P:0.6409 R:0.8018 F:0.7124
+[TUNING] k:2  = P:0.6554 R:0.7912 F:0.7169
+[TUNING] k:3  = P:0.6925 R:0.7700 F:0.7292
+[TUNING] k:4  = P:0.6957 R:0.7610 F:0.7269
+[TUNING] k:5  = P:0.7042 R:0.7564 F:0.7294
+[TUNING] k:6  = P:0.7116 R:0.7504 F:0.7305
+[TUNING] k:7  = P:0.7114 R:0.7383 F:0.7246
+[TUNING] k:8  = P:0.7097 R:0.7322 F:0.7208
+[BEST] k:6  = F:0.730486
+

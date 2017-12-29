@@ -30,7 +30,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTaggerEntitySubtypes {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
 
 	static Document doc;
 	static AceDocument aceDoc;
@@ -183,7 +183,7 @@ public class DepPathRelationTaggerEntitySubtypes {
 
 			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
 
-			pathRelationExtractor.setMinThreshold(0.5);
+			pathRelationExtractor.setMinThreshold(-1.22);
 			pathRelationExtractor.setNegDiscount(0.8);
 			pathRelationExtractor.setK(3);
 

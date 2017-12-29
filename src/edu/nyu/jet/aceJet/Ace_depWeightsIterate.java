@@ -16,7 +16,6 @@ import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.hmm.BigramHMMemitter;
 import edu.nyu.jet.hmm.HMMstate;
 import edu.nyu.jet.tipster.*;
-import edu.nyu.jet.weights.CombineDepWeights;
 import edu.nyu.jet.weights.DepWeightTrain;
 import edu.nyu.jet.parser.SynFun;
 import edu.nyu.jet.parser.ParseTreeNode;
@@ -36,9 +35,9 @@ import org.slf4j.LoggerFactory;
  * procedures for generating ACE output for a Jet document.
  */
 
-public class Ace {
+public class Ace_depWeightsIterate {
 
-	final static Logger logger = LoggerFactory.getLogger(Ace.class);
+	final static Logger logger = LoggerFactory.getLogger(Ace_depWeightsIterate.class);
 	public static boolean useParser = false;
 	static final boolean useParseCollection = false;
 	public static boolean perfectMentions = false;
@@ -101,26 +100,21 @@ public class Ace {
 		initForFileIO(args);
 
 		BufferedWriter writer = new BufferedWriter(
-				new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/results_depWeights_v1_cumulative", true)); // append
+				new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/results_depWeights_v1_selectiveTrain", true)); // append
 
 		// debug = false ==> try to catch all exceptions and continue
 		boolean debug = false;
 		String currentDocPath;
 
 		double bestScore = 0.0;
-		double prevScore = 0.0;
 		String bestParameterString = "NONE";
-		HashMap<String, Double> optimalWeights = new HashMap<String, Double>();
-		optimalWeights.put("appos -- nn-1", 0.0);
-		optimalWeights.put("cop-1 -- nsubj-1", 0.0);
-		int count = 1;
 
-		writer.write("Adding deps that improves the score (ORG-PER):" + "\n");
+		writer.write("Sequential Selection (combinedTable):" + "\n");
 
-		for (int i = 0; i <= 10; i++) {
+		for (int i = 1; i <= 10; i++) {
 			// for (int insert = 1; insert <= 10; insert++) {
 			// for (int delete = 2; delete <= 10; delete++) {
-			int limit = i;
+			int limit = i * 100;
 
 			// process all docs
 			BufferedReader reader = new BufferedReader(new FileReader(fileList));
@@ -128,40 +122,25 @@ public class Ace {
 			String dir = "/Users/nuist/documents/NlpResearch/ice-eval/";
 
 			// adjust parameters
-			pathRelationExtractor.setMinThreshold(3);
-			pathRelationExtractor.setNegDiscount(1);
+			pathRelationExtractor.setMinThreshold(0.3);
+			pathRelationExtractor.setNegDiscount(0.8);
 			pathRelationExtractor.setK(3);
 
-			// normal closest match
-			// pathRelationExtractor.loadRules(dir + "patterns.pos");
-			// pathRelationExtractor.loadNeg(dir + "patterns.neg");
-			// PathMatcher.loadDepWeights(dir + "weights_dep");
-			// String parameterString = "Normal";
+			// train dependency weights
+			int posCount = DepWeightTrain.loadPos(dir + "patterns_dep.pos", limit);
+			int negCount = DepWeightTrain.loadNeg(dir + "patterns_dep.neg", limit);
 
-			// test dep weights one by one
-			HashMap<String, Double> tempWeights = new HashMap<String, Double>(
-					PathMatcher.loadDepWeights(dir + "weights_dep", limit, optimalWeights));
+			DepWeightTrain.train(dir + "weights_dep", "posTable", "posTable", "negTable"); // train weights: posTable
+			DepWeightTrain.train(dir + "weights_dep", "negTable", "negTable", "posTable"); // train weights: negTable
+			DepWeightTrain.train(dir + "weights_dep", "posTable", "negTable", "null"); // train weights: mixTable
 
-			// train dependency weights: selective training
-			// int posCount = DepWeightTrain.loadPos(dir + "patterns_dep.pos", limit);
-			// int negCount = DepWeightTrain.loadNeg(dir + "patterns_dep.neg", limit);
-			//
-			// DepWeightTrain.train(dir + "weights_dep_v1_posTable", "posTable", "posTable", "negTable"); // train weights
-			// DepWeightTrain.train(dir + "weights_dep_v1_negTable", "negTable", "negTable", "posTable");
-			// DepWeightTrain.train(dir + "weights_dep_v1_mixTable", "posTable", "negTable", "null");
-			// CombineDepWeights.Combine(dir + "weights_dep_v1_posTable", dir + "weights_dep_v1_negTable",
-			// dir + "weights_dep_v1_mixTable", dir + "weights_dep_v1_combined");
-
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep_v1_combined", limit, 10, false); // all
+			int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", 20, 7, false); // all
 			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", limit, limit + 20); // batch
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", 50, 10, false); // batch 2
 			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", 100000, limit, false); // frequency
 
-			// selective testing: number of pos and neg patterns for closest match
-			// int posCount = PathRelationExtractor.loadRules(dir + "patterns.pos", limit, true);
-			// int negCount = PathRelationExtractor.loadNeg(dir + "patterns.neg", limit, true);
-			// // PathMatcher.loadDepWeights(dir + "weights_dep", 30, 7, false); // all
-			// String parameterString = "pos:" + posCount + " neg:" + negCount;
+			// number of pos and neg patterns for closest match
+			// int posCount = PathRelationExtractor.loadRules(dir + "patterns.pos", 100);
+			// int negCount = PathRelationExtractor.loadNeg(dir + "patterns.neg", 100);
 
 			// number of patterns for exact match
 			// int posCount = DepPathRelationTagger.loadModel(dir + "patterns", 10000);
@@ -169,8 +148,7 @@ public class Ace {
 
 			// String parameterString = String.format("dep count:%.2f", limit);
 			// String parameterString = "freq 1 batch:" + (limit + 1) + "-" + (limit + 20);
-			// String parameterString = "dep count:" + limit;
-			// String parameterString = "pos:" + posCount + " neg:" + negCount + " dep:" + depCount;
+			String parameterString = "pos:" + posCount + " neg:" + negCount + " dep:" + depCount;
 			// String parameterString = "frequency:" + limit + " dep:" + depCount;
 
 			while ((currentDocPath = reader.readLine()) != null) {
@@ -193,20 +171,10 @@ public class Ace {
 			double f1 = Double.parseDouble(scoreStr.split(" ")[2].trim());
 
 			double score = f1;
-			if (prevScore <= score) {
-				optimalWeights = new HashMap<String, Double>(tempWeights);
-				prevScore = score;
-				count++;
-			}
-			String parameterString = "Deps:" + count;
-
 			if (bestScore < score) {
 				bestScore = score;
 				bestParameterString = parameterString;
 			}
-
-			for (String dep : optimalWeights.keySet())
-				System.out.println(dep + " = " + optimalWeights.get(dep));
 
 			String scoresStr = String.format("P:%.4f R:%.4f F:%.4f", precision, recall, f1);
 
@@ -365,7 +333,7 @@ public class Ace {
 		pathRelationExtractor.loadNeg(negModelFile);
 		// pathRelationExtractor.loadEmbeddings(embeddingFile);
 		// PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_dep");
-		// PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
+		PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
 	}
 
 	/**

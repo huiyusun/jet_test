@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTaggerWiki_Extvec {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWiki_Extvec.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
 
 	static Document doc;
 	static AceDocument aceDoc;

@@ -19,7 +19,7 @@ import java.util.concurrent.ThreadLocalRandom;
  *
  * @author yhe
  */
-public class PathRelationExtractor {
+public class PathRelationExtractor_depWeights {
 
 	public void setNegDiscount(double nDiscount) {
 		negDiscount = nDiscount;
@@ -229,10 +229,9 @@ public class PathRelationExtractor {
 		for (MatcherPath rule : ruleTable) {
 			// System.out.println("pos pattern: " + rule);
 			// System.out.println("candidate pattern: " + matcherPath);
-			double score = pathMatcher.matchPaths(matcherPath, rule); // normalized by the length of the path
-			// System.out.println("pos score: " + score);
-			if (score < 10)
-				posMap.put(score, rule.getRelationType());
+
+			double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length(); // normalized by the length of the path
+			posMap.put(score, rule.getRelationType());
 		}
 
 		int posCount = 0;
@@ -253,12 +252,8 @@ public class PathRelationExtractor {
 		// compare candidate with negative paths
 		if (knnScore < minThreshold) {
 			for (MatcherPath rule : negTable) {
-				// System.out.println("neg pattern: " + rule);
-				// System.out.println("candidate pattern: " + matcherPath);
-				double score = pathMatcher.matchPaths(matcherPath, rule);
-				// System.out.println("neg score: " + score);
-				if (score < 10)
-					negMap.put(score, rule.getRelationType());
+				double score = pathMatcher.matchPaths(matcherPath, rule) / rule.length();
+				negMap.put(score, rule.getRelationType());
 			}
 		} else {
 			return null;
@@ -278,7 +273,7 @@ public class PathRelationExtractor {
 		if (!enoughNegPatterns)
 			knnNegScore = knnNegScore / negCount;
 
-		if (knnScore < minThreshold && knnScore <= knnNegScore * negDiscount) {
+		if (knnScore < minThreshold && knnScore < knnNegScore * negDiscount) {
 			System.err.println("[ACCEPT] Pos Score:" + knnScore);
 			System.err.println("[ACCEPT] Neg Score:" + knnNegScore * negDiscount);
 			System.err.println("[ACCEPT] Current:" + matcherPath);

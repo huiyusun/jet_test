@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTaggerTestLimit {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerTestLimit.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
 
 	static Document doc;
 	static AceDocument aceDoc;

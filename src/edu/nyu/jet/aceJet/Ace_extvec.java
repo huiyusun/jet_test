@@ -7,23 +7,18 @@ package edu.nyu.jet.aceJet;
 import java.util.*;
 import java.io.*;
 import edu.nyu.jet.*;
+import edu.nyu.jet.Control;
 import edu.nyu.jet.refres.Resolve;
 import edu.nyu.jet.pat.Pat;
 import edu.nyu.jet.lisp.*;
-import edu.nyu.jet.models.PathMatcher;
-import edu.nyu.jet.models.PathRelationExtractor;
 import edu.nyu.jet.models.WordEmbedding;
 import edu.nyu.jet.hmm.BigramHMMemitter;
 import edu.nyu.jet.hmm.HMMstate;
 import edu.nyu.jet.tipster.*;
-import edu.nyu.jet.weights.CombineDepWeights;
-import edu.nyu.jet.weights.DepWeightTrain;
 import edu.nyu.jet.parser.SynFun;
 import edu.nyu.jet.parser.ParseTreeNode;
 import edu.nyu.jet.parser.AddSyntacticRelations;
 import edu.nyu.jet.scorer.NameTagger;
-import edu.nyu.jet.scorer.combineTriples;
-import edu.nyu.jet.scorer.ScoreAceTriples;
 import edu.nyu.jet.time.TimeMain;
 import edu.nyu.jet.time.TimeAnnotator;
 import edu.nyu.jet.format.PTBReader;
@@ -36,9 +31,9 @@ import org.slf4j.LoggerFactory;
  * procedures for generating ACE output for a Jet document.
  */
 
-public class Ace {
+public class Ace_extvec {
 
-	final static Logger logger = LoggerFactory.getLogger(Ace.class);
+	final static Logger logger = LoggerFactory.getLogger(Ace_extvec.class);
 	public static boolean useParser = false;
 	static final boolean useParseCollection = false;
 	public static boolean perfectMentions = false;
@@ -49,8 +44,6 @@ public class Ace {
 	public static boolean preferEntities = !preferRelations;
 
 	public static boolean entityTrace = false;
-
-	public static PathRelationExtractor pathRelationExtractor;
 
 	/**
 	 * if true, case information is not considered significant (for finding names or sentence boundaries).
@@ -99,129 +92,23 @@ public class Ace {
 
 	public static void main(String[] args) throws IOException {
 		initForFileIO(args);
-
-		BufferedWriter writer = new BufferedWriter(
-				new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/results_depWeights_v1_cumulative", true)); // append
-
+		// open list of files
+		BufferedReader reader = new BufferedReader(new FileReader(fileList));
 		// debug = false ==> try to catch all exceptions and continue
 		boolean debug = false;
 		String currentDocPath;
-
-		double bestScore = 0.0;
-		double prevScore = 0.0;
-		String bestParameterString = "NONE";
-		HashMap<String, Double> optimalWeights = new HashMap<String, Double>();
-		optimalWeights.put("appos -- nn-1", 0.0);
-		optimalWeights.put("cop-1 -- nsubj-1", 0.0);
-		int count = 1;
-
-		writer.write("Adding deps that improves the score (ORG-PER):" + "\n");
-
-		for (int i = 0; i <= 10; i++) {
-			// for (int insert = 1; insert <= 10; insert++) {
-			// for (int delete = 2; delete <= 10; delete++) {
-			int limit = i;
-
-			// process all docs
-			BufferedReader reader = new BufferedReader(new FileReader(fileList));
-			docCount = 0;
-			String dir = "/Users/nuist/documents/NlpResearch/ice-eval/";
-
-			// adjust parameters
-			pathRelationExtractor.setMinThreshold(3);
-			pathRelationExtractor.setNegDiscount(1);
-			pathRelationExtractor.setK(3);
-
-			// normal closest match
-			// pathRelationExtractor.loadRules(dir + "patterns.pos");
-			// pathRelationExtractor.loadNeg(dir + "patterns.neg");
-			// PathMatcher.loadDepWeights(dir + "weights_dep");
-			// String parameterString = "Normal";
-
-			// test dep weights one by one
-			HashMap<String, Double> tempWeights = new HashMap<String, Double>(
-					PathMatcher.loadDepWeights(dir + "weights_dep", limit, optimalWeights));
-
-			// train dependency weights: selective training
-			// int posCount = DepWeightTrain.loadPos(dir + "patterns_dep.pos", limit);
-			// int negCount = DepWeightTrain.loadNeg(dir + "patterns_dep.neg", limit);
-			//
-			// DepWeightTrain.train(dir + "weights_dep_v1_posTable", "posTable", "posTable", "negTable"); // train weights
-			// DepWeightTrain.train(dir + "weights_dep_v1_negTable", "negTable", "negTable", "posTable");
-			// DepWeightTrain.train(dir + "weights_dep_v1_mixTable", "posTable", "negTable", "null");
-			// CombineDepWeights.Combine(dir + "weights_dep_v1_posTable", dir + "weights_dep_v1_negTable",
-			// dir + "weights_dep_v1_mixTable", dir + "weights_dep_v1_combined");
-
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep_v1_combined", limit, 10, false); // all
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", limit, limit + 20); // batch
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", 50, 10, false); // batch 2
-			// int depCount = PathMatcher.loadDepWeights(dir + "weights_dep", 100000, limit, false); // frequency
-
-			// selective testing: number of pos and neg patterns for closest match
-			// int posCount = PathRelationExtractor.loadRules(dir + "patterns.pos", limit, true);
-			// int negCount = PathRelationExtractor.loadNeg(dir + "patterns.neg", limit, true);
-			// // PathMatcher.loadDepWeights(dir + "weights_dep", 30, 7, false); // all
-			// String parameterString = "pos:" + posCount + " neg:" + negCount;
-
-			// number of patterns for exact match
-			// int posCount = DepPathRelationTagger.loadModel(dir + "patterns", 10000);
-			// String parameterString = "deps:" + depCount;
-
-			// String parameterString = String.format("dep count:%.2f", limit);
-			// String parameterString = "freq 1 batch:" + (limit + 1) + "-" + (limit + 20);
-			// String parameterString = "dep count:" + limit;
-			// String parameterString = "pos:" + posCount + " neg:" + negCount + " dep:" + depCount;
-			// String parameterString = "frequency:" + limit + " dep:" + depCount;
-
-			while ((currentDocPath = reader.readLine()) != null) {
-				// process file at 'currentDocPath'
-				if (debug) {
+		while ((currentDocPath = reader.readLine()) != null) {
+			// process file at 'currentDocPath'
+			if (debug) {
+				processFile(currentDocPath);
+			} else {
+				try {
 					processFile(currentDocPath);
-				} else {
-					try {
-						processFile(currentDocPath);
-					} catch (Exception e) {
-						logger.error("Error processing document " + fileList + "(" + docCount + ")=" + currentDocPath, e);
-					}
+				} catch (Exception e) {
+					logger.error("Error processing document " + fileList + "(" + docCount + ")=" + currentDocPath, e);
 				}
 			}
-
-			combineTriples.combine(); // combine triples into one response triple file
-			String scoreStr = ScoreAceTriples.score(); // score response against key
-			double recall = Double.parseDouble(scoreStr.split(" ")[0].trim());
-			double precision = Double.parseDouble(scoreStr.split(" ")[1].trim());
-			double f1 = Double.parseDouble(scoreStr.split(" ")[2].trim());
-
-			double score = f1;
-			if (prevScore <= score) {
-				optimalWeights = new HashMap<String, Double>(tempWeights);
-				prevScore = score;
-				count++;
-			}
-			String parameterString = "Deps:" + count;
-
-			if (bestScore < score) {
-				bestScore = score;
-				bestParameterString = parameterString;
-			}
-
-			for (String dep : optimalWeights.keySet())
-				System.out.println(dep + " = " + optimalWeights.get(dep));
-
-			String scoresStr = String.format("P:%.4f R:%.4f F:%.4f", precision, recall, f1);
-
-			System.out.println("[TUNING] " + parameterString + " = " + scoresStr);
-			writer.write("[TUNING] " + parameterString + " = " + scoresStr + "\n");
-			reader.close();
 		}
-		// }
-		// }
-
-		System.out.println("[BEST] " + bestParameterString + " = " + "F:" + bestScore);
-		writer.write("[BEST] " + bestParameterString + " = " + "F:" + bestScore + "\n");
-		writer.write("\n");
-
-		writer.close();
 	}
 
 	/**
@@ -309,17 +196,10 @@ public class Ace {
 		}
 		// ... dependency path (ICE) model
 		String relationDepPathFile = JetTest.getConfigFile("Ace.RelationDepPaths.fileName");
-		String relationDepPathPosFile = null; // +ve patterns
-		String relationDepPathNegFile = null; // -ve patterns
-		String embeddingFile = JetTest.getConfigFile("Ace.DepEmbeddings.fileName");
-
-		if (JetTest.getConfigFile("Ace.EntitySubtypeMatching") != null) { // if entity subtype matching LDPs exist
-			relationDepPathPosFile = relationDepPathFile + "_subtypes.pos";
-			relationDepPathNegFile = relationDepPathFile + "_subtypes.neg";
-		} else {
-			relationDepPathPosFile = relationDepPathFile + ".pos"; // +ve patterns
-			relationDepPathNegFile = relationDepPathFile + ".neg"; // -ve patterns
-		}
+		String relationDepPathPosFile = relationDepPathFile + ".pos"; // +ve patterns
+		String relationDepPathNegFile = relationDepPathFile + ".neg"; // -ve patterns
+		String embeddingsGloveFile = JetTest.getConfigFile("Ace.DepEmbeddingsGlove.fileName");
+		String embeddingsExtvecFile = JetTest.getConfigFile("Ace.DepEmbeddingsExtvec.fileName");
 
 		// load candidate patterns
 		if (relationDepPathFile != null) {
@@ -327,8 +207,8 @@ public class Ace {
 		}
 
 		// load positive and negative patterns and load word embedding
-		if (relationDepPathPosFile != null && relationDepPathNegFile != null && embeddingFile != null) {
-			loadPosAndNegModel(relationDepPathPosFile, relationDepPathNegFile, embeddingFile);
+		if (relationDepPathPosFile != null && relationDepPathNegFile != null && embeddingsExtvecFile != null) {
+			DepPathRelationTagger.loadPosAndNegModel(relationDepPathPosFile, relationDepPathNegFile, embeddingsExtvecFile);
 		}
 
 		if (relationPatternFile == null && relationModelFile == null && relationDepPathFile == null) {
@@ -356,16 +236,6 @@ public class Ace {
 				EventTagger.EVENT_PROBABILITY_THRESHOLD);
 		EventTagger.ARGUMENT_PROBABILITY_THRESHOLD = getConfigDouble("Ace.EventModels.argumentProbabilityThreshold",
 				EventTagger.ARGUMENT_PROBABILITY_THRESHOLD);
-	}
-
-	// load positive and negative patterns for nearest neighbor matching
-	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
-		pathRelationExtractor = new PathRelationExtractor();
-		pathRelationExtractor.loadRules(posModelFile);
-		pathRelationExtractor.loadNeg(negModelFile);
-		// pathRelationExtractor.loadEmbeddings(embeddingFile);
-		// PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_dep");
-		// PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
 	}
 
 	/**
@@ -453,8 +323,11 @@ public class Ace {
 		doc.setAllTags(true);
 		// doc.setEmptyTags(new String[] {"W", "TURN"});
 		doc.open();
-
 		AceDocument aceDoc = processDocument(doc, currentDocId, currentDocFileName, currentDocPathBase);
+
+		// write triples check not working, so commented out for now
+		// if (JetTest.getConfigFile("Ace.writeTriples") != null) {
+		logger.info("\nOutput file " + outputDir + currentDocPathBase + ".triples");
 
 		String triplesFileName = outputDir + currentDocPathBase + ".triples";
 		PrintWriter triplesWriter = new PrintWriter(triplesFileName, JetTest.encoding);
@@ -466,6 +339,12 @@ public class Ace {
 			System.out.println("Wrote triple " + s);
 		}
 		triplesWriter.close();
+		// } else {
+		// String apfFileName = outputDir + currentDocPathBase + suffix;
+		// PrintWriter apf = new PrintWriter(apfFileName, JetTest.encoding);
+		// // write APF file
+		// aceDoc.write(apf, doc);
+		// }
 	}
 
 	/**
@@ -557,7 +436,7 @@ public class Ace {
 			RelationTagger.findRelations(docId, doc, aceDoc);
 			// ... or with dependency paths (ICE) tagger
 		} else if (DepPathRelationTagger.model != null) {
-			DepPathRelationTagger.findRelations(docId, doc, aceDoc, pathRelationExtractor);
+			DepPathRelationTagger.findRelations(docId, doc, aceDoc);
 		}
 
 		// build events

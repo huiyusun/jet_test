@@ -30,7 +30,7 @@ import org.slf4j.LoggerFactory;
 
 public class DepPathRelationTaggerEditDistance {
 
-	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTaggerWordEmbedding.class);
+	final static Logger logger = LoggerFactory.getLogger(DepPathRelationTagger.class);
 
 	static Document doc;
 	static AceDocument aceDoc;

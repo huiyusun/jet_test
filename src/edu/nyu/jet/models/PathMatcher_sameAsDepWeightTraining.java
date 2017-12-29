@@ -16,7 +16,7 @@ import java.util.TreeMap;
  * MatcherPaths using the generalized Levenshtein algorithm. It can optionally use word embeddings to compute the
  * substitution cost, if embeddings is set.
  */
-public class PathMatcher_depWeights {
+public class PathMatcher_sameAsDepWeightTraining {
 
 	private TObjectDoubleHashMap weights = new TObjectDoubleHashMap();
 	private TObjectDoubleHashMap labelWeights = new TObjectDoubleHashMap();
@@ -30,7 +30,7 @@ public class PathMatcher_depWeights {
 
 	private static HashMap<String, List<String>> typeSubtype = new HashMap<String, List<String>>();
 
-	public PathMatcher_depWeights() {
+	public PathMatcher_sameAsDepWeightTraining() {
 		setWeights();
 	}
 
@@ -129,6 +129,34 @@ public class PathMatcher_depWeights {
 		return count;
 	}
 
+	/**
+	 * Load dependency pairs one at a time.
+	 *
+	 */
+	public static String loadDepWeights(String file, int lineNumber) throws IOException {
+		depWeights = new HashMap<String, Double>();
+		BufferedReader br = new BufferedReader(new FileReader(file));
+		String line = null, dep = "";
+		int count = 1;
+
+		while ((line = br.readLine()) != null) {
+			if (!line.isEmpty()) {
+				if (count == lineNumber) {
+					dep = line.split("=")[0].trim();
+					double score = Double.parseDouble(line.split("=")[1].trim());
+					depWeights.put(dep, score);
+					break;
+				}
+				count++;
+			}
+		}
+
+		br.close();
+		System.out.println("loaded dependency weight at line " + count);
+
+		return dep;
+	}
+
 	public static void loadDepWeights(String file) throws IOException {
 		loadDepWeights(file, 100000, 10000, false);
 	}
@@ -206,6 +234,23 @@ public class PathMatcher_depWeights {
 		return depCost;
 	}
 
+	private double matchDependencyTest(MatcherNode c1, MatcherNode c2) {
+		double depCost;
+
+		String dep1 = c1.label;
+		String dep2 = c2.label;
+
+		if (depWeights.containsKey(dep1 + " -- " + dep2)) {
+			depCost = 1;
+		} else if (depWeights.containsKey(dep2 + " -- " + dep1)) {
+			depCost = 1;
+		} else {
+			depCost = 99;
+		}
+
+		return depCost;
+	}
+
 	public double matchPaths(MatcherPath matcherPath1, MatcherPath matcherPath2) {
 		// match subtype costs between arg1 pairs and arg2 pairs
 		// double subtypeCostArg1 = matchSubtypes(matcherPath1.arg1Type, matcherPath1.arg1Subtype, matcherPath2.arg1Type,
@@ -214,42 +259,39 @@ public class PathMatcher_depWeights {
 		// matcherPath2.arg2Subtype);
 		//
 		// return subtypeCostArg1 + subtypeCostArg2;
-
 		int len1 = matcherPath1.nodes.size();
 		int len2 = matcherPath2.nodes.size();
 
-		// iterate to find min
-		double[][] dp = new double[len1 + 1][len2 + 1];
-		for (int i = 0; i <= len1; i++) {
-			dp[i][0] = i;
-		}
-		for (int j = 0; j <= len2; j++) {
-			dp[0][j] = j;
-		}
+		if (len1 == 1 || len2 == 1)
+			return 999;
+		if (len1 != len2)
+			return 999;
+		if (!matcherPath1.arg1Type.equals(matcherPath2.arg1Type) || !matcherPath1.arg2Type.equals(matcherPath2.arg2Type))
+			return 999;
 
 		// iterate though, and check last char
 		for (int i = 0; i < len1; i++) {
 			MatcherNode c1 = matcherPath1.nodes.get(i);
-			for (int j = 0; j < len2; j++) {
-				MatcherNode c2 = matcherPath2.nodes.get(j);
+			MatcherNode c2 = matcherPath2.nodes.get(i);
+			String dep1 = c1.label;
+			String dep2 = c2.label;
+			MatcherPath replacePath = new MatcherPath(matcherPath1.toString());
 
-				// if last two chars equal
-				if (c1.equals(c2)) {
-					// update dp value for +1 length
-					dp[i + 1][j + 1] = dp[i][j];
-				} else {
-					double depCost = matchDependency(c1, c2); // get dependency weights
-					double replace = dp[i][j] + depCost;
-
-					dp[i + 1][j + 1] = replace; // only allow replace operations
-					// System.out.println("nodes: " + node1 + " " + node2);
-					// System.out.println("replace dp[i][j]: " + replace + " " + dp[i + 1][j + 1]);
+			if (!dep1.equals(dep2)) {
+				replacePath.nodes.get(i).label = dep2;
+				if (replacePath.toString().equals(matcherPath2.toString())) { // rest of path matches except for node at posn
+					if (depWeights.containsKey(dep1 + " -- " + dep2)) {
+						return 1;
+					} else if (depWeights.containsKey(dep2 + " -- " + dep1)) {
+						return 1;
+					}
 				}
+				// System.out.println("deps: " + c1.label + " " + c2.label);
+				// System.out.println("costs: " + replace);
 			}
 		}
 
-		return matcherPath1.arg1Type.equals(matcherPath2.arg1Type) && matcherPath1.arg2Type.equals(matcherPath2.arg2Type)
-				? dp[len1][len2] : Math.max(matcherPath1.length(), matcherPath2.length());
+		return 99;
 	}
 
 }

@@ -1,0 +1,108 @@
+all docs (599)
+Selecting patterns for the pos and neg set in closest match
+default dep weights: trained on patterns_v1.pos and neg
+Iterations using selected seeds on ICE
+
+------------------------------------------------------------------------
+PER-ORG argument pair for ORG-AFF
+Baseline: P:0.8803 R:0.3116 F:0.4603
+
+Seed: Person of Organization
+merged_ltw:
+[TUNING] itr:1 repr:56 = P:0.7727 R:0.3601 F:0.4912
+[TUNING] itr:2 repr:87 = P:0.7548 R:0.3585 F:0.4862
+[TUNING] itr:3 repr:118 patterns:204 = P:0.7531 R:0.3646 F:0.4913
+[TUNING] itr:4 repr:137 = P:0.7393 R:0.3646 F:0.4883
+[BEST] itr:3 repr:118 = F:0.49133536
+
+[TUNING] itr:1+3 = P:0.7685 R:0.3616 F:0.4918
+[BEST] itr:1+3 = F:0.49176958
+
+merged_all:
+[TUNING] itr:1 patterns:103 = P:0.7702 R:0.3601 F:0.4907
+[TUNING] itr:2 patterns:183 = P:0.7438 R:0.3601 F:0.4852
+[TUNING] itr:3 patterns:234 = P:0.7767 R:0.3631 F:0.4948
+[BEST] itr:3 patterns:234 = F:0.49484533
+
+Seed: Person be founder of Organization
+[TUNING] itr:1 patterns:47 = P:0.7867 R:0.3570 F:0.4912
+[TUNING] itr:2 patterns:140 = P:0.7666 R:0.3676 F:0.4969
+[TUNING] itr:3 patterns:172 = P:0.7642 R:0.3676 F:0.4964
+[BEST] itr:2 patterns:140 = F:0.49693254
+
+using word embedding active learner:
+[TUNING] itr:2 patterns:153 = P:0.7979 R:0.3404 F:0.4772
+[BEST] itr:2 patterns:153 = F:0.47720042
+
+Seed: Person work for Organization
+[TUNING] itr:1 patterns:93 = P:0.7660 R:0.3616 F:0.4913
+[TUNING] itr:3 patterns:201 = P:0.7818 R:0.3631 F:0.4959
+[BEST] itr:3 patterns:201 = F:0.49586773
+
+Combined:
+[TUNING] itr:1 patterns:479 = P:0.7692 R:0.3631 F:0.4933
+[BEST] itr:1 patterns:479 = F:0.49331963
+
+Reselecting neg set:
+[TUNING] itr:1 patterns:479 = P:0.8389 R:0.3782 F:0.5214
+[BEST] itr:1 patterns:479 = F:0.52137643
+
+------------------------------------------------------------------------
+ORG-PER argument pair for ORG-AFF
+Baseline: P:0.8035 R:0.2784 F:0.4135
+
+Seeds:
+[TUNING] seed:Organization president Person patterns:229 = P:0.7623 R:0.3056 F:0.4363
+[TUNING] seed:Organization promote Person patterns:42 = P:0.7875 R:0.2859 F:0.4195
+[TUNING] seed:Organization found by Person patterns:70 = P:0.8043 R:0.2799 F:0.4153
+[BEST] seed:Organization president Person patterns:229 = F:0.4362851
+
+Combined:
+[TUNING] patterns:338 = P:0.7594 R:0.3056 F:0.4358
+[BEST] patterns:338 = F:0.43581444
+
+------------------------------------------------------------------------
+PER-GPE argument pair for ORG-AFF
+Baseline: P:0.5333 R:0.0121 F:0.0237
+
+[TUNING] itr:1 = P:0.2074 R:0.0590 F:0.0919
+[TUNING] itr:1 = P:0.1441 R:0.0484 F:0.0725
+[TUNING] itr:1 = P:0.1717 R:0.0605 F:0.0895
+[TUNING] itr:1 = P:0.7037 R:0.0287 F:0.0552
+[TUNING] itr:1 = P:0.6667 R:0.0333 F:0.0634
+[TUNING] itr:1 = P:0.4167 R:0.0076 F:0.0149
+
+------------------------------------------------------------------------
+GPE-PER argument pair for ORG-AFF
+Baseline: P:0.5903 R:0.2027 F:0.3018
+
+[TUNING] itr:1 patterns:196 = P:0.5466 R:0.2042 F:0.2974
+[BEST] itr:1 patterns:196 = F:0.29735684
+
+[TUNING] itr:1 patterns:182 = P:0.5574 R:0.2057 F:0.3006
+[BEST] itr:1 patterns:182 = F:0.3005525
+
+[TUNING] itr:1 patterns:255 = P:0.5462 R:0.2057 F:0.2989
+[BEST] itr:1 patterns:255 = F:0.2989011
+
+[TUNING] itr:1 patterns:255 = P:0.5751 R:0.2027 F:0.2998
+[BEST] itr:1 patterns:255 = F:0.2997763
+
+------------------------------------------------------------------------
+All argument pair for ORG-AFF
+Baseline: F:0.7290867
+
+PER-ORG:
+[TUNING] itr:1 patterns:479 = P:0.7299 R:0.7564 F:0.7429
+[BEST] itr:1 patterns:479 = F:0.74294204
+
+ORG-PER:
+[TUNING] itr:1 patterns:338 = P:0.7244 R:0.7398 F:0.7320
+[BEST] itr:1 patterns:338 = F:0.73203593
+
+All:
+[TUNING] itr:1 patterns:817 = P:0.7165 R:0.7761 F:0.7451
+[BEST] itr:1 patterns:817 = F:0.745098
+
+------------------------------------------------------------------------
+

@@ -2,69 +2,13 @@ ORG-AFF | All docs (599)
 Exact match baseline: P:0.7399 R:0.7186 F:0.7290867
 Hand written rules for entity subtypes
 
-Subtypes:
+PER-GPE rules:
 [TUNING] PER of GPE (pos:1 neg:1) = P:0.7405 R:0.7337 F:0.7371
 [TUNING] PER nn-1 GPE (pos:1 neg:1) = P:0.7397 R:0.7352 F:0.7375
 [TUNING] PER poss-1 GPE (pos:1 neg:1) = P:0.7387 R:0.7398 F:0.7392
 [BEST]  = F:0.739229
 
-Rules:
-[TUNING]  = P:0.7394 R:0.7383 F:0.7388
-[BEST]  = F:0.73883426
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7376 R:0.7398 F:0.7387
-[BEST]  = F:0.7386707
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7399 R:0.7186 F:0.7291
-[BEST]  = F:0.7290867
-
-Rules:
-[TUNING]  = P:0.6525 R:0.7186 F:0.6839
-[BEST]  = F:0.68394536
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
-[TUNING]  = P:0.7387 R:0.7398 F:0.7392
-[BEST]  = F:0.739229
-
-Rules:
+All Rules:
 [TUNING]  = P:0.7403 R:0.7504 F:0.7453
 [BEST]  = F:0.7453043
 

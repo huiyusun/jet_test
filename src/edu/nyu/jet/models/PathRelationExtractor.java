@@ -221,6 +221,7 @@ public class PathRelationExtractor {
 		double knnNegScore = 0;
 		boolean enoughPosPatterns = false;
 		boolean enoughNegPatterns = false;
+		boolean subtypeMatching = false;
 
 		Map<Double, String> posMap = new TreeMap<Double, String>();
 		Map<Double, String> negMap = new TreeMap<Double, String>();
@@ -234,6 +235,9 @@ public class PathRelationExtractor {
 			if (score < 10)
 				posMap.put(score, rule.getRelationType());
 		}
+
+		if (posMap.size() == 0)
+			return null;
 
 		int posCount = 0;
 		for (Double score : posMap.keySet()) {
@@ -278,20 +282,45 @@ public class PathRelationExtractor {
 		if (!enoughNegPatterns)
 			knnNegScore = knnNegScore / negCount;
 
-		if (knnScore < minThreshold && knnScore <= knnNegScore * negDiscount) {
-			System.err.println("[ACCEPT] Pos Score:" + knnScore);
-			System.err.println("[ACCEPT] Neg Score:" + knnNegScore * negDiscount);
-			System.err.println("[ACCEPT] Current:" + matcherPath);
-			System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
+		MatcherPath sample = ruleTable.get(0);
+		if (!sample.arg1Subtype.equals("UNK") && !sample.arg2Subtype.equals("UNK"))
+			subtypeMatching = true;
 
-			return relationType;
+		if (!subtypeMatching) { // using closest match on path only
+			if (knnScore < minThreshold && knnScore <= knnNegScore * negDiscount) {
+				System.err.println("[ACCEPT] Pos Score:" + knnScore);
+				System.err.println("[ACCEPT] Neg Score:" + knnNegScore * negDiscount);
+				System.err.println("[ACCEPT] Current:" + matcherPath);
+				System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
+
+				return relationType;
+			}
+			if (knnScore > knnNegScore * negDiscount) {
+				System.err.println("[REJECT] Pos Score:" + knnScore);
+				System.err.println("[REJECT] Neg Score:" + knnNegScore * negDiscount);
+				System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
+				System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
+			}
+			return null;
+		} else { // using closest match on argument subtypes only
+			if (negMap.size() == 0)
+				knnNegScore = minThreshold;
+
+			if (knnScore < minThreshold && knnScore < knnNegScore * negDiscount) {
+				System.err.println("[ACCEPT] Pos Score:" + knnScore);
+				System.err.println("[ACCEPT] Neg Score:" + knnNegScore * negDiscount);
+				System.err.println("[ACCEPT] Current:" + matcherPath.toStringSubtypes());
+				System.err.println("[ACCEPT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
+
+				return relationType;
+			}
+			if (knnScore >= knnNegScore * negDiscount) {
+				System.err.println("[REJECT] Pos Score:" + knnScore);
+				System.err.println("[REJECT] Neg Score:" + knnNegScore * negDiscount);
+				System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
+				System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
+			}
+			return null;
 		}
-		if (knnScore > knnNegScore * negDiscount) {
-			System.err.println("[REJECT] Pos Score:" + knnScore);
-			System.err.println("[REJECT] Neg Score:" + knnNegScore * negDiscount);
-			System.err.println("[REJECT] Current:" + matcherPath);
-			System.err.println("[REJECT] Actual:" + e.getOutcome() + "\tPredicted:" + relationType);
-		}
-		return null;
 	}
 }

@@ -166,16 +166,23 @@ public class DepPathRelationTagger {
 			return;
 		path = AnchoredPath.lemmatizePath(path); // telling -> tell, does -> do, watched -> watch, etc.
 
+		AceEntity e1 = (AceEntity) m1.getParent();
+		AceEntity e2 = (AceEntity) m2.getParent();
+		String arg1 = m1.getType() + ":" + e1.subtype; // entity type + subtype
+		String arg2 = m2.getType() + ":" + e2.subtype;
+
+		// test limit
+		// String outcome = "TBD";
+		// if (m1.getType().isEmpty() || m2.getType().isEmpty())
+		// return;
+		// String pattern = m1.getType() + "--" + path + "--" + m2.getType();
+		// String pattern = arg1 + "--" + path + "--" + arg2;
+
 		// try exact match first
 		String pattern = m1.getType() + "--" + path + "--" + m2.getType();
 		String outcome = model.get(pattern); // look up path in model
 
 		if (outcome == null) { // try closest match next
-			AceEntity e1 = (AceEntity) m1.getParent();
-			AceEntity e2 = (AceEntity) m2.getParent();
-			String arg1 = m1.getType() + ":" + e1.subtype; // entity type + subtype
-			String arg2 = m2.getType() + ":" + e2.subtype;
-
 			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
 
 			// pathRelationExtractor.setMinThreshold(0.3);
@@ -207,12 +214,16 @@ public class DepPathRelationTagger {
 			System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
 			AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
 			relation.addMention(mention);
+			relation.addPattern(pattern); // select: pattern or patternSubtype
+			relation.addOutcome(outcome + "-1");
 			RelationTagger.relationList.add(relation);
 		} else {
 			AceRelationMention mention = new AceRelationMention("", m1, m2, doc);
 			System.out.println("Found " + outcome + " relation " + mention.text); // <<<
 			AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
 			relation.addMention(mention);
+			relation.addPattern(pattern); // select: pattern or patternSubtype
+			relation.addOutcome(outcome);
 			RelationTagger.relationList.add(relation);
 		}
 	}

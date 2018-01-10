@@ -24,6 +24,8 @@ import edu.nyu.jet.parser.AddSyntacticRelations;
 import edu.nyu.jet.scorer.NameTagger;
 import edu.nyu.jet.scorer.combineTriples;
 import edu.nyu.jet.scorer.ScoreAceTriples;
+import edu.nyu.jet.scorer.ScoreAndGetCorrectPatterns;
+import edu.nyu.jet.scorer.ScoreAndGetIncorrectPatterns;
 import edu.nyu.jet.time.TimeMain;
 import edu.nyu.jet.time.TimeAnnotator;
 import edu.nyu.jet.format.PTBReader;
@@ -101,23 +103,27 @@ public class Ace {
 		initForFileIO(args);
 
 		BufferedWriter writer = new BufferedWriter(
-				new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/results_depWeights_v1_cumulative", true)); // append
+				new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/results_subtypes_v1", true)); // append
 
 		// debug = false ==> try to catch all exceptions and continue
 		boolean debug = false;
 		String currentDocPath;
 
 		double bestScore = 0.0;
-		double prevScore = 0.0;
+		double prevScore = 0.7498131;
 		String bestParameterString = "NONE";
-		HashMap<String, Double> optimalWeights = new HashMap<String, Double>();
-		optimalWeights.put("appos -- nn-1", 0.0);
-		optimalWeights.put("cop-1 -- nsubj-1", 0.0);
-		int count = 1;
+		String dir = "/Users/nuist/documents/NlpResearch/ice-eval/";
+		// HashMap<String, Double> optimalWeights = new HashMap<String, Double>();
+		// HashMap<String, Double> optimalWeights = new HashMap<String, Double>(
+		// PathMatcher.addPrevDepWeights(dir + "weights_dep_best")); // have previous weights
 
-		writer.write("Adding deps that improves the score (ORG-PER):" + "\n");
+		// int count = 0;
+		// int count = optimalWeights.keySet().size();
 
-		for (int i = 0; i <= 10; i++) {
+		writer.write("Subtypes of all four argument pairs:" + "\n");
+		String parameterString = "";
+
+		for (int i = 0; i <= 0; i++) {
 			// for (int insert = 1; insert <= 10; insert++) {
 			// for (int delete = 2; delete <= 10; delete++) {
 			int limit = i;
@@ -125,22 +131,30 @@ public class Ace {
 			// process all docs
 			BufferedReader reader = new BufferedReader(new FileReader(fileList));
 			docCount = 0;
-			String dir = "/Users/nuist/documents/NlpResearch/ice-eval/";
 
 			// adjust parameters
 			pathRelationExtractor.setMinThreshold(3);
 			pathRelationExtractor.setNegDiscount(1);
 			pathRelationExtractor.setK(3);
 
+			// compare entity subtypes
+			pathRelationExtractor.loadRules(dir + "patterns_subtypes.pos");
+			pathRelationExtractor.loadNeg(dir + "patterns_subtypes.neg");
+			PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");
+
 			// normal closest match
 			// pathRelationExtractor.loadRules(dir + "patterns.pos");
 			// pathRelationExtractor.loadNeg(dir + "patterns.neg");
+			// int posCount = PathRelationExtractor.loadRules(dir + "patterns.pos", 100000);
+			// int negCount = PathRelationExtractor.loadNeg(dir + "patterns.neg", 100000);
 			// PathMatcher.loadDepWeights(dir + "weights_dep");
-			// String parameterString = "Normal";
+			// String parameterString = "itr:1" + " patterns:" + posCount;
 
 			// test dep weights one by one
-			HashMap<String, Double> tempWeights = new HashMap<String, Double>(
-					PathMatcher.loadDepWeights(dir + "weights_dep", limit, optimalWeights));
+
+			// test dep weights cumulatively
+			// HashMap<String, Double> tempWeights = new HashMap<String, Double>(
+			// PathMatcher.loadDepWeights(dir + "weights_dep", limit, optimalWeights));
 
 			// train dependency weights: selective training
 			// int posCount = DepWeightTrain.loadPos(dir + "patterns_dep.pos", limit);
@@ -187,26 +201,30 @@ public class Ace {
 			}
 
 			combineTriples.combine(); // combine triples into one response triple file
+
 			String scoreStr = ScoreAceTriples.score(); // score response against key
 			double recall = Double.parseDouble(scoreStr.split(" ")[0].trim());
 			double precision = Double.parseDouble(scoreStr.split(" ")[1].trim());
 			double f1 = Double.parseDouble(scoreStr.split(" ")[2].trim());
 
 			double score = f1;
+			int added = 0;
 			if (prevScore <= score) {
-				optimalWeights = new HashMap<String, Double>(tempWeights);
+				// optimalWeights = new HashMap<String, Double>(tempWeights);
 				prevScore = score;
-				count++;
+				// count++;
+				added = 1;
 			}
-			String parameterString = "Deps:" + count;
+
+			// String parameterString = "Total deps:" + count + " Dep added:" + added;
 
 			if (bestScore < score) {
 				bestScore = score;
 				bestParameterString = parameterString;
 			}
 
-			for (String dep : optimalWeights.keySet())
-				System.out.println(dep + " = " + optimalWeights.get(dep));
+			// for (String dep : optimalWeights.keySet())
+			// System.out.println(dep + " = " + optimalWeights.get(dep));
 
 			String scoresStr = String.format("P:%.4f R:%.4f F:%.4f", precision, recall, f1);
 
@@ -222,6 +240,10 @@ public class Ace {
 		writer.write("\n");
 
 		writer.close();
+
+		// test limit and get pattern count
+		// combineTriples.combine(); // combine triples into one response triple file
+		// ScoreAndGetIncorrectPatterns.score(); // score triples and generate correct ACE patterns
 	}
 
 	/**
@@ -361,8 +383,8 @@ public class Ace {
 	// load positive and negative patterns for nearest neighbor matching
 	static void loadPosAndNegModel(String posModelFile, String negModelFile, String embeddingFile) throws IOException {
 		pathRelationExtractor = new PathRelationExtractor();
-		pathRelationExtractor.loadRules(posModelFile);
-		pathRelationExtractor.loadNeg(negModelFile);
+		// pathRelationExtractor.loadRules(posModelFile);
+		// pathRelationExtractor.loadNeg(negModelFile);
 		// pathRelationExtractor.loadEmbeddings(embeddingFile);
 		// PathMatcher.loadDepWeights("/Users/nuist/documents/NlpResearch/ice-eval/weights_dep");
 		// PathMatcher.entityTypeAndSubtypeMap("/Users/nuist/documents/NlpResearch/ice-eval/aceEntityTypeSubtype");

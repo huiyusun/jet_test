@@ -194,6 +194,27 @@ public class PathMatcher {
 		loadDepWeights(file, 100000, 10000, false);
 	}
 
+	/**
+	 * Add previously tested dependency weights that got an improvement in score.
+	 *
+	 */
+	public static HashMap<String, Double> addPrevDepWeights(String file) throws IOException {
+		HashMap<String, Double> prevDepWeights = new HashMap<String, Double>();
+		BufferedReader br = new BufferedReader(new FileReader(file));
+		String line = null;
+
+		while ((line = br.readLine()) != null) {
+			if (!line.isEmpty()) {
+				String dep = line.split("=")[0].trim();
+				double score = Double.parseDouble(line.split("=")[1].trim());
+				prevDepWeights.put(dep, score);
+			}
+		}
+
+		br.close();
+		return prevDepWeights;
+	}
+
 	public static void entityTypeAndSubtypeMap(String file) throws IOException {
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line = null;
@@ -226,12 +247,12 @@ public class PathMatcher {
 			else if (typeSubtype.get(type1).contains(subtype2))
 				return 1;
 			else
-				return 2;
+				return 99;
 		} else { // rule requires type match
 			if (type1.equals(type2))
 				return 0;
 			else
-				return 2;
+				return 99;
 		}
 	}
 
@@ -286,59 +307,64 @@ public class PathMatcher {
 
 	public double matchPaths(MatcherPath matcherPath1, MatcherPath matcherPath2) {
 		// match subtype costs between arg1 pairs and arg2 pairs
-		// double subtypeCostArg1 = matchSubtypes(matcherPath1.arg1Type, matcherPath1.arg1Subtype, matcherPath2.arg1Type,
-		// matcherPath2.arg1Subtype);
-		// double subtypeCostArg2 = matchSubtypes(matcherPath1.arg2Type, matcherPath1.arg2Subtype, matcherPath2.arg2Type,
-		// matcherPath2.arg2Subtype);
+		if (!matcherPath1.getPath().equals(matcherPath2.getPath()))
+			return 999; // the two paths don't match
+
+		double subtypeCostArg1 = matchSubtypes(matcherPath1.arg1Type, matcherPath1.arg1Subtype, matcherPath2.arg1Type,
+				matcherPath2.arg1Subtype);
+		double subtypeCostArg2 = matchSubtypes(matcherPath1.arg2Type, matcherPath1.arg2Subtype, matcherPath2.arg2Type,
+				matcherPath2.arg2Subtype);
+
+		return subtypeCostArg1 + subtypeCostArg2;
+
+		// match dependency weights
+		// if (!matcherPath1.arg1Type.equals(matcherPath2.arg1Type) || !matcherPath1.arg2Type.equals(matcherPath2.arg2Type))
+		// return 999; // two arguments don't match
 		//
-		// return subtypeCostArg1 + subtypeCostArg2;
-		if (!matcherPath1.arg1Type.equals(matcherPath2.arg1Type) || !matcherPath1.arg2Type.equals(matcherPath2.arg2Type))
-			return 999;
-
-		int len1 = matcherPath1.nodes.size();
-		int len2 = matcherPath2.nodes.size();
-
-		if (len1 == 1 || len2 == 1)
-			return 999;
-		if (len1 != len2)
-			return 999;
-
-		// iterate to find min
-		double[][] dp = new double[len1 + 1][len2 + 1];
-		for (int i = 0; i <= len1; i++) {
-			dp[i][0] = i;
-		}
-		for (int j = 0; j <= len2; j++) {
-			dp[0][j] = j;
-		}
-
-		// iterate though, and check last char
-		for (int i = 0; i < len1; i++) {
-			MatcherNode c1 = matcherPath1.nodes.get(i);
-			for (int j = 0; j < len2; j++) {
-				MatcherNode c2 = matcherPath2.nodes.get(j);
-
-				// if last two chars equal
-				if (c1.equals(c2)) {
-					// update dp value for +1 length
-					dp[i + 1][j + 1] = dp[i][j];
-				} else {
-					double depCost = matchDependencyTest(c1, c2); // get dependency weights
-
-					double replace = dp[i][j] + depCost;
-					double insert = dp[i][j + 1] + 999;
-					double delete = dp[i + 1][j] + 999;
-
-					double min = replace > insert ? insert : replace;
-					min = delete > min ? min : delete;
-					dp[i + 1][j + 1] = min; // smallest of replace, insert and delete
-					// System.out.println("deps: " + c1.label + " " + c2.label);
-					// System.out.println("costs: " + replace);
-				}
-			}
-		}
-
-		return dp[len1][len2];
+		// int len1 = matcherPath1.nodes.size();
+		// int len2 = matcherPath2.nodes.size();
+		//
+		// if (len1 == 1 || len2 == 1)
+		// return 999;
+		// if (len1 != len2)
+		// return 999;
+		//
+		// // iterate to find min
+		// double[][] dp = new double[len1 + 1][len2 + 1];
+		// for (int i = 0; i <= len1; i++) {
+		// dp[i][0] = i;
+		// }
+		// for (int j = 0; j <= len2; j++) {
+		// dp[0][j] = j;
+		// }
+		//
+		// // iterate though, and check last char
+		// for (int i = 0; i < len1; i++) {
+		// MatcherNode c1 = matcherPath1.nodes.get(i);
+		// for (int j = 0; j < len2; j++) {
+		// MatcherNode c2 = matcherPath2.nodes.get(j);
+		//
+		// // if last two chars equal
+		// if (c1.equals(c2)) {
+		// // update dp value for +1 length
+		// dp[i + 1][j + 1] = dp[i][j];
+		// } else {
+		// double depCost = matchDependencyTest(c1, c2); // get dependency weights
+		//
+		// double replace = dp[i][j] + depCost;
+		// double insert = dp[i][j + 1] + 999;
+		// double delete = dp[i + 1][j] + 999;
+		//
+		// double min = replace > insert ? insert : replace;
+		// min = delete > min ? min : delete;
+		// dp[i + 1][j + 1] = min; // smallest of replace, insert and delete
+		// // System.out.println("deps: " + c1.label + " " + c2.label);
+		// // System.out.println("costs: " + replace);
+		// }
+		// }
+		// }
+		//
+		// return dp[len1][len2];
 	}
 
 }

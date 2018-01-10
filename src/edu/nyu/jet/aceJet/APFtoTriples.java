@@ -113,6 +113,47 @@ public class APFtoTriples {
 		return triples;
 	}
 
+	// makeTriplesPatternCount: write triple separated by '=' if an argument has multiple names. This is later resolved by
+	// the Scorer: ScoreAceTriples.java
+	public static List<String> makeTriples1(Document doc, AceDocument aceDoc) {
+		List<String> triples = new ArrayList<String>();
+		for (AceRelation r : aceDoc.relations) {
+			List<AceEntityName> arg1Names = ((AceEntity) r.arg1).names;
+			List<AceEntityName> arg2Names = ((AceEntity) r.arg2).names;
+
+			int size1 = arg1Names.size();
+			int size2 = arg2Names.size();
+
+			if (size1 == 0 || size2 == 0)
+				continue;
+
+			StringBuilder tripleSB = new StringBuilder();
+			Set<String> argNamesSet = new TreeSet<String>();
+
+			String pattern = r.patterns.get(0);
+			tripleSB.append(pattern + " | ");
+
+			// form triples over all combination of names between arg1 and arg2
+			for (AceEntityName n1 : arg1Names) {
+				for (AceEntityName n2 : arg2Names) {
+					String name1 = n1.text.replaceAll("\\s+", " ");
+					String name2 = n2.text.replaceAll("\\s+", " ");
+
+					if (argNamesSet.contains(name1 + name2)) // don't write the same names
+						continue;
+
+					argNamesSet.add(name1 + name2);
+
+					tripleSB.append(name1 + ":" + r.type + ":" + name2 + "=");
+				}
+			}
+
+			String tripleStr = tripleSB.deleteCharAt(tripleSB.length() - 1).toString(); // delete the last redundant '='
+			triples.add(tripleStr);
+		}
+		return triples;
+	}
+
 	// returns the longest name of an entity argument
 	public static String getLongest(List<AceEntityName> names) {
 		AceEntityName longest = names.get(0);

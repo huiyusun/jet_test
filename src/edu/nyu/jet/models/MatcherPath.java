@@ -94,6 +94,20 @@ public class MatcherPath {
 		return nodes.size();
 	}
 
+	/**
+	 * get the path of the pattern without the arguments
+	 */
+	public String getPath() {
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < nodes.size() - 1; i++) {
+			sb.append(nodes.get(i).label).append(":");
+			sb.append(nodes.get(i).token).append(":");
+		}
+		sb.append(nodes.get(nodes.size() - 1).label);
+
+		return sb.toString();
+	}
+
 	@Override
 	public String toString() {
 		if (nodes.size() == 0) {
@@ -107,6 +121,24 @@ public class MatcherPath {
 		}
 		sb.append(nodes.get(nodes.size() - 1).label);
 		sb.append("--").append(arg2Type);
+		return sb.toString();
+	}
+
+	/**
+	 * returns the pattern including both types and subtypes
+	 */
+	public String toStringSubtypes() {
+		if (nodes.size() == 0) {
+			return arg1Type + ":" + arg1Subtype + "-- --" + arg2Type + ":" + arg2Subtype;
+		}
+		StringBuilder sb = new StringBuilder();
+		sb.append(arg1Type + ":" + arg1Subtype).append("--");
+		for (int i = 0; i < nodes.size() - 1; i++) {
+			sb.append(nodes.get(i).label).append(":");
+			sb.append(nodes.get(i).token).append(":");
+		}
+		sb.append(nodes.get(nodes.size() - 1).label);
+		sb.append("--").append(arg2Type + ":" + arg2Subtype);
 		return sb.toString();
 	}
 }

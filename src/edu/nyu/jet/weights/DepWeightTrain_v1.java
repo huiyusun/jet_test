@@ -20,7 +20,7 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class DepWeightTrain {
+public class DepWeightTrain_v1 {
 	private static List<MatcherPath> posTable;
 	private static List<MatcherPath> negTable;
 
@@ -259,9 +259,9 @@ public class DepWeightTrain {
 		for (String dep : sorted1.keySet()) {
 			writer.write(dep + " = " + weight + " = " + sorted1.get(dep) + "\n");
 		}
-		// for (String dep : sorted2.keySet()) {
-		// writer.write(dep + " = " + 2.0 + " = " + sorted2.get(dep) + "\n");
-		// }
+		for (String dep : sorted2.keySet()) {
+			writer.write(dep + " = " + 2.0 + " = " + sorted2.get(dep) + "\n");
+		}
 
 		writer.close();
 	}
@@ -307,17 +307,14 @@ public class DepWeightTrain {
 		// pick one: (pos, pos, neg), (neg, neg, pos), (pos, neg, null)
 		train(dir + "weights_" + v + "_posTable", posTable, posTable, negTable);
 		train(dir + "weights_" + v + "_negTable", negTable, negTable, posTable);
-		// train(dir + "weights_" + v + "_mixTable", posTable, negTable, null);
+		train(dir + "weights_" + v + "_mixTable", posTable, negTable, null);
 
 		// combine weights trained and resolve conflicting scores
 		CombineDepWeights.Combine(dir + "weights_" + v + "_posTable", dir + "weights_" + v + "_negTable",
-				dir + "weights_" + v + "_combined");
-		// CombineDepWeights.Combine(dir + "weights_" + v + "_posTable", dir + "weights_" + v + "_negTable",
-		// dir + "weights_" + v + "_mixTable", dir + "weights_" + v + "_combined");
+				dir + "weights_" + v + "_mixTable", dir + "weights_" + v + "_combined");
 
 		// assign weights based on frequency
-		// AssignWeightByFrequency.AssignWeights(dir + "weights_" + v + "_combined", dir + "weights_" + v +
-		// "_combined_freq");
+		// AssignWeightByFrequency.AssignWeights(dir + "weights_" + v + "_combined", dir + "weights_" + v + "_combined_freq");
 	}
 
 }

@@ -24,15 +24,21 @@ public class AssignWeightByFrequency {
 			output = new BufferedWriter(new FileWriter(newWeightFile));
 			Set<String> combined = new TreeSet(Files.readAllLines(new File(combinedFile).toPath(), StandardCharsets.UTF_8));
 			Map<String, Double> weights = new TreeMap<String, Double>();
+			int count = 0;
 
 			// assing new weights based on the frequency of occurence
 			for (String line : combined) {
 				String deps = line.split("=")[0].trim();
 				String weight = line.split("=")[1].trim();
 				int freq = Integer.parseInt(line.split("=")[2].trim());
-				double newWeight = 1.0;
+				double newWeight = Double.parseDouble(weight);
+				if (freq == 1) { // limit number of deps with frequency 1
+					count++;
+					if (count >= 30)
+						continue;
+				}
 
-				// v1
+				// v1: 0.0-0.9, 1.1-2.0 & 1.1-2.0, 0.0-0.9
 				if (weight.equals("0.0")) {
 					if (freq <= 10) {
 						newWeight = (freq - 1) / 10.0;
@@ -51,7 +57,7 @@ public class AssignWeightByFrequency {
 					}
 				}
 
-				// v2
+				// v2: -1, 0, 0.5 & 3, 2, 1.5
 				// if (weight.equals("0.0")) {
 				// if (freq <= 5) {
 				// newWeight = -1.0;
@@ -67,6 +73,21 @@ public class AssignWeightByFrequency {
 				// newWeight = 2.0;
 				// } else {
 				// newWeight = 1.5;
+				// }
+				// }
+
+				// v3: modified on v1
+				// if (weight.equals("0.0")) {
+				// if (freq < 20) {
+				// newWeight = freq / 20.0; // between 0.0 and 1.0
+				// } else {
+				// newWeight = 2.0;
+				// }
+				// } else if (weight.equals("2.0")) {
+				// if (freq < 20) {
+				// newWeight = 2 - freq / 20.0; // between 1.0 and 2.0
+				// } else {
+				// newWeight = 0.0;
 				// }
 				// }
 

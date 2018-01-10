@@ -1,0 +1,12 @@
+PERSON:Individual--prep:of:pobj--GPE:Nation = ORG-AFF
+PERSON:Individual--poss-1--GPE:State-or-Province = ORG-AFF
+PERSON:Individual--nn-1--GPE:Nation = ORG-AFF
+GPE:State-or-Province--poss-1--PERSON:Individual = ORG-AFF-1
+PERSON:Individual--nn-1--ORGANIZATION:Non-Governmental = ORG-AFF
+PERSON:Individual--appos:leader:amod--ORGANIZATION:Religious = ORG-AFF
+PERSON:Individual--nsubj-1:be:advmod--ORGANIZATION:Non-Governmental = ORG-AFF
+PERSON:Individual--nsubj-1:be:cop--ORGANIZATION:Commercial = ORG-AFF
+PERSON:Individual--appos:director:prep:of:pobj--ORGANIZATION:Medical-Science = ORG-AFF
+PERSON:Individual--nsubj-1:have:prep:with:pobj--ORGANIZATION:Non-Governmental = ORG-AFF
+PERSON:Individual--appos:leader:prep:of:pobj--ORGANIZATION:Religious = ORG-AFF
+ORGANIZATION:Commercial--postloc--PERSON:Individual = ORG-AFF-1

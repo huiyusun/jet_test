@@ -1,0 +1,29 @@
+ORG-AFF | All docs (599)
+Exact match baseline: P:0.7399 R:0.7186 F:0.7290867
+Tested on all argument pairs (PER-ORG, PER-GPE, ORG-ORG, etc.)
+
+Subtypes:
+[TUNING]  = P:0.7448 R:0.8079 F:0.7750
+[BEST]  = F:0.7750363
+
+Subtypes (used pos <= neg instead of <):
+[TUNING]  = P:0.6898 R:0.8109 F:0.7455
+[BEST]  = F:0.7454799
+
+Subtypes of four main argument pairs (PER-ORG, PER-GPE and their inverses):
+[TUNING]  = P:0.7454 R:0.7973 F:0.7705
+[BEST]  = F:0.7704678
+
+----------------------------------------------------------------------
+Tested on each argument pairs:
+Baseline (PER-ORG, including its inverse ORG-PER): P:0.8325 R:0.5113 F:0.6336
+Baseline (PER-GPE, including its inverse GPE-PER): P:0.5823 R:0.2088 F:0.3073
+
+PER-ORG (including its inverse ORG-PER):
+[TUNING]  = P:0.8439 R:0.5643 F:0.6763
+[BEST]  = F:0.6763373
+
+PER-GPE (including its inverse GPE-PER):
+[TUNING]  = P:0.5858 R:0.2375 F:0.3380
+[BEST]  = F:0.33799785
+

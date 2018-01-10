@@ -1,0 +1,12 @@
+PERSON of GPE:
+PERSON:Individual--prep:of:pobj--GPE:State-or-Province = ORG-AFF : YES
+PERSON:Individual--prep:of:pobj--GPE:Nation = ORG-AFF : NO
+Reasoning: senator Sanders of NY is an ORG-AFF relation, but Sanders of US is an GEN-AFF relation.
+
+Person's GPE:
+PERSON:Individual--poss-1--GPE:Nation = ORG-AFF : YES
+PERSON:Individual--poss-1--GPE:State-or-Province = ORG-AFF : NO
+Reasoning: Bush's america is an ORG-AFF relation, but Bush's Iowa is most likely GEN-AFF.
+
+PERSON:Individual--nn-1--GPE:Population-Center = ORG-AFF : YES
+PERSON:Individual--nn-1--GPE:Nation = ORG-AFF : NO

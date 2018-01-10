@@ -48,7 +48,7 @@ Reselecting neg set:
 [BEST] itr:1 patterns:479 = F:0.52137643
 
 ------------------------------------------------------------------------
-ORG-PER argument pair for ORG-AFF
+ORG-PER argument pair
 Baseline: P:0.8035 R:0.2784 F:0.4135
 
 Seeds:
@@ -62,7 +62,7 @@ Combined:
 [BEST] patterns:338 = F:0.43581444
 
 ------------------------------------------------------------------------
-PER-GPE argument pair for ORG-AFF
+PER-GPE argument pair
 Baseline: P:0.5333 R:0.0121 F:0.0237
 
 [TUNING] itr:1 = P:0.2074 R:0.0590 F:0.0919
@@ -73,7 +73,7 @@ Baseline: P:0.5333 R:0.0121 F:0.0237
 [TUNING] itr:1 = P:0.4167 R:0.0076 F:0.0149
 
 ------------------------------------------------------------------------
-GPE-PER argument pair for ORG-AFF
+GPE-PER argument pair
 Baseline: P:0.5903 R:0.2027 F:0.3018
 
 [TUNING] itr:1 patterns:196 = P:0.5466 R:0.2042 F:0.2974
@@ -89,7 +89,7 @@ Baseline: P:0.5903 R:0.2027 F:0.3018
 [BEST] itr:1 patterns:255 = F:0.2997763
 
 ------------------------------------------------------------------------
-All argument pair for ORG-AFF
+All argument pair
 Baseline: F:0.7290867
 
 PER-ORG:

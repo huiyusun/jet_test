@@ -1,0 +1,10 @@
+GPE:State-or-Province--nn-1--ORGANIZATION:Government = ORG-AFF
+ORGANIZATION:Entertainment--prep:of:pobj--ORGANIZATION:Entertainment = ORG-AFF
+ORGANIZATION:Non-Governmental--amod-1--GPE:State-or-Province = ORG-AFF
+ORGANIZATION:Non-Governmental--prep:with:pobj--PERSON:Individual = ORG-AFF
+ORGANIZATION:Sports--nsubj-1:owe:dobj--PERSON:Individual = ORG-AFF
+PERSON:Group--amod-1--GPE:Nation = ORG-AFF
+PERSON:Individual--appos--GPE:Nation = ORG-AFF
+PERSON:Individual--nn-1--GPE:Population-Center = ORG-AFF
+PERSON:Individual--poss-1--GPE:Nation = ORG-AFF
+PERSON:Individual--prep:of:pobj--GPE:State-or-Province = ORG-AFF

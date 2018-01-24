@@ -1,0 +1,11 @@
+Neg patterns that improved the score (use as pos):
+ORGANIZATION--prep:with:pobj--PERSON = ORG-AFF-1
+PERSON--nsubj-1:run:dobj--GPE = ORG-AFF
+PERSON--nsubj-1:take:dobj--GPE = ORG-AFF
+PERSON--prep:of:pobj--GPE = ORG-AFF
+PERSON:Group--amod-1--GPE:Nation = ORG-AFF
+PERSON:Individual--appos--GPE:Nation = ORG-AFF
+PERSON:Individual--nn-1--GPE:Population-Center = ORG-AFF
+PERSON:Individual--poss-1--GPE:Nation = ORG-AFF
+PERSON:Individual--prep:of:pobj--GPE:Nation = ORG-AFF
+PERSON:Individual--prep:of:pobj--GPE:State-or-Province = ORG-AFF

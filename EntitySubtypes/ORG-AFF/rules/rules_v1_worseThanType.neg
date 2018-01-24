@@ -1,0 +1,7 @@
+ORGANIZATION:Media--prep:with:pobj--PERSON:Group = ORG-AFF-1
+PERSON:Group--amod-1--GPE:Population-Center = ORG-AFF
+PERSON:Group--nsubj-1:take:dobj--GPE:Population-Center = ORG-AFF
+PERSON:Group--prep:of:pobj--GPE:Nation = ORG-AFF
+PERSON:Individual--appos--GPE:State-or-Province = ORG-AFF
+PERSON:Individual--nsubj-1:run:dobj--GPE:Nation = ORG-AFF
+PERSON:Individual--prep:of:pobj--GPE:Population-Center = ORG-AFF

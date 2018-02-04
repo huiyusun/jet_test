@@ -1,1 +1,11 @@
-PERSON:Individual--prep:of:pobj--GPE:Nation = ORG-AFF
+PERSON:Individual--appos--GPE:State-or-Province = ORG-AFF
+PERSON:Group--amod-1--GPE:Population-Center = ORG-AFF
+PERSON--nn-1--GPE = ORG-AFF
+PERSON--poss-1--GPE = ORG-AFF
+GPE--nn-1--ORGANIZATION = ORG-AFF-1
+ORGANIZATION--amod-1--GPE = ORG-AFF-1
+PERSON:Individual--prep:of:pobj--GPE:Population-Center = ORG-AFF
+PERSON:Group--prep:of:pobj--GPE:Nation = ORG-AFF
+ORGANIZATION:Media--prep:with:pobj--PERSON:Group = ORG-AFF-1
+ORGANIZATION--nsubj-1:owe:dobj--PERSON = ORG-AFF-1
+ORGANIZATION--prep:of:pobj--ORGANIZATION = ORG-AFF

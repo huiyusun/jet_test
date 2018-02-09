@@ -20,6 +20,113 @@ import java.util.TreeSet;
 
 public class CombineDepWeights {
 
+	/**
+	 * Combine positive, negative and mix dependency weights into one
+	 * 
+	 * @param isProbability
+	 *          uses probability if true
+	 */
+	public static void Combine(String posFile, String negFile, String mixFile, String combinedFile,
+			boolean isProbability) {
+		if (!isProbability)
+			return;
+
+		BufferedWriter output = null;
+
+		try {
+			output = new BufferedWriter(new FileWriter(combinedFile));
+			Set<String> setPos = new TreeSet(Files.readAllLines(new File(posFile).toPath(), StandardCharsets.UTF_8));
+			Set<String> setNeg = new TreeSet(Files.readAllLines(new File(negFile).toPath(), StandardCharsets.UTF_8));
+			Set<String> setMix = new TreeSet(Files.readAllLines(new File(mixFile).toPath(), StandardCharsets.UTF_8));
+			HashMap<String, Map<String, Integer>> combined = new HashMap<String, Map<String, Integer>>();
+
+			// combine the three tables one by one
+			for (String line : setPos) {
+				String deps = line.split("=")[0].trim();
+				String dep1 = deps.split("--")[0].trim();
+				String dep2 = deps.split("--")[1].trim();
+				String weight = line.split("=")[1].trim();
+				int count = Integer.parseInt(line.split("=")[2].trim());
+
+				Map<String, Integer> values = new HashMap<String, Integer>();
+				if (combined.containsKey(dep1 + " -- " + dep2)) {
+					values = combined.get(dep1 + " -- " + dep2);
+					if (values.containsKey(weight))
+						values.put(weight, count + values.get(weight));
+					else
+						values.put(weight, count);
+				} else {
+					values.put(weight, count);
+				}
+
+				combined.put(dep1 + " -- " + dep2, values);
+			}
+
+			for (String line : setNeg) {
+				String deps = line.split("=")[0].trim();
+				String dep1 = deps.split("--")[0].trim();
+				String dep2 = deps.split("--")[1].trim();
+				String weight = line.split("=")[1].trim();
+				int count = Integer.parseInt(line.split("=")[2].trim());
+
+				Map<String, Integer> values = new HashMap<String, Integer>();
+				if (combined.containsKey(dep1 + " -- " + dep2)) {
+					values = combined.get(dep1 + " -- " + dep2);
+					if (values.containsKey(weight))
+						values.put(weight, count + values.get(weight));
+					else
+						values.put(weight, count);
+				} else {
+					values.put(weight, count);
+				}
+
+				combined.put(dep1 + " -- " + dep2, values);
+			}
+
+			for (String line : setMix) {
+				String deps = line.split("=")[0].trim();
+				String dep1 = deps.split("--")[0].trim();
+				String dep2 = deps.split("--")[1].trim();
+				String weight = line.split("=")[1].trim();
+				int count = Integer.parseInt(line.split("=")[2].trim());
+
+				Map<String, Integer> values = new HashMap<String, Integer>();
+				if (combined.containsKey(dep1 + " -- " + dep2)) {
+					values = combined.get(dep1 + " -- " + dep2);
+					if (values.containsKey(weight))
+						values.put(weight, count + values.get(weight));
+					else
+						values.put(weight, count);
+				} else {
+					values.put(weight, count);
+				}
+
+				combined.put(dep1 + " -- " + dep2, values);
+			}
+
+			// output scores
+			for (String line : combined.keySet()) {
+				Map<String, Integer> values = new HashMap<String, Integer>(combined.get(line));
+				int posCount = 0;
+				int negCount = 0;
+
+				if (values.containsKey("0.0")) {
+					posCount = values.get("0.0");
+				}
+				if (values.containsKey("2.0")) {
+					negCount = values.get("2.0");
+				}
+
+				output.write(line + " = " + posCount + " " + negCount + "\n");
+			}
+
+			output.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	// combine pos, neg and mix
 	public static void Combine(String posFile, String negFile, String mixFile, String combinedFile) {
 		BufferedWriter output = null;
 
@@ -95,6 +202,7 @@ public class CombineDepWeights {
 		}
 	}
 
+	// combine pos and neg
 	public static void Combine(String posFile, String negFile, String combinedFile) {
 		BufferedWriter output = null;
 

@@ -66,7 +66,7 @@ public class PathMatcher {
 	 * @param freqLimit
 	 *          max frequency cutoff point
 	 * @param exactFreq
-	 *          whether to use exact frequency or frequency cutoff
+	 *          uses exact frequency if true, otherwise uses cutoff frequency
 	 * @return the number of weights loaded
 	 */
 	public static int loadDepWeights(String file, int limit, int freqLimit, boolean exactFreq) throws IOException {
@@ -190,6 +190,9 @@ public class PathMatcher {
 		return dep;
 	}
 
+	/**
+	 * Load all dependency weights
+	 */
 	public static void loadDepWeights(String file) throws IOException {
 		loadDepWeights(file, 100000, 10000, false);
 	}
@@ -241,11 +244,15 @@ public class PathMatcher {
 
 	// argument entity subtype matching
 	private double matchSubtypes(String type1, String subtype1, String type2, String subtype2) {
+		if (type1.equals("UNK") || subtype1.equals("UNK")) // test LDP must have both type and subtype information
+			return 99;
+
+		// match type or subtype against pos or neg rule set
 		if (!subtype2.equals("UNK")) { // rule requires subtype match
 			if (subtype1.equals(subtype2))
 				return -1;
 			else if (typeSubtype.get(type1).contains(subtype2))
-				return 1;
+				return 2;
 			else
 				return 99;
 		} else { // rule requires type match
@@ -324,7 +331,7 @@ public class PathMatcher {
 		// int len1 = matcherPath1.nodes.size();
 		// int len2 = matcherPath2.nodes.size();
 		//
-		// if (len1 == 1 || len2 == 1)
+		// if (len1 <= 1 || len2 <= 1)
 		// return 999;
 		// if (len1 != len2)
 		// return 999;

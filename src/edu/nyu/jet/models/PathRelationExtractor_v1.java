@@ -6,7 +6,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -22,7 +21,7 @@ import javax.management.relation.RelationType;
  *
  * @author yhe
  */
-public class PathRelationExtractor {
+public class PathRelationExtractor_v1 {
 
 	public void setNegDiscount(double nDiscount) {
 		negDiscount = nDiscount;
@@ -79,10 +78,12 @@ public class PathRelationExtractor {
 					break;
 				String[] parts = line.split("=");
 				MatcherPath path = new MatcherPath(parts[0].trim());
-				path.addRelationType(parts[1].trim());
-				if (ruleTable.contains(path))
-					continue;
-				ruleTable.add(path);
+				if (ruleTable.contains(path)) {
+					ruleTable.get(ruleTable.indexOf(path)).addRelationType(parts[1].trim());
+				} else {
+					path.addRelationType(parts[1].trim());
+					ruleTable.add(path);
+				}
 				count++;
 			}
 
@@ -132,19 +133,23 @@ public class PathRelationExtractor {
 				if (count < limit && isCumu) { // load all patterns up to limit
 					String[] parts = line.split("=");
 					MatcherPath path = new MatcherPath(parts[0].trim());
-					path.addRelationType(parts[1].trim());
-					if (ruleTable.contains(path))
-						continue;
-					ruleTable.add(path);
+					if (ruleTable.contains(path)) {
+						ruleTable.get(ruleTable.indexOf(path)).addRelationType(parts[1].trim());
+					} else {
+						path.addRelationType(parts[1].trim());
+						ruleTable.add(path);
+					}
 				}
 
 				if (count == limit) {
 					String[] parts = line.split("=");
 					MatcherPath path = new MatcherPath(parts[0].trim());
-					path.addRelationType(parts[1].trim());
-					if (ruleTable.contains(path))
-						continue;
-					ruleTable.add(path);
+					if (ruleTable.contains(path)) {
+						ruleTable.get(ruleTable.indexOf(path)).addRelationType(parts[1].trim());
+					} else {
+						path.addRelationType(parts[1].trim());
+						ruleTable.add(path);
+					}
 					br.close();
 
 					if (!isCumu)
@@ -153,10 +158,11 @@ public class PathRelationExtractor {
 						System.out.println("loaded " + (count + 1) + " positive patterns" + " (individual)");
 
 					int size = ruleTable.size() - 1;
+					int size1 = ruleTable.get(size).relationType.size() - 1;
 					if (!ruleTable.get(size).arg1Subtype.equals("UNK") && !ruleTable.get(size).arg2Subtype.equals("UNK"))
-						return ruleTable.get(size).toStringSubtypes() + " = " + ruleTable.get(size).relationType.trim();
+						return ruleTable.get(size).toStringSubtypes() + " = " + ruleTable.get(size).relationType.get(size1).trim();
 					else
-						return ruleTable.get(size).toString() + " = " + ruleTable.get(size).relationType.trim();
+						return ruleTable.get(size).toString() + " = " + ruleTable.get(size).relationType.get(size1).trim();
 				}
 
 				count++;
@@ -189,10 +195,12 @@ public class PathRelationExtractor {
 					break;
 				String[] parts = line.split("=");
 				MatcherPath path = new MatcherPath(parts[0].trim());
-				path.addRelationType(parts[1].trim());
-				if (negTable.contains(path))
-					continue;
-				negTable.add(path);
+				if (negTable.contains(path)) {
+					negTable.get(negTable.indexOf(path)).addRelationType(parts[1].trim());
+				} else {
+					path.addRelationType(parts[1].trim());
+					negTable.add(path);
+				}
 				count++;
 			}
 
@@ -238,17 +246,17 @@ public class PathRelationExtractor {
 				if (count == limit) {
 					String[] parts = line.split("=");
 					MatcherPath path = new MatcherPath(parts[0].trim());
-					path.addRelationType(parts[1].trim());
-					if (negTable.contains(path))
-						continue;
+					if (!path.isEmpty()) {
+						path.addRelationType(parts[1].trim());
+					}
 					negTable.add(path);
 
 					br.close();
 					System.out.println("loaded the negative pattern at line " + (count + 1) + " (individual)");
 					if (!negTable.get(0).arg1Subtype.equals("UNK") && !negTable.get(0).arg2Subtype.equals("UNK"))
-						return negTable.get(0).toStringSubtypes() + " = " + negTable.get(0).relationType.trim();
+						return negTable.get(0).toStringSubtypes() + " = " + negTable.get(0).relationType.get(0).trim();
 					else
-						return negTable.get(0).toString() + " = " + negTable.get(0).relationType.trim();
+						return negTable.get(0).toString() + " = " + negTable.get(0).relationType.get(0).trim();
 				}
 				count++;
 			}
@@ -326,20 +334,21 @@ public class PathRelationExtractor {
 	 *          An OpenNLP context[]:label pair
 	 * @return
 	 */
-	public HashSet<String> predict(Event e, HashSet<String> exactTypes) {
+	public List<String> predict(Event e) {
 		String[] context = e.getContext();
 		String depPath = context[0];
 		String arg1Type = context[1];
 		String arg2Type = context[2];
 		String fullDepPath = arg1Type + "--" + depPath + "--" + arg2Type;
 		MatcherPath matcherPath = new MatcherPath(fullDepPath);
-		HashSet<String> relationTypes = new HashSet<String>();
-		HashSet<String> usedTypes = new HashSet<String>();
+		List<String> relationType = new ArrayList<String>();
+		double knnScore = 0;
+		double knnNegScore = 0;
+		boolean enoughPosPatterns = false;
+		boolean enoughNegPatterns = false;
 
-		HashMap<String, List<Double>> posMaps = new HashMap<String, List<Double>>();
-		HashMap<String, List<Double>> negMaps = new HashMap<String, List<Double>>();
-		HashMap<String, Double> posMap = new HashMap<String, Double>();
-		HashMap<String, Double> negMap = new HashMap<String, Double>();
+		Map<Double, MatcherPath> posMap = new TreeMap<Double, MatcherPath>();
+		Map<Double, MatcherPath> negMap = new TreeMap<Double, MatcherPath>();
 
 		// compare candidate with positive paths
 		for (MatcherPath rule : ruleTable) {
@@ -347,12 +356,28 @@ public class PathRelationExtractor {
 			// System.out.println("candidate pattern: " + matcherPath);
 			double score = pathMatcher.matchPaths(matcherPath, rule); // normalized by the length of the path
 			// System.out.println("pos score: " + score);
-			if (score < kThreshold) { // threshold for the k nearest neighbors
-				if (!posMaps.containsKey(rule.relationType))
-					posMaps.put(rule.relationType, new ArrayList<Double>());
-				posMaps.get(rule.relationType).add(score);
+			if (score <= kThreshold) { // threshold for the k nearest neighbors
+				posMap.put(score, rule);
 			}
 		}
+
+		if (posMap.size() == 0)
+			return null;
+
+		int posCount = 0;
+		for (Double score : posMap.keySet()) {
+			knnScore += score;
+			posCount++;
+			relationType = posMap.get(score).getRelationType(); // get relation type
+			if (posCount >= k) {
+				knnScore = knnScore / k; // calculate average of the k smallest scores
+				enoughPosPatterns = true;
+				break;
+			}
+		}
+
+		if (!enoughPosPatterns)
+			knnScore = knnScore / posCount;
 
 		// compare candidate with negative paths
 		for (MatcherPath rule : negTable) {
@@ -360,102 +385,60 @@ public class PathRelationExtractor {
 			// System.out.println("candidate pattern: " + matcherPath);
 			double score = pathMatcher.matchPaths(matcherPath, rule);
 			// System.out.println("neg score: " + score);
-			if (score < kThreshold) { // threshold for the k nearest neighbors
-				if (!negMaps.containsKey(rule.relationType))
-					negMaps.put(rule.relationType, new ArrayList<Double>());
-				negMaps.get(rule.relationType).add(score);
+			if (score <= kThreshold)
+				negMap.put(score, rule);
+		}
+
+		int negCount = 0;
+		for (Double score : negMap.keySet()) {
+			knnNegScore += score;
+			negCount++;
+			if (negCount >= k) {
+				knnNegScore = knnNegScore / k; // calculate average of the k smallest scores
+				enoughNegPatterns = true;
+				break;
 			}
 		}
 
-		// get k smallest scores for pos
-		for (String type : posMaps.keySet()) {
-			List<Double> scores = posMaps.get(type);
-			Collections.sort(scores);
-			double total = 0.0;
-			int count = 0;
-			for (Double score : scores) {
-				total += score;
-				count++;
-				if (count >= k)
-					break;
-			}
-			posMap.put(type, (double) total / count); // put score
-		}
+		if (!enoughNegPatterns)
+			knnNegScore = knnNegScore / negCount;
 
-		// get k smallest scores for neg
-		for (String type : negMaps.keySet()) {
-			List<Double> scores = negMaps.get(type);
-			Collections.sort(scores);
-			double total = 0.0;
-			int count = 0;
-			for (Double score : scores) {
-				total += score;
-				count++;
-				if (count >= k)
-					break;
-			}
-			negMap.put(type, (double) total / count); // put score
-		}
+		if (negMap.size() == 0)
+			knnNegScore = kThreshold;
 
-		// compare pos and neg scores
-		for (String type : posMap.keySet()) {
-			if (negMap.containsKey(type)) {
-				usedTypes.add(type);
-				exactTypes.remove(type);
-				if (posMap.get(type) < negMap.get(type) * negDiscount) {
-					System.err.println("[ACCEPT] Pos Score:" + posMap.get(type));
-					System.err.println("[ACCEPT] Neg Score:" + negMap.get(type) * negDiscount);
-					System.err.println("[ACCEPT] Current:" + matcherPath.toStringSubtypes());
-					System.err.println("[ACCEPT] Predicted:" + type);
-					relationTypes.add(type);
-				} else {
-					System.err.println("[REJECT] Pos Score:" + posMap.get(type));
-					System.err.println("[REJECT] Neg Score:" + negMap.get(type) * negDiscount);
-					System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
-					System.err.println("[REJECT] Predicted:" + type);
-				}
-			}
-		}
+		// get pos and neg rule
+		MatcherPath posRule = posMap.get(posMap.keySet().iterator().next());
+		String posRuleStr = null;
+		if (!posRule.arg1Subtype.equals("UNK") || !posRule.arg2Subtype.equals("UNK"))
+			posRuleStr = posRule.toStringSubtypes();
+		else
+			posRuleStr = posRule.toString();
 
-		posMap.keySet().removeAll(usedTypes);
-		negMap.keySet().removeAll(usedTypes);
-		if (posMap.size() > 0) {
-			for (String type : posMap.keySet()) {
-				if (posMap.get(type) < kThreshold * negDiscount) {
-					System.err.println("[ACCEPT] Pos Score:" + posMap.get(type));
-					System.err.println("[ACCEPT] Neg Score:N/A");
-					System.err.println("[ACCEPT] Current:" + matcherPath.toStringSubtypes());
-					System.err.println("[ACCEPT] Predicted:" + type);
-					relationTypes.add(type);
-					exactTypes.remove(type);
-				} else {
-					System.err.println("[REJECT] Pos Score:" + posMap.get(type));
-					System.err.println("[REJECT] Neg Score:N/A");
-					System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
-					System.err.println("[REJECT] Predicted:" + type);
-					exactTypes.remove(type);
-				}
-			}
-		}
+		String negRuleStr = null;
 		if (negMap.size() > 0) {
-			for (String type : negMap.keySet()) {
-				System.err.println("[REJECT] Pos Score:N/A");
-				System.err.println("[REJECT] Neg Score:" + negMap.get(type) * negDiscount);
-				System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
-				System.err.println("[REJECT] Predicted:" + type);
-				relationTypes.add("REJECT:" + type);
-				exactTypes.remove(type);
-			}
+			MatcherPath negRule = negMap.get(negMap.keySet().iterator().next());
+			if (!negRule.arg1Subtype.equals("UNK") || !negRule.arg2Subtype.equals("UNK"))
+				negRuleStr = negRule.toStringSubtypes();
+			else
+				negRuleStr = negRule.toString();
 		}
 
-		if (exactTypes.size() > 0) {
-			for (String type : exactTypes) {
-				System.err.println("[ACCEPT:EXACT] Current:" + matcherPath.toStringSubtypes());
-				System.err.println("[ACCEPT:EXACT] Predicted:" + type);
-				relationTypes.add(type);
-			}
-		}
+		if (knnScore <= knnNegScore * negDiscount) {
+			System.err.println("[ACCEPT] Pos Score:" + knnScore);
+			System.err.println("[ACCEPT] Neg Score:" + knnNegScore * negDiscount);
+			System.err.println("[ACCEPT] Current:" + matcherPath.toStringSubtypes());
+			System.err.println("[ACCEPT] Closest Pos Rule:" + posRuleStr);
+			System.err.println("[ACCEPT] Predicted:" + relationType.toString());
 
-		return relationTypes;
+			return relationType;
+		}
+		if (knnScore > knnNegScore * negDiscount) {
+			System.err.println("[REJECT] Pos Score:" + knnScore);
+			System.err.println("[REJECT] Neg Score:" + knnNegScore * negDiscount);
+			System.err.println("[REJECT] Current:" + matcherPath.toStringSubtypes());
+			System.err.println("[REJECT] Closest Neg Rule:" + negRuleStr);
+			System.err.println("[REJECT] Predicted:" + relationType.toString());
+		}
+		return null;
 	}
 }

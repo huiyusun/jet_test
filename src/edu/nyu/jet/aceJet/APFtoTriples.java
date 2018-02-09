@@ -74,7 +74,7 @@ public class APFtoTriples {
 	 * @return a list of relation triples
 	 */
 
-	// makeTriplesPerfect: write triple separated by '=' if an argument has multiple names. This is later resolved by
+	// makeTriplesMain: write triple separated by '=' if an argument has multiple names. This is later resolved by
 	// the Scorer: ScoreAceTriples.java
 	public static List<String> makeTriples(Document doc, AceDocument aceDoc) {
 		List<String> triples = new ArrayList<String>();
@@ -115,7 +115,7 @@ public class APFtoTriples {
 
 	// makeTriplesPatternCount: write triple separated by '=' if an argument has multiple names. This is later resolved by
 	// the Scorer: ScoreAceTriples.java
-	public static List<String> makeTriples1(Document doc, AceDocument aceDoc) {
+	public static List<String> makeTriplesPatternsCount(Document doc, AceDocument aceDoc) {
 		List<String> triples = new ArrayList<String>();
 		for (AceRelation r : aceDoc.relations) {
 			List<AceEntityName> arg1Names = ((AceEntity) r.arg1).names;
@@ -130,8 +130,10 @@ public class APFtoTriples {
 			StringBuilder tripleSB = new StringBuilder();
 			Set<String> argNamesSet = new TreeSet<String>();
 
-			String pattern = r.patterns.get(0);
-			tripleSB.append(pattern + " | ");
+			// String pattern = r.patterns.get(0); // type pattern
+			String subtypePattern = r.subtypePatterns.get(0);// subtype pattern
+
+			tripleSB.append(subtypePattern + " | ");
 
 			// form triples over all combination of names between arg1 and arg2
 			for (AceEntityName n1 : arg1Names) {

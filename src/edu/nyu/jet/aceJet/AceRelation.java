@@ -51,6 +51,10 @@ public class AceRelation {
 	 */
 	public ArrayList<String> patterns = new ArrayList<String>();
 	/**
+	 * a list of the subtype patterns of this relation (each of type String)
+	 */
+	public ArrayList<String> subtypePatterns = new ArrayList<String>();
+	/**
 	 * a list of the outcomes (types) of this relation (each of type String)
 	 */
 	public ArrayList<String> outcomes = new ArrayList<String>();
@@ -144,6 +148,10 @@ public class AceRelation {
 
 	public void addPattern(String pattern) {
 		patterns.add(pattern);
+	}
+
+	public void addSubtypePattern(String sPattern) {
+		subtypePatterns.add(sPattern);
 	}
 
 	public void addOutcome(String outcome) {

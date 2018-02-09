@@ -13,11 +13,11 @@ public class GetPatternsIncorrect {
 		String inputLine;
 
 		try {
-			input = new BufferedReader(
-					new FileReader("/Users/nuist/documents/NlpResearch/ice-eval/patternsIncorrectCount_ORG-AFF_perfect_v1"));
+			input = new BufferedReader(new FileReader(
+					"/Users/nuist/documents/NlpResearch/ice-eval/patternsIncorrectCount_ORG-AFF_perfect_subtypes"));
 
 			output = new BufferedWriter(
-					new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/patternsIncorrect_ORG-AFF_perfect_v1"));
+					new FileWriter("/Users/nuist/documents/NlpResearch/ice-eval/patternsIncorrect_ORG-AFF_perfect_subtypes"));
 
 			while ((inputLine = input.readLine()) != null) {
 				String pattern = inputLine.split("\\|")[0].trim();
@@ -26,9 +26,9 @@ public class GetPatternsIncorrect {
 				double incorrect = Integer.parseInt(counts.split(" ")[0].trim());
 				double correct = Integer.parseInt(counts.split(" ")[1].trim());
 
-				if (incorrect >= correct * 2) { // restrict pattern counts
-					output.write(pattern + "\n");
-				}
+				// if (incorrect >= correct) { // restrict pattern counts
+				output.write(pattern + "\n");
+				// }
 			}
 
 			input.close();

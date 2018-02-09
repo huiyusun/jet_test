@@ -19,6 +19,7 @@ public class MatcherPath {
 	String arg1Subtype = "UNK";
 	String arg2Subtype = "UNK";
 	String relationType = "NONE";
+	// List<String> relationType = new ArrayList<String>();
 	Stemmer stemmer = Stemmer.getDefaultStemmer();
 
 	public MatcherPath(String pathString) {
@@ -78,7 +79,9 @@ public class MatcherPath {
 		}
 	}
 
-	public void setRelationType(String relationType) {
+	public void addRelationType(String relationType) {
+		// List<String> relationTypes = this.getRelationType();
+		// relationTypes.add(relationType);
 		this.relationType = relationType;
 	}
 
@@ -98,6 +101,9 @@ public class MatcherPath {
 	 * get the path of the pattern without the arguments
 	 */
 	public String getPath() {
+		if (nodes.size() == 0)
+			return "UNK";
+
 		StringBuilder sb = new StringBuilder();
 		for (int i = 0; i < nodes.size() - 1; i++) {
 			sb.append(nodes.get(i).label).append(":");
@@ -132,13 +138,53 @@ public class MatcherPath {
 			return arg1Type + ":" + arg1Subtype + "-- --" + arg2Type + ":" + arg2Subtype;
 		}
 		StringBuilder sb = new StringBuilder();
-		sb.append(arg1Type + ":" + arg1Subtype).append("--");
+
+		if (arg1Subtype.equals("UNK"))
+			sb.append(arg1Type).append("--");
+		else
+			sb.append(arg1Type + ":" + arg1Subtype).append("--");
+
 		for (int i = 0; i < nodes.size() - 1; i++) {
 			sb.append(nodes.get(i).label).append(":");
 			sb.append(nodes.get(i).token).append(":");
 		}
 		sb.append(nodes.get(nodes.size() - 1).label);
-		sb.append("--").append(arg2Type + ":" + arg2Subtype);
+
+		if (arg2Subtype.equals("UNK"))
+			sb.append("--").append(arg2Type);
+		else
+			sb.append("--").append(arg2Type + ":" + arg2Subtype);
+
 		return sb.toString();
+	}
+
+	@Override
+	public boolean equals(Object o) {
+		if (this == o)
+			return true;
+		if (o == null || getClass() != o.getClass())
+			return false;
+
+		MatcherPath that = (MatcherPath) o;
+
+		if (this.toString() != null ? !this.toString().equals(that.toString()) : that.toString() != null)
+			return false;
+
+		if (this.toStringSubtypes() != null ? !this.toStringSubtypes().equals(that.toStringSubtypes())
+				: that.toStringSubtypes() != null)
+			return false;
+
+		if (this.relationType != null ? !this.relationType.equals(that.relationType) : that.relationType != null)
+			return false;
+
+		return true;
+	}
+
+	@Override
+	public int hashCode() {
+		int result = this.toString() != null ? this.toString().hashCode() : 0;
+		result = 31 * result + (this.toStringSubtypes() != null ? this.toStringSubtypes().hashCode() : 0);
+		result = 31 * result + (this.relationType != null ? this.relationType.hashCode() : 0);
+		return result;
 	}
 }

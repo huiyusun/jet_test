@@ -35,7 +35,7 @@ public class DepPathRelationTagger {
 	static int WINDOW = 5;
 
 	// model: a map from AnchoredPath strings to relation types
-	static Map<String, String> model = null;
+	static Map<String, HashSet<String>> model = null;
 
 	private static DepPathRegularizer pathRegularizer = new DepPathRegularizer();
 
@@ -83,7 +83,7 @@ public class DepPathRelationTagger {
 
 	public static int loadModel(String modelFile, int limit) throws IOException {
 		System.out.println("loading dep path relational model from file " + modelFile);
-		model = new TreeMap<String, String>();
+		model = new TreeMap<String, HashSet<String>>();
 		BufferedReader reader = new BufferedReader(new FileReader(modelFile)); // for model + posModel
 
 		String line;
@@ -111,7 +111,8 @@ public class DepPathRelationTagger {
 			if (n >= limit)
 				break;
 			if (model.get(pattern) == null)
-				model.put(pattern, outcome);
+				model.put(pattern, new HashSet<String>());
+			model.get(pattern).add(outcome);
 			n++;
 		}
 
@@ -131,7 +132,7 @@ public class DepPathRelationTagger {
 	}
 
 	public enum ArgType {
-		PERSON, ORGANIZATION, GPE, LOCATION, FACILITY, WEAPON, VEHICLE
+		PERSON, ORGANIZATION, GPE, LOCATION, FACILITY, WEA, VEH
 	}
 
 	public static boolean contains(String arg) {
@@ -180,52 +181,57 @@ public class DepPathRelationTagger {
 
 		// try exact match first
 		String pattern = m1.getType() + "--" + path + "--" + m2.getType();
-		String outcome = model.get(pattern); // look up path in model
+		String subtypePattern = arg1 + "--" + path + "--" + arg2;
+		HashSet<String> outcomes = model.get(pattern); // look up path in model
 
-		if (outcome == null) { // try closest match next
-			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
-
-			// pathRelationExtractor.setMinThreshold(0.3);
-			// pathRelationExtractor.setNegDiscount(0.8);
-			// pathRelationExtractor.setK(3);
-
-			outcome = pathRelationExtractor.predict(event);
-
-			if (outcome == null)
+		if (outcomes == null) { // try closest match next
+//			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
+//			outcomes = pathRelationExtractor.predict(event, new HashSet<String>());
+//			if (outcomes.size() == 0)
+//				return;
+//		} else if (pathRelationExtractor.rules.contains(pattern)) {
+//			// run closest match for specific patterns (type & subtypes) even if an exact match is found
+//			Event event = new Event("UNK", new String[] { pathRegularizer.regularize(path), arg1, arg2 });
+//			outcomes = pathRelationExtractor.predict(event, outcomes);
+//			if (outcomes.size() == 0)
 				return;
 		}
 
 		// if (!RelationTagger.blockingTest(m1, m2)) return;
 		// if (!RelationTagger.blockingTest(m2, m1)) return;
-		// for (String outcome : outcomes) {
-		boolean inv = outcome.endsWith("-1");
-		outcome = outcome.replace("-1", "");
-		String[] typeSubtype = outcome.split(":", 2);
-		String type = typeSubtype[0];
-		String subtype;
-		if (typeSubtype.length == 1) {
-			subtype = "";
-		} else {
-			subtype = typeSubtype[1];
-		}
+		for (String outcome : outcomes) {
+			if (outcome.contains("REJECT"))
+				continue;
+			boolean inv = outcome.endsWith("-1");
+			outcome = outcome.replace("-1", "");
+			String[] typeSubtype = outcome.split(":", 2);
+			String type = typeSubtype[0];
+			String subtype;
+			if (typeSubtype.length == 1) {
+				subtype = "";
+			} else {
+				subtype = typeSubtype[1];
+			}
 
-		if (inv) {
-			AceRelationMention mention = new AceRelationMention("", m2, m1, doc);
-			System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
-			AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
-			relation.addMention(mention);
-			relation.addPattern(pattern); // select: pattern or patternSubtype
-			relation.addOutcome(outcome + "-1");
-			RelationTagger.relationList.add(relation);
-		} else {
-			AceRelationMention mention = new AceRelationMention("", m1, m2, doc);
-			System.out.println("Found " + outcome + " relation " + mention.text); // <<<
-			AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
-			relation.addMention(mention);
-			relation.addPattern(pattern); // select: pattern or patternSubtype
-			relation.addOutcome(outcome);
-			RelationTagger.relationList.add(relation);
+			if (inv) {
+				AceRelationMention mention = new AceRelationMention("", m2, m1, doc);
+				System.out.println("Inverse Found " + outcome + " relation " + mention.text); // <<<
+				AceRelation relation = new AceRelation("", type, subtype, "", m2.getParent(), m1.getParent());
+				relation.addMention(mention);
+				relation.addPattern(pattern); // select: pattern or patternSubtype
+				relation.addSubtypePattern(subtypePattern);
+				relation.addOutcome(outcome + "-1");
+				RelationTagger.relationList.add(relation);
+			} else {
+				AceRelationMention mention = new AceRelationMention("", m1, m2, doc);
+				System.out.println("Found " + outcome + " relation " + mention.text); // <<<
+				AceRelation relation = new AceRelation("", type, subtype, "", m1.getParent(), m2.getParent());
+				relation.addMention(mention);
+				relation.addPattern(pattern); // select: pattern or patternSubtype
+				relation.addSubtypePattern(subtypePattern);
+				relation.addOutcome(outcome);
+				RelationTagger.relationList.add(relation);
+			}
 		}
 	}
-	// }
 }

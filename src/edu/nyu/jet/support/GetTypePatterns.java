@@ -1,11 +1,13 @@
 package edu.nyu.jet.support;
 
+// create all possible subtype patterns for patterns between main argument types
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.util.HashSet;
 
-public class CapitalizeRelationSubtypes {
+public class GetTypePatterns {
 
 	public static void Separate() {
 		BufferedReader input = null;
@@ -13,16 +15,14 @@ public class CapitalizeRelationSubtypes {
 		String inputLine;
 
 		try {
-			input = new BufferedReader(
-					new FileReader("/Users/nuist/documents/NlpResearch/ice-eval/aceKeyTriples_all_Subtype"));
-
+			input = new BufferedReader(new FileReader(
+					"/Users/nuist/documents/NlpResearch/ice-eval/results_subtypes_individual_art"));
 			output = new BufferedWriter(new FileWriter(
-					"/Users/nuist/documents/NlpResearch/ice-eval/aceKeyTriples_all_Subtype_caps"));
+					"/Users/nuist/documents/NlpResearch/ice-eval/results_subtypes_individual_art_changed"));
 
 			while ((inputLine = input.readLine()) != null) {
-				String[] lineArr = inputLine.split(":");
-
-				output.write(lineArr[0].trim() + ":" + lineArr[1].trim().toUpperCase() + ":" + lineArr[2].trim() + "\n");
+				if (!inputLine.contains("= SAME =")) // YES or NO indicates that the pattern affects the score
+					output.write(inputLine + "\n");
 			}
 
 			input.close();

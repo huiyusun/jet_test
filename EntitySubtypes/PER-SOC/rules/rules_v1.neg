@@ -1,0 +1,7 @@
+PERSON--poss-1--PERSON = PER-SOC
+PERSON--poss-1:talk:nn--PERSON = PER-SOC
+PERSON--poss-1:home:nn--PERSON = PER-SOC
+PERSON--prep:at:pobj--PERSON = PER-SOC
+PERSON:Group--prep:of:pobj--PERSON:Group = PER-SOC
+PERSON:Individual--prep:of:pobj--PERSON:Group = PER-SOC
+PERSON--prep:with:pobj--PERSON = PER-SOC

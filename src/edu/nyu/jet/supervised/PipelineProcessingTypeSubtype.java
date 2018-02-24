@@ -1,32 +1,25 @@
 package edu.nyu.jet.supervised;
 
-// create all possible subtype patterns for patterns between main argument types
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.sql.Types;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import java.util.TreeSet;
 
-import edu.nyu.jet.models.PathMatcher;
+import edu.nyu.jet.models.PathRelationExtractor;
 
-public class CombineTypeSubtype {
-
+// combines type and subtype LDPs produced by supervised training.
+public class PipelineProcessingTypeSubtype {
 	private static HashMap<String, String> subtypeType = new HashMap<String, String>();
 
-	public static void Separate() {
+	// combine all type and subtype LDPs into a single file
+	public static void combineTypesAndSubtypes() {
 		BufferedWriter output = null;
 		String dir = "/Users/nuist/documents/NlpResearch/Oracle-AL/SupervisedLDP/";
 		String file = dir + "patterns_supervised_train_type_v1";
@@ -92,7 +85,41 @@ public class CombineTypeSubtype {
 		br.close();
 	}
 
+	// select the subtype LDPs to be added to the type ones
+	public static void addSubtypes() {
+		BufferedReader input = null;
+		BufferedWriter output = null;
+		String inputLine;
+
+		try {
+			String dir = "/Users/nuist/documents/NlpResearch/Oracle-AL/SupervisedLDP/";
+			input = new BufferedReader(new FileReader(dir + "patterns_supervised_train_typeSubtype"));
+			output = new BufferedWriter(new FileWriter(dir + "patterns_supervised_train_typeSubtype_v1"));
+			String curType = "";
+
+			while ((inputLine = input.readLine()) != null) {
+				if (!inputLine.contains("="))
+					continue;
+				String path = inputLine.split("=")[0].trim();
+				String type = inputLine.split("=")[1].trim();
+				if (path.substring(0, 3).equals("T: ")) {
+					output.write(inputLine + "\n");
+					curType = type;
+				} else if (path.substring(0, 3).equals("S: ")) {
+					if (!type.equals(curType))
+						output.write(inputLine + "\n");
+				}
+			}
+
+			input.close();
+			output.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 	public static void main(String[] args) {
-		Separate();
+		combineTypesAndSubtypes();
+		addSubtypes();
 	}
 }

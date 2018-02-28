@@ -46,7 +46,7 @@ public class ChooseRelationType {
 				for (int i = 1; i < relations.length; i++) { // start at second element
 					String relation = relations[i].trim().split("=")[0].trim();
 					double cur = Integer.parseInt(relations[i].trim().split("=")[1].trim());
-					if (relation.contains("NONE"))
+					if (relation.contains("OTHER"))
 						cur = cur * 0.5;
 					if (!relation.contains("-1")) { // normal relation outcome
 						if (cur > score) {
@@ -74,9 +74,9 @@ public class ChooseRelationType {
 				}
 
 				if (isPersoc) {
-					if (best.contains("NONE"))
+					if (best.contains("OTHER"))
 						best = best.replace("-1", "");
-					if (bestInv.contains("NONE"))
+					if (bestInv.contains("OTHER"))
 						bestInv = bestInv.replace("-1", "");
 				}
 
@@ -91,13 +91,13 @@ public class ChooseRelationType {
 					continue;
 				}
 
-				if (!best.contains("NONE") && !bestInv.contains("NONE")) {
+				if (!best.contains("OTHER") && !bestInv.contains("OTHER")) {
 					if (scoreInv > score)
 						best = bestInv;
 					output.write(pattern + " = " + best + "\n");
-				} else if (!best.equals("NONE")) {
+				} else if (!best.equals("OTHER")) {
 					output.write(pattern + " = " + best + "\n");
-				} else if (!bestInv.equals("NONE")) {
+				} else if (!bestInv.equals("OTHER")) {
 					best = bestInv;
 					output.write(pattern + " = " + best + "\n");
 				} else {
